@@ -2,7 +2,7 @@
 
 ## Agencies
 
-- [la_Health](la_Health/index.md) - Ministry of Health
+- [la-health](la-health/index.md) - Ministry of Health
 
 ## HMS Implementation Status
 

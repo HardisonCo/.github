@@ -1,4 +1,4 @@
-# HMS-EDU for ie_Health
+# HMS-EDU for ie-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Education System
 
 ## Integration Points
 
-This document outlines how HMS-EDU is integrated with ie_Health systems in Ireland.
+This document outlines how HMS-EDU is integrated with ie-health systems in Ireland.

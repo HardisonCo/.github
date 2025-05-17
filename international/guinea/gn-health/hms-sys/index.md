@@ -1,4 +1,4 @@
-# HMS-SYS for gn_Health
+# HMS-SYS for gn-health
 
 ## Description
 
@@ -6,4 +6,4 @@ System Core
 
 ## Integration Points
 
-This document outlines how HMS-SYS is integrated with gn_Health systems in Guinea.
+This document outlines how HMS-SYS is integrated with gn-health systems in Guinea.

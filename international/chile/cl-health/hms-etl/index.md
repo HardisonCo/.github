@@ -1,4 +1,4 @@
-# HMS-ETL for cl_Health
+# HMS-ETL for cl-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Extract, Transform, Load
 
 ## Integration Points
 
-This document outlines how HMS-ETL is integrated with cl_Health systems in Chile.
+This document outlines how HMS-ETL is integrated with cl-health systems in Chile.

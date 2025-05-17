@@ -1,4 +1,4 @@
-# gy_Health - Cooperative Republic of Guyana Health Agency
+# gy-health - Cooperative Republic of Guyana Health Agency
 
 ## Ministry of Public Health
 

@@ -1,4 +1,4 @@
-# HMS-CDF for kw_Health
+# HMS-CDF for kw-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Collaborative Decision Framework
 
 ## Integration Points
 
-This document outlines how HMS-CDF is integrated with kw_Health systems in Kuwait.
+This document outlines how HMS-CDF is integrated with kw-health systems in Kuwait.

@@ -1,4 +1,4 @@
-# HMS-EMR for km_Health
+# HMS-EMR for km-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Electronic Medical Records
 
 ## Integration Points
 
-This document outlines how HMS-EMR is integrated with km_Health systems in Comoros.
+This document outlines how HMS-EMR is integrated with km-health systems in Comoros.

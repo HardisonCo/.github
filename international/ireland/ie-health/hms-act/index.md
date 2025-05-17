@@ -1,4 +1,4 @@
-# HMS-ACT for ie_Health
+# HMS-ACT for ie-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Agent Collaboration Tools
 
 ## Integration Points
 
-This document outlines how HMS-ACT is integrated with ie_Health systems in Ireland.
+This document outlines how HMS-ACT is integrated with ie-health systems in Ireland.

@@ -1,4 +1,4 @@
-# ch_Health - Switzerland Health Agency
+# ch-health - Switzerland Health Agency
 
 ## Federal Office of Public Health
 

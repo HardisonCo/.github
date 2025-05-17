@@ -1,4 +1,4 @@
-# HMS-AGX for kw_Health
+# HMS-AGX for kw-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Advanced Graph Experience
 
 ## Integration Points
 
-This document outlines how HMS-AGX is integrated with kw_Health systems in Kuwait.
+This document outlines how HMS-AGX is integrated with kw-health systems in Kuwait.

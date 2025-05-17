@@ -2,7 +2,7 @@
 
 ## Agencies
 
-- [ee_Health](ee_Health/index.md) - Estonian Health Board
+- [ee-health](ee-health/index.md) - Estonian Health Board
 
 ## HMS Implementation Status
 

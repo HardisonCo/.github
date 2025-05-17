@@ -1,4 +1,4 @@
-# HMS-AGT for bd_Health
+# HMS-AGT for bd-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Agent Tooling
 
 ## Integration Points
 
-This document outlines how HMS-AGT is integrated with bd_Health systems in Bangladesh.
+This document outlines how HMS-AGT is integrated with bd-health systems in Bangladesh.

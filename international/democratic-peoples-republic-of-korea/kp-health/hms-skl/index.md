@@ -1,4 +1,4 @@
-# HMS-SKL for kp_Health
+# HMS-SKL for kp-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Skills Management
 
 ## Integration Points
 
-This document outlines how HMS-SKL is integrated with kp_Health systems in Democratic People's Republic of Korea.
+This document outlines how HMS-SKL is integrated with kp-health systems in Democratic People's Republic of Korea.

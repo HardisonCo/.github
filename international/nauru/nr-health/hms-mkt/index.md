@@ -1,4 +1,4 @@
-# HMS-MKT for nr_Health
+# HMS-MKT for nr-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Market Analytics
 
 ## Integration Points
 
-This document outlines how HMS-MKT is integrated with nr_Health systems in Nauru.
+This document outlines how HMS-MKT is integrated with nr-health systems in Nauru.

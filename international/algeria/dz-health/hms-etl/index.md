@@ -1,4 +1,4 @@
-# HMS-ETL for dz_Health
+# HMS-ETL for dz-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Extract, Transform, Load
 
 ## Integration Points
 
-This document outlines how HMS-ETL is integrated with dz_Health systems in Algeria.
+This document outlines how HMS-ETL is integrated with dz-health systems in Algeria.

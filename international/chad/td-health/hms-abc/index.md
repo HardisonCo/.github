@@ -1,4 +1,4 @@
-# HMS-ABC for td_Health
+# HMS-ABC for td-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Adaptive Business Capabilities
 
 ## Integration Points
 
-This document outlines how HMS-ABC is integrated with td_Health systems in Chad.
+This document outlines how HMS-ABC is integrated with td-health systems in Chad.

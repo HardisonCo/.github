@@ -1,4 +1,4 @@
-# HMS-MFE for ar_Health
+# HMS-MFE for ar-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Micro Frontend Engine
 
 ## Integration Points
 
-This document outlines how HMS-MFE is integrated with ar_Health systems in Argentina.
+This document outlines how HMS-MFE is integrated with ar-health systems in Argentina.

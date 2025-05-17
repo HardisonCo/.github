@@ -1,4 +1,4 @@
-# HMS-OMS for bg_Health
+# HMS-OMS for bg-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Order Management System
 
 ## Integration Points
 
-This document outlines how HMS-OMS is integrated with bg_Health systems in Bulgaria.
+This document outlines how HMS-OMS is integrated with bg-health systems in Bulgaria.

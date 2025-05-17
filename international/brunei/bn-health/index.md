@@ -1,4 +1,4 @@
-# bn_Health - Brunei Health Agency
+# bn-health - Brunei Health Agency
 
 ## Ministry of Health
 

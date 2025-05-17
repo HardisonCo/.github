@@ -1,4 +1,4 @@
-# HMS-UTL for fr_Health
+# HMS-UTL for fr-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Utilities
 
 ## Integration Points
 
-This document outlines how HMS-UTL is integrated with fr_Health systems in France.
+This document outlines how HMS-UTL is integrated with fr-health systems in France.

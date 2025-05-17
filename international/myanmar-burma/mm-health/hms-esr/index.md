@@ -1,4 +1,4 @@
-# HMS-ESR for mm_Health
+# HMS-ESR for mm-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Economic System Representation
 
 ## Integration Points
 
-This document outlines how HMS-ESR is integrated with mm_Health systems in Myanmar (Burma).
+This document outlines how HMS-ESR is integrated with mm-health systems in Myanmar (Burma).

@@ -1,4 +1,4 @@
-# HMS-UHC for fm_Health
+# HMS-UHC for fm-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Universal Healthcare Components
 
 ## Integration Points
 
-This document outlines how HMS-UHC is integrated with fm_Health systems in Federated States of Micronesia.
+This document outlines how HMS-UHC is integrated with fm-health systems in Federated States of Micronesia.

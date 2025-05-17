@@ -1,4 +1,4 @@
-# md_Health - Moldova Health Agency
+# md-health - Moldova Health Agency
 
 ## Ministry of Health, Labour and Social Protection of the Republic of Moldova
 

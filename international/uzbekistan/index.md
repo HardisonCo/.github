@@ -2,7 +2,7 @@
 
 ## Agencies
 
-- [uz_Health](uz_Health/index.md) - Ministry of Health of the Republic of Uzbekistan
+- [uz-health](uz-health/index.md) - Ministry of Health of the Republic of Uzbekistan
 
 ## HMS Implementation Status
 

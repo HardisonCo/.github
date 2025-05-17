@@ -1,4 +1,4 @@
-# HMS-API for si_Health
+# HMS-API for si-health
 
 ## Description
 
@@ -6,4 +6,4 @@ API Services
 
 ## Integration Points
 
-This document outlines how HMS-API is integrated with si_Health systems in Slovenia.
+This document outlines how HMS-API is integrated with si-health systems in Slovenia.

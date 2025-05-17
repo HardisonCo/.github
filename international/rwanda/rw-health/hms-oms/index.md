@@ -1,4 +1,4 @@
-# HMS-OMS for rw_Health
+# HMS-OMS for rw-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Order Management System
 
 ## Integration Points
 
-This document outlines how HMS-OMS is integrated with rw_Health systems in Rwanda.
+This document outlines how HMS-OMS is integrated with rw-health systems in Rwanda.

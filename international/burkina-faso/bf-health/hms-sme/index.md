@@ -1,4 +1,4 @@
-# HMS-SME for bf_Health
+# HMS-SME for bf-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Subject Matter Expertise
 
 ## Integration Points
 
-This document outlines how HMS-SME is integrated with bf_Health systems in Burkina Faso.
+This document outlines how HMS-SME is integrated with bf-health systems in Burkina Faso.

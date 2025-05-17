@@ -1,4 +1,4 @@
-# HMS-OMS for de_Health
+# HMS-OMS for de-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Order Management System
 
 ## Integration Points
 
-This document outlines how HMS-OMS is integrated with de_Health systems in Germany.
+This document outlines how HMS-OMS is integrated with de-health systems in Germany.

@@ -1,4 +1,4 @@
-# HMS-ACT for bf_Health
+# HMS-ACT for bf-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Agent Collaboration Tools
 
 ## Integration Points
 
-This document outlines how HMS-ACT is integrated with bf_Health systems in Burkina Faso.
+This document outlines how HMS-ACT is integrated with bf-health systems in Burkina Faso.

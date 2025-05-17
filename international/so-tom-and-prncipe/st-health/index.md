@@ -1,4 +1,4 @@
-# st_Health - São Tomé and Príncipe Health Agency
+# st-health - São Tomé and Príncipe Health Agency
 
 ## Ministry of Health and Social Policy
 

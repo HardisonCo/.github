@@ -1,4 +1,4 @@
-# HMS-OMS for vc_Health
+# HMS-OMS for vc-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Order Management System
 
 ## Integration Points
 
-This document outlines how HMS-OMS is integrated with vc_Health systems in Saint Vincent and the Grenadines.
+This document outlines how HMS-OMS is integrated with vc-health systems in Saint Vincent and the Grenadines.

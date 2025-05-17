@@ -1,4 +1,4 @@
-# HMS-UTL for py_Health
+# HMS-UTL for py-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Utilities
 
 ## Integration Points
 
-This document outlines how HMS-UTL is integrated with py_Health systems in Paraguay.
+This document outlines how HMS-UTL is integrated with py-health systems in Paraguay.

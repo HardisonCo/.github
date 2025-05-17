@@ -1,4 +1,4 @@
-# HMS-SKL for mt_Health
+# HMS-SKL for mt-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Skills Management
 
 ## Integration Points
 
-This document outlines how HMS-SKL is integrated with mt_Health systems in Malta.
+This document outlines how HMS-SKL is integrated with mt-health systems in Malta.

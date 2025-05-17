@@ -1,4 +1,4 @@
-# HMS-OMS for bn_Health
+# HMS-OMS for bn-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Order Management System
 
 ## Integration Points
 
-This document outlines how HMS-OMS is integrated with bn_Health systems in Brunei.
+This document outlines how HMS-OMS is integrated with bn-health systems in Brunei.

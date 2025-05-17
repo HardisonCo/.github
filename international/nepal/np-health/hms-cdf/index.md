@@ -1,4 +1,4 @@
-# HMS-CDF for np_Health
+# HMS-CDF for np-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Collaborative Decision Framework
 
 ## Integration Points
 
-This document outlines how HMS-CDF is integrated with np_Health systems in Nepal.
+This document outlines how HMS-CDF is integrated with np-health systems in Nepal.

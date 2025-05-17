@@ -1,4 +1,4 @@
-# HMS-MFE for az_Health
+# HMS-MFE for az-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Micro Frontend Engine
 
 ## Integration Points
 
-This document outlines how HMS-MFE is integrated with az_Health systems in Azerbaijan.
+This document outlines how HMS-MFE is integrated with az-health systems in Azerbaijan.

@@ -1,4 +1,4 @@
-# HMS-OPS for st_Health
+# HMS-OPS for st-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Operations Management
 
 ## Integration Points
 
-This document outlines how HMS-OPS is integrated with st_Health systems in São Tomé and Príncipe.
+This document outlines how HMS-OPS is integrated with st-health systems in São Tomé and Príncipe.

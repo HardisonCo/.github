@@ -1,4 +1,4 @@
-# HMS-RED for lk_Health
+# HMS-RED for lk-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Reactive Data Engine
 
 ## Integration Points
 
-This document outlines how HMS-RED is integrated with lk_Health systems in Sri Lanka.
+This document outlines how HMS-RED is integrated with lk-health systems in Sri Lanka.

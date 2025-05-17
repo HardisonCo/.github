@@ -1,4 +1,4 @@
-# HMS-ESR for ie_Health
+# HMS-ESR for ie-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Economic System Representation
 
 ## Integration Points
 
-This document outlines how HMS-ESR is integrated with ie_Health systems in Ireland.
+This document outlines how HMS-ESR is integrated with ie-health systems in Ireland.

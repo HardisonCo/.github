@@ -1,4 +1,4 @@
-# ua_Health - Ukraine Health Agency
+# ua-health - Ukraine Health Agency
 
 ## Ministry of Health of Ukraine
 

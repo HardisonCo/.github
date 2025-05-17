@@ -1,4 +1,4 @@
-# om_Health - Sultanate of Oman Health Agency
+# om-health - Sultanate of Oman Health Agency
 
 ## Ministry of Health
 

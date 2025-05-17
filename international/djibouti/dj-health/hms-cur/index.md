@@ -1,4 +1,4 @@
-# HMS-CUR for dj_Health
+# HMS-CUR for dj-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Currency Management
 
 ## Integration Points
 
-This document outlines how HMS-CUR is integrated with dj_Health systems in Djibouti.
+This document outlines how HMS-CUR is integrated with dj-health systems in Djibouti.

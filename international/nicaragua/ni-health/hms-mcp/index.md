@@ -1,4 +1,4 @@
-# HMS-MCP for ni_Health
+# HMS-MCP for ni-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Model-Compute-Publish
 
 ## Integration Points
 
-This document outlines how HMS-MCP is integrated with ni_Health systems in Nicaragua.
+This document outlines how HMS-MCP is integrated with ni-health systems in Nicaragua.

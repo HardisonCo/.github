@@ -1,4 +1,4 @@
-# HMS-ETL for mx_Health
+# HMS-ETL for mx-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Extract, Transform, Load
 
 ## Integration Points
 
-This document outlines how HMS-ETL is integrated with mx_Health systems in Mexico.
+This document outlines how HMS-ETL is integrated with mx-health systems in Mexico.

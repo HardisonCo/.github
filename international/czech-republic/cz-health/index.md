@@ -1,4 +1,4 @@
-# cz_Health - Czech Republic Health Agency
+# cz-health - Czech Republic Health Agency
 
 ## Ministry of Health
 

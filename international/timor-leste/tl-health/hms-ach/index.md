@@ -1,4 +1,4 @@
-# HMS-ACH for tl_Health
+# HMS-ACH for tl-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Automated Clearing House
 
 ## Integration Points
 
-This document outlines how HMS-ACH is integrated with tl_Health systems in Timor-Leste.
+This document outlines how HMS-ACH is integrated with tl-health systems in Timor-Leste.

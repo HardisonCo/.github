@@ -1,4 +1,4 @@
-# HMS-ABC for is_Health
+# HMS-ABC for is-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Adaptive Business Capabilities
 
 ## Integration Points
 
-This document outlines how HMS-ABC is integrated with is_Health systems in Iceland.
+This document outlines how HMS-ABC is integrated with is-health systems in Iceland.

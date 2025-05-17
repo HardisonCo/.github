@@ -1,4 +1,4 @@
-# HMS-SCM for bs_Health
+# HMS-SCM for bs-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Supply Chain Management
 
 ## Integration Points
 
-This document outlines how HMS-SCM is integrated with bs_Health systems in Bahamas.
+This document outlines how HMS-SCM is integrated with bs-health systems in Bahamas.

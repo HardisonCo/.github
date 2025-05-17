@@ -1,4 +1,4 @@
-# HMS-ESQ for sd_Health
+# HMS-ESQ for sd-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Enhanced System Quality
 
 ## Integration Points
 
-This document outlines how HMS-ESQ is integrated with sd_Health systems in Sudan.
+This document outlines how HMS-ESQ is integrated with sd-health systems in Sudan.

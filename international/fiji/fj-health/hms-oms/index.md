@@ -1,4 +1,4 @@
-# HMS-OMS for fj_Health
+# HMS-OMS for fj-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Order Management System
 
 ## Integration Points
 
-This document outlines how HMS-OMS is integrated with fj_Health systems in Fiji.
+This document outlines how HMS-OMS is integrated with fj-health systems in Fiji.

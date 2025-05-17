@@ -1,4 +1,4 @@
-# HMS-DOC for kz_Health
+# HMS-DOC for kz-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Documentation System
 
 ## Integration Points
 
-This document outlines how HMS-DOC is integrated with kz_Health systems in Kazakhstan.
+This document outlines how HMS-DOC is integrated with kz-health systems in Kazakhstan.

@@ -1,4 +1,4 @@
-# HMS-AGX for ng_Health
+# HMS-AGX for ng-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Advanced Graph Experience
 
 ## Integration Points
 
-This document outlines how HMS-AGX is integrated with ng_Health systems in Nigeria.
+This document outlines how HMS-AGX is integrated with ng-health systems in Nigeria.

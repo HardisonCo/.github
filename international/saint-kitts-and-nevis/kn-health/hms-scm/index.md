@@ -1,4 +1,4 @@
-# HMS-SCM for kn_Health
+# HMS-SCM for kn-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Supply Chain Management
 
 ## Integration Points
 
-This document outlines how HMS-SCM is integrated with kn_Health systems in Saint Kitts and Nevis.
+This document outlines how HMS-SCM is integrated with kn-health systems in Saint Kitts and Nevis.

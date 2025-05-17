@@ -2,7 +2,7 @@
 
 ## Agencies
 
-- [ve_Health](ve_Health/index.md) - Ministerio del Poder Popular para la Salud
+- [ve-health](ve-health/index.md) - Ministerio del Poder Popular para la Salud
 
 ## HMS Implementation Status
 

@@ -1,4 +1,4 @@
-# HMS-DEV for rw_Health
+# HMS-DEV for rw-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Development Framework
 
 ## Integration Points
 
-This document outlines how HMS-DEV is integrated with rw_Health systems in Rwanda.
+This document outlines how HMS-DEV is integrated with rw-health systems in Rwanda.

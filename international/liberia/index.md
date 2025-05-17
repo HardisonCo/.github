@@ -2,7 +2,7 @@
 
 ## Agencies
 
-- [lr_Health](lr_Health/index.md) - Ministry of Health and Social Welfare
+- [lr-health](lr-health/index.md) - Ministry of Health and Social Welfare
 
 ## HMS Implementation Status
 

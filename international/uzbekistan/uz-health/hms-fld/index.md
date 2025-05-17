@@ -1,4 +1,4 @@
-# HMS-FLD for uz_Health
+# HMS-FLD for uz-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Field Data Collection
 
 ## Integration Points
 
-This document outlines how HMS-FLD is integrated with uz_Health systems in Uzbekistan.
+This document outlines how HMS-FLD is integrated with uz-health systems in Uzbekistan.

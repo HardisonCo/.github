@@ -1,4 +1,4 @@
-# pg_Health - Papua New Guinea Health Agency
+# pg-health - Papua New Guinea Health Agency
 
 ## Department of Health
 

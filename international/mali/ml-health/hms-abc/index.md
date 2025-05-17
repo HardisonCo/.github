@@ -1,4 +1,4 @@
-# HMS-ABC for ml_Health
+# HMS-ABC for ml-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Adaptive Business Capabilities
 
 ## Integration Points
 
-This document outlines how HMS-ABC is integrated with ml_Health systems in Mali.
+This document outlines how HMS-ABC is integrated with ml-health systems in Mali.

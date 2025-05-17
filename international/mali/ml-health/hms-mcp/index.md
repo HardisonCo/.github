@@ -1,4 +1,4 @@
-# HMS-MCP for ml_Health
+# HMS-MCP for ml-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Model-Compute-Publish
 
 ## Integration Points
 
-This document outlines how HMS-MCP is integrated with ml_Health systems in Mali.
+This document outlines how HMS-MCP is integrated with ml-health systems in Mali.

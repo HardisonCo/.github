@@ -1,4 +1,4 @@
-# HMS-FLD for it_Health
+# HMS-FLD for it-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Field Data Collection
 
 ## Integration Points
 
-This document outlines how HMS-FLD is integrated with it_Health systems in Italy.
+This document outlines how HMS-FLD is integrated with it-health systems in Italy.

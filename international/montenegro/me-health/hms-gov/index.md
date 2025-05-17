@@ -1,4 +1,4 @@
-# HMS-GOV for me_Health
+# HMS-GOV for me-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Governance Framework
 
 ## Integration Points
 
-This document outlines how HMS-GOV is integrated with me_Health systems in Montenegro.
+This document outlines how HMS-GOV is integrated with me-health systems in Montenegro.

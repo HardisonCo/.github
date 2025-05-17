@@ -1,4 +1,4 @@
-# HMS-ACT for sy_Health
+# HMS-ACT for sy-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Agent Collaboration Tools
 
 ## Integration Points
 
-This document outlines how HMS-ACT is integrated with sy_Health systems in Syrian Arab Republic.
+This document outlines how HMS-ACT is integrated with sy-health systems in Syrian Arab Republic.

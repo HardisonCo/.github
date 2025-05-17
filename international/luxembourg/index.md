@@ -2,7 +2,7 @@
 
 ## Agencies
 
-- [lu_Health](lu_Health/index.md) - Ministry of Health (Ministère de la Santé)
+- [lu-health](lu-health/index.md) - Ministry of Health (Ministère de la Santé)
 
 ## HMS Implementation Status
 

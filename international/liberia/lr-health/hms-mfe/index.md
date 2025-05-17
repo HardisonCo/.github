@@ -1,4 +1,4 @@
-# HMS-MFE for lr_Health
+# HMS-MFE for lr-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Micro Frontend Engine
 
 ## Integration Points
 
-This document outlines how HMS-MFE is integrated with lr_Health systems in Liberia.
+This document outlines how HMS-MFE is integrated with lr-health systems in Liberia.

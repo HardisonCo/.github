@@ -1,4 +1,4 @@
-# HMS-NFO for co_Health
+# HMS-NFO for co-health
 
 ## Description
 
@@ -6,4 +6,4 @@ National Financial Organizations
 
 ## Integration Points
 
-This document outlines how HMS-NFO is integrated with co_Health systems in Colombia.
+This document outlines how HMS-NFO is integrated with co-health systems in Colombia.

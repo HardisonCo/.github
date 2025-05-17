@@ -1,4 +1,4 @@
-# HMS-ESQ for au_Health
+# HMS-ESQ for au-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Enhanced System Quality
 
 ## Integration Points
 
-This document outlines how HMS-ESQ is integrated with au_Health systems in Australia.
+This document outlines how HMS-ESQ is integrated with au-health systems in Australia.

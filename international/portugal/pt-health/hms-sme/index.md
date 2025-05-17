@@ -1,4 +1,4 @@
-# HMS-SME for pt_Health
+# HMS-SME for pt-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Subject Matter Expertise
 
 ## Integration Points
 
-This document outlines how HMS-SME is integrated with pt_Health systems in Portugal.
+This document outlines how HMS-SME is integrated with pt-health systems in Portugal.

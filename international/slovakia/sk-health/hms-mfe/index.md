@@ -1,4 +1,4 @@
-# HMS-MFE for sk_Health
+# HMS-MFE for sk-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Micro Frontend Engine
 
 ## Integration Points
 
-This document outlines how HMS-MFE is integrated with sk_Health systems in Slovakia.
+This document outlines how HMS-MFE is integrated with sk-health systems in Slovakia.

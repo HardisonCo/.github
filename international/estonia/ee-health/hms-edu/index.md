@@ -1,4 +1,4 @@
-# HMS-EDU for ee_Health
+# HMS-EDU for ee-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Education System
 
 ## Integration Points
 
-This document outlines how HMS-EDU is integrated with ee_Health systems in Estonia.
+This document outlines how HMS-EDU is integrated with ee-health systems in Estonia.

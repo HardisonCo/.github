@@ -1,4 +1,4 @@
-# HMS-SME for gd_Health
+# HMS-SME for gd-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Subject Matter Expertise
 
 ## Integration Points
 
-This document outlines how HMS-SME is integrated with gd_Health systems in Grenada.
+This document outlines how HMS-SME is integrated with gd-health systems in Grenada.

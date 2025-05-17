@@ -1,4 +1,4 @@
-# HMS-ETL for zw_Health
+# HMS-ETL for zw-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Extract, Transform, Load
 
 ## Integration Points
 
-This document outlines how HMS-ETL is integrated with zw_Health systems in Zimbabwe.
+This document outlines how HMS-ETL is integrated with zw-health systems in Zimbabwe.

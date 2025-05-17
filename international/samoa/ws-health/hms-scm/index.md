@@ -1,4 +1,4 @@
-# HMS-SCM for ws_Health
+# HMS-SCM for ws-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Supply Chain Management
 
 ## Integration Points
 
-This document outlines how HMS-SCM is integrated with ws_Health systems in Samoa.
+This document outlines how HMS-SCM is integrated with ws-health systems in Samoa.

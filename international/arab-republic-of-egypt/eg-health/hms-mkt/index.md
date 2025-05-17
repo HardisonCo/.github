@@ -1,4 +1,4 @@
-# HMS-MKT for eg_Health
+# HMS-MKT for eg-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Market Analytics
 
 ## Integration Points
 
-This document outlines how HMS-MKT is integrated with eg_Health systems in Arab Republic of Egypt.
+This document outlines how HMS-MKT is integrated with eg-health systems in Arab Republic of Egypt.

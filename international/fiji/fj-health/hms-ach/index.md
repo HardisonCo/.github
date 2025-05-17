@@ -1,4 +1,4 @@
-# HMS-ACH for fj_Health
+# HMS-ACH for fj-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Automated Clearing House
 
 ## Integration Points
 
-This document outlines how HMS-ACH is integrated with fj_Health systems in Fiji.
+This document outlines how HMS-ACH is integrated with fj-health systems in Fiji.

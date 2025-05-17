@@ -1,4 +1,4 @@
-# HMS-A2A for md_Health
+# HMS-A2A for md-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Agent-to-Agent Communication System
 
 ## Integration Points
 
-This document outlines how HMS-A2A is integrated with md_Health systems in Moldova.
+This document outlines how HMS-A2A is integrated with md-health systems in Moldova.

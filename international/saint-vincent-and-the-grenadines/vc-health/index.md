@@ -1,4 +1,4 @@
-# vc_Health - Saint Vincent and the Grenadines Health Agency
+# vc-health - Saint Vincent and the Grenadines Health Agency
 
 ## Ministry of Health and Wellness
 

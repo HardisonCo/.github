@@ -2,7 +2,7 @@
 
 ## Agencies
 
-- [bd_Health](bd_Health/index.md) - Ministry of Health and Family Welfare
+- [bd-health](bd-health/index.md) - Ministry of Health and Family Welfare
 
 ## HMS Implementation Status
 

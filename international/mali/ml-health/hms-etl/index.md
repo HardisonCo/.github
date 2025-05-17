@@ -1,4 +1,4 @@
-# HMS-ETL for ml_Health
+# HMS-ETL for ml-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Extract, Transform, Load
 
 ## Integration Points
 
-This document outlines how HMS-ETL is integrated with ml_Health systems in Mali.
+This document outlines how HMS-ETL is integrated with ml-health systems in Mali.

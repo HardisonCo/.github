@@ -1,4 +1,4 @@
-# HMS-CUR for ye_Health
+# HMS-CUR for ye-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Currency Management
 
 ## Integration Points
 
-This document outlines how HMS-CUR is integrated with ye_Health systems in Yemen.
+This document outlines how HMS-CUR is integrated with ye-health systems in Yemen.

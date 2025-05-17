@@ -1,4 +1,4 @@
-# HMS-LLM for sb_Health
+# HMS-LLM for sb-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Large Language Model Operations Platform
 
 ## Integration Points
 
-This document outlines how HMS-LLM is integrated with sb_Health systems in Solomon Islands.
+This document outlines how HMS-LLM is integrated with sb-health systems in Solomon Islands.

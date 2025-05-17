@@ -1,4 +1,4 @@
-# HMS-SME for dm_Health
+# HMS-SME for dm-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Subject Matter Expertise
 
 ## Integration Points
 
-This document outlines how HMS-SME is integrated with dm_Health systems in Dominica.
+This document outlines how HMS-SME is integrated with dm-health systems in Dominica.

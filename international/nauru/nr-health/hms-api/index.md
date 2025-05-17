@@ -1,4 +1,4 @@
-# HMS-API for nr_Health
+# HMS-API for nr-health
 
 ## Description
 
@@ -6,4 +6,4 @@ API Services
 
 ## Integration Points
 
-This document outlines how HMS-API is integrated with nr_Health systems in Nauru.
+This document outlines how HMS-API is integrated with nr-health systems in Nauru.

@@ -2,7 +2,7 @@
 
 ## Agencies
 
-- [gn_Health](gn_Health/index.md) - Ministry of Health and Public Hygiene
+- [gn-health](gn-health/index.md) - Ministry of Health and Public Hygiene
 
 ## HMS Implementation Status
 

@@ -1,4 +1,4 @@
-# HMS-ACT for lr_Health
+# HMS-ACT for lr-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Agent Collaboration Tools
 
 ## Integration Points
 
-This document outlines how HMS-ACT is integrated with lr_Health systems in Liberia.
+This document outlines how HMS-ACT is integrated with lr-health systems in Liberia.

@@ -1,4 +1,4 @@
-# HMS-ESR for fm_Health
+# HMS-ESR for fm-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Economic System Representation
 
 ## Integration Points
 
-This document outlines how HMS-ESR is integrated with fm_Health systems in Federated States of Micronesia.
+This document outlines how HMS-ESR is integrated with fm-health systems in Federated States of Micronesia.

@@ -1,4 +1,4 @@
-# HMS-GOV for dk_Health
+# HMS-GOV for dk-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Governance Framework
 
 ## Integration Points
 
-This document outlines how HMS-GOV is integrated with dk_Health systems in Kingdom of Denmark.
+This document outlines how HMS-GOV is integrated with dk-health systems in Kingdom of Denmark.

@@ -1,4 +1,4 @@
-# HMS-DOC for ar_Health
+# HMS-DOC for ar-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Documentation System
 
 ## Integration Points
 
-This document outlines how HMS-DOC is integrated with ar_Health systems in Argentina.
+This document outlines how HMS-DOC is integrated with ar-health systems in Argentina.

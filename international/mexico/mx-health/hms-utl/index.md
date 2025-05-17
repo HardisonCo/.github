@@ -1,4 +1,4 @@
-# HMS-UTL for mx_Health
+# HMS-UTL for mx-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Utilities
 
 ## Integration Points
 
-This document outlines how HMS-UTL is integrated with mx_Health systems in Mexico.
+This document outlines how HMS-UTL is integrated with mx-health systems in Mexico.

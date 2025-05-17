@@ -1,4 +1,4 @@
-# HMS-OMS for md_Health
+# HMS-OMS for md-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Order Management System
 
 ## Integration Points
 
-This document outlines how HMS-OMS is integrated with md_Health systems in Moldova.
+This document outlines how HMS-OMS is integrated with md-health systems in Moldova.

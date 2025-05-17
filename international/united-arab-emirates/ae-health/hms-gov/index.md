@@ -1,4 +1,4 @@
-# HMS-GOV for ae_Health
+# HMS-GOV for ae-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Governance Framework
 
 ## Integration Points
 
-This document outlines how HMS-GOV is integrated with ae_Health systems in United Arab Emirates.
+This document outlines how HMS-GOV is integrated with ae-health systems in United Arab Emirates.

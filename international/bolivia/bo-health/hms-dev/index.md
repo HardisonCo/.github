@@ -1,4 +1,4 @@
-# HMS-DEV for bo_Health
+# HMS-DEV for bo-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Development Framework
 
 ## Integration Points
 
-This document outlines how HMS-DEV is integrated with bo_Health systems in Bolivia.
+This document outlines how HMS-DEV is integrated with bo-health systems in Bolivia.

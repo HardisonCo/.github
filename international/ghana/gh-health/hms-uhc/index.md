@@ -1,4 +1,4 @@
-# HMS-UHC for gh_Health
+# HMS-UHC for gh-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Universal Healthcare Components
 
 ## Integration Points
 
-This document outlines how HMS-UHC is integrated with gh_Health systems in Ghana.
+This document outlines how HMS-UHC is integrated with gh-health systems in Ghana.

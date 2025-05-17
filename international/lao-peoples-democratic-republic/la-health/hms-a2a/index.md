@@ -1,4 +1,4 @@
-# HMS-A2A for la_Health
+# HMS-A2A for la-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Agent-to-Agent Communication System
 
 ## Integration Points
 
-This document outlines how HMS-A2A is integrated with la_Health systems in Lao People's Democratic Republic.
+This document outlines how HMS-A2A is integrated with la-health systems in Lao People's Democratic Republic.

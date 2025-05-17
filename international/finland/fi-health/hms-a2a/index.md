@@ -1,4 +1,4 @@
-# HMS-A2A for fi_Health
+# HMS-A2A for fi-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Agent-to-Agent Communication System
 
 ## Integration Points
 
-This document outlines how HMS-A2A is integrated with fi_Health systems in Finland.
+This document outlines how HMS-A2A is integrated with fi-health systems in Finland.

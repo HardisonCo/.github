@@ -1,4 +1,4 @@
-# HMS-SCM for qa_Health
+# HMS-SCM for qa-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Supply Chain Management
 
 ## Integration Points
 
-This document outlines how HMS-SCM is integrated with qa_Health systems in State of Qatar.
+This document outlines how HMS-SCM is integrated with qa-health systems in State of Qatar.

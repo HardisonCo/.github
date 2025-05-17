@@ -1,4 +1,4 @@
-# HMS-SKL for co_Health
+# HMS-SKL for co-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Skills Management
 
 ## Integration Points
 
-This document outlines how HMS-SKL is integrated with co_Health systems in Colombia.
+This document outlines how HMS-SKL is integrated with co-health systems in Colombia.

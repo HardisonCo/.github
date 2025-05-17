@@ -1,4 +1,4 @@
-# HMS-MFE for il_Health
+# HMS-MFE for il-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Micro Frontend Engine
 
 ## Integration Points
 
-This document outlines how HMS-MFE is integrated with il_Health systems in Israel.
+This document outlines how HMS-MFE is integrated with il-health systems in Israel.

@@ -2,7 +2,7 @@
 
 ## Agencies
 
-- [so_Health](so_Health/index.md) - Ministry of Health and Human Development
+- [so-health](so-health/index.md) - Ministry of Health and Human Development
 
 ## HMS Implementation Status
 

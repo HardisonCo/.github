@@ -1,4 +1,4 @@
-# HMS-DEV for au_Health
+# HMS-DEV for au-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Development Framework
 
 ## Integration Points
 
-This document outlines how HMS-DEV is integrated with au_Health systems in Australia.
+This document outlines how HMS-DEV is integrated with au-health systems in Australia.

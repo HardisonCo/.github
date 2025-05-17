@@ -1,4 +1,4 @@
-# HMS-RED for it_Health
+# HMS-RED for it-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Reactive Data Engine
 
 ## Integration Points
 
-This document outlines how HMS-RED is integrated with it_Health systems in Italy.
+This document outlines how HMS-RED is integrated with it-health systems in Italy.

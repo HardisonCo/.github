@@ -1,4 +1,4 @@
-# HMS-RED for cv_Health
+# HMS-RED for cv-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Reactive Data Engine
 
 ## Integration Points
 
-This document outlines how HMS-RED is integrated with cv_Health systems in Cape Verde.
+This document outlines how HMS-RED is integrated with cv-health systems in Cape Verde.

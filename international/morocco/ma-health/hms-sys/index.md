@@ -1,4 +1,4 @@
-# HMS-SYS for ma_Health
+# HMS-SYS for ma-health
 
 ## Description
 
@@ -6,4 +6,4 @@ System Core
 
 ## Integration Points
 
-This document outlines how HMS-SYS is integrated with ma_Health systems in Morocco.
+This document outlines how HMS-SYS is integrated with ma-health systems in Morocco.

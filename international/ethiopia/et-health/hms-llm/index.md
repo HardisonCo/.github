@@ -1,4 +1,4 @@
-# HMS-LLM for et_Health
+# HMS-LLM for et-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Large Language Model Operations Platform
 
 ## Integration Points
 
-This document outlines how HMS-LLM is integrated with et_Health systems in Ethiopia.
+This document outlines how HMS-LLM is integrated with et-health systems in Ethiopia.

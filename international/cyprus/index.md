@@ -2,7 +2,7 @@
 
 ## Agencies
 
-- [cy_Health](cy_Health/index.md) - Ministry of Health
+- [cy-health](cy-health/index.md) - Ministry of Health
 
 ## HMS Implementation Status
 

@@ -1,4 +1,4 @@
-# HMS-DEV for be_Health
+# HMS-DEV for be-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Development Framework
 
 ## Integration Points
 
-This document outlines how HMS-DEV is integrated with be_Health systems in Belgium.
+This document outlines how HMS-DEV is integrated with be-health systems in Belgium.

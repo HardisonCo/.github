@@ -1,4 +1,4 @@
-# HMS-ESQ for sz_Health
+# HMS-ESQ for sz-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Enhanced System Quality
 
 ## Integration Points
 
-This document outlines how HMS-ESQ is integrated with sz_Health systems in Eswatini (Swaziland).
+This document outlines how HMS-ESQ is integrated with sz-health systems in Eswatini (Swaziland).

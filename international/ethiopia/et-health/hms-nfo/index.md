@@ -1,4 +1,4 @@
-# HMS-NFO for et_Health
+# HMS-NFO for et-health
 
 ## Description
 
@@ -6,4 +6,4 @@ National Financial Organizations
 
 ## Integration Points
 
-This document outlines how HMS-NFO is integrated with et_Health systems in Ethiopia.
+This document outlines how HMS-NFO is integrated with et-health systems in Ethiopia.

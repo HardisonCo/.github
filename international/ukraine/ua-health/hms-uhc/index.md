@@ -1,4 +1,4 @@
-# HMS-UHC for ua_Health
+# HMS-UHC for ua-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Universal Healthcare Components
 
 ## Integration Points
 
-This document outlines how HMS-UHC is integrated with ua_Health systems in Ukraine.
+This document outlines how HMS-UHC is integrated with ua-health systems in Ukraine.

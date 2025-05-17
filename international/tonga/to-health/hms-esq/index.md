@@ -1,4 +1,4 @@
-# HMS-ESQ for to_Health
+# HMS-ESQ for to-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Enhanced System Quality
 
 ## Integration Points
 
-This document outlines how HMS-ESQ is integrated with to_Health systems in Tonga.
+This document outlines how HMS-ESQ is integrated with to-health systems in Tonga.

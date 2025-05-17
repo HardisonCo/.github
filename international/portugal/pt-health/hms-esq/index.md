@@ -1,4 +1,4 @@
-# HMS-ESQ for pt_Health
+# HMS-ESQ for pt-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Enhanced System Quality
 
 ## Integration Points
 
-This document outlines how HMS-ESQ is integrated with pt_Health systems in Portugal.
+This document outlines how HMS-ESQ is integrated with pt-health systems in Portugal.

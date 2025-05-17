@@ -1,4 +1,4 @@
-# HMS-CDF for sr_Health
+# HMS-CDF for sr-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Collaborative Decision Framework
 
 ## Integration Points
 
-This document outlines how HMS-CDF is integrated with sr_Health systems in Suriname.
+This document outlines how HMS-CDF is integrated with sr-health systems in Suriname.

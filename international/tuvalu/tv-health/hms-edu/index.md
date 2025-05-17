@@ -1,4 +1,4 @@
-# HMS-EDU for tv_Health
+# HMS-EDU for tv-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Education System
 
 ## Integration Points
 
-This document outlines how HMS-EDU is integrated with tv_Health systems in Tuvalu.
+This document outlines how HMS-EDU is integrated with tv-health systems in Tuvalu.

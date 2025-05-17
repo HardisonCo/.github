@@ -1,4 +1,4 @@
-# HMS-ESR for jm_Health
+# HMS-ESR for jm-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Economic System Representation
 
 ## Integration Points
 
-This document outlines how HMS-ESR is integrated with jm_Health systems in Jamaica.
+This document outlines how HMS-ESR is integrated with jm-health systems in Jamaica.

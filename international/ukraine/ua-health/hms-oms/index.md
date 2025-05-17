@@ -1,4 +1,4 @@
-# HMS-OMS for ua_Health
+# HMS-OMS for ua-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Order Management System
 
 ## Integration Points
 
-This document outlines how HMS-OMS is integrated with ua_Health systems in Ukraine.
+This document outlines how HMS-OMS is integrated with ua-health systems in Ukraine.

@@ -1,4 +1,4 @@
-# HMS-GOV for gt_Health
+# HMS-GOV for gt-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Governance Framework
 
 ## Integration Points
 
-This document outlines how HMS-GOV is integrated with gt_Health systems in Guatemala.
+This document outlines how HMS-GOV is integrated with gt-health systems in Guatemala.

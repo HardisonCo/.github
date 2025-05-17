@@ -1,4 +1,4 @@
-# HMS-DEV for kg_Health
+# HMS-DEV for kg-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Development Framework
 
 ## Integration Points
 
-This document outlines how HMS-DEV is integrated with kg_Health systems in Kyrgyzstan.
+This document outlines how HMS-DEV is integrated with kg-health systems in Kyrgyzstan.

@@ -1,4 +1,4 @@
-# al_Health - Albania Health Agency
+# al-health - Albania Health Agency
 
 ## Ministry of Health and Social Protection
 

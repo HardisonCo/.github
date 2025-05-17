@@ -1,4 +1,4 @@
-# HMS-DOC for dz_Health
+# HMS-DOC for dz-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Documentation System
 
 ## Integration Points
 
-This document outlines how HMS-DOC is integrated with dz_Health systems in Algeria.
+This document outlines how HMS-DOC is integrated with dz-health systems in Algeria.

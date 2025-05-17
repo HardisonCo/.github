@@ -1,4 +1,4 @@
-# HMS-MKT for cv_Health
+# HMS-MKT for cv-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Market Analytics
 
 ## Integration Points
 
-This document outlines how HMS-MKT is integrated with cv_Health systems in Cape Verde.
+This document outlines how HMS-MKT is integrated with cv-health systems in Cape Verde.

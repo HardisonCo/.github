@@ -1,4 +1,4 @@
-# HMS-LLM for fr_Health
+# HMS-LLM for fr-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Large Language Model Operations Platform
 
 ## Integration Points
 
-This document outlines how HMS-LLM is integrated with fr_Health systems in France.
+This document outlines how HMS-LLM is integrated with fr-health systems in France.

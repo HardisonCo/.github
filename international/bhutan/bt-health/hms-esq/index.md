@@ -1,4 +1,4 @@
-# HMS-ESQ for bt_Health
+# HMS-ESQ for bt-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Enhanced System Quality
 
 ## Integration Points
 
-This document outlines how HMS-ESQ is integrated with bt_Health systems in Bhutan.
+This document outlines how HMS-ESQ is integrated with bt-health systems in Bhutan.

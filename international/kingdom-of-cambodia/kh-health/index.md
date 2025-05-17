@@ -1,4 +1,4 @@
-# kh_Health - Kingdom of Cambodia Health Agency
+# kh-health - Kingdom of Cambodia Health Agency
 
 ## Ministry of Health
 

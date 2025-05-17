@@ -1,4 +1,4 @@
-# HMS-SCM for sv_Health
+# HMS-SCM for sv-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Supply Chain Management
 
 ## Integration Points
 
-This document outlines how HMS-SCM is integrated with sv_Health systems in El Salvador.
+This document outlines how HMS-SCM is integrated with sv-health systems in El Salvador.

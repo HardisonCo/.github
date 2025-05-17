@@ -1,4 +1,4 @@
-# HMS-AGT for cv_Health
+# HMS-AGT for cv-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Agent Tooling
 
 ## Integration Points
 
-This document outlines how HMS-AGT is integrated with cv_Health systems in Cape Verde.
+This document outlines how HMS-AGT is integrated with cv-health systems in Cape Verde.

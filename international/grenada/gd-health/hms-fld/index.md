@@ -1,4 +1,4 @@
-# HMS-FLD for gd_Health
+# HMS-FLD for gd-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Field Data Collection
 
 ## Integration Points
 
-This document outlines how HMS-FLD is integrated with gd_Health systems in Grenada.
+This document outlines how HMS-FLD is integrated with gd-health systems in Grenada.

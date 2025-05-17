@@ -1,4 +1,4 @@
-# HMS-API for th_Health
+# HMS-API for th-health
 
 ## Description
 
@@ -6,4 +6,4 @@ API Services
 
 ## Integration Points
 
-This document outlines how HMS-API is integrated with th_Health systems in Thailand.
+This document outlines how HMS-API is integrated with th-health systems in Thailand.

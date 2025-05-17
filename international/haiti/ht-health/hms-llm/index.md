@@ -1,4 +1,4 @@
-# HMS-LLM for ht_Health
+# HMS-LLM for ht-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Large Language Model Operations Platform
 
 ## Integration Points
 
-This document outlines how HMS-LLM is integrated with ht_Health systems in Haiti.
+This document outlines how HMS-LLM is integrated with ht-health systems in Haiti.

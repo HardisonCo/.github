@@ -1,4 +1,4 @@
-# HMS-ETL for bb_Health
+# HMS-ETL for bb-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Extract, Transform, Load
 
 ## Integration Points
 
-This document outlines how HMS-ETL is integrated with bb_Health systems in Barbados.
+This document outlines how HMS-ETL is integrated with bb-health systems in Barbados.

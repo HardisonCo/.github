@@ -1,4 +1,4 @@
-# HMS-ABC for cz_Health
+# HMS-ABC for cz-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Adaptive Business Capabilities
 
 ## Integration Points
 
-This document outlines how HMS-ABC is integrated with cz_Health systems in Czech Republic.
+This document outlines how HMS-ABC is integrated with cz-health systems in Czech Republic.

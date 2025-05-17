@@ -1,4 +1,4 @@
-# HMS-FLD for tv_Health
+# HMS-FLD for tv-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Field Data Collection
 
 ## Integration Points
 
-This document outlines how HMS-FLD is integrated with tv_Health systems in Tuvalu.
+This document outlines how HMS-FLD is integrated with tv-health systems in Tuvalu.

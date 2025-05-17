@@ -1,4 +1,4 @@
-# HMS-SME for km_Health
+# HMS-SME for km-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Subject Matter Expertise
 
 ## Integration Points
 
-This document outlines how HMS-SME is integrated with km_Health systems in Comoros.
+This document outlines how HMS-SME is integrated with km-health systems in Comoros.

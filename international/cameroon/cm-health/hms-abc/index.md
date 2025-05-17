@@ -1,4 +1,4 @@
-# HMS-ABC for cm_Health
+# HMS-ABC for cm-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Adaptive Business Capabilities
 
 ## Integration Points
 
-This document outlines how HMS-ABC is integrated with cm_Health systems in Cameroon.
+This document outlines how HMS-ABC is integrated with cm-health systems in Cameroon.

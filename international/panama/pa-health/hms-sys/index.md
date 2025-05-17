@@ -1,4 +1,4 @@
-# HMS-SYS for pa_Health
+# HMS-SYS for pa-health
 
 ## Description
 
@@ -6,4 +6,4 @@ System Core
 
 ## Integration Points
 
-This document outlines how HMS-SYS is integrated with pa_Health systems in Panama.
+This document outlines how HMS-SYS is integrated with pa-health systems in Panama.

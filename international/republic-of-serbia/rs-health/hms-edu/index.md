@@ -1,4 +1,4 @@
-# HMS-EDU for rs_Health
+# HMS-EDU for rs-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Education System
 
 ## Integration Points
 
-This document outlines how HMS-EDU is integrated with rs_Health systems in Republic of Serbia.
+This document outlines how HMS-EDU is integrated with rs-health systems in Republic of Serbia.

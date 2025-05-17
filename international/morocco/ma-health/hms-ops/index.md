@@ -1,4 +1,4 @@
-# HMS-OPS for ma_Health
+# HMS-OPS for ma-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Operations Management
 
 ## Integration Points
 
-This document outlines how HMS-OPS is integrated with ma_Health systems in Morocco.
+This document outlines how HMS-OPS is integrated with ma-health systems in Morocco.

@@ -1,4 +1,4 @@
-# HMS-AGX for dk_Health
+# HMS-AGX for dk-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Advanced Graph Experience
 
 ## Integration Points
 
-This document outlines how HMS-AGX is integrated with dk_Health systems in Kingdom of Denmark.
+This document outlines how HMS-AGX is integrated with dk-health systems in Kingdom of Denmark.

@@ -1,4 +1,4 @@
-# HMS-ABC for ci_Health
+# HMS-ABC for ci-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Adaptive Business Capabilities
 
 ## Integration Points
 
-This document outlines how HMS-ABC is integrated with ci_Health systems in Côte d'Ivoire.
+This document outlines how HMS-ABC is integrated with ci-health systems in Côte d'Ivoire.

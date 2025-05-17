@@ -1,4 +1,4 @@
-# HMS-AGT for dk_Health
+# HMS-AGT for dk-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Agent Tooling
 
 ## Integration Points
 
-This document outlines how HMS-AGT is integrated with dk_Health systems in Kingdom of Denmark.
+This document outlines how HMS-AGT is integrated with dk-health systems in Kingdom of Denmark.

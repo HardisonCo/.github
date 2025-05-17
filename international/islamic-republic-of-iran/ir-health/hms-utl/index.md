@@ -1,4 +1,4 @@
-# HMS-UTL for ir_Health
+# HMS-UTL for ir-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Utilities
 
 ## Integration Points
 
-This document outlines how HMS-UTL is integrated with ir_Health systems in Islamic Republic of Iran.
+This document outlines how HMS-UTL is integrated with ir-health systems in Islamic Republic of Iran.

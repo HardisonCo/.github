@@ -1,4 +1,4 @@
-# HMS-OPS for gd_Health
+# HMS-OPS for gd-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Operations Management
 
 ## Integration Points
 
-This document outlines how HMS-OPS is integrated with gd_Health systems in Grenada.
+This document outlines how HMS-OPS is integrated with gd-health systems in Grenada.

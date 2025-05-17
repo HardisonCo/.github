@@ -1,4 +1,4 @@
-# HMS-DOC for ag_Health
+# HMS-DOC for ag-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Documentation System
 
 ## Integration Points
 
-This document outlines how HMS-DOC is integrated with ag_Health systems in Antigua and Barbuda.
+This document outlines how HMS-DOC is integrated with ag-health systems in Antigua and Barbuda.

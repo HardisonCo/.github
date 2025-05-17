@@ -1,4 +1,4 @@
-# HMS-FLD for sk_Health
+# HMS-FLD for sk-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Field Data Collection
 
 ## Integration Points
 
-This document outlines how HMS-FLD is integrated with sk_Health systems in Slovakia.
+This document outlines how HMS-FLD is integrated with sk-health systems in Slovakia.

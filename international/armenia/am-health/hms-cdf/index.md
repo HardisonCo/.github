@@ -1,4 +1,4 @@
-# HMS-CDF for am_Health
+# HMS-CDF for am-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Collaborative Decision Framework
 
 ## Integration Points
 
-This document outlines how HMS-CDF is integrated with am_Health systems in Armenia.
+This document outlines how HMS-CDF is integrated with am-health systems in Armenia.

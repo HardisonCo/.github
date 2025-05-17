@@ -1,4 +1,4 @@
-# HMS-SKL for sr_Health
+# HMS-SKL for sr-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Skills Management
 
 ## Integration Points
 
-This document outlines how HMS-SKL is integrated with sr_Health systems in Suriname.
+This document outlines how HMS-SKL is integrated with sr-health systems in Suriname.

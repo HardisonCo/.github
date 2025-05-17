@@ -1,4 +1,4 @@
-# HMS-EDU for np_Health
+# HMS-EDU for np-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Education System
 
 ## Integration Points
 
-This document outlines how HMS-EDU is integrated with np_Health systems in Nepal.
+This document outlines how HMS-EDU is integrated with np-health systems in Nepal.

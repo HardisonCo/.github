@@ -1,4 +1,4 @@
-# HMS-RED for by_Health
+# HMS-RED for by-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Reactive Data Engine
 
 ## Integration Points
 
-This document outlines how HMS-RED is integrated with by_Health systems in Belarus.
+This document outlines how HMS-RED is integrated with by-health systems in Belarus.

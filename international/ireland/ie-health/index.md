@@ -1,4 +1,4 @@
-# ie_Health - Ireland Health Agency
+# ie-health - Ireland Health Agency
 
 ## Department of Health
 

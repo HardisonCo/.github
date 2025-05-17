@@ -1,4 +1,4 @@
-# HMS-AGT for pw_Health
+# HMS-AGT for pw-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Agent Tooling
 
 ## Integration Points
 
-This document outlines how HMS-AGT is integrated with pw_Health systems in Palau.
+This document outlines how HMS-AGT is integrated with pw-health systems in Palau.

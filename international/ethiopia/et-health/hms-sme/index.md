@@ -1,4 +1,4 @@
-# HMS-SME for et_Health
+# HMS-SME for et-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Subject Matter Expertise
 
 ## Integration Points
 
-This document outlines how HMS-SME is integrated with et_Health systems in Ethiopia.
+This document outlines how HMS-SME is integrated with et-health systems in Ethiopia.

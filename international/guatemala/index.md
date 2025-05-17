@@ -2,7 +2,7 @@
 
 ## Agencies
 
-- [gt_Health](gt_Health/index.md) - Ministry of Public Health and Social Assistance
+- [gt-health](gt-health/index.md) - Ministry of Public Health and Social Assistance
 
 ## HMS Implementation Status
 

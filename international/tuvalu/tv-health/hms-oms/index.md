@@ -1,4 +1,4 @@
-# HMS-OMS for tv_Health
+# HMS-OMS for tv-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Order Management System
 
 ## Integration Points
 
-This document outlines how HMS-OMS is integrated with tv_Health systems in Tuvalu.
+This document outlines how HMS-OMS is integrated with tv-health systems in Tuvalu.

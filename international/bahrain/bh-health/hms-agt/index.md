@@ -1,4 +1,4 @@
-# HMS-AGT for bh_Health
+# HMS-AGT for bh-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Agent Tooling
 
 ## Integration Points
 
-This document outlines how HMS-AGT is integrated with bh_Health systems in Bahrain.
+This document outlines how HMS-AGT is integrated with bh-health systems in Bahrain.

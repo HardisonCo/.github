@@ -1,4 +1,4 @@
-# HMS-UHC for cd_Health
+# HMS-UHC for cd-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Universal Healthcare Components
 
 ## Integration Points
 
-This document outlines how HMS-UHC is integrated with cd_Health systems in Democratic Republic of the Congo.
+This document outlines how HMS-UHC is integrated with cd-health systems in Democratic Republic of the Congo.

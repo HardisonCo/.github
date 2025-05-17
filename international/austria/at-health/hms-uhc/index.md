@@ -1,4 +1,4 @@
-# HMS-UHC for at_Health
+# HMS-UHC for at-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Universal Healthcare Components
 
 ## Integration Points
 
-This document outlines how HMS-UHC is integrated with at_Health systems in Austria.
+This document outlines how HMS-UHC is integrated with at-health systems in Austria.

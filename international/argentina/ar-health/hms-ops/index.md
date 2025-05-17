@@ -1,4 +1,4 @@
-# HMS-OPS for ar_Health
+# HMS-OPS for ar-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Operations Management
 
 ## Integration Points
 
-This document outlines how HMS-OPS is integrated with ar_Health systems in Argentina.
+This document outlines how HMS-OPS is integrated with ar-health systems in Argentina.

@@ -1,4 +1,4 @@
-# HMS-ACT for sl_Health
+# HMS-ACT for sl-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Agent Collaboration Tools
 
 ## Integration Points
 
-This document outlines how HMS-ACT is integrated with sl_Health systems in Sierra Leone.
+This document outlines how HMS-ACT is integrated with sl-health systems in Sierra Leone.

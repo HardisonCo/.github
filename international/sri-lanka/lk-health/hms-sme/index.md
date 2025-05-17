@@ -1,4 +1,4 @@
-# HMS-SME for lk_Health
+# HMS-SME for lk-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Subject Matter Expertise
 
 ## Integration Points
 
-This document outlines how HMS-SME is integrated with lk_Health systems in Sri Lanka.
+This document outlines how HMS-SME is integrated with lk-health systems in Sri Lanka.

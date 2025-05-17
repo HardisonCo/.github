@@ -2,7 +2,7 @@
 
 ## Agencies
 
-- [az_Health](az_Health/index.md) - Ministry of Healthcare of the Republic of Azerbaijan
+- [az-health](az-health/index.md) - Ministry of Healthcare of the Republic of Azerbaijan
 
 ## HMS Implementation Status
 

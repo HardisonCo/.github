@@ -1,4 +1,4 @@
-# HMS-CDF for li_Health
+# HMS-CDF for li-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Collaborative Decision Framework
 
 ## Integration Points
 
-This document outlines how HMS-CDF is integrated with li_Health systems in Liechtenstein.
+This document outlines how HMS-CDF is integrated with li-health systems in Liechtenstein.

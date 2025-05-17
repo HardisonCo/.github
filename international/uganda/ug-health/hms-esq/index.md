@@ -1,4 +1,4 @@
-# HMS-ESQ for ug_Health
+# HMS-ESQ for ug-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Enhanced System Quality
 
 ## Integration Points
 
-This document outlines how HMS-ESQ is integrated with ug_Health systems in Uganda.
+This document outlines how HMS-ESQ is integrated with ug-health systems in Uganda.

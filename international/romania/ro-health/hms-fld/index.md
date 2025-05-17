@@ -1,4 +1,4 @@
-# HMS-FLD for ro_Health
+# HMS-FLD for ro-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Field Data Collection
 
 ## Integration Points
 
-This document outlines how HMS-FLD is integrated with ro_Health systems in Romania.
+This document outlines how HMS-FLD is integrated with ro-health systems in Romania.

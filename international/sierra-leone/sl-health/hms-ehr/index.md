@@ -1,4 +1,4 @@
-# HMS-EHR for sl_Health
+# HMS-EHR for sl-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Electronic Health Records
 
 ## Integration Points
 
-This document outlines how HMS-EHR is integrated with sl_Health systems in Sierra Leone.
+This document outlines how HMS-EHR is integrated with sl-health systems in Sierra Leone.

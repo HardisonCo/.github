@@ -1,4 +1,4 @@
-# HMS-API for ma_Health
+# HMS-API for ma-health
 
 ## Description
 
@@ -6,4 +6,4 @@ API Services
 
 ## Integration Points
 
-This document outlines how HMS-API is integrated with ma_Health systems in Morocco.
+This document outlines how HMS-API is integrated with ma-health systems in Morocco.

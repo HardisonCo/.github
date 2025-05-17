@@ -1,4 +1,4 @@
-# HMS-API for bo_Health
+# HMS-API for bo-health
 
 ## Description
 
@@ -6,4 +6,4 @@ API Services
 
 ## Integration Points
 
-This document outlines how HMS-API is integrated with bo_Health systems in Bolivia.
+This document outlines how HMS-API is integrated with bo-health systems in Bolivia.

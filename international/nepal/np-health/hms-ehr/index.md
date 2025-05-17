@@ -1,4 +1,4 @@
-# HMS-EHR for np_Health
+# HMS-EHR for np-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Electronic Health Records
 
 ## Integration Points
 
-This document outlines how HMS-EHR is integrated with np_Health systems in Nepal.
+This document outlines how HMS-EHR is integrated with np-health systems in Nepal.

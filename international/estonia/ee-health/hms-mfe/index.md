@@ -1,4 +1,4 @@
-# HMS-MFE for ee_Health
+# HMS-MFE for ee-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Micro Frontend Engine
 
 ## Integration Points
 
-This document outlines how HMS-MFE is integrated with ee_Health systems in Estonia.
+This document outlines how HMS-MFE is integrated with ee-health systems in Estonia.

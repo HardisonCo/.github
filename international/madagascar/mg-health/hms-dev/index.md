@@ -1,4 +1,4 @@
-# HMS-DEV for mg_Health
+# HMS-DEV for mg-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Development Framework
 
 ## Integration Points
 
-This document outlines how HMS-DEV is integrated with mg_Health systems in Madagascar.
+This document outlines how HMS-DEV is integrated with mg-health systems in Madagascar.

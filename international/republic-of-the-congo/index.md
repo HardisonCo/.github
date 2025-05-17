@@ -2,7 +2,7 @@
 
 ## Agencies
 
-- [cg_Health](cg_Health/index.md) - Ministry of Health and Population Development
+- [cg-health](cg-health/index.md) - Ministry of Health and Population Development
 
 ## HMS Implementation Status
 

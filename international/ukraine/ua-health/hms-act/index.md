@@ -1,4 +1,4 @@
-# HMS-ACT for ua_Health
+# HMS-ACT for ua-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Agent Collaboration Tools
 
 ## Integration Points
 
-This document outlines how HMS-ACT is integrated with ua_Health systems in Ukraine.
+This document outlines how HMS-ACT is integrated with ua-health systems in Ukraine.

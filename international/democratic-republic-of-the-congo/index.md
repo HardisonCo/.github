@@ -2,7 +2,7 @@
 
 ## Agencies
 
-- [cd_Health](cd_Health/index.md) - Ministère de la Santé Publique
+- [cd-health](cd-health/index.md) - Ministère de la Santé Publique
 
 ## HMS Implementation Status
 

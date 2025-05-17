@@ -1,4 +1,4 @@
-# HMS-FLD for sd_Health
+# HMS-FLD for sd-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Field Data Collection
 
 ## Integration Points
 
-This document outlines how HMS-FLD is integrated with sd_Health systems in Sudan.
+This document outlines how HMS-FLD is integrated with sd-health systems in Sudan.

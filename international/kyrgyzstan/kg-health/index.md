@@ -1,4 +1,4 @@
-# kg_Health - Kyrgyzstan Health Agency
+# kg-health - Kyrgyzstan Health Agency
 
 ## Ministry of Health of the Kyrgyz Republic
 

@@ -1,4 +1,4 @@
-# HMS-MFE for at_Health
+# HMS-MFE for at-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Micro Frontend Engine
 
 ## Integration Points
 
-This document outlines how HMS-MFE is integrated with at_Health systems in Austria.
+This document outlines how HMS-MFE is integrated with at-health systems in Austria.

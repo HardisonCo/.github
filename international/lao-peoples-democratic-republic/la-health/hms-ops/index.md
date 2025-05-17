@@ -1,4 +1,4 @@
-# HMS-OPS for la_Health
+# HMS-OPS for la-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Operations Management
 
 ## Integration Points
 
-This document outlines how HMS-OPS is integrated with la_Health systems in Lao People's Democratic Republic.
+This document outlines how HMS-OPS is integrated with la-health systems in Lao People's Democratic Republic.

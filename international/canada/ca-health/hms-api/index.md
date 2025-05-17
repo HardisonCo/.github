@@ -1,4 +1,4 @@
-# HMS-API for ca_Health
+# HMS-API for ca-health
 
 ## Description
 
@@ -6,4 +6,4 @@ API Services
 
 ## Integration Points
 
-This document outlines how HMS-API is integrated with ca_Health systems in Canada.
+This document outlines how HMS-API is integrated with ca-health systems in Canada.

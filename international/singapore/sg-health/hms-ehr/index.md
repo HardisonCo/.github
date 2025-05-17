@@ -1,4 +1,4 @@
-# HMS-EHR for sg_Health
+# HMS-EHR for sg-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Electronic Health Records
 
 ## Integration Points
 
-This document outlines how HMS-EHR is integrated with sg_Health systems in Singapore.
+This document outlines how HMS-EHR is integrated with sg-health systems in Singapore.

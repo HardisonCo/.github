@@ -1,4 +1,4 @@
-# HMS-ESR for zm_Health
+# HMS-ESR for zm-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Economic System Representation
 
 ## Integration Points
 
-This document outlines how HMS-ESR is integrated with zm_Health systems in Zambia.
+This document outlines how HMS-ESR is integrated with zm-health systems in Zambia.

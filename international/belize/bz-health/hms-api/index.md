@@ -1,4 +1,4 @@
-# HMS-API for bz_Health
+# HMS-API for bz-health
 
 ## Description
 
@@ -6,4 +6,4 @@ API Services
 
 ## Integration Points
 
-This document outlines how HMS-API is integrated with bz_Health systems in Belize.
+This document outlines how HMS-API is integrated with bz-health systems in Belize.

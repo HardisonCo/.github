@@ -1,4 +1,4 @@
-# HMS-CDF for my_Health
+# HMS-CDF for my-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Collaborative Decision Framework
 
 ## Integration Points
 
-This document outlines how HMS-CDF is integrated with my_Health systems in Malaysia.
+This document outlines how HMS-CDF is integrated with my-health systems in Malaysia.

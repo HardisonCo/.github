@@ -1,4 +1,4 @@
-# HMS-OMS for ga_Health
+# HMS-OMS for ga-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Order Management System
 
 ## Integration Points
 
-This document outlines how HMS-OMS is integrated with ga_Health systems in Gabon.
+This document outlines how HMS-OMS is integrated with ga-health systems in Gabon.

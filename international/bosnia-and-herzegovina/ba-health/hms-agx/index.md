@@ -1,4 +1,4 @@
-# HMS-AGX for ba_Health
+# HMS-AGX for ba-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Advanced Graph Experience
 
 ## Integration Points
 
-This document outlines how HMS-AGX is integrated with ba_Health systems in Bosnia and Herzegovina.
+This document outlines how HMS-AGX is integrated with ba-health systems in Bosnia and Herzegovina.

@@ -1,4 +1,4 @@
-# HMS-EHR for bh_Health
+# HMS-EHR for bh-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Electronic Health Records
 
 ## Integration Points
 
-This document outlines how HMS-EHR is integrated with bh_Health systems in Bahrain.
+This document outlines how HMS-EHR is integrated with bh-health systems in Bahrain.

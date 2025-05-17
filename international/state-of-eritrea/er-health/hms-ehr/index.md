@@ -1,4 +1,4 @@
-# HMS-EHR for er_Health
+# HMS-EHR for er-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Electronic Health Records
 
 ## Integration Points
 
-This document outlines how HMS-EHR is integrated with er_Health systems in State of Eritrea.
+This document outlines how HMS-EHR is integrated with er-health systems in State of Eritrea.

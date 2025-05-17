@@ -1,4 +1,4 @@
-# mr_Health - Islamic Republic of Mauritania Health Agency
+# mr-health - Islamic Republic of Mauritania Health Agency
 
 ## Ministry of Health and Social Affairs
 

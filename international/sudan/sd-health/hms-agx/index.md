@@ -1,4 +1,4 @@
-# HMS-AGX for sd_Health
+# HMS-AGX for sd-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Advanced Graph Experience
 
 ## Integration Points
 
-This document outlines how HMS-AGX is integrated with sd_Health systems in Sudan.
+This document outlines how HMS-AGX is integrated with sd-health systems in Sudan.

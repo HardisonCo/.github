@@ -1,4 +1,4 @@
-# HMS-EHR for cy_Health
+# HMS-EHR for cy-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Electronic Health Records
 
 ## Integration Points
 
-This document outlines how HMS-EHR is integrated with cy_Health systems in Cyprus.
+This document outlines how HMS-EHR is integrated with cy-health systems in Cyprus.

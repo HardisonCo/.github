@@ -1,4 +1,4 @@
-# HMS-A2A for so_Health
+# HMS-A2A for so-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Agent-to-Agent Communication System
 
 ## Integration Points
 
-This document outlines how HMS-A2A is integrated with so_Health systems in Somalia.
+This document outlines how HMS-A2A is integrated with so-health systems in Somalia.

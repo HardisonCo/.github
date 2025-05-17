@@ -2,7 +2,7 @@
 
 ## Agencies
 
-- [do_Health](do_Health/index.md) - Ministerio de Salud Pública
+- [do-health](do-health/index.md) - Ministerio de Salud Pública
 
 ## HMS Implementation Status
 

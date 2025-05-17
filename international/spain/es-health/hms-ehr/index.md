@@ -1,4 +1,4 @@
-# HMS-EHR for es_Health
+# HMS-EHR for es-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Electronic Health Records
 
 ## Integration Points
 
-This document outlines how HMS-EHR is integrated with es_Health systems in Spain.
+This document outlines how HMS-EHR is integrated with es-health systems in Spain.

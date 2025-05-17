@@ -1,4 +1,4 @@
-# HMS-SKL for gb_Health
+# HMS-SKL for gb-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Skills Management
 
 ## Integration Points
 
-This document outlines how HMS-SKL is integrated with gb_Health systems in United Kingdom.
+This document outlines how HMS-SKL is integrated with gb-health systems in United Kingdom.

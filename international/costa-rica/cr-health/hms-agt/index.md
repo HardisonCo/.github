@@ -1,4 +1,4 @@
-# HMS-AGT for cr_Health
+# HMS-AGT for cr-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Agent Tooling
 
 ## Integration Points
 
-This document outlines how HMS-AGT is integrated with cr_Health systems in Costa Rica.
+This document outlines how HMS-AGT is integrated with cr-health systems in Costa Rica.

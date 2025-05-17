@@ -1,4 +1,4 @@
-# HMS-API for fm_Health
+# HMS-API for fm-health
 
 ## Description
 
@@ -6,4 +6,4 @@ API Services
 
 ## Integration Points
 
-This document outlines how HMS-API is integrated with fm_Health systems in Federated States of Micronesia.
+This document outlines how HMS-API is integrated with fm-health systems in Federated States of Micronesia.

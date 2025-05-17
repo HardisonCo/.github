@@ -1,4 +1,4 @@
-# HMS-CDF for pl_Health
+# HMS-CDF for pl-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Collaborative Decision Framework
 
 ## Integration Points
 
-This document outlines how HMS-CDF is integrated with pl_Health systems in Poland.
+This document outlines how HMS-CDF is integrated with pl-health systems in Poland.

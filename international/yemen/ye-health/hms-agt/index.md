@@ -1,4 +1,4 @@
-# HMS-AGT for ye_Health
+# HMS-AGT for ye-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Agent Tooling
 
 ## Integration Points
 
-This document outlines how HMS-AGT is integrated with ye_Health systems in Yemen.
+This document outlines how HMS-AGT is integrated with ye-health systems in Yemen.

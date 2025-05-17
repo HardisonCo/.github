@@ -1,4 +1,4 @@
-# HMS-EMR for bj_Health
+# HMS-EMR for bj-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Electronic Medical Records
 
 ## Integration Points
 
-This document outlines how HMS-EMR is integrated with bj_Health systems in Benin.
+This document outlines how HMS-EMR is integrated with bj-health systems in Benin.

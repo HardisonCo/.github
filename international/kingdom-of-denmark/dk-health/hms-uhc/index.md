@@ -1,4 +1,4 @@
-# HMS-UHC for dk_Health
+# HMS-UHC for dk-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Universal Healthcare Components
 
 ## Integration Points
 
-This document outlines how HMS-UHC is integrated with dk_Health systems in Kingdom of Denmark.
+This document outlines how HMS-UHC is integrated with dk-health systems in Kingdom of Denmark.

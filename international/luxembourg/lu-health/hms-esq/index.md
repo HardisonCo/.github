@@ -1,4 +1,4 @@
-# HMS-ESQ for lu_Health
+# HMS-ESQ for lu-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Enhanced System Quality
 
 ## Integration Points
 
-This document outlines how HMS-ESQ is integrated with lu_Health systems in Luxembourg.
+This document outlines how HMS-ESQ is integrated with lu-health systems in Luxembourg.

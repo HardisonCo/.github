@@ -1,4 +1,4 @@
-# HMS-LLM for eg_Health
+# HMS-LLM for eg-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Large Language Model Operations Platform
 
 ## Integration Points
 
-This document outlines how HMS-LLM is integrated with eg_Health systems in Arab Republic of Egypt.
+This document outlines how HMS-LLM is integrated with eg-health systems in Arab Republic of Egypt.

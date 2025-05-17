@@ -1,4 +1,4 @@
-# fr_Health - France Health Agency
+# fr-health - France Health Agency
 
 ## Ministry of Solidarity and Health
 

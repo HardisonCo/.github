@@ -1,4 +1,4 @@
-# HMS-EMR for ee_Health
+# HMS-EMR for ee-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Electronic Medical Records
 
 ## Integration Points
 
-This document outlines how HMS-EMR is integrated with ee_Health systems in Estonia.
+This document outlines how HMS-EMR is integrated with ee-health systems in Estonia.

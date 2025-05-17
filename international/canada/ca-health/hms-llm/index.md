@@ -1,4 +1,4 @@
-# HMS-LLM for ca_Health
+# HMS-LLM for ca-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Large Language Model Operations Platform
 
 ## Integration Points
 
-This document outlines how HMS-LLM is integrated with ca_Health systems in Canada.
+This document outlines how HMS-LLM is integrated with ca-health systems in Canada.

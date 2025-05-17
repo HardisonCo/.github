@@ -1,4 +1,4 @@
-# HMS-AGX for dz_Health
+# HMS-AGX for dz-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Advanced Graph Experience
 
 ## Integration Points
 
-This document outlines how HMS-AGX is integrated with dz_Health systems in Algeria.
+This document outlines how HMS-AGX is integrated with dz-health systems in Algeria.

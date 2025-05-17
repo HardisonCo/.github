@@ -1,4 +1,4 @@
-# HMS-ESQ for mz_Health
+# HMS-ESQ for mz-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Enhanced System Quality
 
 ## Integration Points
 
-This document outlines how HMS-ESQ is integrated with mz_Health systems in Mozambique.
+This document outlines how HMS-ESQ is integrated with mz-health systems in Mozambique.

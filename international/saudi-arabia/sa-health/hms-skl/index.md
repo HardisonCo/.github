@@ -1,4 +1,4 @@
-# HMS-SKL for sa_Health
+# HMS-SKL for sa-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Skills Management
 
 ## Integration Points
 
-This document outlines how HMS-SKL is integrated with sa_Health systems in Saudi Arabia.
+This document outlines how HMS-SKL is integrated with sa-health systems in Saudi Arabia.

@@ -1,4 +1,4 @@
-# HMS-FLD for bb_Health
+# HMS-FLD for bb-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Field Data Collection
 
 ## Integration Points
 
-This document outlines how HMS-FLD is integrated with bb_Health systems in Barbados.
+This document outlines how HMS-FLD is integrated with bb-health systems in Barbados.

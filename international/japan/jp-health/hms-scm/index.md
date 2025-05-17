@@ -1,4 +1,4 @@
-# HMS-SCM for jp_Health
+# HMS-SCM for jp-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Supply Chain Management
 
 ## Integration Points
 
-This document outlines how HMS-SCM is integrated with jp_Health systems in Japan.
+This document outlines how HMS-SCM is integrated with jp-health systems in Japan.

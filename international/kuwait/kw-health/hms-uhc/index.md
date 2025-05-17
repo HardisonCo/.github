@@ -1,4 +1,4 @@
-# HMS-UHC for kw_Health
+# HMS-UHC for kw-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Universal Healthcare Components
 
 ## Integration Points
 
-This document outlines how HMS-UHC is integrated with kw_Health systems in Kuwait.
+This document outlines how HMS-UHC is integrated with kw-health systems in Kuwait.

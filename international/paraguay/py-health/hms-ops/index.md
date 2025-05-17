@@ -1,4 +1,4 @@
-# HMS-OPS for py_Health
+# HMS-OPS for py-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Operations Management
 
 ## Integration Points
 
-This document outlines how HMS-OPS is integrated with py_Health systems in Paraguay.
+This document outlines how HMS-OPS is integrated with py-health systems in Paraguay.

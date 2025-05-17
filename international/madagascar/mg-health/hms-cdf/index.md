@@ -1,4 +1,4 @@
-# HMS-CDF for mg_Health
+# HMS-CDF for mg-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Collaborative Decision Framework
 
 ## Integration Points
 
-This document outlines how HMS-CDF is integrated with mg_Health systems in Madagascar.
+This document outlines how HMS-CDF is integrated with mg-health systems in Madagascar.

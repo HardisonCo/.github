@@ -1,4 +1,4 @@
-# HMS-DEV for me_Health
+# HMS-DEV for me-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Development Framework
 
 ## Integration Points
 
-This document outlines how HMS-DEV is integrated with me_Health systems in Montenegro.
+This document outlines how HMS-DEV is integrated with me-health systems in Montenegro.

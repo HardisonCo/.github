@@ -1,4 +1,4 @@
-# HMS-ACT for ca_Health
+# HMS-ACT for ca-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Agent Collaboration Tools
 
 ## Integration Points
 
-This document outlines how HMS-ACT is integrated with ca_Health systems in Canada.
+This document outlines how HMS-ACT is integrated with ca-health systems in Canada.

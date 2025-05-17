@@ -1,4 +1,4 @@
-# HMS-MFE for bs_Health
+# HMS-MFE for bs-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Micro Frontend Engine
 
 ## Integration Points
 
-This document outlines how HMS-MFE is integrated with bs_Health systems in Bahamas.
+This document outlines how HMS-MFE is integrated with bs-health systems in Bahamas.

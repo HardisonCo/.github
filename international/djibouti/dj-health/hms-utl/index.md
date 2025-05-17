@@ -1,4 +1,4 @@
-# HMS-UTL for dj_Health
+# HMS-UTL for dj-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Utilities
 
 ## Integration Points
 
-This document outlines how HMS-UTL is integrated with dj_Health systems in Djibouti.
+This document outlines how HMS-UTL is integrated with dj-health systems in Djibouti.

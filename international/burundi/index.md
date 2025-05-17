@@ -2,7 +2,7 @@
 
 ## Agencies
 
-- [bi_Health](bi_Health/index.md) - Ministry of Public Health and Fight against AIDS
+- [bi-health](bi-health/index.md) - Ministry of Public Health and Fight against AIDS
 
 ## HMS Implementation Status
 

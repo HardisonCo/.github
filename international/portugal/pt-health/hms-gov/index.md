@@ -1,4 +1,4 @@
-# HMS-GOV for pt_Health
+# HMS-GOV for pt-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Governance Framework
 
 ## Integration Points
 
-This document outlines how HMS-GOV is integrated with pt_Health systems in Portugal.
+This document outlines how HMS-GOV is integrated with pt-health systems in Portugal.

@@ -1,4 +1,4 @@
-# HMS-AGT for lc_Health
+# HMS-AGT for lc-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Agent Tooling
 
 ## Integration Points
 
-This document outlines how HMS-AGT is integrated with lc_Health systems in Saint Lucia.
+This document outlines how HMS-AGT is integrated with lc-health systems in Saint Lucia.

@@ -1,4 +1,4 @@
-# HMS-OMS for lb_Health
+# HMS-OMS for lb-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Order Management System
 
 ## Integration Points
 
-This document outlines how HMS-OMS is integrated with lb_Health systems in Lebanon.
+This document outlines how HMS-OMS is integrated with lb-health systems in Lebanon.

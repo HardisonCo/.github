@@ -1,4 +1,4 @@
-# HMS-MFE for sn_Health
+# HMS-MFE for sn-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Micro Frontend Engine
 
 ## Integration Points
 
-This document outlines how HMS-MFE is integrated with sn_Health systems in Senegal.
+This document outlines how HMS-MFE is integrated with sn-health systems in Senegal.

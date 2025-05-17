@@ -1,4 +1,4 @@
-# HMS-MKT for mg_Health
+# HMS-MKT for mg-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Market Analytics
 
 ## Integration Points
 
-This document outlines how HMS-MKT is integrated with mg_Health systems in Madagascar.
+This document outlines how HMS-MKT is integrated with mg-health systems in Madagascar.

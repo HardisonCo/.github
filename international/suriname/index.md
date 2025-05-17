@@ -2,7 +2,7 @@
 
 ## Agencies
 
-- [sr_Health](sr_Health/index.md) - Ministry of Health, Environment and Sport
+- [sr-health](sr-health/index.md) - Ministry of Health, Environment and Sport
 
 ## HMS Implementation Status
 

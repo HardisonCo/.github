@@ -1,4 +1,4 @@
-# HMS-ACH for cd_Health
+# HMS-ACH for cd-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Automated Clearing House
 
 ## Integration Points
 
-This document outlines how HMS-ACH is integrated with cd_Health systems in Democratic Republic of the Congo.
+This document outlines how HMS-ACH is integrated with cd-health systems in Democratic Republic of the Congo.

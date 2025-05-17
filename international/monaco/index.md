@@ -2,7 +2,7 @@
 
 ## Agencies
 
-- [mc_Health](mc_Health/index.md) - Department of Health and Social Affairs
+- [mc-health](mc-health/index.md) - Department of Health and Social Affairs
 
 ## HMS Implementation Status
 

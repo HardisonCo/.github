@@ -1,4 +1,4 @@
-# HMS-SME for vu_Health
+# HMS-SME for vu-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Subject Matter Expertise
 
 ## Integration Points
 
-This document outlines how HMS-SME is integrated with vu_Health systems in Vanuatu.
+This document outlines how HMS-SME is integrated with vu-health systems in Vanuatu.

@@ -1,4 +1,4 @@
-# HMS-ESR for lk_Health
+# HMS-ESR for lk-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Economic System Representation
 
 ## Integration Points
 
-This document outlines how HMS-ESR is integrated with lk_Health systems in Sri Lanka.
+This document outlines how HMS-ESR is integrated with lk-health systems in Sri Lanka.

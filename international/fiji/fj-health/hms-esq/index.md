@@ -1,4 +1,4 @@
-# HMS-ESQ for fj_Health
+# HMS-ESQ for fj-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Enhanced System Quality
 
 ## Integration Points
 
-This document outlines how HMS-ESQ is integrated with fj_Health systems in Fiji.
+This document outlines how HMS-ESQ is integrated with fj-health systems in Fiji.

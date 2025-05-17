@@ -1,4 +1,4 @@
-# mn_Health - Mongolia Health Agency
+# mn-health - Mongolia Health Agency
 
 ## Ministry of Health
 

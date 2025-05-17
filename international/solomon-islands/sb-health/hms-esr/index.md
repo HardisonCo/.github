@@ -1,4 +1,4 @@
-# HMS-ESR for sb_Health
+# HMS-ESR for sb-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Economic System Representation
 
 ## Integration Points
 
-This document outlines how HMS-ESR is integrated with sb_Health systems in Solomon Islands.
+This document outlines how HMS-ESR is integrated with sb-health systems in Solomon Islands.

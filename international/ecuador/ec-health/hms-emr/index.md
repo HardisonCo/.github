@@ -1,4 +1,4 @@
-# HMS-EMR for ec_Health
+# HMS-EMR for ec-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Electronic Medical Records
 
 ## Integration Points
 
-This document outlines how HMS-EMR is integrated with ec_Health systems in Ecuador.
+This document outlines how HMS-EMR is integrated with ec-health systems in Ecuador.

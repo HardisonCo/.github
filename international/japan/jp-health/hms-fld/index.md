@@ -1,4 +1,4 @@
-# HMS-FLD for jp_Health
+# HMS-FLD for jp-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Field Data Collection
 
 ## Integration Points
 
-This document outlines how HMS-FLD is integrated with jp_Health systems in Japan.
+This document outlines how HMS-FLD is integrated with jp-health systems in Japan.

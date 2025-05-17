@@ -1,4 +1,4 @@
-# HMS-DEV for sl_Health
+# HMS-DEV for sl-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Development Framework
 
 ## Integration Points
 
-This document outlines how HMS-DEV is integrated with sl_Health systems in Sierra Leone.
+This document outlines how HMS-DEV is integrated with sl-health systems in Sierra Leone.

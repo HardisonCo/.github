@@ -1,4 +1,4 @@
-# HMS-OMS for dm_Health
+# HMS-OMS for dm-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Order Management System
 
 ## Integration Points
 
-This document outlines how HMS-OMS is integrated with dm_Health systems in Dominica.
+This document outlines how HMS-OMS is integrated with dm-health systems in Dominica.

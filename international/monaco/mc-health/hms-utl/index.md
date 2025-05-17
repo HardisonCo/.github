@@ -1,4 +1,4 @@
-# HMS-UTL for mc_Health
+# HMS-UTL for mc-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Utilities
 
 ## Integration Points
 
-This document outlines how HMS-UTL is integrated with mc_Health systems in Monaco.
+This document outlines how HMS-UTL is integrated with mc-health systems in Monaco.

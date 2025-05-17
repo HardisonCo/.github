@@ -1,4 +1,4 @@
-# HMS-A2A for kg_Health
+# HMS-A2A for kg-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Agent-to-Agent Communication System
 
 ## Integration Points
 
-This document outlines how HMS-A2A is integrated with kg_Health systems in Kyrgyzstan.
+This document outlines how HMS-A2A is integrated with kg-health systems in Kyrgyzstan.

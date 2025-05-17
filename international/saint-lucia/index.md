@@ -2,7 +2,7 @@
 
 ## Agencies
 
-- [lc_Health](lc_Health/index.md) - Ministry of Health
+- [lc-health](lc-health/index.md) - Ministry of Health
 
 ## HMS Implementation Status
 

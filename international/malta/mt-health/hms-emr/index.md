@@ -1,4 +1,4 @@
-# HMS-EMR for mt_Health
+# HMS-EMR for mt-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Electronic Medical Records
 
 ## Integration Points
 
-This document outlines how HMS-EMR is integrated with mt_Health systems in Malta.
+This document outlines how HMS-EMR is integrated with mt-health systems in Malta.

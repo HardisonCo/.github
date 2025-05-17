@@ -1,4 +1,4 @@
-# HMS-FLD for az_Health
+# HMS-FLD for az-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Field Data Collection
 
 ## Integration Points
 
-This document outlines how HMS-FLD is integrated with az_Health systems in Azerbaijan.
+This document outlines how HMS-FLD is integrated with az-health systems in Azerbaijan.

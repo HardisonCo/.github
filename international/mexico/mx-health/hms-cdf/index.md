@@ -1,4 +1,4 @@
-# HMS-CDF for mx_Health
+# HMS-CDF for mx-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Collaborative Decision Framework
 
 ## Integration Points
 
-This document outlines how HMS-CDF is integrated with mx_Health systems in Mexico.
+This document outlines how HMS-CDF is integrated with mx-health systems in Mexico.

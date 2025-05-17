@@ -1,4 +1,4 @@
-# HMS-NFO for cd_Health
+# HMS-NFO for cd-health
 
 ## Description
 
@@ -6,4 +6,4 @@ National Financial Organizations
 
 ## Integration Points
 
-This document outlines how HMS-NFO is integrated with cd_Health systems in Democratic Republic of the Congo.
+This document outlines how HMS-NFO is integrated with cd-health systems in Democratic Republic of the Congo.

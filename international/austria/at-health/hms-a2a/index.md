@@ -1,4 +1,4 @@
-# HMS-A2A for at_Health
+# HMS-A2A for at-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Agent-to-Agent Communication System
 
 ## Integration Points
 
-This document outlines how HMS-A2A is integrated with at_Health systems in Austria.
+This document outlines how HMS-A2A is integrated with at-health systems in Austria.

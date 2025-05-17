@@ -1,4 +1,4 @@
-# HMS-FLD for in_Health
+# HMS-FLD for in-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Field Data Collection
 
 ## Integration Points
 
-This document outlines how HMS-FLD is integrated with in_Health systems in India.
+This document outlines how HMS-FLD is integrated with in-health systems in India.

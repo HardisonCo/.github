@@ -1,4 +1,4 @@
-# HMS-MCP for ec_Health
+# HMS-MCP for ec-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Model-Compute-Publish
 
 ## Integration Points
 
-This document outlines how HMS-MCP is integrated with ec_Health systems in Ecuador.
+This document outlines how HMS-MCP is integrated with ec-health systems in Ecuador.

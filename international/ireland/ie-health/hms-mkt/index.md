@@ -1,4 +1,4 @@
-# HMS-MKT for ie_Health
+# HMS-MKT for ie-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Market Analytics
 
 ## Integration Points
 
-This document outlines how HMS-MKT is integrated with ie_Health systems in Ireland.
+This document outlines how HMS-MKT is integrated with ie-health systems in Ireland.

@@ -1,4 +1,4 @@
-# HMS-SME for gm_Health
+# HMS-SME for gm-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Subject Matter Expertise
 
 ## Integration Points
 
-This document outlines how HMS-SME is integrated with gm_Health systems in Gambia.
+This document outlines how HMS-SME is integrated with gm-health systems in Gambia.

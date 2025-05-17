@@ -1,4 +1,4 @@
-# HMS-OMS for sk_Health
+# HMS-OMS for sk-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Order Management System
 
 ## Integration Points
 
-This document outlines how HMS-OMS is integrated with sk_Health systems in Slovakia.
+This document outlines how HMS-OMS is integrated with sk-health systems in Slovakia.

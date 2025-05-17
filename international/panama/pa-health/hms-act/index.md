@@ -1,4 +1,4 @@
-# HMS-ACT for pa_Health
+# HMS-ACT for pa-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Agent Collaboration Tools
 
 ## Integration Points
 
-This document outlines how HMS-ACT is integrated with pa_Health systems in Panama.
+This document outlines how HMS-ACT is integrated with pa-health systems in Panama.

@@ -1,4 +1,4 @@
-# HMS-OPS for ci_Health
+# HMS-OPS for ci-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Operations Management
 
 ## Integration Points
 
-This document outlines how HMS-OPS is integrated with ci_Health systems in Côte d'Ivoire.
+This document outlines how HMS-OPS is integrated with ci-health systems in Côte d'Ivoire.

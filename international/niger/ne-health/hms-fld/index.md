@@ -1,4 +1,4 @@
-# HMS-FLD for ne_Health
+# HMS-FLD for ne-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Field Data Collection
 
 ## Integration Points
 
-This document outlines how HMS-FLD is integrated with ne_Health systems in Niger.
+This document outlines how HMS-FLD is integrated with ne-health systems in Niger.

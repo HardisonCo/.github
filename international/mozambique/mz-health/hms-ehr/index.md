@@ -1,4 +1,4 @@
-# HMS-EHR for mz_Health
+# HMS-EHR for mz-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Electronic Health Records
 
 ## Integration Points
 
-This document outlines how HMS-EHR is integrated with mz_Health systems in Mozambique.
+This document outlines how HMS-EHR is integrated with mz-health systems in Mozambique.

@@ -1,4 +1,4 @@
-# HMS-ABC for pa_Health
+# HMS-ABC for pa-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Adaptive Business Capabilities
 
 ## Integration Points
 
-This document outlines how HMS-ABC is integrated with pa_Health systems in Panama.
+This document outlines how HMS-ABC is integrated with pa-health systems in Panama.

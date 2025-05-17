@@ -1,4 +1,4 @@
-# HMS-UTL for gd_Health
+# HMS-UTL for gd-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Utilities
 
 ## Integration Points
 
-This document outlines how HMS-UTL is integrated with gd_Health systems in Grenada.
+This document outlines how HMS-UTL is integrated with gd-health systems in Grenada.

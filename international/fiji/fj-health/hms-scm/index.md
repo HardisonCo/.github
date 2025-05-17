@@ -1,4 +1,4 @@
-# HMS-SCM for fj_Health
+# HMS-SCM for fj-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Supply Chain Management
 
 ## Integration Points
 
-This document outlines how HMS-SCM is integrated with fj_Health systems in Fiji.
+This document outlines how HMS-SCM is integrated with fj-health systems in Fiji.

@@ -2,7 +2,7 @@
 
 ## Agencies
 
-- [ht_Health](ht_Health/index.md) - Ministère de la Santé Publique et de la Population
+- [ht-health](ht-health/index.md) - Ministère de la Santé Publique et de la Population
 
 ## HMS Implementation Status
 

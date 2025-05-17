@@ -1,4 +1,4 @@
-# pw_Health - Palau Health Agency
+# pw-health - Palau Health Agency
 
 ## Ministry of Health
 

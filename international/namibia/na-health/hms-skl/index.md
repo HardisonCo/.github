@@ -1,4 +1,4 @@
-# HMS-SKL for na_Health
+# HMS-SKL for na-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Skills Management
 
 ## Integration Points
 
-This document outlines how HMS-SKL is integrated with na_Health systems in Namibia.
+This document outlines how HMS-SKL is integrated with na-health systems in Namibia.

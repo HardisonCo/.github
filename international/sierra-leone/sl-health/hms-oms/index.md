@@ -1,4 +1,4 @@
-# HMS-OMS for sl_Health
+# HMS-OMS for sl-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Order Management System
 
 ## Integration Points
 
-This document outlines how HMS-OMS is integrated with sl_Health systems in Sierra Leone.
+This document outlines how HMS-OMS is integrated with sl-health systems in Sierra Leone.

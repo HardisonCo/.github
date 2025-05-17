@@ -1,4 +1,4 @@
-# HMS-AGX for is_Health
+# HMS-AGX for is-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Advanced Graph Experience
 
 ## Integration Points
 
-This document outlines how HMS-AGX is integrated with is_Health systems in Iceland.
+This document outlines how HMS-AGX is integrated with is-health systems in Iceland.

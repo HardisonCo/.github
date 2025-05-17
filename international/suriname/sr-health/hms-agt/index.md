@@ -1,4 +1,4 @@
-# HMS-AGT for sr_Health
+# HMS-AGT for sr-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Agent Tooling
 
 ## Integration Points
 
-This document outlines how HMS-AGT is integrated with sr_Health systems in Suriname.
+This document outlines how HMS-AGT is integrated with sr-health systems in Suriname.

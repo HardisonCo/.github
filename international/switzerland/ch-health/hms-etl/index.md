@@ -1,4 +1,4 @@
-# HMS-ETL for ch_Health
+# HMS-ETL for ch-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Extract, Transform, Load
 
 ## Integration Points
 
-This document outlines how HMS-ETL is integrated with ch_Health systems in Switzerland.
+This document outlines how HMS-ETL is integrated with ch-health systems in Switzerland.

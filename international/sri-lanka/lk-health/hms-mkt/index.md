@@ -1,4 +1,4 @@
-# HMS-MKT for lk_Health
+# HMS-MKT for lk-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Market Analytics
 
 ## Integration Points
 
-This document outlines how HMS-MKT is integrated with lk_Health systems in Sri Lanka.
+This document outlines how HMS-MKT is integrated with lk-health systems in Sri Lanka.

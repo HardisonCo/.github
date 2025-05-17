@@ -1,4 +1,4 @@
-# HMS-DEV for mz_Health
+# HMS-DEV for mz-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Development Framework
 
 ## Integration Points
 
-This document outlines how HMS-DEV is integrated with mz_Health systems in Mozambique.
+This document outlines how HMS-DEV is integrated with mz-health systems in Mozambique.

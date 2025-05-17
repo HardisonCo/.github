@@ -1,4 +1,4 @@
-# gn_Health - Guinea Health Agency
+# gn-health - Guinea Health Agency
 
 ## Ministry of Health and Public Hygiene
 

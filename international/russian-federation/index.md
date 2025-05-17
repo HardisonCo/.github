@@ -2,7 +2,7 @@
 
 ## Agencies
 
-- [ru_Health](ru_Health/index.md) - Ministry of Health of the Russian Federation
+- [ru-health](ru-health/index.md) - Ministry of Health of the Russian Federation
 
 ## HMS Implementation Status
 

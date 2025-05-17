@@ -2,7 +2,7 @@
 
 ## Agencies
 
-- [gy_Health](gy_Health/index.md) - Ministry of Public Health
+- [gy-health](gy-health/index.md) - Ministry of Public Health
 
 ## HMS Implementation Status
 

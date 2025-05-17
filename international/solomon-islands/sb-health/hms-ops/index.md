@@ -1,4 +1,4 @@
-# HMS-OPS for sb_Health
+# HMS-OPS for sb-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Operations Management
 
 ## Integration Points
 
-This document outlines how HMS-OPS is integrated with sb_Health systems in Solomon Islands.
+This document outlines how HMS-OPS is integrated with sb-health systems in Solomon Islands.

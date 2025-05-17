@@ -1,4 +1,4 @@
-# HMS-SKL for by_Health
+# HMS-SKL for by-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Skills Management
 
 ## Integration Points
 
-This document outlines how HMS-SKL is integrated with by_Health systems in Belarus.
+This document outlines how HMS-SKL is integrated with by-health systems in Belarus.

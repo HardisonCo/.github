@@ -1,4 +1,4 @@
-# HMS-GOV for ee_Health
+# HMS-GOV for ee-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Governance Framework
 
 ## Integration Points
 
-This document outlines how HMS-GOV is integrated with ee_Health systems in Estonia.
+This document outlines how HMS-GOV is integrated with ee-health systems in Estonia.

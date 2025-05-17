@@ -1,4 +1,4 @@
-# HMS-ESR for in_Health
+# HMS-ESR for in-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Economic System Representation
 
 ## Integration Points
 
-This document outlines how HMS-ESR is integrated with in_Health systems in India.
+This document outlines how HMS-ESR is integrated with in-health systems in India.

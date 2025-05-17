@@ -1,4 +1,4 @@
-# na_Health - Namibia Health Agency
+# na-health - Namibia Health Agency
 
 ## Ministry of Health and Social Services
 

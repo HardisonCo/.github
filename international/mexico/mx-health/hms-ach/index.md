@@ -1,4 +1,4 @@
-# HMS-ACH for mx_Health
+# HMS-ACH for mx-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Automated Clearing House
 
 ## Integration Points
 
-This document outlines how HMS-ACH is integrated with mx_Health systems in Mexico.
+This document outlines how HMS-ACH is integrated with mx-health systems in Mexico.

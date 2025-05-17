@@ -1,4 +1,4 @@
-# HMS-DEV for mt_Health
+# HMS-DEV for mt-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Development Framework
 
 ## Integration Points
 
-This document outlines how HMS-DEV is integrated with mt_Health systems in Malta.
+This document outlines how HMS-DEV is integrated with mt-health systems in Malta.

@@ -2,7 +2,7 @@
 
 ## Agencies
 
-- [ch_Health](ch_Health/index.md) - Federal Office of Public Health
+- [ch-health](ch-health/index.md) - Federal Office of Public Health
 
 ## HMS Implementation Status
 

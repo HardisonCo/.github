@@ -1,4 +1,4 @@
-# HMS-AGT for gn_Health
+# HMS-AGT for gn-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Agent Tooling
 
 ## Integration Points
 
-This document outlines how HMS-AGT is integrated with gn_Health systems in Guinea.
+This document outlines how HMS-AGT is integrated with gn-health systems in Guinea.

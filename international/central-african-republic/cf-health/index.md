@@ -1,4 +1,4 @@
-# cf_Health - Central African Republic Health Agency
+# cf-health - Central African Republic Health Agency
 
 ## Ministry of Health, Population and Social Assurance
 

@@ -1,4 +1,4 @@
-# HMS-AGT for bw_Health
+# HMS-AGT for bw-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Agent Tooling
 
 ## Integration Points
 
-This document outlines how HMS-AGT is integrated with bw_Health systems in Botswana.
+This document outlines how HMS-AGT is integrated with bw-health systems in Botswana.

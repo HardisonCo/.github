@@ -1,4 +1,4 @@
-# HMS-DOC for ne_Health
+# HMS-DOC for ne-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Documentation System
 
 ## Integration Points
 
-This document outlines how HMS-DOC is integrated with ne_Health systems in Niger.
+This document outlines how HMS-DOC is integrated with ne-health systems in Niger.

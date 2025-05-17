@@ -1,4 +1,4 @@
-# HMS-MKT for cl_Health
+# HMS-MKT for cl-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Market Analytics
 
 ## Integration Points
 
-This document outlines how HMS-MKT is integrated with cl_Health systems in Chile.
+This document outlines how HMS-MKT is integrated with cl-health systems in Chile.

@@ -1,4 +1,4 @@
-# HMS-EDU for lk_Health
+# HMS-EDU for lk-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Education System
 
 ## Integration Points
 
-This document outlines how HMS-EDU is integrated with lk_Health systems in Sri Lanka.
+This document outlines how HMS-EDU is integrated with lk-health systems in Sri Lanka.

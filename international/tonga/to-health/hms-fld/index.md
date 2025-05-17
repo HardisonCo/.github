@@ -1,4 +1,4 @@
-# HMS-FLD for to_Health
+# HMS-FLD for to-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Field Data Collection
 
 ## Integration Points
 
-This document outlines how HMS-FLD is integrated with to_Health systems in Tonga.
+This document outlines how HMS-FLD is integrated with to-health systems in Tonga.

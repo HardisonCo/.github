@@ -1,4 +1,4 @@
-# HMS-UTL for tj_Health
+# HMS-UTL for tj-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Utilities
 
 ## Integration Points
 
-This document outlines how HMS-UTL is integrated with tj_Health systems in Tajikistan.
+This document outlines how HMS-UTL is integrated with tj-health systems in Tajikistan.

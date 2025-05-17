@@ -1,4 +1,4 @@
-# HMS-EMR for mn_Health
+# HMS-EMR for mn-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Electronic Medical Records
 
 ## Integration Points
 
-This document outlines how HMS-EMR is integrated with mn_Health systems in Mongolia.
+This document outlines how HMS-EMR is integrated with mn-health systems in Mongolia.

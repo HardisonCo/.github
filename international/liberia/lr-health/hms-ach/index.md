@@ -1,4 +1,4 @@
-# HMS-ACH for lr_Health
+# HMS-ACH for lr-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Automated Clearing House
 
 ## Integration Points
 
-This document outlines how HMS-ACH is integrated with lr_Health systems in Liberia.
+This document outlines how HMS-ACH is integrated with lr-health systems in Liberia.

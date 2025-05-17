@@ -1,4 +1,4 @@
-# HMS-UHC for dz_Health
+# HMS-UHC for dz-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Universal Healthcare Components
 
 ## Integration Points
 
-This document outlines how HMS-UHC is integrated with dz_Health systems in Algeria.
+This document outlines how HMS-UHC is integrated with dz-health systems in Algeria.

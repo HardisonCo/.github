@@ -1,4 +1,4 @@
-# HMS-ESR for py_Health
+# HMS-ESR for py-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Economic System Representation
 
 ## Integration Points
 
-This document outlines how HMS-ESR is integrated with py_Health systems in Paraguay.
+This document outlines how HMS-ESR is integrated with py-health systems in Paraguay.

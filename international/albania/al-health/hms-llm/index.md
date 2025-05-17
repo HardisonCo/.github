@@ -1,4 +1,4 @@
-# HMS-LLM for al_Health
+# HMS-LLM for al-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Large Language Model Operations Platform
 
 ## Integration Points
 
-This document outlines how HMS-LLM is integrated with al_Health systems in Albania.
+This document outlines how HMS-LLM is integrated with al-health systems in Albania.

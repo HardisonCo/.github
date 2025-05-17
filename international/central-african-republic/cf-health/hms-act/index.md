@@ -1,4 +1,4 @@
-# HMS-ACT for cf_Health
+# HMS-ACT for cf-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Agent Collaboration Tools
 
 ## Integration Points
 
-This document outlines how HMS-ACT is integrated with cf_Health systems in Central African Republic.
+This document outlines how HMS-ACT is integrated with cf-health systems in Central African Republic.

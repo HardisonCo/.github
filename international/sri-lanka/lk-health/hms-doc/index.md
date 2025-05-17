@@ -1,4 +1,4 @@
-# HMS-DOC for lk_Health
+# HMS-DOC for lk-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Documentation System
 
 ## Integration Points
 
-This document outlines how HMS-DOC is integrated with lk_Health systems in Sri Lanka.
+This document outlines how HMS-DOC is integrated with lk-health systems in Sri Lanka.

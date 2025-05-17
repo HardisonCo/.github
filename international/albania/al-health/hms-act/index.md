@@ -1,4 +1,4 @@
-# HMS-ACT for al_Health
+# HMS-ACT for al-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Agent Collaboration Tools
 
 ## Integration Points
 
-This document outlines how HMS-ACT is integrated with al_Health systems in Albania.
+This document outlines how HMS-ACT is integrated with al-health systems in Albania.

@@ -1,4 +1,4 @@
-# HMS-UTL for kn_Health
+# HMS-UTL for kn-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Utilities
 
 ## Integration Points
 
-This document outlines how HMS-UTL is integrated with kn_Health systems in Saint Kitts and Nevis.
+This document outlines how HMS-UTL is integrated with kn-health systems in Saint Kitts and Nevis.

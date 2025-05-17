@@ -1,4 +1,4 @@
-# HMS-OMS for zw_Health
+# HMS-OMS for zw-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Order Management System
 
 ## Integration Points
 
-This document outlines how HMS-OMS is integrated with zw_Health systems in Zimbabwe.
+This document outlines how HMS-OMS is integrated with zw-health systems in Zimbabwe.

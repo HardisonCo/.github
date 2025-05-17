@@ -1,4 +1,4 @@
-# HMS-UTL for cz_Health
+# HMS-UTL for cz-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Utilities
 
 ## Integration Points
 
-This document outlines how HMS-UTL is integrated with cz_Health systems in Czech Republic.
+This document outlines how HMS-UTL is integrated with cz-health systems in Czech Republic.

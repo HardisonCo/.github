@@ -2,7 +2,7 @@
 
 ## Agencies
 
-- [sl_Health](sl_Health/index.md) - Ministry of Health and Sanitation
+- [sl-health](sl-health/index.md) - Ministry of Health and Sanitation
 
 ## HMS Implementation Status
 

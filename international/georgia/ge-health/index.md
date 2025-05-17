@@ -1,4 +1,4 @@
-# ge_Health - Georgia Health Agency
+# ge-health - Georgia Health Agency
 
 ## Ministry of Labour, Health and Social Affairs
 

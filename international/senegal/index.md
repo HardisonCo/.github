@@ -2,7 +2,7 @@
 
 ## Agencies
 
-- [sn_Health](sn_Health/index.md) - Ministry of Health and Social Action
+- [sn-health](sn-health/index.md) - Ministry of Health and Social Action
 
 ## HMS Implementation Status
 

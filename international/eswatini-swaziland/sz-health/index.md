@@ -1,4 +1,4 @@
-# sz_Health - Eswatini (Swaziland) Health Agency
+# sz-health - Eswatini (Swaziland) Health Agency
 
 ## Ministry of Health and Social Welfare
 

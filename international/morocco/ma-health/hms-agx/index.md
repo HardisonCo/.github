@@ -1,4 +1,4 @@
-# HMS-AGX for ma_Health
+# HMS-AGX for ma-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Advanced Graph Experience
 
 ## Integration Points
 
-This document outlines how HMS-AGX is integrated with ma_Health systems in Morocco.
+This document outlines how HMS-AGX is integrated with ma-health systems in Morocco.

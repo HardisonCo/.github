@@ -2,7 +2,7 @@
 
 ## Agencies
 
-- [cu_Health](cu_Health/index.md) - Ministerio de Salud Pública
+- [cu-health](cu-health/index.md) - Ministerio de Salud Pública
 
 ## HMS Implementation Status
 

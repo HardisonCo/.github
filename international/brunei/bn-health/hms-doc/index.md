@@ -1,4 +1,4 @@
-# HMS-DOC for bn_Health
+# HMS-DOC for bn-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Documentation System
 
 ## Integration Points
 
-This document outlines how HMS-DOC is integrated with bn_Health systems in Brunei.
+This document outlines how HMS-DOC is integrated with bn-health systems in Brunei.

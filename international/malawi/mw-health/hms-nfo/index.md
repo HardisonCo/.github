@@ -1,4 +1,4 @@
-# HMS-NFO for mw_Health
+# HMS-NFO for mw-health
 
 ## Description
 
@@ -6,4 +6,4 @@ National Financial Organizations
 
 ## Integration Points
 
-This document outlines how HMS-NFO is integrated with mw_Health systems in Malawi.
+This document outlines how HMS-NFO is integrated with mw-health systems in Malawi.

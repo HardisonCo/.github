@@ -1,4 +1,4 @@
-# HMS-MFE for ca_Health
+# HMS-MFE for ca-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Micro Frontend Engine
 
 ## Integration Points
 
-This document outlines how HMS-MFE is integrated with ca_Health systems in Canada.
+This document outlines how HMS-MFE is integrated with ca-health systems in Canada.

@@ -1,4 +1,4 @@
-# HMS-ESR for bb_Health
+# HMS-ESR for bb-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Economic System Representation
 
 ## Integration Points
 
-This document outlines how HMS-ESR is integrated with bb_Health systems in Barbados.
+This document outlines how HMS-ESR is integrated with bb-health systems in Barbados.

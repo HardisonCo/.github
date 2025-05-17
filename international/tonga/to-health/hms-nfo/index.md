@@ -1,4 +1,4 @@
-# HMS-NFO for to_Health
+# HMS-NFO for to-health
 
 ## Description
 
@@ -6,4 +6,4 @@ National Financial Organizations
 
 ## Integration Points
 
-This document outlines how HMS-NFO is integrated with to_Health systems in Tonga.
+This document outlines how HMS-NFO is integrated with to-health systems in Tonga.

@@ -1,4 +1,4 @@
-# HMS-DEV for sg_Health
+# HMS-DEV for sg-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Development Framework
 
 ## Integration Points
 
-This document outlines how HMS-DEV is integrated with sg_Health systems in Singapore.
+This document outlines how HMS-DEV is integrated with sg-health systems in Singapore.

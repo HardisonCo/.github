@@ -1,4 +1,4 @@
-# fi_Health - Finland Health Agency
+# fi-health - Finland Health Agency
 
 ## Ministry of Social Affairs and Health
 

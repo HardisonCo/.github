@@ -1,4 +1,4 @@
-# HMS-UTL for is_Health
+# HMS-UTL for is-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Utilities
 
 ## Integration Points
 
-This document outlines how HMS-UTL is integrated with is_Health systems in Iceland.
+This document outlines how HMS-UTL is integrated with is-health systems in Iceland.

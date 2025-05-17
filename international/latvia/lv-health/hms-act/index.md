@@ -1,4 +1,4 @@
-# HMS-ACT for lv_Health
+# HMS-ACT for lv-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Agent Collaboration Tools
 
 ## Integration Points
 
-This document outlines how HMS-ACT is integrated with lv_Health systems in Latvia.
+This document outlines how HMS-ACT is integrated with lv-health systems in Latvia.

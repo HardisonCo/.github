@@ -1,4 +1,4 @@
-# HMS-MKT for sr_Health
+# HMS-MKT for sr-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Market Analytics
 
 ## Integration Points
 
-This document outlines how HMS-MKT is integrated with sr_Health systems in Suriname.
+This document outlines how HMS-MKT is integrated with sr-health systems in Suriname.

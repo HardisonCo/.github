@@ -1,4 +1,4 @@
-# HMS-API for bf_Health
+# HMS-API for bf-health
 
 ## Description
 
@@ -6,4 +6,4 @@ API Services
 
 ## Integration Points
 
-This document outlines how HMS-API is integrated with bf_Health systems in Burkina Faso.
+This document outlines how HMS-API is integrated with bf-health systems in Burkina Faso.

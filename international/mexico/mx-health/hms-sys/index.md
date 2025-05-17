@@ -1,4 +1,4 @@
-# HMS-SYS for mx_Health
+# HMS-SYS for mx-health
 
 ## Description
 
@@ -6,4 +6,4 @@ System Core
 
 ## Integration Points
 
-This document outlines how HMS-SYS is integrated with mx_Health systems in Mexico.
+This document outlines how HMS-SYS is integrated with mx-health systems in Mexico.

@@ -1,4 +1,4 @@
-# HMS-ACH for cf_Health
+# HMS-ACH for cf-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Automated Clearing House
 
 ## Integration Points
 
-This document outlines how HMS-ACH is integrated with cf_Health systems in Central African Republic.
+This document outlines how HMS-ACH is integrated with cf-health systems in Central African Republic.

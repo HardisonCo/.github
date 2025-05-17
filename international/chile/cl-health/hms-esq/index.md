@@ -1,4 +1,4 @@
-# HMS-ESQ for cl_Health
+# HMS-ESQ for cl-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Enhanced System Quality
 
 ## Integration Points
 
-This document outlines how HMS-ESQ is integrated with cl_Health systems in Chile.
+This document outlines how HMS-ESQ is integrated with cl-health systems in Chile.

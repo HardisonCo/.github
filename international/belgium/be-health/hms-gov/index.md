@@ -1,4 +1,4 @@
-# HMS-GOV for be_Health
+# HMS-GOV for be-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Governance Framework
 
 ## Integration Points
 
-This document outlines how HMS-GOV is integrated with be_Health systems in Belgium.
+This document outlines how HMS-GOV is integrated with be-health systems in Belgium.

@@ -1,4 +1,4 @@
-# HMS-MCP for ga_Health
+# HMS-MCP for ga-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Model-Compute-Publish
 
 ## Integration Points
 
-This document outlines how HMS-MCP is integrated with ga_Health systems in Gabon.
+This document outlines how HMS-MCP is integrated with ga-health systems in Gabon.

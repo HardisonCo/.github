@@ -1,4 +1,4 @@
-# HMS-RED for om_Health
+# HMS-RED for om-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Reactive Data Engine
 
 ## Integration Points
 
-This document outlines how HMS-RED is integrated with om_Health systems in Sultanate of Oman.
+This document outlines how HMS-RED is integrated with om-health systems in Sultanate of Oman.

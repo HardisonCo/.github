@@ -1,4 +1,4 @@
-# gq_Health - Equatorial Guinea Health Agency
+# gq-health - Equatorial Guinea Health Agency
 
 ## Ministerio de Salud Pública
 

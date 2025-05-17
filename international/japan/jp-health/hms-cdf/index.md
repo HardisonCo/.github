@@ -1,4 +1,4 @@
-# HMS-CDF for jp_Health
+# HMS-CDF for jp-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Collaborative Decision Framework
 
 ## Integration Points
 
-This document outlines how HMS-CDF is integrated with jp_Health systems in Japan.
+This document outlines how HMS-CDF is integrated with jp-health systems in Japan.

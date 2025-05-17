@@ -1,4 +1,4 @@
-# HMS-GOV for ss_Health
+# HMS-GOV for ss-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Governance Framework
 
 ## Integration Points
 
-This document outlines how HMS-GOV is integrated with ss_Health systems in South Sudan.
+This document outlines how HMS-GOV is integrated with ss-health systems in South Sudan.

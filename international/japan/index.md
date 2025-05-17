@@ -2,7 +2,7 @@
 
 ## Agencies
 
-- [jp_Health](jp_Health/index.md) - Ministry of Health, Labour and Welfare
+- [jp-health](jp-health/index.md) - Ministry of Health, Labour and Welfare
 
 ## HMS Implementation Status
 

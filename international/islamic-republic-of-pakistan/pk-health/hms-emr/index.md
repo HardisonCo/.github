@@ -1,4 +1,4 @@
-# HMS-EMR for pk_Health
+# HMS-EMR for pk-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Electronic Medical Records
 
 ## Integration Points
 
-This document outlines how HMS-EMR is integrated with pk_Health systems in Islamic Republic of Pakistan.
+This document outlines how HMS-EMR is integrated with pk-health systems in Islamic Republic of Pakistan.

@@ -1,4 +1,4 @@
-# gm_Health - Gambia Health Agency
+# gm-health - Gambia Health Agency
 
 ## Ministry of Health and Social Welfare
 

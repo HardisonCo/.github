@@ -1,4 +1,4 @@
-# is_Health - Iceland Health Agency
+# is-health - Iceland Health Agency
 
 ## Directorate of Health
 

@@ -2,7 +2,7 @@
 
 ## Agencies
 
-- [cn_Health](cn_Health/index.md) - National Health Commission of the People's Republic of China
+- [cn-health](cn-health/index.md) - National Health Commission of the People's Republic of China
 
 ## HMS Implementation Status
 

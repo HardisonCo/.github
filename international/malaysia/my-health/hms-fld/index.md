@@ -1,4 +1,4 @@
-# HMS-FLD for my_Health
+# HMS-FLD for my-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Field Data Collection
 
 ## Integration Points
 
-This document outlines how HMS-FLD is integrated with my_Health systems in Malaysia.
+This document outlines how HMS-FLD is integrated with my-health systems in Malaysia.

@@ -1,4 +1,4 @@
-# HMS-UHC for vn_Health
+# HMS-UHC for vn-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Universal Healthcare Components
 
 ## Integration Points
 
-This document outlines how HMS-UHC is integrated with vn_Health systems in Vietnam.
+This document outlines how HMS-UHC is integrated with vn-health systems in Vietnam.

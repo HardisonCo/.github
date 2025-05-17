@@ -1,4 +1,4 @@
-# HMS-LLM for bo_Health
+# HMS-LLM for bo-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Large Language Model Operations Platform
 
 ## Integration Points
 
-This document outlines how HMS-LLM is integrated with bo_Health systems in Bolivia.
+This document outlines how HMS-LLM is integrated with bo-health systems in Bolivia.

@@ -1,4 +1,4 @@
-# HMS-DEV for ir_Health
+# HMS-DEV for ir-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Development Framework
 
 ## Integration Points
 
-This document outlines how HMS-DEV is integrated with ir_Health systems in Islamic Republic of Iran.
+This document outlines how HMS-DEV is integrated with ir-health systems in Islamic Republic of Iran.

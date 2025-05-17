@@ -1,4 +1,4 @@
-# HMS-MKT for ar_Health
+# HMS-MKT for ar-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Market Analytics
 
 ## Integration Points
 
-This document outlines how HMS-MKT is integrated with ar_Health systems in Argentina.
+This document outlines how HMS-MKT is integrated with ar-health systems in Argentina.

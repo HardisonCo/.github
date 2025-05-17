@@ -1,4 +1,4 @@
-# rw_Health - Rwanda Health Agency
+# rw-health - Rwanda Health Agency
 
 ## Ministry of Health and Rwanda Biomedical Center
 

@@ -1,4 +1,4 @@
-# mw_Health - Malawi Health Agency
+# mw-health - Malawi Health Agency
 
 ## Ministry of Health
 

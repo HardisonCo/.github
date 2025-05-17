@@ -1,4 +1,4 @@
-# HMS-SCM for br_Health
+# HMS-SCM for br-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Supply Chain Management
 
 ## Integration Points
 
-This document outlines how HMS-SCM is integrated with br_Health systems in Brazil.
+This document outlines how HMS-SCM is integrated with br-health systems in Brazil.

@@ -1,4 +1,4 @@
-# HMS-RED for lr_Health
+# HMS-RED for lr-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Reactive Data Engine
 
 ## Integration Points
 
-This document outlines how HMS-RED is integrated with lr_Health systems in Liberia.
+This document outlines how HMS-RED is integrated with lr-health systems in Liberia.

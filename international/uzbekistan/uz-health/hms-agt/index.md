@@ -1,4 +1,4 @@
-# HMS-AGT for uz_Health
+# HMS-AGT for uz-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Agent Tooling
 
 ## Integration Points
 
-This document outlines how HMS-AGT is integrated with uz_Health systems in Uzbekistan.
+This document outlines how HMS-AGT is integrated with uz-health systems in Uzbekistan.

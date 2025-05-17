@@ -1,4 +1,4 @@
-# HMS-NFO for gd_Health
+# HMS-NFO for gd-health
 
 ## Description
 
@@ -6,4 +6,4 @@ National Financial Organizations
 
 ## Integration Points
 
-This document outlines how HMS-NFO is integrated with gd_Health systems in Grenada.
+This document outlines how HMS-NFO is integrated with gd-health systems in Grenada.

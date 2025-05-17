@@ -1,4 +1,4 @@
-# HMS-UTL for bb_Health
+# HMS-UTL for bb-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Utilities
 
 ## Integration Points
 
-This document outlines how HMS-UTL is integrated with bb_Health systems in Barbados.
+This document outlines how HMS-UTL is integrated with bb-health systems in Barbados.

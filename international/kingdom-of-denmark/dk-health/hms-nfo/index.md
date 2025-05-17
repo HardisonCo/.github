@@ -1,4 +1,4 @@
-# HMS-NFO for dk_Health
+# HMS-NFO for dk-health
 
 ## Description
 
@@ -6,4 +6,4 @@ National Financial Organizations
 
 ## Integration Points
 
-This document outlines how HMS-NFO is integrated with dk_Health systems in Kingdom of Denmark.
+This document outlines how HMS-NFO is integrated with dk-health systems in Kingdom of Denmark.

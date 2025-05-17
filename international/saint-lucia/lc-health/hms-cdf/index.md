@@ -1,4 +1,4 @@
-# HMS-CDF for lc_Health
+# HMS-CDF for lc-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Collaborative Decision Framework
 
 ## Integration Points
 
-This document outlines how HMS-CDF is integrated with lc_Health systems in Saint Lucia.
+This document outlines how HMS-CDF is integrated with lc-health systems in Saint Lucia.

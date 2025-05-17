@@ -1,4 +1,4 @@
-# HMS-OPS for ir_Health
+# HMS-OPS for ir-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Operations Management
 
 ## Integration Points
 
-This document outlines how HMS-OPS is integrated with ir_Health systems in Islamic Republic of Iran.
+This document outlines how HMS-OPS is integrated with ir-health systems in Islamic Republic of Iran.

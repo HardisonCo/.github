@@ -1,4 +1,4 @@
-# HMS-CUR for zm_Health
+# HMS-CUR for zm-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Currency Management
 
 ## Integration Points
 
-This document outlines how HMS-CUR is integrated with zm_Health systems in Zambia.
+This document outlines how HMS-CUR is integrated with zm-health systems in Zambia.

@@ -1,4 +1,4 @@
-# HMS-UHC for tg_Health
+# HMS-UHC for tg-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Universal Healthcare Components
 
 ## Integration Points
 
-This document outlines how HMS-UHC is integrated with tg_Health systems in Togo.
+This document outlines how HMS-UHC is integrated with tg-health systems in Togo.

@@ -1,4 +1,4 @@
-# jp_Health - Japan Health Agency
+# jp-health - Japan Health Agency
 
 ## Ministry of Health, Labour and Welfare
 

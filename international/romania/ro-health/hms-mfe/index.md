@@ -1,4 +1,4 @@
-# HMS-MFE for ro_Health
+# HMS-MFE for ro-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Micro Frontend Engine
 
 ## Integration Points
 
-This document outlines how HMS-MFE is integrated with ro_Health systems in Romania.
+This document outlines how HMS-MFE is integrated with ro-health systems in Romania.

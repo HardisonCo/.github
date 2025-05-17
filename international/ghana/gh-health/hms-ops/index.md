@@ -1,4 +1,4 @@
-# HMS-OPS for gh_Health
+# HMS-OPS for gh-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Operations Management
 
 ## Integration Points
 
-This document outlines how HMS-OPS is integrated with gh_Health systems in Ghana.
+This document outlines how HMS-OPS is integrated with gh-health systems in Ghana.

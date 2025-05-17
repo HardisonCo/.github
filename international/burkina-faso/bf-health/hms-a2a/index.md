@@ -1,4 +1,4 @@
-# HMS-A2A for bf_Health
+# HMS-A2A for bf-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Agent-to-Agent Communication System
 
 ## Integration Points
 
-This document outlines how HMS-A2A is integrated with bf_Health systems in Burkina Faso.
+This document outlines how HMS-A2A is integrated with bf-health systems in Burkina Faso.

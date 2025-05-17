@@ -1,4 +1,4 @@
-# HMS-DEV for in_Health
+# HMS-DEV for in-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Development Framework
 
 ## Integration Points
 
-This document outlines how HMS-DEV is integrated with in_Health systems in India.
+This document outlines how HMS-DEV is integrated with in-health systems in India.

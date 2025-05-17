@@ -1,4 +1,4 @@
-# HMS-API for cg_Health
+# HMS-API for cg-health
 
 ## Description
 
@@ -6,4 +6,4 @@ API Services
 
 ## Integration Points
 
-This document outlines how HMS-API is integrated with cg_Health systems in Republic of the Congo.
+This document outlines how HMS-API is integrated with cg-health systems in Republic of the Congo.

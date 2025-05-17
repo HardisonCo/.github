@@ -1,4 +1,4 @@
-# HMS-OMS for sa_Health
+# HMS-OMS for sa-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Order Management System
 
 ## Integration Points
 
-This document outlines how HMS-OMS is integrated with sa_Health systems in Saudi Arabia.
+This document outlines how HMS-OMS is integrated with sa-health systems in Saudi Arabia.

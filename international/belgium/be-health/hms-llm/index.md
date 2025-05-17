@@ -1,4 +1,4 @@
-# HMS-LLM for be_Health
+# HMS-LLM for be-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Large Language Model Operations Platform
 
 ## Integration Points
 
-This document outlines how HMS-LLM is integrated with be_Health systems in Belgium.
+This document outlines how HMS-LLM is integrated with be-health systems in Belgium.

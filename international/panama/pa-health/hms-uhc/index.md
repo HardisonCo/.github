@@ -1,4 +1,4 @@
-# HMS-UHC for pa_Health
+# HMS-UHC for pa-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Universal Healthcare Components
 
 ## Integration Points
 
-This document outlines how HMS-UHC is integrated with pa_Health systems in Panama.
+This document outlines how HMS-UHC is integrated with pa-health systems in Panama.

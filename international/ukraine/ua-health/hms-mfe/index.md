@@ -1,4 +1,4 @@
-# HMS-MFE for ua_Health
+# HMS-MFE for ua-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Micro Frontend Engine
 
 ## Integration Points
 
-This document outlines how HMS-MFE is integrated with ua_Health systems in Ukraine.
+This document outlines how HMS-MFE is integrated with ua-health systems in Ukraine.

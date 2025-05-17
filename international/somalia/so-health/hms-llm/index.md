@@ -1,4 +1,4 @@
-# HMS-LLM for so_Health
+# HMS-LLM for so-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Large Language Model Operations Platform
 
 ## Integration Points
 
-This document outlines how HMS-LLM is integrated with so_Health systems in Somalia.
+This document outlines how HMS-LLM is integrated with so-health systems in Somalia.

@@ -1,4 +1,4 @@
-# HMS-CUR for na_Health
+# HMS-CUR for na-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Currency Management
 
 ## Integration Points
 
-This document outlines how HMS-CUR is integrated with na_Health systems in Namibia.
+This document outlines how HMS-CUR is integrated with na-health systems in Namibia.

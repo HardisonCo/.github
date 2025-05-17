@@ -1,4 +1,4 @@
-# HMS-UHC for so_Health
+# HMS-UHC for so-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Universal Healthcare Components
 
 ## Integration Points
 
-This document outlines how HMS-UHC is integrated with so_Health systems in Somalia.
+This document outlines how HMS-UHC is integrated with so-health systems in Somalia.

@@ -1,4 +1,4 @@
-# HMS-UHC for ec_Health
+# HMS-UHC for ec-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Universal Healthcare Components
 
 ## Integration Points
 
-This document outlines how HMS-UHC is integrated with ec_Health systems in Ecuador.
+This document outlines how HMS-UHC is integrated with ec-health systems in Ecuador.

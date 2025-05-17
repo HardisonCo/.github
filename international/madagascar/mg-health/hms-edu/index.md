@@ -1,4 +1,4 @@
-# HMS-EDU for mg_Health
+# HMS-EDU for mg-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Education System
 
 ## Integration Points
 
-This document outlines how HMS-EDU is integrated with mg_Health systems in Madagascar.
+This document outlines how HMS-EDU is integrated with mg-health systems in Madagascar.

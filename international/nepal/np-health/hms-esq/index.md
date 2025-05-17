@@ -1,4 +1,4 @@
-# HMS-ESQ for np_Health
+# HMS-ESQ for np-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Enhanced System Quality
 
 ## Integration Points
 
-This document outlines how HMS-ESQ is integrated with np_Health systems in Nepal.
+This document outlines how HMS-ESQ is integrated with np-health systems in Nepal.

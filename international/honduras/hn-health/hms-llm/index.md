@@ -1,4 +1,4 @@
-# HMS-LLM for hn_Health
+# HMS-LLM for hn-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Large Language Model Operations Platform
 
 ## Integration Points
 
-This document outlines how HMS-LLM is integrated with hn_Health systems in Honduras.
+This document outlines how HMS-LLM is integrated with hn-health systems in Honduras.

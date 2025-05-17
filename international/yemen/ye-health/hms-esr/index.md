@@ -1,4 +1,4 @@
-# HMS-ESR for ye_Health
+# HMS-ESR for ye-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Economic System Representation
 
 ## Integration Points
 
-This document outlines how HMS-ESR is integrated with ye_Health systems in Yemen.
+This document outlines how HMS-ESR is integrated with ye-health systems in Yemen.

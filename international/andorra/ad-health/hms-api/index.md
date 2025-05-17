@@ -1,4 +1,4 @@
-# HMS-API for ad_Health
+# HMS-API for ad-health
 
 ## Description
 
@@ -6,4 +6,4 @@ API Services
 
 ## Integration Points
 
-This document outlines how HMS-API is integrated with ad_Health systems in Andorra.
+This document outlines how HMS-API is integrated with ad-health systems in Andorra.

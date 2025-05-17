@@ -1,4 +1,4 @@
-# HMS-EMR for bo_Health
+# HMS-EMR for bo-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Electronic Medical Records
 
 ## Integration Points
 
-This document outlines how HMS-EMR is integrated with bo_Health systems in Bolivia.
+This document outlines how HMS-EMR is integrated with bo-health systems in Bolivia.

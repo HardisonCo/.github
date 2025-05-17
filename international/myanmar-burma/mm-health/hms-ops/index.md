@@ -1,4 +1,4 @@
-# HMS-OPS for mm_Health
+# HMS-OPS for mm-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Operations Management
 
 ## Integration Points
 
-This document outlines how HMS-OPS is integrated with mm_Health systems in Myanmar (Burma).
+This document outlines how HMS-OPS is integrated with mm-health systems in Myanmar (Burma).

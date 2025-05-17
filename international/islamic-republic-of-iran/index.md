@@ -2,7 +2,7 @@
 
 ## Agencies
 
-- [ir_Health](ir_Health/index.md) - Ministry of Health and Medical Education
+- [ir-health](ir-health/index.md) - Ministry of Health and Medical Education
 
 ## HMS Implementation Status
 

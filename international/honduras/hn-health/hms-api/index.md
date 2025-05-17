@@ -1,4 +1,4 @@
-# HMS-API for hn_Health
+# HMS-API for hn-health
 
 ## Description
 
@@ -6,4 +6,4 @@ API Services
 
 ## Integration Points
 
-This document outlines how HMS-API is integrated with hn_Health systems in Honduras.
+This document outlines how HMS-API is integrated with hn-health systems in Honduras.

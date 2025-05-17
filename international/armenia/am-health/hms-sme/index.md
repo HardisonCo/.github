@@ -1,4 +1,4 @@
-# HMS-SME for am_Health
+# HMS-SME for am-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Subject Matter Expertise
 
 ## Integration Points
 
-This document outlines how HMS-SME is integrated with am_Health systems in Armenia.
+This document outlines how HMS-SME is integrated with am-health systems in Armenia.

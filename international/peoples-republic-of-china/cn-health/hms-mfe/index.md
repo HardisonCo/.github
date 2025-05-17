@@ -1,4 +1,4 @@
-# HMS-MFE for cn_Health
+# HMS-MFE for cn-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Micro Frontend Engine
 
 ## Integration Points
 
-This document outlines how HMS-MFE is integrated with cn_Health systems in People's Republic of China.
+This document outlines how HMS-MFE is integrated with cn-health systems in People's Republic of China.

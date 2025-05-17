@@ -1,4 +1,4 @@
-# HMS-UHC for lb_Health
+# HMS-UHC for lb-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Universal Healthcare Components
 
 ## Integration Points
 
-This document outlines how HMS-UHC is integrated with lb_Health systems in Lebanon.
+This document outlines how HMS-UHC is integrated with lb-health systems in Lebanon.

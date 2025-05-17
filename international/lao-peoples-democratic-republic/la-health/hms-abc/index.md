@@ -1,4 +1,4 @@
-# HMS-ABC for la_Health
+# HMS-ABC for la-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Adaptive Business Capabilities
 
 ## Integration Points
 
-This document outlines how HMS-ABC is integrated with la_Health systems in Lao People's Democratic Republic.
+This document outlines how HMS-ABC is integrated with la-health systems in Lao People's Democratic Republic.

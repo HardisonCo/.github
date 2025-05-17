@@ -1,4 +1,4 @@
-# HMS-FLD for lu_Health
+# HMS-FLD for lu-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Field Data Collection
 
 ## Integration Points
 
-This document outlines how HMS-FLD is integrated with lu_Health systems in Luxembourg.
+This document outlines how HMS-FLD is integrated with lu-health systems in Luxembourg.

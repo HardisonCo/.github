@@ -1,4 +1,4 @@
-# cd_Health - Democratic Republic of the Congo Health Agency
+# cd-health - Democratic Republic of the Congo Health Agency
 
 ## Ministère de la Santé Publique
 

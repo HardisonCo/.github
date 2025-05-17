@@ -1,4 +1,4 @@
-# HMS-FLD for mk_Health
+# HMS-FLD for mk-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Field Data Collection
 
 ## Integration Points
 
-This document outlines how HMS-FLD is integrated with mk_Health systems in North Macedonia.
+This document outlines how HMS-FLD is integrated with mk-health systems in North Macedonia.

@@ -1,4 +1,4 @@
-# HMS-SCM for et_Health
+# HMS-SCM for et-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Supply Chain Management
 
 ## Integration Points
 
-This document outlines how HMS-SCM is integrated with et_Health systems in Ethiopia.
+This document outlines how HMS-SCM is integrated with et-health systems in Ethiopia.

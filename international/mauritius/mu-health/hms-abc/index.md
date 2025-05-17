@@ -1,4 +1,4 @@
-# HMS-ABC for mu_Health
+# HMS-ABC for mu-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Adaptive Business Capabilities
 
 ## Integration Points
 
-This document outlines how HMS-ABC is integrated with mu_Health systems in Mauritius.
+This document outlines how HMS-ABC is integrated with mu-health systems in Mauritius.

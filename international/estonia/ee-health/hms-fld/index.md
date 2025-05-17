@@ -1,4 +1,4 @@
-# HMS-FLD for ee_Health
+# HMS-FLD for ee-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Field Data Collection
 
 ## Integration Points
 
-This document outlines how HMS-FLD is integrated with ee_Health systems in Estonia.
+This document outlines how HMS-FLD is integrated with ee-health systems in Estonia.

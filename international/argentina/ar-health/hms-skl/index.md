@@ -1,4 +1,4 @@
-# HMS-SKL for ar_Health
+# HMS-SKL for ar-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Skills Management
 
 ## Integration Points
 
-This document outlines how HMS-SKL is integrated with ar_Health systems in Argentina.
+This document outlines how HMS-SKL is integrated with ar-health systems in Argentina.

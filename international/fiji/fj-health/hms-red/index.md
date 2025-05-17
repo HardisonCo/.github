@@ -1,4 +1,4 @@
-# HMS-RED for fj_Health
+# HMS-RED for fj-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Reactive Data Engine
 
 ## Integration Points
 
-This document outlines how HMS-RED is integrated with fj_Health systems in Fiji.
+This document outlines how HMS-RED is integrated with fj-health systems in Fiji.

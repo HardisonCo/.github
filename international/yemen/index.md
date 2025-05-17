@@ -2,7 +2,7 @@
 
 ## Agencies
 
-- [ye_Health](ye_Health/index.md) - Ministry of Public Health and Population
+- [ye-health](ye-health/index.md) - Ministry of Public Health and Population
 
 ## HMS Implementation Status
 

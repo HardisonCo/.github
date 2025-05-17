@@ -1,4 +1,4 @@
-# HMS-UHC for mx_Health
+# HMS-UHC for mx-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Universal Healthcare Components
 
 ## Integration Points
 
-This document outlines how HMS-UHC is integrated with mx_Health systems in Mexico.
+This document outlines how HMS-UHC is integrated with mx-health systems in Mexico.

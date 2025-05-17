@@ -1,4 +1,4 @@
-# HMS-FLD for dj_Health
+# HMS-FLD for dj-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Field Data Collection
 
 ## Integration Points
 
-This document outlines how HMS-FLD is integrated with dj_Health systems in Djibouti.
+This document outlines how HMS-FLD is integrated with dj-health systems in Djibouti.

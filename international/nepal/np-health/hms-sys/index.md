@@ -1,4 +1,4 @@
-# HMS-SYS for np_Health
+# HMS-SYS for np-health
 
 ## Description
 
@@ -6,4 +6,4 @@ System Core
 
 ## Integration Points
 
-This document outlines how HMS-SYS is integrated with np_Health systems in Nepal.
+This document outlines how HMS-SYS is integrated with np-health systems in Nepal.

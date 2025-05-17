@@ -1,4 +1,4 @@
-# HMS-UHC for sy_Health
+# HMS-UHC for sy-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Universal Healthcare Components
 
 ## Integration Points
 
-This document outlines how HMS-UHC is integrated with sy_Health systems in Syrian Arab Republic.
+This document outlines how HMS-UHC is integrated with sy-health systems in Syrian Arab Republic.

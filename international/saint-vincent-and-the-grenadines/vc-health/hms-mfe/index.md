@@ -1,4 +1,4 @@
-# HMS-MFE for vc_Health
+# HMS-MFE for vc-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Micro Frontend Engine
 
 ## Integration Points
 
-This document outlines how HMS-MFE is integrated with vc_Health systems in Saint Vincent and the Grenadines.
+This document outlines how HMS-MFE is integrated with vc-health systems in Saint Vincent and the Grenadines.

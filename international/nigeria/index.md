@@ -2,7 +2,7 @@
 
 ## Agencies
 
-- [ng_Health](ng_Health/index.md) - Federal Ministry of Health
+- [ng-health](ng-health/index.md) - Federal Ministry of Health
 
 ## HMS Implementation Status
 

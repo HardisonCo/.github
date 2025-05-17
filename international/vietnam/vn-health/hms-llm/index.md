@@ -1,4 +1,4 @@
-# HMS-LLM for vn_Health
+# HMS-LLM for vn-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Large Language Model Operations Platform
 
 ## Integration Points
 
-This document outlines how HMS-LLM is integrated with vn_Health systems in Vietnam.
+This document outlines how HMS-LLM is integrated with vn-health systems in Vietnam.

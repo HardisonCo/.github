@@ -1,4 +1,4 @@
-# HMS-SME for ni_Health
+# HMS-SME for ni-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Subject Matter Expertise
 
 ## Integration Points
 
-This document outlines how HMS-SME is integrated with ni_Health systems in Nicaragua.
+This document outlines how HMS-SME is integrated with ni-health systems in Nicaragua.

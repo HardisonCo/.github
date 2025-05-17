@@ -1,4 +1,4 @@
-# ca_Health - Canada Health Agency
+# ca-health - Canada Health Agency
 
 ## Public Health Agency of Canada
 

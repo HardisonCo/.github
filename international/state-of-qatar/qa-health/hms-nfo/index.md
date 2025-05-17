@@ -1,4 +1,4 @@
-# HMS-NFO for qa_Health
+# HMS-NFO for qa-health
 
 ## Description
 
@@ -6,4 +6,4 @@ National Financial Organizations
 
 ## Integration Points
 
-This document outlines how HMS-NFO is integrated with qa_Health systems in State of Qatar.
+This document outlines how HMS-NFO is integrated with qa-health systems in State of Qatar.

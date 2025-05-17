@@ -1,4 +1,4 @@
-# HMS-DOC for mh_Health
+# HMS-DOC for mh-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Documentation System
 
 ## Integration Points
 
-This document outlines how HMS-DOC is integrated with mh_Health systems in Marshall Islands.
+This document outlines how HMS-DOC is integrated with mh-health systems in Marshall Islands.

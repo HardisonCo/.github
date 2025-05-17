@@ -1,4 +1,4 @@
-# HMS-ACT for dz_Health
+# HMS-ACT for dz-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Agent Collaboration Tools
 
 ## Integration Points
 
-This document outlines how HMS-ACT is integrated with dz_Health systems in Algeria.
+This document outlines how HMS-ACT is integrated with dz-health systems in Algeria.

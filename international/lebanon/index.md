@@ -2,7 +2,7 @@
 
 ## Agencies
 
-- [lb_Health](lb_Health/index.md) - Ministry of Public Health
+- [lb-health](lb-health/index.md) - Ministry of Public Health
 
 ## HMS Implementation Status
 

@@ -2,7 +2,7 @@
 
 ## Agencies
 
-- [hu_Health](hu_Health/index.md) - National Public Health Center (Nemzeti Népegészségügyi Központ)
+- [hu-health](hu-health/index.md) - National Public Health Center (Nemzeti Népegészségügyi Központ)
 
 ## HMS Implementation Status
 

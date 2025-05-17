@@ -1,4 +1,4 @@
-# cy_Health - Cyprus Health Agency
+# cy-health - Cyprus Health Agency
 
 ## Ministry of Health
 

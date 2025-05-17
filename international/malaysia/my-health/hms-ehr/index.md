@@ -1,4 +1,4 @@
-# HMS-EHR for my_Health
+# HMS-EHR for my-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Electronic Health Records
 
 ## Integration Points
 
-This document outlines how HMS-EHR is integrated with my_Health systems in Malaysia.
+This document outlines how HMS-EHR is integrated with my-health systems in Malaysia.

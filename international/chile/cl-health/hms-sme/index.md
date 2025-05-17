@@ -1,4 +1,4 @@
-# HMS-SME for cl_Health
+# HMS-SME for cl-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Subject Matter Expertise
 
 ## Integration Points
 
-This document outlines how HMS-SME is integrated with cl_Health systems in Chile.
+This document outlines how HMS-SME is integrated with cl-health systems in Chile.

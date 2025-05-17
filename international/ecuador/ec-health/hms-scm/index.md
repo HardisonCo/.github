@@ -1,4 +1,4 @@
-# HMS-SCM for ec_Health
+# HMS-SCM for ec-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Supply Chain Management
 
 ## Integration Points
 
-This document outlines how HMS-SCM is integrated with ec_Health systems in Ecuador.
+This document outlines how HMS-SCM is integrated with ec-health systems in Ecuador.

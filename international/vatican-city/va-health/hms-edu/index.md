@@ -1,4 +1,4 @@
-# HMS-EDU for va_Health
+# HMS-EDU for va-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Education System
 
 ## Integration Points
 
-This document outlines how HMS-EDU is integrated with va_Health systems in Vatican City.
+This document outlines how HMS-EDU is integrated with va-health systems in Vatican City.

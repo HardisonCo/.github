@@ -1,4 +1,4 @@
-# HMS-SME for bn_Health
+# HMS-SME for bn-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Subject Matter Expertise
 
 ## Integration Points
 
-This document outlines how HMS-SME is integrated with bn_Health systems in Brunei.
+This document outlines how HMS-SME is integrated with bn-health systems in Brunei.

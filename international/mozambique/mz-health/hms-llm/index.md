@@ -1,4 +1,4 @@
-# HMS-LLM for mz_Health
+# HMS-LLM for mz-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Large Language Model Operations Platform
 
 ## Integration Points
 
-This document outlines how HMS-LLM is integrated with mz_Health systems in Mozambique.
+This document outlines how HMS-LLM is integrated with mz-health systems in Mozambique.

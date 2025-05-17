@@ -2,7 +2,7 @@
 
 ## Agencies
 
-- [bw_Health](bw_Health/index.md) - Ministry of Health and Wellness
+- [bw-health](bw-health/index.md) - Ministry of Health and Wellness
 
 ## HMS Implementation Status
 

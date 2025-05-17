@@ -1,4 +1,4 @@
-# HMS-OMS for kz_Health
+# HMS-OMS for kz-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Order Management System
 
 ## Integration Points
 
-This document outlines how HMS-OMS is integrated with kz_Health systems in Kazakhstan.
+This document outlines how HMS-OMS is integrated with kz-health systems in Kazakhstan.

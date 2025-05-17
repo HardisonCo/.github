@@ -1,4 +1,4 @@
-# HMS-CDF for ru_Health
+# HMS-CDF for ru-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Collaborative Decision Framework
 
 ## Integration Points
 
-This document outlines how HMS-CDF is integrated with ru_Health systems in Russian Federation.
+This document outlines how HMS-CDF is integrated with ru-health systems in Russian Federation.

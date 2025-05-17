@@ -1,4 +1,4 @@
-# HMS-ACT for sr_Health
+# HMS-ACT for sr-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Agent Collaboration Tools
 
 ## Integration Points
 
-This document outlines how HMS-ACT is integrated with sr_Health systems in Suriname.
+This document outlines how HMS-ACT is integrated with sr-health systems in Suriname.

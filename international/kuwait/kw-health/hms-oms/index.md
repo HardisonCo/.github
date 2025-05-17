@@ -1,4 +1,4 @@
-# HMS-OMS for kw_Health
+# HMS-OMS for kw-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Order Management System
 
 ## Integration Points
 
-This document outlines how HMS-OMS is integrated with kw_Health systems in Kuwait.
+This document outlines how HMS-OMS is integrated with kw-health systems in Kuwait.

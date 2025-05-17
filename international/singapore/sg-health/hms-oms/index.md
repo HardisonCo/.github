@@ -1,4 +1,4 @@
-# HMS-OMS for sg_Health
+# HMS-OMS for sg-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Order Management System
 
 ## Integration Points
 
-This document outlines how HMS-OMS is integrated with sg_Health systems in Singapore.
+This document outlines how HMS-OMS is integrated with sg-health systems in Singapore.

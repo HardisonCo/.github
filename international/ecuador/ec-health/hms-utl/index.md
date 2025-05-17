@@ -1,4 +1,4 @@
-# HMS-UTL for ec_Health
+# HMS-UTL for ec-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Utilities
 
 ## Integration Points
 
-This document outlines how HMS-UTL is integrated with ec_Health systems in Ecuador.
+This document outlines how HMS-UTL is integrated with ec-health systems in Ecuador.

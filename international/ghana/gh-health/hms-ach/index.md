@@ -1,4 +1,4 @@
-# HMS-ACH for gh_Health
+# HMS-ACH for gh-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Automated Clearing House
 
 ## Integration Points
 
-This document outlines how HMS-ACH is integrated with gh_Health systems in Ghana.
+This document outlines how HMS-ACH is integrated with gh-health systems in Ghana.

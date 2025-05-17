@@ -2,7 +2,7 @@
 
 ## Agencies
 
-- [tl_Health](tl_Health/index.md) - Ministry of Health
+- [tl-health](tl-health/index.md) - Ministry of Health
 
 ## HMS Implementation Status
 

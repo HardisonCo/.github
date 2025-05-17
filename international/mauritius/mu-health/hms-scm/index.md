@@ -1,4 +1,4 @@
-# HMS-SCM for mu_Health
+# HMS-SCM for mu-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Supply Chain Management
 
 ## Integration Points
 
-This document outlines how HMS-SCM is integrated with mu_Health systems in Mauritius.
+This document outlines how HMS-SCM is integrated with mu-health systems in Mauritius.

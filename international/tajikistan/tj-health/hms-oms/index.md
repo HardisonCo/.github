@@ -1,4 +1,4 @@
-# HMS-OMS for tj_Health
+# HMS-OMS for tj-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Order Management System
 
 ## Integration Points
 
-This document outlines how HMS-OMS is integrated with tj_Health systems in Tajikistan.
+This document outlines how HMS-OMS is integrated with tj-health systems in Tajikistan.

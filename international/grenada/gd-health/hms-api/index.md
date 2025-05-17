@@ -1,4 +1,4 @@
-# HMS-API for gd_Health
+# HMS-API for gd-health
 
 ## Description
 
@@ -6,4 +6,4 @@ API Services
 
 ## Integration Points
 
-This document outlines how HMS-API is integrated with gd_Health systems in Grenada.
+This document outlines how HMS-API is integrated with gd-health systems in Grenada.

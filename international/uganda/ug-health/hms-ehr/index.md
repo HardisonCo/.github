@@ -1,4 +1,4 @@
-# HMS-EHR for ug_Health
+# HMS-EHR for ug-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Electronic Health Records
 
 ## Integration Points
 
-This document outlines how HMS-EHR is integrated with ug_Health systems in Uganda.
+This document outlines how HMS-EHR is integrated with ug-health systems in Uganda.

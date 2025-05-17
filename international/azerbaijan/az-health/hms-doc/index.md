@@ -1,4 +1,4 @@
-# HMS-DOC for az_Health
+# HMS-DOC for az-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Documentation System
 
 ## Integration Points
 
-This document outlines how HMS-DOC is integrated with az_Health systems in Azerbaijan.
+This document outlines how HMS-DOC is integrated with az-health systems in Azerbaijan.

@@ -1,4 +1,4 @@
-# HMS-FLD for lv_Health
+# HMS-FLD for lv-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Field Data Collection
 
 ## Integration Points
 
-This document outlines how HMS-FLD is integrated with lv_Health systems in Latvia.
+This document outlines how HMS-FLD is integrated with lv-health systems in Latvia.

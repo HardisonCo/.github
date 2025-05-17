@@ -1,4 +1,4 @@
-# HMS-OMS for be_Health
+# HMS-OMS for be-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Order Management System
 
 ## Integration Points
 
-This document outlines how HMS-OMS is integrated with be_Health systems in Belgium.
+This document outlines how HMS-OMS is integrated with be-health systems in Belgium.

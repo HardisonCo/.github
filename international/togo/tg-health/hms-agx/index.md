@@ -1,4 +1,4 @@
-# HMS-AGX for tg_Health
+# HMS-AGX for tg-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Advanced Graph Experience
 
 ## Integration Points
 
-This document outlines how HMS-AGX is integrated with tg_Health systems in Togo.
+This document outlines how HMS-AGX is integrated with tg-health systems in Togo.

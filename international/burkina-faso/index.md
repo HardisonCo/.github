@@ -2,7 +2,7 @@
 
 ## Agencies
 
-- [bf_Health](bf_Health/index.md) - Ministère de la Santé, de l'Hygiène Publique et de la Lutte contre le SIDA
+- [bf-health](bf-health/index.md) - Ministère de la Santé, de l'Hygiène Publique et de la Lutte contre le SIDA
 
 ## HMS Implementation Status
 

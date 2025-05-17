@@ -1,4 +1,4 @@
-# HMS-CUR for jp_Health
+# HMS-CUR for jp-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Currency Management
 
 ## Integration Points
 
-This document outlines how HMS-CUR is integrated with jp_Health systems in Japan.
+This document outlines how HMS-CUR is integrated with jp-health systems in Japan.

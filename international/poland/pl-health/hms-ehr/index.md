@@ -1,4 +1,4 @@
-# HMS-EHR for pl_Health
+# HMS-EHR for pl-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Electronic Health Records
 
 ## Integration Points
 
-This document outlines how HMS-EHR is integrated with pl_Health systems in Poland.
+This document outlines how HMS-EHR is integrated with pl-health systems in Poland.

@@ -1,4 +1,4 @@
-# HMS-ETL for pa_Health
+# HMS-ETL for pa-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Extract, Transform, Load
 
 ## Integration Points
 
-This document outlines how HMS-ETL is integrated with pa_Health systems in Panama.
+This document outlines how HMS-ETL is integrated with pa-health systems in Panama.

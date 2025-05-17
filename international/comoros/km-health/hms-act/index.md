@@ -1,4 +1,4 @@
-# HMS-ACT for km_Health
+# HMS-ACT for km-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Agent Collaboration Tools
 
 ## Integration Points
 
-This document outlines how HMS-ACT is integrated with km_Health systems in Comoros.
+This document outlines how HMS-ACT is integrated with km-health systems in Comoros.

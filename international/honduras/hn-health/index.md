@@ -1,4 +1,4 @@
-# hn_Health - Honduras Health Agency
+# hn-health - Honduras Health Agency
 
 ## Secretaría de Salud de Honduras
 

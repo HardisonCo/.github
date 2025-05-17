@@ -1,4 +1,4 @@
-# HMS-MCP for ug_Health
+# HMS-MCP for ug-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Model-Compute-Publish
 
 ## Integration Points
 
-This document outlines how HMS-MCP is integrated with ug_Health systems in Uganda.
+This document outlines how HMS-MCP is integrated with ug-health systems in Uganda.

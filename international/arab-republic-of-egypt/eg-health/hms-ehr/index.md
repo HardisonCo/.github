@@ -1,4 +1,4 @@
-# HMS-EHR for eg_Health
+# HMS-EHR for eg-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Electronic Health Records
 
 ## Integration Points
 
-This document outlines how HMS-EHR is integrated with eg_Health systems in Arab Republic of Egypt.
+This document outlines how HMS-EHR is integrated with eg-health systems in Arab Republic of Egypt.

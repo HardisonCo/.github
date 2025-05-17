@@ -1,4 +1,4 @@
-# HMS-API for tv_Health
+# HMS-API for tv-health
 
 ## Description
 
@@ -6,4 +6,4 @@ API Services
 
 ## Integration Points
 
-This document outlines how HMS-API is integrated with tv_Health systems in Tuvalu.
+This document outlines how HMS-API is integrated with tv-health systems in Tuvalu.

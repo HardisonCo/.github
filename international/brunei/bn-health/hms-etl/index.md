@@ -1,4 +1,4 @@
-# HMS-ETL for bn_Health
+# HMS-ETL for bn-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Extract, Transform, Load
 
 ## Integration Points
 
-This document outlines how HMS-ETL is integrated with bn_Health systems in Brunei.
+This document outlines how HMS-ETL is integrated with bn-health systems in Brunei.

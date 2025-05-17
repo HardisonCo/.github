@@ -1,4 +1,4 @@
-# HMS-NFO for bb_Health
+# HMS-NFO for bb-health
 
 ## Description
 
@@ -6,4 +6,4 @@ National Financial Organizations
 
 ## Integration Points
 
-This document outlines how HMS-NFO is integrated with bb_Health systems in Barbados.
+This document outlines how HMS-NFO is integrated with bb-health systems in Barbados.

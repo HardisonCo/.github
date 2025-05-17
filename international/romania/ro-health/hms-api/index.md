@@ -1,4 +1,4 @@
-# HMS-API for ro_Health
+# HMS-API for ro-health
 
 ## Description
 
@@ -6,4 +6,4 @@ API Services
 
 ## Integration Points
 
-This document outlines how HMS-API is integrated with ro_Health systems in Romania.
+This document outlines how HMS-API is integrated with ro-health systems in Romania.

@@ -1,4 +1,4 @@
-# HMS-ESR for by_Health
+# HMS-ESR for by-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Economic System Representation
 
 ## Integration Points
 
-This document outlines how HMS-ESR is integrated with by_Health systems in Belarus.
+This document outlines how HMS-ESR is integrated with by-health systems in Belarus.

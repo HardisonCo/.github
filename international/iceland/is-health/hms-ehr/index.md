@@ -1,4 +1,4 @@
-# HMS-EHR for is_Health
+# HMS-EHR for is-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Electronic Health Records
 
 ## Integration Points
 
-This document outlines how HMS-EHR is integrated with is_Health systems in Iceland.
+This document outlines how HMS-EHR is integrated with is-health systems in Iceland.

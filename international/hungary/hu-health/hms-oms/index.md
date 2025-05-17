@@ -1,4 +1,4 @@
-# HMS-OMS for hu_Health
+# HMS-OMS for hu-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Order Management System
 
 ## Integration Points
 
-This document outlines how HMS-OMS is integrated with hu_Health systems in Hungary.
+This document outlines how HMS-OMS is integrated with hu-health systems in Hungary.

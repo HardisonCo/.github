@@ -1,4 +1,4 @@
-# HMS-SKL for kh_Health
+# HMS-SKL for kh-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Skills Management
 
 ## Integration Points
 
-This document outlines how HMS-SKL is integrated with kh_Health systems in Kingdom of Cambodia.
+This document outlines how HMS-SKL is integrated with kh-health systems in Kingdom of Cambodia.

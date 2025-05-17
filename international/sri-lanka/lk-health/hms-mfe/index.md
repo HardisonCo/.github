@@ -1,4 +1,4 @@
-# HMS-MFE for lk_Health
+# HMS-MFE for lk-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Micro Frontend Engine
 
 ## Integration Points
 
-This document outlines how HMS-MFE is integrated with lk_Health systems in Sri Lanka.
+This document outlines how HMS-MFE is integrated with lk-health systems in Sri Lanka.

@@ -1,4 +1,4 @@
-# HMS-CUR for bw_Health
+# HMS-CUR for bw-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Currency Management
 
 ## Integration Points
 
-This document outlines how HMS-CUR is integrated with bw_Health systems in Botswana.
+This document outlines how HMS-CUR is integrated with bw-health systems in Botswana.

@@ -1,4 +1,4 @@
-# HMS-MFE for sz_Health
+# HMS-MFE for sz-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Micro Frontend Engine
 
 ## Integration Points
 
-This document outlines how HMS-MFE is integrated with sz_Health systems in Eswatini (Swaziland).
+This document outlines how HMS-MFE is integrated with sz-health systems in Eswatini (Swaziland).

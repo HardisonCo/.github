@@ -1,4 +1,4 @@
-# HMS-ESR for ug_Health
+# HMS-ESR for ug-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Economic System Representation
 
 ## Integration Points
 
-This document outlines how HMS-ESR is integrated with ug_Health systems in Uganda.
+This document outlines how HMS-ESR is integrated with ug-health systems in Uganda.

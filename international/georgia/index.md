@@ -2,7 +2,7 @@
 
 ## Agencies
 
-- [ge_Health](ge_Health/index.md) - Ministry of Labour, Health and Social Affairs
+- [ge-health](ge-health/index.md) - Ministry of Labour, Health and Social Affairs
 
 ## HMS Implementation Status
 

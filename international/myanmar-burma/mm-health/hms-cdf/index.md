@@ -1,4 +1,4 @@
-# HMS-CDF for mm_Health
+# HMS-CDF for mm-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Collaborative Decision Framework
 
 ## Integration Points
 
-This document outlines how HMS-CDF is integrated with mm_Health systems in Myanmar (Burma).
+This document outlines how HMS-CDF is integrated with mm-health systems in Myanmar (Burma).

@@ -1,4 +1,4 @@
-# HMS-RED for be_Health
+# HMS-RED for be-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Reactive Data Engine
 
 ## Integration Points
 
-This document outlines how HMS-RED is integrated with be_Health systems in Belgium.
+This document outlines how HMS-RED is integrated with be-health systems in Belgium.

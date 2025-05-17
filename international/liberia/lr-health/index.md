@@ -1,4 +1,4 @@
-# lr_Health - Liberia Health Agency
+# lr-health - Liberia Health Agency
 
 ## Ministry of Health and Social Welfare
 

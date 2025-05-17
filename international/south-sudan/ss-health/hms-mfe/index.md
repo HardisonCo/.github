@@ -1,4 +1,4 @@
-# HMS-MFE for ss_Health
+# HMS-MFE for ss-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Micro Frontend Engine
 
 ## Integration Points
 
-This document outlines how HMS-MFE is integrated with ss_Health systems in South Sudan.
+This document outlines how HMS-MFE is integrated with ss-health systems in South Sudan.

@@ -1,4 +1,4 @@
-# HMS-DEV for ne_Health
+# HMS-DEV for ne-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Development Framework
 
 ## Integration Points
 
-This document outlines how HMS-DEV is integrated with ne_Health systems in Niger.
+This document outlines how HMS-DEV is integrated with ne-health systems in Niger.

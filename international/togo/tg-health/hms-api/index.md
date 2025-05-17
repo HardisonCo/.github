@@ -1,4 +1,4 @@
-# HMS-API for tg_Health
+# HMS-API for tg-health
 
 ## Description
 
@@ -6,4 +6,4 @@ API Services
 
 ## Integration Points
 
-This document outlines how HMS-API is integrated with tg_Health systems in Togo.
+This document outlines how HMS-API is integrated with tg-health systems in Togo.

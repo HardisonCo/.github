@@ -1,4 +1,4 @@
-# HMS-ABC for zw_Health
+# HMS-ABC for zw-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Adaptive Business Capabilities
 
 ## Integration Points
 
-This document outlines how HMS-ABC is integrated with zw_Health systems in Zimbabwe.
+This document outlines how HMS-ABC is integrated with zw-health systems in Zimbabwe.

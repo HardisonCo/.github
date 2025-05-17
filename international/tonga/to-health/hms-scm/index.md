@@ -1,4 +1,4 @@
-# HMS-SCM for to_Health
+# HMS-SCM for to-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Supply Chain Management
 
 ## Integration Points
 
-This document outlines how HMS-SCM is integrated with to_Health systems in Tonga.
+This document outlines how HMS-SCM is integrated with to-health systems in Tonga.

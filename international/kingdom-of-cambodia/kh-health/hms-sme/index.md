@@ -1,4 +1,4 @@
-# HMS-SME for kh_Health
+# HMS-SME for kh-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Subject Matter Expertise
 
 ## Integration Points
 
-This document outlines how HMS-SME is integrated with kh_Health systems in Kingdom of Cambodia.
+This document outlines how HMS-SME is integrated with kh-health systems in Kingdom of Cambodia.

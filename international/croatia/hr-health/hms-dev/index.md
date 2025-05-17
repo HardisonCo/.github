@@ -1,4 +1,4 @@
-# HMS-DEV for hr_Health
+# HMS-DEV for hr-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Development Framework
 
 ## Integration Points
 
-This document outlines how HMS-DEV is integrated with hr_Health systems in Croatia.
+This document outlines how HMS-DEV is integrated with hr-health systems in Croatia.

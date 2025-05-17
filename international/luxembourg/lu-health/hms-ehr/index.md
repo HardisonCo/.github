@@ -1,4 +1,4 @@
-# HMS-EHR for lu_Health
+# HMS-EHR for lu-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Electronic Health Records
 
 ## Integration Points
 
-This document outlines how HMS-EHR is integrated with lu_Health systems in Luxembourg.
+This document outlines how HMS-EHR is integrated with lu-health systems in Luxembourg.

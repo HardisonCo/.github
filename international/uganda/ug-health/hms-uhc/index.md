@@ -1,4 +1,4 @@
-# HMS-UHC for ug_Health
+# HMS-UHC for ug-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Universal Healthcare Components
 
 ## Integration Points
 
-This document outlines how HMS-UHC is integrated with ug_Health systems in Uganda.
+This document outlines how HMS-UHC is integrated with ug-health systems in Uganda.

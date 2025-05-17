@@ -1,4 +1,4 @@
-# HMS-RED for cy_Health
+# HMS-RED for cy-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Reactive Data Engine
 
 ## Integration Points
 
-This document outlines how HMS-RED is integrated with cy_Health systems in Cyprus.
+This document outlines how HMS-RED is integrated with cy-health systems in Cyprus.

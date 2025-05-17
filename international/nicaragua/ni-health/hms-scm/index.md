@@ -1,4 +1,4 @@
-# HMS-SCM for ni_Health
+# HMS-SCM for ni-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Supply Chain Management
 
 ## Integration Points
 
-This document outlines how HMS-SCM is integrated with ni_Health systems in Nicaragua.
+This document outlines how HMS-SCM is integrated with ni-health systems in Nicaragua.

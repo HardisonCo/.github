@@ -1,4 +1,4 @@
-# HMS-CDF for kg_Health
+# HMS-CDF for kg-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Collaborative Decision Framework
 
 ## Integration Points
 
-This document outlines how HMS-CDF is integrated with kg_Health systems in Kyrgyzstan.
+This document outlines how HMS-CDF is integrated with kg-health systems in Kyrgyzstan.

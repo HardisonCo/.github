@@ -1,4 +1,4 @@
-# HMS-A2A for ca_Health
+# HMS-A2A for ca-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Agent-to-Agent Communication System
 
 ## Integration Points
 
-This document outlines how HMS-A2A is integrated with ca_Health systems in Canada.
+This document outlines how HMS-A2A is integrated with ca-health systems in Canada.

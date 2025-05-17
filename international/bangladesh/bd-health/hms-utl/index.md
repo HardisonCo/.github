@@ -1,4 +1,4 @@
-# HMS-UTL for bd_Health
+# HMS-UTL for bd-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Utilities
 
 ## Integration Points
 
-This document outlines how HMS-UTL is integrated with bd_Health systems in Bangladesh.
+This document outlines how HMS-UTL is integrated with bd-health systems in Bangladesh.

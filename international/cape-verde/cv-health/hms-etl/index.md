@@ -1,4 +1,4 @@
-# HMS-ETL for cv_Health
+# HMS-ETL for cv-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Extract, Transform, Load
 
 ## Integration Points
 
-This document outlines how HMS-ETL is integrated with cv_Health systems in Cape Verde.
+This document outlines how HMS-ETL is integrated with cv-health systems in Cape Verde.

@@ -1,4 +1,4 @@
-# nr_Health - Nauru Health Agency
+# nr-health - Nauru Health Agency
 
 ## Ministry of Health
 

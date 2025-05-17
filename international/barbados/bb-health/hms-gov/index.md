@@ -1,4 +1,4 @@
-# HMS-GOV for bb_Health
+# HMS-GOV for bb-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Governance Framework
 
 ## Integration Points
 
-This document outlines how HMS-GOV is integrated with bb_Health systems in Barbados.
+This document outlines how HMS-GOV is integrated with bb-health systems in Barbados.

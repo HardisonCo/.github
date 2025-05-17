@@ -1,4 +1,4 @@
-# HMS-LLM for ga_Health
+# HMS-LLM for ga-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Large Language Model Operations Platform
 
 ## Integration Points
 
-This document outlines how HMS-LLM is integrated with ga_Health systems in Gabon.
+This document outlines how HMS-LLM is integrated with ga-health systems in Gabon.

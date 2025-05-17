@@ -1,4 +1,4 @@
-# HMS-SYS for tv_Health
+# HMS-SYS for tv-health
 
 ## Description
 
@@ -6,4 +6,4 @@ System Core
 
 ## Integration Points
 
-This document outlines how HMS-SYS is integrated with tv_Health systems in Tuvalu.
+This document outlines how HMS-SYS is integrated with tv-health systems in Tuvalu.

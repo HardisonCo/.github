@@ -1,4 +1,4 @@
-# HMS-CDF for gn_Health
+# HMS-CDF for gn-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Collaborative Decision Framework
 
 ## Integration Points
 
-This document outlines how HMS-CDF is integrated with gn_Health systems in Guinea.
+This document outlines how HMS-CDF is integrated with gn-health systems in Guinea.

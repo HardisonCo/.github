@@ -1,4 +1,4 @@
-# HMS-DEV for cy_Health
+# HMS-DEV for cy-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Development Framework
 
 ## Integration Points
 
-This document outlines how HMS-DEV is integrated with cy_Health systems in Cyprus.
+This document outlines how HMS-DEV is integrated with cy-health systems in Cyprus.

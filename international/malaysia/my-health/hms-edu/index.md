@@ -1,4 +1,4 @@
-# HMS-EDU for my_Health
+# HMS-EDU for my-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Education System
 
 ## Integration Points
 
-This document outlines how HMS-EDU is integrated with my_Health systems in Malaysia.
+This document outlines how HMS-EDU is integrated with my-health systems in Malaysia.

@@ -1,4 +1,4 @@
-# HMS-A2A for mh_Health
+# HMS-A2A for mh-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Agent-to-Agent Communication System
 
 ## Integration Points
 
-This document outlines how HMS-A2A is integrated with mh_Health systems in Marshall Islands.
+This document outlines how HMS-A2A is integrated with mh-health systems in Marshall Islands.

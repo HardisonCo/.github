@@ -1,4 +1,4 @@
-# HMS-NFO for gh_Health
+# HMS-NFO for gh-health
 
 ## Description
 
@@ -6,4 +6,4 @@ National Financial Organizations
 
 ## Integration Points
 
-This document outlines how HMS-NFO is integrated with gh_Health systems in Ghana.
+This document outlines how HMS-NFO is integrated with gh-health systems in Ghana.

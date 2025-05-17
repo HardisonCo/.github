@@ -1,4 +1,4 @@
-# HMS-SKL for ag_Health
+# HMS-SKL for ag-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Skills Management
 
 ## Integration Points
 
-This document outlines how HMS-SKL is integrated with ag_Health systems in Antigua and Barbuda.
+This document outlines how HMS-SKL is integrated with ag-health systems in Antigua and Barbuda.

@@ -1,4 +1,4 @@
-# HMS-SKL for vn_Health
+# HMS-SKL for vn-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Skills Management
 
 ## Integration Points
 
-This document outlines how HMS-SKL is integrated with vn_Health systems in Vietnam.
+This document outlines how HMS-SKL is integrated with vn-health systems in Vietnam.

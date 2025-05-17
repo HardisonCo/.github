@@ -1,4 +1,4 @@
-# HMS-CUR for va_Health
+# HMS-CUR for va-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Currency Management
 
 ## Integration Points
 
-This document outlines how HMS-CUR is integrated with va_Health systems in Vatican City.
+This document outlines how HMS-CUR is integrated with va-health systems in Vatican City.

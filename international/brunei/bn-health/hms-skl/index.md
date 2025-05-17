@@ -1,4 +1,4 @@
-# HMS-SKL for bn_Health
+# HMS-SKL for bn-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Skills Management
 
 ## Integration Points
 
-This document outlines how HMS-SKL is integrated with bn_Health systems in Brunei.
+This document outlines how HMS-SKL is integrated with bn-health systems in Brunei.

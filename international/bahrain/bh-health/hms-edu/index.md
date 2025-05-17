@@ -1,4 +1,4 @@
-# HMS-EDU for bh_Health
+# HMS-EDU for bh-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Education System
 
 ## Integration Points
 
-This document outlines how HMS-EDU is integrated with bh_Health systems in Bahrain.
+This document outlines how HMS-EDU is integrated with bh-health systems in Bahrain.

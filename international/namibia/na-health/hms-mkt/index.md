@@ -1,4 +1,4 @@
-# HMS-MKT for na_Health
+# HMS-MKT for na-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Market Analytics
 
 ## Integration Points
 
-This document outlines how HMS-MKT is integrated with na_Health systems in Namibia.
+This document outlines how HMS-MKT is integrated with na-health systems in Namibia.

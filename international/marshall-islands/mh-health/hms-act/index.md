@@ -1,4 +1,4 @@
-# HMS-ACT for mh_Health
+# HMS-ACT for mh-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Agent Collaboration Tools
 
 ## Integration Points
 
-This document outlines how HMS-ACT is integrated with mh_Health systems in Marshall Islands.
+This document outlines how HMS-ACT is integrated with mh-health systems in Marshall Islands.

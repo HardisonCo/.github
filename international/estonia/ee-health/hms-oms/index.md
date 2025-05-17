@@ -1,4 +1,4 @@
-# HMS-OMS for ee_Health
+# HMS-OMS for ee-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Order Management System
 
 ## Integration Points
 
-This document outlines how HMS-OMS is integrated with ee_Health systems in Estonia.
+This document outlines how HMS-OMS is integrated with ee-health systems in Estonia.

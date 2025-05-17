@@ -1,4 +1,4 @@
-# de_Health - Germany Health Agency
+# de-health - Germany Health Agency
 
 ## Bundesministerium für Gesundheit
 

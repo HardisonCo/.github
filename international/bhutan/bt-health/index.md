@@ -1,4 +1,4 @@
-# bt_Health - Bhutan Health Agency
+# bt-health - Bhutan Health Agency
 
 ## Ministry of Health
 

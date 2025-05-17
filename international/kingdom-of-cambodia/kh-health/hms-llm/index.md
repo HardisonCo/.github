@@ -1,4 +1,4 @@
-# HMS-LLM for kh_Health
+# HMS-LLM for kh-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Large Language Model Operations Platform
 
 ## Integration Points
 
-This document outlines how HMS-LLM is integrated with kh_Health systems in Kingdom of Cambodia.
+This document outlines how HMS-LLM is integrated with kh-health systems in Kingdom of Cambodia.

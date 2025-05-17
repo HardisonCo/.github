@@ -1,4 +1,4 @@
-# HMS-ACT for ch_Health
+# HMS-ACT for ch-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Agent Collaboration Tools
 
 ## Integration Points
 
-This document outlines how HMS-ACT is integrated with ch_Health systems in Switzerland.
+This document outlines how HMS-ACT is integrated with ch-health systems in Switzerland.

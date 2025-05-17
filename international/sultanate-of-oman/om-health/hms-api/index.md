@@ -1,4 +1,4 @@
-# HMS-API for om_Health
+# HMS-API for om-health
 
 ## Description
 
@@ -6,4 +6,4 @@ API Services
 
 ## Integration Points
 
-This document outlines how HMS-API is integrated with om_Health systems in Sultanate of Oman.
+This document outlines how HMS-API is integrated with om-health systems in Sultanate of Oman.

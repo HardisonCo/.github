@@ -1,4 +1,4 @@
-# HMS-SME for to_Health
+# HMS-SME for to-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Subject Matter Expertise
 
 ## Integration Points
 
-This document outlines how HMS-SME is integrated with to_Health systems in Tonga.
+This document outlines how HMS-SME is integrated with to-health systems in Tonga.

@@ -1,4 +1,4 @@
-# HMS-ESQ for cz_Health
+# HMS-ESQ for cz-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Enhanced System Quality
 
 ## Integration Points
 
-This document outlines how HMS-ESQ is integrated with cz_Health systems in Czech Republic.
+This document outlines how HMS-ESQ is integrated with cz-health systems in Czech Republic.

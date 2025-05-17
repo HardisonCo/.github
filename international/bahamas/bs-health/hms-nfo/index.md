@@ -1,4 +1,4 @@
-# HMS-NFO for bs_Health
+# HMS-NFO for bs-health
 
 ## Description
 
@@ -6,4 +6,4 @@ National Financial Organizations
 
 ## Integration Points
 
-This document outlines how HMS-NFO is integrated with bs_Health systems in Bahamas.
+This document outlines how HMS-NFO is integrated with bs-health systems in Bahamas.

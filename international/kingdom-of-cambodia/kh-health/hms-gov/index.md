@@ -1,4 +1,4 @@
-# HMS-GOV for kh_Health
+# HMS-GOV for kh-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Governance Framework
 
 ## Integration Points
 
-This document outlines how HMS-GOV is integrated with kh_Health systems in Kingdom of Cambodia.
+This document outlines how HMS-GOV is integrated with kh-health systems in Kingdom of Cambodia.

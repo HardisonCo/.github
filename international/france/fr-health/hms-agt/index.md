@@ -1,4 +1,4 @@
-# HMS-AGT for fr_Health
+# HMS-AGT for fr-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Agent Tooling
 
 ## Integration Points
 
-This document outlines how HMS-AGT is integrated with fr_Health systems in France.
+This document outlines how HMS-AGT is integrated with fr-health systems in France.

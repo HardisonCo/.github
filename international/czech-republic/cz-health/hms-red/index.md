@@ -1,4 +1,4 @@
-# HMS-RED for cz_Health
+# HMS-RED for cz-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Reactive Data Engine
 
 ## Integration Points
 
-This document outlines how HMS-RED is integrated with cz_Health systems in Czech Republic.
+This document outlines how HMS-RED is integrated with cz-health systems in Czech Republic.

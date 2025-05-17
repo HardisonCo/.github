@@ -1,4 +1,4 @@
-# HMS-A2A for vu_Health
+# HMS-A2A for vu-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Agent-to-Agent Communication System
 
 ## Integration Points
 
-This document outlines how HMS-A2A is integrated with vu_Health systems in Vanuatu.
+This document outlines how HMS-A2A is integrated with vu-health systems in Vanuatu.

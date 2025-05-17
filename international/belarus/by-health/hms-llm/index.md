@@ -1,4 +1,4 @@
-# HMS-LLM for by_Health
+# HMS-LLM for by-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Large Language Model Operations Platform
 
 ## Integration Points
 
-This document outlines how HMS-LLM is integrated with by_Health systems in Belarus.
+This document outlines how HMS-LLM is integrated with by-health systems in Belarus.

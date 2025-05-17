@@ -1,4 +1,4 @@
-# HMS-SKL for cm_Health
+# HMS-SKL for cm-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Skills Management
 
 ## Integration Points
 
-This document outlines how HMS-SKL is integrated with cm_Health systems in Cameroon.
+This document outlines how HMS-SKL is integrated with cm-health systems in Cameroon.

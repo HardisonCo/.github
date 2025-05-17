@@ -1,4 +1,4 @@
-# HMS-OPS for lt_Health
+# HMS-OPS for lt-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Operations Management
 
 ## Integration Points
 
-This document outlines how HMS-OPS is integrated with lt_Health systems in Lithuania.
+This document outlines how HMS-OPS is integrated with lt-health systems in Lithuania.

@@ -2,7 +2,7 @@
 
 ## Agencies
 
-- [bs_Health](bs_Health/index.md) - Ministry of Health, Wellness and the Environment
+- [bs-health](bs-health/index.md) - Ministry of Health, Wellness and the Environment
 
 ## HMS Implementation Status
 

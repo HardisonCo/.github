@@ -1,4 +1,4 @@
-# HMS-MFE for na_Health
+# HMS-MFE for na-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Micro Frontend Engine
 
 ## Integration Points
 
-This document outlines how HMS-MFE is integrated with na_Health systems in Namibia.
+This document outlines how HMS-MFE is integrated with na-health systems in Namibia.

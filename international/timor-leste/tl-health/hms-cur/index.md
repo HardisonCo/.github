@@ -1,4 +1,4 @@
-# HMS-CUR for tl_Health
+# HMS-CUR for tl-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Currency Management
 
 ## Integration Points
 
-This document outlines how HMS-CUR is integrated with tl_Health systems in Timor-Leste.
+This document outlines how HMS-CUR is integrated with tl-health systems in Timor-Leste.

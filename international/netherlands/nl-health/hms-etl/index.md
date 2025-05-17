@@ -1,4 +1,4 @@
-# HMS-ETL for nl_Health
+# HMS-ETL for nl-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Extract, Transform, Load
 
 ## Integration Points
 
-This document outlines how HMS-ETL is integrated with nl_Health systems in Netherlands.
+This document outlines how HMS-ETL is integrated with nl-health systems in Netherlands.

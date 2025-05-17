@@ -1,4 +1,4 @@
-# HMS-AGT for ke_Health
+# HMS-AGT for ke-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Agent Tooling
 
 ## Integration Points
 
-This document outlines how HMS-AGT is integrated with ke_Health systems in Kenya.
+This document outlines how HMS-AGT is integrated with ke-health systems in Kenya.

@@ -1,4 +1,4 @@
-# am_Health - Armenia Health Agency
+# am-health - Armenia Health Agency
 
 ## Ministry of Health of the Republic of Armenia
 

@@ -1,4 +1,4 @@
-# HMS-UTL for it_Health
+# HMS-UTL for it-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Utilities
 
 ## Integration Points
 
-This document outlines how HMS-UTL is integrated with it_Health systems in Italy.
+This document outlines how HMS-UTL is integrated with it-health systems in Italy.

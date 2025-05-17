@@ -1,4 +1,4 @@
-# HMS-DEV for mr_Health
+# HMS-DEV for mr-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Development Framework
 
 ## Integration Points
 
-This document outlines how HMS-DEV is integrated with mr_Health systems in Islamic Republic of Mauritania.
+This document outlines how HMS-DEV is integrated with mr-health systems in Islamic Republic of Mauritania.

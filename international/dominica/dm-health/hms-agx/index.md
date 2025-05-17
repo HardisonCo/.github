@@ -1,4 +1,4 @@
-# HMS-AGX for dm_Health
+# HMS-AGX for dm-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Advanced Graph Experience
 
 ## Integration Points
 
-This document outlines how HMS-AGX is integrated with dm_Health systems in Dominica.
+This document outlines how HMS-AGX is integrated with dm-health systems in Dominica.

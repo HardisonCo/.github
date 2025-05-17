@@ -1,4 +1,4 @@
-# HMS-ACH for am_Health
+# HMS-ACH for am-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Automated Clearing House
 
 ## Integration Points
 
-This document outlines how HMS-ACH is integrated with am_Health systems in Armenia.
+This document outlines how HMS-ACH is integrated with am-health systems in Armenia.

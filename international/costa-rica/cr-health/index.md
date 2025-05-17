@@ -1,4 +1,4 @@
-# cr_Health - Costa Rica Health Agency
+# cr-health - Costa Rica Health Agency
 
 ## Ministerio de Salud de Costa Rica
 

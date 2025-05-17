@@ -1,4 +1,4 @@
-# HMS-ESQ for va_Health
+# HMS-ESQ for va-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Enhanced System Quality
 
 ## Integration Points
 
-This document outlines how HMS-ESQ is integrated with va_Health systems in Vatican City.
+This document outlines how HMS-ESQ is integrated with va-health systems in Vatican City.

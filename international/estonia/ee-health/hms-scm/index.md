@@ -1,4 +1,4 @@
-# HMS-SCM for ee_Health
+# HMS-SCM for ee-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Supply Chain Management
 
 ## Integration Points
 
-This document outlines how HMS-SCM is integrated with ee_Health systems in Estonia.
+This document outlines how HMS-SCM is integrated with ee-health systems in Estonia.

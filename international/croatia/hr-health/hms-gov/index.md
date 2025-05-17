@@ -1,4 +1,4 @@
-# HMS-GOV for hr_Health
+# HMS-GOV for hr-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Governance Framework
 
 ## Integration Points
 
-This document outlines how HMS-GOV is integrated with hr_Health systems in Croatia.
+This document outlines how HMS-GOV is integrated with hr-health systems in Croatia.

@@ -1,4 +1,4 @@
-# HMS-OMS for ps_Health
+# HMS-OMS for ps-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Order Management System
 
 ## Integration Points
 
-This document outlines how HMS-OMS is integrated with ps_Health systems in State of Palestine.
+This document outlines how HMS-OMS is integrated with ps-health systems in State of Palestine.

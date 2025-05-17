@@ -1,4 +1,4 @@
-# HMS-EHR for lr_Health
+# HMS-EHR for lr-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Electronic Health Records
 
 ## Integration Points
 
-This document outlines how HMS-EHR is integrated with lr_Health systems in Liberia.
+This document outlines how HMS-EHR is integrated with lr-health systems in Liberia.

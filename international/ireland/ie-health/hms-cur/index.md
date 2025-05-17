@@ -1,4 +1,4 @@
-# HMS-CUR for ie_Health
+# HMS-CUR for ie-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Currency Management
 
 ## Integration Points
 
-This document outlines how HMS-CUR is integrated with ie_Health systems in Ireland.
+This document outlines how HMS-CUR is integrated with ie-health systems in Ireland.

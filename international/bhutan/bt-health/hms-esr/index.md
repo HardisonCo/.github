@@ -1,4 +1,4 @@
-# HMS-ESR for bt_Health
+# HMS-ESR for bt-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Economic System Representation
 
 ## Integration Points
 
-This document outlines how HMS-ESR is integrated with bt_Health systems in Bhutan.
+This document outlines how HMS-ESR is integrated with bt-health systems in Bhutan.

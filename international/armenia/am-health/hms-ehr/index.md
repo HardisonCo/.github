@@ -1,4 +1,4 @@
-# HMS-EHR for am_Health
+# HMS-EHR for am-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Electronic Health Records
 
 ## Integration Points
 
-This document outlines how HMS-EHR is integrated with am_Health systems in Armenia.
+This document outlines how HMS-EHR is integrated with am-health systems in Armenia.

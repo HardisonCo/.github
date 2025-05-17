@@ -1,4 +1,4 @@
-# HMS-CDF for mk_Health
+# HMS-CDF for mk-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Collaborative Decision Framework
 
 ## Integration Points
 
-This document outlines how HMS-CDF is integrated with mk_Health systems in North Macedonia.
+This document outlines how HMS-CDF is integrated with mk-health systems in North Macedonia.

@@ -1,4 +1,4 @@
-# HMS-ESQ for co_Health
+# HMS-ESQ for co-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Enhanced System Quality
 
 ## Integration Points
 
-This document outlines how HMS-ESQ is integrated with co_Health systems in Colombia.
+This document outlines how HMS-ESQ is integrated with co-health systems in Colombia.

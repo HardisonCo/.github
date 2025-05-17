@@ -1,4 +1,4 @@
-# HMS-ESQ for uz_Health
+# HMS-ESQ for uz-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Enhanced System Quality
 
 ## Integration Points
 
-This document outlines how HMS-ESQ is integrated with uz_Health systems in Uzbekistan.
+This document outlines how HMS-ESQ is integrated with uz-health systems in Uzbekistan.

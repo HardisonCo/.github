@@ -1,4 +1,4 @@
-# HMS-ACT for gh_Health
+# HMS-ACT for gh-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Agent Collaboration Tools
 
 ## Integration Points
 
-This document outlines how HMS-ACT is integrated with gh_Health systems in Ghana.
+This document outlines how HMS-ACT is integrated with gh-health systems in Ghana.

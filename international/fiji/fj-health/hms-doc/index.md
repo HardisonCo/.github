@@ -1,4 +1,4 @@
-# HMS-DOC for fj_Health
+# HMS-DOC for fj-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Documentation System
 
 ## Integration Points
 
-This document outlines how HMS-DOC is integrated with fj_Health systems in Fiji.
+This document outlines how HMS-DOC is integrated with fj-health systems in Fiji.

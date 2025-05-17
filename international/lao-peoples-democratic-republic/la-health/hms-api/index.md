@@ -1,4 +1,4 @@
-# HMS-API for la_Health
+# HMS-API for la-health
 
 ## Description
 
@@ -6,4 +6,4 @@ API Services
 
 ## Integration Points
 
-This document outlines how HMS-API is integrated with la_Health systems in Lao People's Democratic Republic.
+This document outlines how HMS-API is integrated with la-health systems in Lao People's Democratic Republic.

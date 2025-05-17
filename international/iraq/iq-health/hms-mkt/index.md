@@ -1,4 +1,4 @@
-# HMS-MKT for iq_Health
+# HMS-MKT for iq-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Market Analytics
 
 ## Integration Points
 
-This document outlines how HMS-MKT is integrated with iq_Health systems in Iraq.
+This document outlines how HMS-MKT is integrated with iq-health systems in Iraq.

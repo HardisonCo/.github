@@ -1,4 +1,4 @@
-# HMS-RED for ye_Health
+# HMS-RED for ye-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Reactive Data Engine
 
 ## Integration Points
 
-This document outlines how HMS-RED is integrated with ye_Health systems in Yemen.
+This document outlines how HMS-RED is integrated with ye-health systems in Yemen.

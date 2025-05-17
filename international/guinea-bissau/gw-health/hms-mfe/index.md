@@ -1,4 +1,4 @@
-# HMS-MFE for gw_Health
+# HMS-MFE for gw-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Micro Frontend Engine
 
 ## Integration Points
 
-This document outlines how HMS-MFE is integrated with gw_Health systems in Guinea-Bissau.
+This document outlines how HMS-MFE is integrated with gw-health systems in Guinea-Bissau.

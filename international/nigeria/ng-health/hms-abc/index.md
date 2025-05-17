@@ -1,4 +1,4 @@
-# HMS-ABC for ng_Health
+# HMS-ABC for ng-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Adaptive Business Capabilities
 
 ## Integration Points
 
-This document outlines how HMS-ABC is integrated with ng_Health systems in Nigeria.
+This document outlines how HMS-ABC is integrated with ng-health systems in Nigeria.

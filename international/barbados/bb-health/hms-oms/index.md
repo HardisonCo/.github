@@ -1,4 +1,4 @@
-# HMS-OMS for bb_Health
+# HMS-OMS for bb-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Order Management System
 
 ## Integration Points
 
-This document outlines how HMS-OMS is integrated with bb_Health systems in Barbados.
+This document outlines how HMS-OMS is integrated with bb-health systems in Barbados.

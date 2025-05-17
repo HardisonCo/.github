@@ -1,4 +1,4 @@
-# mu_Health - Mauritius Health Agency
+# mu-health - Mauritius Health Agency
 
 ## Ministry of Health and Quality of Life
 

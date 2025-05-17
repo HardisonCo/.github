@@ -1,4 +1,4 @@
-# ga_Health - Gabon Health Agency
+# ga-health - Gabon Health Agency
 
 ## Ministry of Health and Population
 

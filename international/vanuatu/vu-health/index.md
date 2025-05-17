@@ -1,4 +1,4 @@
-# vu_Health - Vanuatu Health Agency
+# vu-health - Vanuatu Health Agency
 
 ## Ministry of Health and Social Services
 

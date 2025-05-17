@@ -1,4 +1,4 @@
-# HMS-OPS for is_Health
+# HMS-OPS for is-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Operations Management
 
 ## Integration Points
 
-This document outlines how HMS-OPS is integrated with is_Health systems in Iceland.
+This document outlines how HMS-OPS is integrated with is-health systems in Iceland.

@@ -1,4 +1,4 @@
-# HMS-DEV for ga_Health
+# HMS-DEV for ga-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Development Framework
 
 ## Integration Points
 
-This document outlines how HMS-DEV is integrated with ga_Health systems in Gabon.
+This document outlines how HMS-DEV is integrated with ga-health systems in Gabon.

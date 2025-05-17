@@ -1,4 +1,4 @@
-# HMS-ESR for de_Health
+# HMS-ESR for de-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Economic System Representation
 
 ## Integration Points
 
-This document outlines how HMS-ESR is integrated with de_Health systems in Germany.
+This document outlines how HMS-ESR is integrated with de-health systems in Germany.

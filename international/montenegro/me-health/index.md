@@ -1,4 +1,4 @@
-# me_Health - Montenegro Health Agency
+# me-health - Montenegro Health Agency
 
 ## Ministry of Health of Montenegro
 

@@ -1,4 +1,4 @@
-# HMS-MKT for lu_Health
+# HMS-MKT for lu-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Market Analytics
 
 ## Integration Points
 
-This document outlines how HMS-MKT is integrated with lu_Health systems in Luxembourg.
+This document outlines how HMS-MKT is integrated with lu-health systems in Luxembourg.

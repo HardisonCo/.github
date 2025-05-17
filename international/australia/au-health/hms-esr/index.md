@@ -1,4 +1,4 @@
-# HMS-ESR for au_Health
+# HMS-ESR for au-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Economic System Representation
 
 ## Integration Points
 
-This document outlines how HMS-ESR is integrated with au_Health systems in Australia.
+This document outlines how HMS-ESR is integrated with au-health systems in Australia.

@@ -1,4 +1,4 @@
-# HMS-SME for cy_Health
+# HMS-SME for cy-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Subject Matter Expertise
 
 ## Integration Points
 
-This document outlines how HMS-SME is integrated with cy_Health systems in Cyprus.
+This document outlines how HMS-SME is integrated with cy-health systems in Cyprus.

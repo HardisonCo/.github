@@ -2,7 +2,7 @@
 
 ## Agencies
 
-- [gd_Health](gd_Health/index.md) - Ministry of Health
+- [gd-health](gd-health/index.md) - Ministry of Health
 
 ## HMS Implementation Status
 

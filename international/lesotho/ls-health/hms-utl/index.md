@@ -1,4 +1,4 @@
-# HMS-UTL for ls_Health
+# HMS-UTL for ls-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Utilities
 
 ## Integration Points
 
-This document outlines how HMS-UTL is integrated with ls_Health systems in Lesotho.
+This document outlines how HMS-UTL is integrated with ls-health systems in Lesotho.

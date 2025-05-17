@@ -1,4 +1,4 @@
-# HMS-CUR for hu_Health
+# HMS-CUR for hu-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Currency Management
 
 ## Integration Points
 
-This document outlines how HMS-CUR is integrated with hu_Health systems in Hungary.
+This document outlines how HMS-CUR is integrated with hu-health systems in Hungary.

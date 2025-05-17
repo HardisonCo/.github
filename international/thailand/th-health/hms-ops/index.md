@@ -1,4 +1,4 @@
-# HMS-OPS for th_Health
+# HMS-OPS for th-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Operations Management
 
 ## Integration Points
 
-This document outlines how HMS-OPS is integrated with th_Health systems in Thailand.
+This document outlines how HMS-OPS is integrated with th-health systems in Thailand.

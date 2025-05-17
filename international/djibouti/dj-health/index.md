@@ -1,4 +1,4 @@
-# dj_Health - Djibouti Health Agency
+# dj-health - Djibouti Health Agency
 
 ## Ministry of Health
 

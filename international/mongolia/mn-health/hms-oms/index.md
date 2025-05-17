@@ -1,4 +1,4 @@
-# HMS-OMS for mn_Health
+# HMS-OMS for mn-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Order Management System
 
 ## Integration Points
 
-This document outlines how HMS-OMS is integrated with mn_Health systems in Mongolia.
+This document outlines how HMS-OMS is integrated with mn-health systems in Mongolia.

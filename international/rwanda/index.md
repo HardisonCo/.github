@@ -2,7 +2,7 @@
 
 ## Agencies
 
-- [rw_Health](rw_Health/index.md) - Ministry of Health and Rwanda Biomedical Center
+- [rw-health](rw-health/index.md) - Ministry of Health and Rwanda Biomedical Center
 
 ## HMS Implementation Status
 

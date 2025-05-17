@@ -1,4 +1,4 @@
-# HMS-ESQ for ec_Health
+# HMS-ESQ for ec-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Enhanced System Quality
 
 ## Integration Points
 
-This document outlines how HMS-ESQ is integrated with ec_Health systems in Ecuador.
+This document outlines how HMS-ESQ is integrated with ec-health systems in Ecuador.

@@ -2,7 +2,7 @@
 
 ## Agencies
 
-- [mg_Health](mg_Health/index.md) - Ministry of Public Health and Population
+- [mg-health](mg-health/index.md) - Ministry of Public Health and Population
 
 ## HMS Implementation Status
 

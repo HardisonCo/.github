@@ -1,4 +1,4 @@
-# HMS-SCM for ug_Health
+# HMS-SCM for ug-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Supply Chain Management
 
 ## Integration Points
 
-This document outlines how HMS-SCM is integrated with ug_Health systems in Uganda.
+This document outlines how HMS-SCM is integrated with ug-health systems in Uganda.

@@ -1,4 +1,4 @@
-# HMS-SYS for jp_Health
+# HMS-SYS for jp-health
 
 ## Description
 
@@ -6,4 +6,4 @@ System Core
 
 ## Integration Points
 
-This document outlines how HMS-SYS is integrated with jp_Health systems in Japan.
+This document outlines how HMS-SYS is integrated with jp-health systems in Japan.

@@ -1,4 +1,4 @@
-# HMS-EHR for ls_Health
+# HMS-EHR for ls-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Electronic Health Records
 
 ## Integration Points
 
-This document outlines how HMS-EHR is integrated with ls_Health systems in Lesotho.
+This document outlines how HMS-EHR is integrated with ls-health systems in Lesotho.

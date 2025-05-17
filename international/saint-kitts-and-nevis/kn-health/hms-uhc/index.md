@@ -1,4 +1,4 @@
-# HMS-UHC for kn_Health
+# HMS-UHC for kn-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Universal Healthcare Components
 
 ## Integration Points
 
-This document outlines how HMS-UHC is integrated with kn_Health systems in Saint Kitts and Nevis.
+This document outlines how HMS-UHC is integrated with kn-health systems in Saint Kitts and Nevis.

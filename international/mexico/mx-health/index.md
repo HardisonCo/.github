@@ -1,4 +1,4 @@
-# mx_Health - Mexico Health Agency
+# mx-health - Mexico Health Agency
 
 ## Secretaría de Salud
 

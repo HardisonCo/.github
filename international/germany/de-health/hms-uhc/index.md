@@ -1,4 +1,4 @@
-# HMS-UHC for de_Health
+# HMS-UHC for de-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Universal Healthcare Components
 
 ## Integration Points
 
-This document outlines how HMS-UHC is integrated with de_Health systems in Germany.
+This document outlines how HMS-UHC is integrated with de-health systems in Germany.

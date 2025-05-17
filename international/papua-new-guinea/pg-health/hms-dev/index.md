@@ -1,4 +1,4 @@
-# HMS-DEV for pg_Health
+# HMS-DEV for pg-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Development Framework
 
 ## Integration Points
 
-This document outlines how HMS-DEV is integrated with pg_Health systems in Papua New Guinea.
+This document outlines how HMS-DEV is integrated with pg-health systems in Papua New Guinea.

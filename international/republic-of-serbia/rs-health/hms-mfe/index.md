@@ -1,4 +1,4 @@
-# HMS-MFE for rs_Health
+# HMS-MFE for rs-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Micro Frontend Engine
 
 ## Integration Points
 
-This document outlines how HMS-MFE is integrated with rs_Health systems in Republic of Serbia.
+This document outlines how HMS-MFE is integrated with rs-health systems in Republic of Serbia.

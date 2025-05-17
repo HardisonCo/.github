@@ -1,4 +1,4 @@
-# HMS-EMR for jm_Health
+# HMS-EMR for jm-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Electronic Medical Records
 
 ## Integration Points
 
-This document outlines how HMS-EMR is integrated with jm_Health systems in Jamaica.
+This document outlines how HMS-EMR is integrated with jm-health systems in Jamaica.

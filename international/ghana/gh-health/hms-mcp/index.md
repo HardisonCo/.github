@@ -1,4 +1,4 @@
-# HMS-MCP for gh_Health
+# HMS-MCP for gh-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Model-Compute-Publish
 
 ## Integration Points
 
-This document outlines how HMS-MCP is integrated with gh_Health systems in Ghana.
+This document outlines how HMS-MCP is integrated with gh-health systems in Ghana.

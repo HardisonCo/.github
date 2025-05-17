@@ -1,4 +1,4 @@
-# HMS-RED for qa_Health
+# HMS-RED for qa-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Reactive Data Engine
 
 ## Integration Points
 
-This document outlines how HMS-RED is integrated with qa_Health systems in State of Qatar.
+This document outlines how HMS-RED is integrated with qa-health systems in State of Qatar.

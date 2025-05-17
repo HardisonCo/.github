@@ -1,4 +1,4 @@
-# HMS-CDF for sy_Health
+# HMS-CDF for sy-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Collaborative Decision Framework
 
 ## Integration Points
 
-This document outlines how HMS-CDF is integrated with sy_Health systems in Syrian Arab Republic.
+This document outlines how HMS-CDF is integrated with sy-health systems in Syrian Arab Republic.

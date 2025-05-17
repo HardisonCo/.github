@@ -1,4 +1,4 @@
-# HMS-EHR for jp_Health
+# HMS-EHR for jp-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Electronic Health Records
 
 ## Integration Points
 
-This document outlines how HMS-EHR is integrated with jp_Health systems in Japan.
+This document outlines how HMS-EHR is integrated with jp-health systems in Japan.

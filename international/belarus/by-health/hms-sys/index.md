@@ -1,4 +1,4 @@
-# HMS-SYS for by_Health
+# HMS-SYS for by-health
 
 ## Description
 
@@ -6,4 +6,4 @@ System Core
 
 ## Integration Points
 
-This document outlines how HMS-SYS is integrated with by_Health systems in Belarus.
+This document outlines how HMS-SYS is integrated with by-health systems in Belarus.

@@ -1,4 +1,4 @@
-# tj_Health - Tajikistan Health Agency
+# tj-health - Tajikistan Health Agency
 
 ## Ministry of Health of the Republic of Tajikistan
 

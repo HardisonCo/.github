@@ -1,4 +1,4 @@
-# HMS-CUR for mx_Health
+# HMS-CUR for mx-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Currency Management
 
 ## Integration Points
 
-This document outlines how HMS-CUR is integrated with mx_Health systems in Mexico.
+This document outlines how HMS-CUR is integrated with mx-health systems in Mexico.

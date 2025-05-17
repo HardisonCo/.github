@@ -1,4 +1,4 @@
-# HMS-SCM for ae_Health
+# HMS-SCM for ae-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Supply Chain Management
 
 ## Integration Points
 
-This document outlines how HMS-SCM is integrated with ae_Health systems in United Arab Emirates.
+This document outlines how HMS-SCM is integrated with ae-health systems in United Arab Emirates.

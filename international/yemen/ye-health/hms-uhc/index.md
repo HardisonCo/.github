@@ -1,4 +1,4 @@
-# HMS-UHC for ye_Health
+# HMS-UHC for ye-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Universal Healthcare Components
 
 ## Integration Points
 
-This document outlines how HMS-UHC is integrated with ye_Health systems in Yemen.
+This document outlines how HMS-UHC is integrated with ye-health systems in Yemen.

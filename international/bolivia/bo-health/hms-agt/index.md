@@ -1,4 +1,4 @@
-# HMS-AGT for bo_Health
+# HMS-AGT for bo-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Agent Tooling
 
 ## Integration Points
 
-This document outlines how HMS-AGT is integrated with bo_Health systems in Bolivia.
+This document outlines how HMS-AGT is integrated with bo-health systems in Bolivia.

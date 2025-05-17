@@ -2,7 +2,7 @@
 
 ## Agencies
 
-- [ad_Health](ad_Health/index.md) - Ministry of Health of Andorra
+- [ad-health](ad-health/index.md) - Ministry of Health of Andorra
 
 ## HMS Implementation Status
 

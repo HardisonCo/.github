@@ -1,4 +1,4 @@
-# HMS-ESR for fj_Health
+# HMS-ESR for fj-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Economic System Representation
 
 ## Integration Points
 
-This document outlines how HMS-ESR is integrated with fj_Health systems in Fiji.
+This document outlines how HMS-ESR is integrated with fj-health systems in Fiji.

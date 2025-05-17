@@ -1,4 +1,4 @@
-# HMS-UHC for bn_Health
+# HMS-UHC for bn-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Universal Healthcare Components
 
 ## Integration Points
 
-This document outlines how HMS-UHC is integrated with bn_Health systems in Brunei.
+This document outlines how HMS-UHC is integrated with bn-health systems in Brunei.

@@ -1,4 +1,4 @@
-# HMS-OMS for hr_Health
+# HMS-OMS for hr-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Order Management System
 
 ## Integration Points
 
-This document outlines how HMS-OMS is integrated with hr_Health systems in Croatia.
+This document outlines how HMS-OMS is integrated with hr-health systems in Croatia.

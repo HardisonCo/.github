@@ -1,4 +1,4 @@
-# HMS-API for vn_Health
+# HMS-API for vn-health
 
 ## Description
 
@@ -6,4 +6,4 @@ API Services
 
 ## Integration Points
 
-This document outlines how HMS-API is integrated with vn_Health systems in Vietnam.
+This document outlines how HMS-API is integrated with vn-health systems in Vietnam.

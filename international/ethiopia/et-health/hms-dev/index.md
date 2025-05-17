@@ -1,4 +1,4 @@
-# HMS-DEV for et_Health
+# HMS-DEV for et-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Development Framework
 
 ## Integration Points
 
-This document outlines how HMS-DEV is integrated with et_Health systems in Ethiopia.
+This document outlines how HMS-DEV is integrated with et-health systems in Ethiopia.

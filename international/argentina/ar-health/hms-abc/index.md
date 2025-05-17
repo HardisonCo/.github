@@ -1,4 +1,4 @@
-# HMS-ABC for ar_Health
+# HMS-ABC for ar-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Adaptive Business Capabilities
 
 ## Integration Points
 
-This document outlines how HMS-ABC is integrated with ar_Health systems in Argentina.
+This document outlines how HMS-ABC is integrated with ar-health systems in Argentina.

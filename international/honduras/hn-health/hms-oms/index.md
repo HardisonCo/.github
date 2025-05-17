@@ -1,4 +1,4 @@
-# HMS-OMS for hn_Health
+# HMS-OMS for hn-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Order Management System
 
 ## Integration Points
 
-This document outlines how HMS-OMS is integrated with hn_Health systems in Honduras.
+This document outlines how HMS-OMS is integrated with hn-health systems in Honduras.

@@ -1,4 +1,4 @@
-# HMS-DEV for st_Health
+# HMS-DEV for st-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Development Framework
 
 ## Integration Points
 
-This document outlines how HMS-DEV is integrated with st_Health systems in São Tomé and Príncipe.
+This document outlines how HMS-DEV is integrated with st-health systems in São Tomé and Príncipe.

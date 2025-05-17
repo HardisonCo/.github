@@ -1,4 +1,4 @@
-# HMS-UHC for hr_Health
+# HMS-UHC for hr-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Universal Healthcare Components
 
 ## Integration Points
 
-This document outlines how HMS-UHC is integrated with hr_Health systems in Croatia.
+This document outlines how HMS-UHC is integrated with hr-health systems in Croatia.

@@ -1,4 +1,4 @@
-# HMS-EHR for pt_Health
+# HMS-EHR for pt-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Electronic Health Records
 
 ## Integration Points
 
-This document outlines how HMS-EHR is integrated with pt_Health systems in Portugal.
+This document outlines how HMS-EHR is integrated with pt-health systems in Portugal.

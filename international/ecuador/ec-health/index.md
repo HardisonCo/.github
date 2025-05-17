@@ -1,4 +1,4 @@
-# ec_Health - Ecuador Health Agency
+# ec-health - Ecuador Health Agency
 
 ## Ministerio de Salud Pública
 

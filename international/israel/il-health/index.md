@@ -1,4 +1,4 @@
-# il_Health - Israel Health Agency
+# il-health - Israel Health Agency
 
 ## Ministry of Health
 

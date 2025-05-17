@@ -1,4 +1,4 @@
-# hr_Health - Croatia Health Agency
+# hr-health - Croatia Health Agency
 
 ## Ministry of Health
 

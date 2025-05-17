@@ -1,4 +1,4 @@
-# gt_Health - Guatemala Health Agency
+# gt-health - Guatemala Health Agency
 
 ## Ministry of Public Health and Social Assistance
 

@@ -2,7 +2,7 @@
 
 ## Agencies
 
-- [pk_Health](pk_Health/index.md) - Ministry of National Health Services, Regulations & Coordination
+- [pk-health](pk-health/index.md) - Ministry of National Health Services, Regulations & Coordination
 
 ## HMS Implementation Status
 

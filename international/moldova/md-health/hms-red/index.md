@@ -1,4 +1,4 @@
-# HMS-RED for md_Health
+# HMS-RED for md-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Reactive Data Engine
 
 ## Integration Points
 
-This document outlines how HMS-RED is integrated with md_Health systems in Moldova.
+This document outlines how HMS-RED is integrated with md-health systems in Moldova.

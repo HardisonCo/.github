@@ -1,4 +1,4 @@
-# HMS-UHC for eg_Health
+# HMS-UHC for eg-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Universal Healthcare Components
 
 ## Integration Points
 
-This document outlines how HMS-UHC is integrated with eg_Health systems in Arab Republic of Egypt.
+This document outlines how HMS-UHC is integrated with eg-health systems in Arab Republic of Egypt.

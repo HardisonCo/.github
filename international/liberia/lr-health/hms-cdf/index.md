@@ -1,4 +1,4 @@
-# HMS-CDF for lr_Health
+# HMS-CDF for lr-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Collaborative Decision Framework
 
 ## Integration Points
 
-This document outlines how HMS-CDF is integrated with lr_Health systems in Liberia.
+This document outlines how HMS-CDF is integrated with lr-health systems in Liberia.

@@ -1,4 +1,4 @@
-# HMS-EHR for cz_Health
+# HMS-EHR for cz-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Electronic Health Records
 
 ## Integration Points
 
-This document outlines how HMS-EHR is integrated with cz_Health systems in Czech Republic.
+This document outlines how HMS-EHR is integrated with cz-health systems in Czech Republic.

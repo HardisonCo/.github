@@ -2,7 +2,7 @@
 
 ## Agencies
 
-- [ga_Health](ga_Health/index.md) - Ministry of Health and Population
+- [ga-health](ga-health/index.md) - Ministry of Health and Population
 
 ## HMS Implementation Status
 

@@ -1,4 +1,4 @@
-# HMS-AGT for bf_Health
+# HMS-AGT for bf-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Agent Tooling
 
 ## Integration Points
 
-This document outlines how HMS-AGT is integrated with bf_Health systems in Burkina Faso.
+This document outlines how HMS-AGT is integrated with bf-health systems in Burkina Faso.

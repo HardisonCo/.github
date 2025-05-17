@@ -1,4 +1,4 @@
-# HMS-ESR for to_Health
+# HMS-ESR for to-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Economic System Representation
 
 ## Integration Points
 
-This document outlines how HMS-ESR is integrated with to_Health systems in Tonga.
+This document outlines how HMS-ESR is integrated with to-health systems in Tonga.

@@ -1,4 +1,4 @@
-# HMS-SYS for gr_Health
+# HMS-SYS for gr-health
 
 ## Description
 
@@ -6,4 +6,4 @@ System Core
 
 ## Integration Points
 
-This document outlines how HMS-SYS is integrated with gr_Health systems in Hellenic Republic.
+This document outlines how HMS-SYS is integrated with gr-health systems in Hellenic Republic.

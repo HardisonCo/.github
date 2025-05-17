@@ -1,4 +1,4 @@
-# HMS-RED for vu_Health
+# HMS-RED for vu-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Reactive Data Engine
 
 ## Integration Points
 
-This document outlines how HMS-RED is integrated with vu_Health systems in Vanuatu.
+This document outlines how HMS-RED is integrated with vu-health systems in Vanuatu.

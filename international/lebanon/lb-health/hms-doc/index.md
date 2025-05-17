@@ -1,4 +1,4 @@
-# HMS-DOC for lb_Health
+# HMS-DOC for lb-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Documentation System
 
 ## Integration Points
 
-This document outlines how HMS-DOC is integrated with lb_Health systems in Lebanon.
+This document outlines how HMS-DOC is integrated with lb-health systems in Lebanon.

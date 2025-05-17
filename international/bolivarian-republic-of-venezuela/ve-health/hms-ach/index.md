@@ -1,4 +1,4 @@
-# HMS-ACH for ve_Health
+# HMS-ACH for ve-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Automated Clearing House
 
 ## Integration Points
 
-This document outlines how HMS-ACH is integrated with ve_Health systems in Bolivarian Republic of Venezuela.
+This document outlines how HMS-ACH is integrated with ve-health systems in Bolivarian Republic of Venezuela.

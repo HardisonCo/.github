@@ -1,4 +1,4 @@
-# HMS-EDU for ru_Health
+# HMS-EDU for ru-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Education System
 
 ## Integration Points
 
-This document outlines how HMS-EDU is integrated with ru_Health systems in Russian Federation.
+This document outlines how HMS-EDU is integrated with ru-health systems in Russian Federation.

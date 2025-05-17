@@ -1,4 +1,4 @@
-# HMS-SYS for gm_Health
+# HMS-SYS for gm-health
 
 ## Description
 
@@ -6,4 +6,4 @@ System Core
 
 ## Integration Points
 
-This document outlines how HMS-SYS is integrated with gm_Health systems in Gambia.
+This document outlines how HMS-SYS is integrated with gm-health systems in Gambia.

@@ -1,4 +1,4 @@
-# HMS-MFE for is_Health
+# HMS-MFE for is-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Micro Frontend Engine
 
 ## Integration Points
 
-This document outlines how HMS-MFE is integrated with is_Health systems in Iceland.
+This document outlines how HMS-MFE is integrated with is-health systems in Iceland.

@@ -1,4 +1,4 @@
-# HMS-GOV for hn_Health
+# HMS-GOV for hn-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Governance Framework
 
 ## Integration Points
 
-This document outlines how HMS-GOV is integrated with hn_Health systems in Honduras.
+This document outlines how HMS-GOV is integrated with hn-health systems in Honduras.

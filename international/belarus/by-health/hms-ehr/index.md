@@ -1,4 +1,4 @@
-# HMS-EHR for by_Health
+# HMS-EHR for by-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Electronic Health Records
 
 ## Integration Points
 
-This document outlines how HMS-EHR is integrated with by_Health systems in Belarus.
+This document outlines how HMS-EHR is integrated with by-health systems in Belarus.

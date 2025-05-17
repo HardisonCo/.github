@@ -1,4 +1,4 @@
-# HMS-ESQ for ma_Health
+# HMS-ESQ for ma-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Enhanced System Quality
 
 ## Integration Points
 
-This document outlines how HMS-ESQ is integrated with ma_Health systems in Morocco.
+This document outlines how HMS-ESQ is integrated with ma-health systems in Morocco.

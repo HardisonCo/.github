@@ -1,4 +1,4 @@
-# HMS-GOV for li_Health
+# HMS-GOV for li-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Governance Framework
 
 ## Integration Points
 
-This document outlines how HMS-GOV is integrated with li_Health systems in Liechtenstein.
+This document outlines how HMS-GOV is integrated with li-health systems in Liechtenstein.

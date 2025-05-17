@@ -1,4 +1,4 @@
-# HMS-AGX for lv_Health
+# HMS-AGX for lv-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Advanced Graph Experience
 
 ## Integration Points
 
-This document outlines how HMS-AGX is integrated with lv_Health systems in Latvia.
+This document outlines how HMS-AGX is integrated with lv-health systems in Latvia.

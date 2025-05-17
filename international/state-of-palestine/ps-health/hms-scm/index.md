@@ -1,4 +1,4 @@
-# HMS-SCM for ps_Health
+# HMS-SCM for ps-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Supply Chain Management
 
 ## Integration Points
 
-This document outlines how HMS-SCM is integrated with ps_Health systems in State of Palestine.
+This document outlines how HMS-SCM is integrated with ps-health systems in State of Palestine.

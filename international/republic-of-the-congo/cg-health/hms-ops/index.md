@@ -1,4 +1,4 @@
-# HMS-OPS for cg_Health
+# HMS-OPS for cg-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Operations Management
 
 ## Integration Points
 
-This document outlines how HMS-OPS is integrated with cg_Health systems in Republic of the Congo.
+This document outlines how HMS-OPS is integrated with cg-health systems in Republic of the Congo.

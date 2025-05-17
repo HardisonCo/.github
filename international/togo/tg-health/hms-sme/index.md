@@ -1,4 +1,4 @@
-# HMS-SME for tg_Health
+# HMS-SME for tg-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Subject Matter Expertise
 
 ## Integration Points
 
-This document outlines how HMS-SME is integrated with tg_Health systems in Togo.
+This document outlines how HMS-SME is integrated with tg-health systems in Togo.

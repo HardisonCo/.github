@@ -1,4 +1,4 @@
-# HMS-MKT for sb_Health
+# HMS-MKT for sb-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Market Analytics
 
 ## Integration Points
 
-This document outlines how HMS-MKT is integrated with sb_Health systems in Solomon Islands.
+This document outlines how HMS-MKT is integrated with sb-health systems in Solomon Islands.

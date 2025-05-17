@@ -1,4 +1,4 @@
-# HMS-A2A for ml_Health
+# HMS-A2A for ml-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Agent-to-Agent Communication System
 
 ## Integration Points
 
-This document outlines how HMS-A2A is integrated with ml_Health systems in Mali.
+This document outlines how HMS-A2A is integrated with ml-health systems in Mali.

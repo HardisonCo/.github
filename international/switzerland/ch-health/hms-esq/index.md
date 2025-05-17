@@ -1,4 +1,4 @@
-# HMS-ESQ for ch_Health
+# HMS-ESQ for ch-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Enhanced System Quality
 
 ## Integration Points
 
-This document outlines how HMS-ESQ is integrated with ch_Health systems in Switzerland.
+This document outlines how HMS-ESQ is integrated with ch-health systems in Switzerland.

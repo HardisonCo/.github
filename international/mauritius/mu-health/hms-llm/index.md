@@ -1,4 +1,4 @@
-# HMS-LLM for mu_Health
+# HMS-LLM for mu-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Large Language Model Operations Platform
 
 ## Integration Points
 
-This document outlines how HMS-LLM is integrated with mu_Health systems in Mauritius.
+This document outlines how HMS-LLM is integrated with mu-health systems in Mauritius.

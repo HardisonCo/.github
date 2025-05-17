@@ -1,4 +1,4 @@
-# HMS-DEV for gh_Health
+# HMS-DEV for gh-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Development Framework
 
 ## Integration Points
 
-This document outlines how HMS-DEV is integrated with gh_Health systems in Ghana.
+This document outlines how HMS-DEV is integrated with gh-health systems in Ghana.

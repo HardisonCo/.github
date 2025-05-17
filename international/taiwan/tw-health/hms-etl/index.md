@@ -1,4 +1,4 @@
-# HMS-ETL for tw_Health
+# HMS-ETL for tw-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Extract, Transform, Load
 
 ## Integration Points
 
-This document outlines how HMS-ETL is integrated with tw_Health systems in Taiwan.
+This document outlines how HMS-ETL is integrated with tw-health systems in Taiwan.

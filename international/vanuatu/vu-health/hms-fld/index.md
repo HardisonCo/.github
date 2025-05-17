@@ -1,4 +1,4 @@
-# HMS-FLD for vu_Health
+# HMS-FLD for vu-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Field Data Collection
 
 ## Integration Points
 
-This document outlines how HMS-FLD is integrated with vu_Health systems in Vanuatu.
+This document outlines how HMS-FLD is integrated with vu-health systems in Vanuatu.

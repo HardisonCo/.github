@@ -1,4 +1,4 @@
-# HMS-ESR for ml_Health
+# HMS-ESR for ml-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Economic System Representation
 
 ## Integration Points
 
-This document outlines how HMS-ESR is integrated with ml_Health systems in Mali.
+This document outlines how HMS-ESR is integrated with ml-health systems in Mali.

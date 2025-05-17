@@ -1,4 +1,4 @@
-# HMS-EHR for to_Health
+# HMS-EHR for to-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Electronic Health Records
 
 ## Integration Points
 
-This document outlines how HMS-EHR is integrated with to_Health systems in Tonga.
+This document outlines how HMS-EHR is integrated with to-health systems in Tonga.

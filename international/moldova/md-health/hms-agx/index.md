@@ -1,4 +1,4 @@
-# HMS-AGX for md_Health
+# HMS-AGX for md-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Advanced Graph Experience
 
 ## Integration Points
 
-This document outlines how HMS-AGX is integrated with md_Health systems in Moldova.
+This document outlines how HMS-AGX is integrated with md-health systems in Moldova.

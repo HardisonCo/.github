@@ -1,4 +1,4 @@
-# HMS-SKL for tn_Health
+# HMS-SKL for tn-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Skills Management
 
 ## Integration Points
 
-This document outlines how HMS-SKL is integrated with tn_Health systems in Tunisia.
+This document outlines how HMS-SKL is integrated with tn-health systems in Tunisia.

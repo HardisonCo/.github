@@ -1,4 +1,4 @@
-# HMS-DEV for it_Health
+# HMS-DEV for it-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Development Framework
 
 ## Integration Points
 
-This document outlines how HMS-DEV is integrated with it_Health systems in Italy.
+This document outlines how HMS-DEV is integrated with it-health systems in Italy.

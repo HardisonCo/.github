@@ -1,4 +1,4 @@
-# HMS-CDF for gd_Health
+# HMS-CDF for gd-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Collaborative Decision Framework
 
 ## Integration Points
 
-This document outlines how HMS-CDF is integrated with gd_Health systems in Grenada.
+This document outlines how HMS-CDF is integrated with gd-health systems in Grenada.

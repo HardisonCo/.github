@@ -2,7 +2,7 @@
 
 ## Agencies
 
-- [de_Health](de_Health/index.md) - Bundesministerium für Gesundheit
+- [de-health](de-health/index.md) - Bundesministerium für Gesundheit
 
 ## HMS Implementation Status
 

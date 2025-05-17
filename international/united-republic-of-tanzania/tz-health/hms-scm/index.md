@@ -1,4 +1,4 @@
-# HMS-SCM for tz_Health
+# HMS-SCM for tz-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Supply Chain Management
 
 ## Integration Points
 
-This document outlines how HMS-SCM is integrated with tz_Health systems in United Republic of Tanzania.
+This document outlines how HMS-SCM is integrated with tz-health systems in United Republic of Tanzania.

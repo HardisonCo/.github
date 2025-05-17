@@ -1,4 +1,4 @@
-# HMS-SKL for sk_Health
+# HMS-SKL for sk-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Skills Management
 
 ## Integration Points
 
-This document outlines how HMS-SKL is integrated with sk_Health systems in Slovakia.
+This document outlines how HMS-SKL is integrated with sk-health systems in Slovakia.

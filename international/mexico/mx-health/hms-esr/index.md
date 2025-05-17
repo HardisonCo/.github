@@ -1,4 +1,4 @@
-# HMS-ESR for mx_Health
+# HMS-ESR for mx-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Economic System Representation
 
 ## Integration Points
 
-This document outlines how HMS-ESR is integrated with mx_Health systems in Mexico.
+This document outlines how HMS-ESR is integrated with mx-health systems in Mexico.

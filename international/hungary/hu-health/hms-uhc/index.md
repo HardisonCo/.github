@@ -1,4 +1,4 @@
-# HMS-UHC for hu_Health
+# HMS-UHC for hu-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Universal Healthcare Components
 
 ## Integration Points
 
-This document outlines how HMS-UHC is integrated with hu_Health systems in Hungary.
+This document outlines how HMS-UHC is integrated with hu-health systems in Hungary.

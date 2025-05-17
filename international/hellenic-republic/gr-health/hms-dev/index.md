@@ -1,4 +1,4 @@
-# HMS-DEV for gr_Health
+# HMS-DEV for gr-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Development Framework
 
 ## Integration Points
 
-This document outlines how HMS-DEV is integrated with gr_Health systems in Hellenic Republic.
+This document outlines how HMS-DEV is integrated with gr-health systems in Hellenic Republic.

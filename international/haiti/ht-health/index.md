@@ -1,4 +1,4 @@
-# ht_Health - Haiti Health Agency
+# ht-health - Haiti Health Agency
 
 ## Ministère de la Santé Publique et de la Population
 

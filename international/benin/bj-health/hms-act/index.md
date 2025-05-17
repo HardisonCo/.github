@@ -1,4 +1,4 @@
-# HMS-ACT for bj_Health
+# HMS-ACT for bj-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Agent Collaboration Tools
 
 ## Integration Points
 
-This document outlines how HMS-ACT is integrated with bj_Health systems in Benin.
+This document outlines how HMS-ACT is integrated with bj-health systems in Benin.

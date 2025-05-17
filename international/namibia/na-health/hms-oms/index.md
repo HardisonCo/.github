@@ -1,4 +1,4 @@
-# HMS-OMS for na_Health
+# HMS-OMS for na-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Order Management System
 
 ## Integration Points
 
-This document outlines how HMS-OMS is integrated with na_Health systems in Namibia.
+This document outlines how HMS-OMS is integrated with na-health systems in Namibia.

@@ -1,4 +1,4 @@
-# HMS-ACH for dk_Health
+# HMS-ACH for dk-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Automated Clearing House
 
 ## Integration Points
 
-This document outlines how HMS-ACH is integrated with dk_Health systems in Kingdom of Denmark.
+This document outlines how HMS-ACH is integrated with dk-health systems in Kingdom of Denmark.

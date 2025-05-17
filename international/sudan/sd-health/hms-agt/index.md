@@ -1,4 +1,4 @@
-# HMS-AGT for sd_Health
+# HMS-AGT for sd-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Agent Tooling
 
 ## Integration Points
 
-This document outlines how HMS-AGT is integrated with sd_Health systems in Sudan.
+This document outlines how HMS-AGT is integrated with sd-health systems in Sudan.

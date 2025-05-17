@@ -1,4 +1,4 @@
-# HMS-MKT for bz_Health
+# HMS-MKT for bz-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Market Analytics
 
 ## Integration Points
 
-This document outlines how HMS-MKT is integrated with bz_Health systems in Belize.
+This document outlines how HMS-MKT is integrated with bz-health systems in Belize.

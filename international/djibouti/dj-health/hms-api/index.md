@@ -1,4 +1,4 @@
-# HMS-API for dj_Health
+# HMS-API for dj-health
 
 ## Description
 
@@ -6,4 +6,4 @@ API Services
 
 ## Integration Points
 
-This document outlines how HMS-API is integrated with dj_Health systems in Djibouti.
+This document outlines how HMS-API is integrated with dj-health systems in Djibouti.

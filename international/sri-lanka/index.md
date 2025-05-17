@@ -2,7 +2,7 @@
 
 ## Agencies
 
-- [lk_Health](lk_Health/index.md) - Ministry of Health, Sri Lanka
+- [lk-health](lk-health/index.md) - Ministry of Health, Sri Lanka
 
 ## HMS Implementation Status
 

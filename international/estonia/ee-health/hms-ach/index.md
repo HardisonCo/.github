@@ -1,4 +1,4 @@
-# HMS-ACH for ee_Health
+# HMS-ACH for ee-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Automated Clearing House
 
 ## Integration Points
 
-This document outlines how HMS-ACH is integrated with ee_Health systems in Estonia.
+This document outlines how HMS-ACH is integrated with ee-health systems in Estonia.

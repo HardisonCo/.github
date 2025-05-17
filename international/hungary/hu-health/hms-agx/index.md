@@ -1,4 +1,4 @@
-# HMS-AGX for hu_Health
+# HMS-AGX for hu-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Advanced Graph Experience
 
 ## Integration Points
 
-This document outlines how HMS-AGX is integrated with hu_Health systems in Hungary.
+This document outlines how HMS-AGX is integrated with hu-health systems in Hungary.

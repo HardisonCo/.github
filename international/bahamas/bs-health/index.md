@@ -1,4 +1,4 @@
-# bs_Health - Bahamas Health Agency
+# bs-health - Bahamas Health Agency
 
 ## Ministry of Health, Wellness and the Environment
 

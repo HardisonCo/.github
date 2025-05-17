@@ -1,4 +1,4 @@
-# HMS-OMS for th_Health
+# HMS-OMS for th-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Order Management System
 
 ## Integration Points
 
-This document outlines how HMS-OMS is integrated with th_Health systems in Thailand.
+This document outlines how HMS-OMS is integrated with th-health systems in Thailand.

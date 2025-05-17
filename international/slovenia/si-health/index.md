@@ -1,4 +1,4 @@
-# si_Health - Slovenia Health Agency
+# si-health - Slovenia Health Agency
 
 ## Ministry of Health
 

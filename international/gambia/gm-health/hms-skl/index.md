@@ -1,4 +1,4 @@
-# HMS-SKL for gm_Health
+# HMS-SKL for gm-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Skills Management
 
 ## Integration Points
 
-This document outlines how HMS-SKL is integrated with gm_Health systems in Gambia.
+This document outlines how HMS-SKL is integrated with gm-health systems in Gambia.

@@ -1,4 +1,4 @@
-# HMS-ABC for li_Health
+# HMS-ABC for li-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Adaptive Business Capabilities
 
 ## Integration Points
 
-This document outlines how HMS-ABC is integrated with li_Health systems in Liechtenstein.
+This document outlines how HMS-ABC is integrated with li-health systems in Liechtenstein.

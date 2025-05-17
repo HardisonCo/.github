@@ -1,4 +1,4 @@
-# HMS-ACT for sk_Health
+# HMS-ACT for sk-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Agent Collaboration Tools
 
 ## Integration Points
 
-This document outlines how HMS-ACT is integrated with sk_Health systems in Slovakia.
+This document outlines how HMS-ACT is integrated with sk-health systems in Slovakia.

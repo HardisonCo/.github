@@ -1,4 +1,4 @@
-# pt_Health - Portugal Health Agency
+# pt-health - Portugal Health Agency
 
 ## Ministry of Health
 

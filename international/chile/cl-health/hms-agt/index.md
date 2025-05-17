@@ -1,4 +1,4 @@
-# HMS-AGT for cl_Health
+# HMS-AGT for cl-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Agent Tooling
 
 ## Integration Points
 
-This document outlines how HMS-AGT is integrated with cl_Health systems in Chile.
+This document outlines how HMS-AGT is integrated with cl-health systems in Chile.

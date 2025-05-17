@@ -1,4 +1,4 @@
-# HMS-MFE for ma_Health
+# HMS-MFE for ma-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Micro Frontend Engine
 
 ## Integration Points
 
-This document outlines how HMS-MFE is integrated with ma_Health systems in Morocco.
+This document outlines how HMS-MFE is integrated with ma-health systems in Morocco.

@@ -1,4 +1,4 @@
-# HMS-SYS for jm_Health
+# HMS-SYS for jm-health
 
 ## Description
 
@@ -6,4 +6,4 @@ System Core
 
 ## Integration Points
 
-This document outlines how HMS-SYS is integrated with jm_Health systems in Jamaica.
+This document outlines how HMS-SYS is integrated with jm-health systems in Jamaica.

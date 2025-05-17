@@ -1,4 +1,4 @@
-# HMS-MKT for ru_Health
+# HMS-MKT for ru-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Market Analytics
 
 ## Integration Points
 
-This document outlines how HMS-MKT is integrated with ru_Health systems in Russian Federation.
+This document outlines how HMS-MKT is integrated with ru-health systems in Russian Federation.

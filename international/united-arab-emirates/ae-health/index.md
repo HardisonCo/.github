@@ -1,4 +1,4 @@
-# ae_Health - United Arab Emirates Health Agency
+# ae-health - United Arab Emirates Health Agency
 
 ## Ministry of Health and Prevention
 

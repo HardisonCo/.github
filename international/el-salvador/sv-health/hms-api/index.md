@@ -1,4 +1,4 @@
-# HMS-API for sv_Health
+# HMS-API for sv-health
 
 ## Description
 
@@ -6,4 +6,4 @@ API Services
 
 ## Integration Points
 
-This document outlines how HMS-API is integrated with sv_Health systems in El Salvador.
+This document outlines how HMS-API is integrated with sv-health systems in El Salvador.

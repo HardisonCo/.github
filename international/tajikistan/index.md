@@ -2,7 +2,7 @@
 
 ## Agencies
 
-- [tj_Health](tj_Health/index.md) - Ministry of Health of the Republic of Tajikistan
+- [tj-health](tj-health/index.md) - Ministry of Health of the Republic of Tajikistan
 
 ## HMS Implementation Status
 

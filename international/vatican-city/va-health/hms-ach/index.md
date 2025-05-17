@@ -1,4 +1,4 @@
-# HMS-ACH for va_Health
+# HMS-ACH for va-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Automated Clearing House
 
 ## Integration Points
 
-This document outlines how HMS-ACH is integrated with va_Health systems in Vatican City.
+This document outlines how HMS-ACH is integrated with va-health systems in Vatican City.

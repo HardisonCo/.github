@@ -1,4 +1,4 @@
-# HMS-ABC for hu_Health
+# HMS-ABC for hu-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Adaptive Business Capabilities
 
 ## Integration Points
 
-This document outlines how HMS-ABC is integrated with hu_Health systems in Hungary.
+This document outlines how HMS-ABC is integrated with hu-health systems in Hungary.

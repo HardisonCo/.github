@@ -1,4 +1,4 @@
-# HMS-EMR for fj_Health
+# HMS-EMR for fj-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Electronic Medical Records
 
 ## Integration Points
 
-This document outlines how HMS-EMR is integrated with fj_Health systems in Fiji.
+This document outlines how HMS-EMR is integrated with fj-health systems in Fiji.

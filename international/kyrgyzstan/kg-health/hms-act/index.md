@@ -1,4 +1,4 @@
-# HMS-ACT for kg_Health
+# HMS-ACT for kg-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Agent Collaboration Tools
 
 ## Integration Points
 
-This document outlines how HMS-ACT is integrated with kg_Health systems in Kyrgyzstan.
+This document outlines how HMS-ACT is integrated with kg-health systems in Kyrgyzstan.

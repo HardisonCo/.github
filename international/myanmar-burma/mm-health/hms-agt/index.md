@@ -1,4 +1,4 @@
-# HMS-AGT for mm_Health
+# HMS-AGT for mm-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Agent Tooling
 
 ## Integration Points
 
-This document outlines how HMS-AGT is integrated with mm_Health systems in Myanmar (Burma).
+This document outlines how HMS-AGT is integrated with mm-health systems in Myanmar (Burma).

@@ -2,7 +2,7 @@
 
 ## Agencies
 
-- [ba_Health](ba_Health/index.md) - Ministry of Health of Bosnia and Herzegovina
+- [ba-health](ba-health/index.md) - Ministry of Health of Bosnia and Herzegovina
 
 ## HMS Implementation Status
 

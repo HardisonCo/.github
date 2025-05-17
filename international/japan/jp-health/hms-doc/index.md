@@ -1,4 +1,4 @@
-# HMS-DOC for jp_Health
+# HMS-DOC for jp-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Documentation System
 
 ## Integration Points
 
-This document outlines how HMS-DOC is integrated with jp_Health systems in Japan.
+This document outlines how HMS-DOC is integrated with jp-health systems in Japan.

@@ -1,4 +1,4 @@
-# HMS-ESR for li_Health
+# HMS-ESR for li-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Economic System Representation
 
 ## Integration Points
 
-This document outlines how HMS-ESR is integrated with li_Health systems in Liechtenstein.
+This document outlines how HMS-ESR is integrated with li-health systems in Liechtenstein.

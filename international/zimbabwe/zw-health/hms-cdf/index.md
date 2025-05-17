@@ -1,4 +1,4 @@
-# HMS-CDF for zw_Health
+# HMS-CDF for zw-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Collaborative Decision Framework
 
 ## Integration Points
 
-This document outlines how HMS-CDF is integrated with zw_Health systems in Zimbabwe.
+This document outlines how HMS-CDF is integrated with zw-health systems in Zimbabwe.

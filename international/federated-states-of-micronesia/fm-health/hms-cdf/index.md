@@ -1,4 +1,4 @@
-# HMS-CDF for fm_Health
+# HMS-CDF for fm-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Collaborative Decision Framework
 
 ## Integration Points
 
-This document outlines how HMS-CDF is integrated with fm_Health systems in Federated States of Micronesia.
+This document outlines how HMS-CDF is integrated with fm-health systems in Federated States of Micronesia.

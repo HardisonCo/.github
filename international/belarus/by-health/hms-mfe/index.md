@@ -1,4 +1,4 @@
-# HMS-MFE for by_Health
+# HMS-MFE for by-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Micro Frontend Engine
 
 ## Integration Points
 
-This document outlines how HMS-MFE is integrated with by_Health systems in Belarus.
+This document outlines how HMS-MFE is integrated with by-health systems in Belarus.

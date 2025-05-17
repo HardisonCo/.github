@@ -1,4 +1,4 @@
-# HMS-RED for km_Health
+# HMS-RED for km-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Reactive Data Engine
 
 ## Integration Points
 
-This document outlines how HMS-RED is integrated with km_Health systems in Comoros.
+This document outlines how HMS-RED is integrated with km-health systems in Comoros.

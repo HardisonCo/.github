@@ -1,4 +1,4 @@
-# HMS-ACT for ke_Health
+# HMS-ACT for ke-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Agent Collaboration Tools
 
 ## Integration Points
 
-This document outlines how HMS-ACT is integrated with ke_Health systems in Kenya.
+This document outlines how HMS-ACT is integrated with ke-health systems in Kenya.

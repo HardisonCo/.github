@@ -1,4 +1,4 @@
-# HMS-FLD for ag_Health
+# HMS-FLD for ag-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Field Data Collection
 
 ## Integration Points
 
-This document outlines how HMS-FLD is integrated with ag_Health systems in Antigua and Barbuda.
+This document outlines how HMS-FLD is integrated with ag-health systems in Antigua and Barbuda.

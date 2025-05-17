@@ -1,4 +1,4 @@
-# HMS-EMR for ge_Health
+# HMS-EMR for ge-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Electronic Medical Records
 
 ## Integration Points
 
-This document outlines how HMS-EMR is integrated with ge_Health systems in Georgia.
+This document outlines how HMS-EMR is integrated with ge-health systems in Georgia.

@@ -1,4 +1,4 @@
-# HMS-AGT for ua_Health
+# HMS-AGT for ua-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Agent Tooling
 
 ## Integration Points
 
-This document outlines how HMS-AGT is integrated with ua_Health systems in Ukraine.
+This document outlines how HMS-AGT is integrated with ua-health systems in Ukraine.

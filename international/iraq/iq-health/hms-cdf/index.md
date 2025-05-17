@@ -1,4 +1,4 @@
-# HMS-CDF for iq_Health
+# HMS-CDF for iq-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Collaborative Decision Framework
 
 ## Integration Points
 
-This document outlines how HMS-CDF is integrated with iq_Health systems in Iraq.
+This document outlines how HMS-CDF is integrated with iq-health systems in Iraq.

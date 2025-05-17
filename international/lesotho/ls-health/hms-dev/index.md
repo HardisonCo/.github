@@ -1,4 +1,4 @@
-# HMS-DEV for ls_Health
+# HMS-DEV for ls-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Development Framework
 
 ## Integration Points
 
-This document outlines how HMS-DEV is integrated with ls_Health systems in Lesotho.
+This document outlines how HMS-DEV is integrated with ls-health systems in Lesotho.

@@ -1,4 +1,4 @@
-# HMS-ACH for hn_Health
+# HMS-ACH for hn-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Automated Clearing House
 
 ## Integration Points
 
-This document outlines how HMS-ACH is integrated with hn_Health systems in Honduras.
+This document outlines how HMS-ACH is integrated with hn-health systems in Honduras.

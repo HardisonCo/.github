@@ -1,4 +1,4 @@
-# HMS-AGX for sr_Health
+# HMS-AGX for sr-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Advanced Graph Experience
 
 ## Integration Points
 
-This document outlines how HMS-AGX is integrated with sr_Health systems in Suriname.
+This document outlines how HMS-AGX is integrated with sr-health systems in Suriname.

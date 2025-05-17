@@ -1,4 +1,4 @@
-# HMS-SYS for bb_Health
+# HMS-SYS for bb-health
 
 ## Description
 
@@ -6,4 +6,4 @@ System Core
 
 ## Integration Points
 
-This document outlines how HMS-SYS is integrated with bb_Health systems in Barbados.
+This document outlines how HMS-SYS is integrated with bb-health systems in Barbados.

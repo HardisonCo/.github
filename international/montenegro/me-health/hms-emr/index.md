@@ -1,4 +1,4 @@
-# HMS-EMR for me_Health
+# HMS-EMR for me-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Electronic Medical Records
 
 ## Integration Points
 
-This document outlines how HMS-EMR is integrated with me_Health systems in Montenegro.
+This document outlines how HMS-EMR is integrated with me-health systems in Montenegro.

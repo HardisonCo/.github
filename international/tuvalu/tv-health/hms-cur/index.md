@@ -1,4 +1,4 @@
-# HMS-CUR for tv_Health
+# HMS-CUR for tv-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Currency Management
 
 ## Integration Points
 
-This document outlines how HMS-CUR is integrated with tv_Health systems in Tuvalu.
+This document outlines how HMS-CUR is integrated with tv-health systems in Tuvalu.

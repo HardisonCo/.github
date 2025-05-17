@@ -1,4 +1,4 @@
-# bh_Health - Bahrain Health Agency
+# bh-health - Bahrain Health Agency
 
 ## Ministry of Health
 

@@ -1,4 +1,4 @@
-# HMS-AGT for lr_Health
+# HMS-AGT for lr-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Agent Tooling
 
 ## Integration Points
 
-This document outlines how HMS-AGT is integrated with lr_Health systems in Liberia.
+This document outlines how HMS-AGT is integrated with lr-health systems in Liberia.

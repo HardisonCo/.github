@@ -1,4 +1,4 @@
-# HMS-UHC for ao_Health
+# HMS-UHC for ao-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Universal Healthcare Components
 
 ## Integration Points
 
-This document outlines how HMS-UHC is integrated with ao_Health systems in Angola.
+This document outlines how HMS-UHC is integrated with ao-health systems in Angola.

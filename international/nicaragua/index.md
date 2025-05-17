@@ -2,7 +2,7 @@
 
 ## Agencies
 
-- [ni_Health](ni_Health/index.md) - Ministerio de Salud
+- [ni-health](ni-health/index.md) - Ministerio de Salud
 
 ## HMS Implementation Status
 

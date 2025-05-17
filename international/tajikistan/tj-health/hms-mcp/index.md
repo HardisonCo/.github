@@ -1,4 +1,4 @@
-# HMS-MCP for tj_Health
+# HMS-MCP for tj-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Model-Compute-Publish
 
 ## Integration Points
 
-This document outlines how HMS-MCP is integrated with tj_Health systems in Tajikistan.
+This document outlines how HMS-MCP is integrated with tj-health systems in Tajikistan.

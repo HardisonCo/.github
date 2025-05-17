@@ -1,4 +1,4 @@
-# HMS-SKL for gn_Health
+# HMS-SKL for gn-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Skills Management
 
 ## Integration Points
 
-This document outlines how HMS-SKL is integrated with gn_Health systems in Guinea.
+This document outlines how HMS-SKL is integrated with gn-health systems in Guinea.

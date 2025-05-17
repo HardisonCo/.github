@@ -1,4 +1,4 @@
-# HMS-UTL for va_Health
+# HMS-UTL for va-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Utilities
 
 ## Integration Points
 
-This document outlines how HMS-UTL is integrated with va_Health systems in Vatican City.
+This document outlines how HMS-UTL is integrated with va-health systems in Vatican City.

@@ -1,4 +1,4 @@
-# HMS-ESQ for ws_Health
+# HMS-ESQ for ws-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Enhanced System Quality
 
 ## Integration Points
 
-This document outlines how HMS-ESQ is integrated with ws_Health systems in Samoa.
+This document outlines how HMS-ESQ is integrated with ws-health systems in Samoa.

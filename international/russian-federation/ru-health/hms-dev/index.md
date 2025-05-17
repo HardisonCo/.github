@@ -1,4 +1,4 @@
-# HMS-DEV for ru_Health
+# HMS-DEV for ru-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Development Framework
 
 ## Integration Points
 
-This document outlines how HMS-DEV is integrated with ru_Health systems in Russian Federation.
+This document outlines how HMS-DEV is integrated with ru-health systems in Russian Federation.

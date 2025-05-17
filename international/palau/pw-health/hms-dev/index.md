@@ -1,4 +1,4 @@
-# HMS-DEV for pw_Health
+# HMS-DEV for pw-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Development Framework
 
 ## Integration Points
 
-This document outlines how HMS-DEV is integrated with pw_Health systems in Palau.
+This document outlines how HMS-DEV is integrated with pw-health systems in Palau.

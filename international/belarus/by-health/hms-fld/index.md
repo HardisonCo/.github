@@ -1,4 +1,4 @@
-# HMS-FLD for by_Health
+# HMS-FLD for by-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Field Data Collection
 
 ## Integration Points
 
-This document outlines how HMS-FLD is integrated with by_Health systems in Belarus.
+This document outlines how HMS-FLD is integrated with by-health systems in Belarus.

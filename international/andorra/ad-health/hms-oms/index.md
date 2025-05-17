@@ -1,4 +1,4 @@
-# HMS-OMS for ad_Health
+# HMS-OMS for ad-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Order Management System
 
 ## Integration Points
 
-This document outlines how HMS-OMS is integrated with ad_Health systems in Andorra.
+This document outlines how HMS-OMS is integrated with ad-health systems in Andorra.

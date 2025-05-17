@@ -1,4 +1,4 @@
-# dk_Health - Kingdom of Denmark Health Agency
+# dk-health - Kingdom of Denmark Health Agency
 
 ## Ministry of Health
 

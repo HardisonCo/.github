@@ -1,4 +1,4 @@
-# HMS-SME for ie_Health
+# HMS-SME for ie-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Subject Matter Expertise
 
 ## Integration Points
 
-This document outlines how HMS-SME is integrated with ie_Health systems in Ireland.
+This document outlines how HMS-SME is integrated with ie-health systems in Ireland.

@@ -1,4 +1,4 @@
-# HMS-OMS for lk_Health
+# HMS-OMS for lk-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Order Management System
 
 ## Integration Points
 
-This document outlines how HMS-OMS is integrated with lk_Health systems in Sri Lanka.
+This document outlines how HMS-OMS is integrated with lk-health systems in Sri Lanka.

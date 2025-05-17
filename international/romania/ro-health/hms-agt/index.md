@@ -1,4 +1,4 @@
-# HMS-AGT for ro_Health
+# HMS-AGT for ro-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Agent Tooling
 
 ## Integration Points
 
-This document outlines how HMS-AGT is integrated with ro_Health systems in Romania.
+This document outlines how HMS-AGT is integrated with ro-health systems in Romania.

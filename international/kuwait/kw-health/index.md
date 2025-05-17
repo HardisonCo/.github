@@ -1,4 +1,4 @@
-# kw_Health - Kuwait Health Agency
+# kw-health - Kuwait Health Agency
 
 ## Ministry of Health
 

@@ -1,4 +1,4 @@
-# HMS-AGT for mt_Health
+# HMS-AGT for mt-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Agent Tooling
 
 ## Integration Points
 
-This document outlines how HMS-AGT is integrated with mt_Health systems in Malta.
+This document outlines how HMS-AGT is integrated with mt-health systems in Malta.

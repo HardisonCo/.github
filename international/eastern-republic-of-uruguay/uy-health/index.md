@@ -1,4 +1,4 @@
-# uy_Health - Eastern Republic of Uruguay Health Agency
+# uy-health - Eastern Republic of Uruguay Health Agency
 
 ## Ministry of Public Health
 

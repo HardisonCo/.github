@@ -1,4 +1,4 @@
-# ad_Health - Andorra Health Agency
+# ad-health - Andorra Health Agency
 
 ## Ministry of Health of Andorra
 

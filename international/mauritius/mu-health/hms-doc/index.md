@@ -1,4 +1,4 @@
-# HMS-DOC for mu_Health
+# HMS-DOC for mu-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Documentation System
 
 ## Integration Points
 
-This document outlines how HMS-DOC is integrated with mu_Health systems in Mauritius.
+This document outlines how HMS-DOC is integrated with mu-health systems in Mauritius.

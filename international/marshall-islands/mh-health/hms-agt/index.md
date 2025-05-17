@@ -1,4 +1,4 @@
-# HMS-AGT for mh_Health
+# HMS-AGT for mh-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Agent Tooling
 
 ## Integration Points
 
-This document outlines how HMS-AGT is integrated with mh_Health systems in Marshall Islands.
+This document outlines how HMS-AGT is integrated with mh-health systems in Marshall Islands.

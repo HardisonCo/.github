@@ -1,4 +1,4 @@
-# HMS-OMS for lt_Health
+# HMS-OMS for lt-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Order Management System
 
 ## Integration Points
 
-This document outlines how HMS-OMS is integrated with lt_Health systems in Lithuania.
+This document outlines how HMS-OMS is integrated with lt-health systems in Lithuania.

@@ -1,4 +1,4 @@
-# HMS-SCM for my_Health
+# HMS-SCM for my-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Supply Chain Management
 
 ## Integration Points
 
-This document outlines how HMS-SCM is integrated with my_Health systems in Malaysia.
+This document outlines how HMS-SCM is integrated with my-health systems in Malaysia.

@@ -1,4 +1,4 @@
-# HMS-MFE for gq_Health
+# HMS-MFE for gq-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Micro Frontend Engine
 
 ## Integration Points
 
-This document outlines how HMS-MFE is integrated with gq_Health systems in Equatorial Guinea.
+This document outlines how HMS-MFE is integrated with gq-health systems in Equatorial Guinea.

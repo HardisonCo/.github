@@ -1,4 +1,4 @@
-# HMS-ESR for ci_Health
+# HMS-ESR for ci-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Economic System Representation
 
 ## Integration Points
 
-This document outlines how HMS-ESR is integrated with ci_Health systems in Côte d'Ivoire.
+This document outlines how HMS-ESR is integrated with ci-health systems in Côte d'Ivoire.

@@ -1,4 +1,4 @@
-# HMS-ESQ for lr_Health
+# HMS-ESQ for lr-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Enhanced System Quality
 
 ## Integration Points
 
-This document outlines how HMS-ESQ is integrated with lr_Health systems in Liberia.
+This document outlines how HMS-ESQ is integrated with lr-health systems in Liberia.

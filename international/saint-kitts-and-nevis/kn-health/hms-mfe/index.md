@@ -1,4 +1,4 @@
-# HMS-MFE for kn_Health
+# HMS-MFE for kn-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Micro Frontend Engine
 
 ## Integration Points
 
-This document outlines how HMS-MFE is integrated with kn_Health systems in Saint Kitts and Nevis.
+This document outlines how HMS-MFE is integrated with kn-health systems in Saint Kitts and Nevis.

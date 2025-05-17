@@ -1,4 +1,4 @@
-# HMS-AGX for az_Health
+# HMS-AGX for az-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Advanced Graph Experience
 
 ## Integration Points
 
-This document outlines how HMS-AGX is integrated with az_Health systems in Azerbaijan.
+This document outlines how HMS-AGX is integrated with az-health systems in Azerbaijan.

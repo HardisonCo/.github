@@ -1,4 +1,4 @@
-# jo_Health - Hashemite Kingdom of Jordan Health Agency
+# jo-health - Hashemite Kingdom of Jordan Health Agency
 
 ## Ministry of Health
 

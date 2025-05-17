@@ -1,4 +1,4 @@
-# HMS-AGX for lu_Health
+# HMS-AGX for lu-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Advanced Graph Experience
 
 ## Integration Points
 
-This document outlines how HMS-AGX is integrated with lu_Health systems in Luxembourg.
+This document outlines how HMS-AGX is integrated with lu-health systems in Luxembourg.

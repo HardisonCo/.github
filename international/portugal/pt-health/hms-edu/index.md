@@ -1,4 +1,4 @@
-# HMS-EDU for pt_Health
+# HMS-EDU for pt-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Education System
 
 ## Integration Points
 
-This document outlines how HMS-EDU is integrated with pt_Health systems in Portugal.
+This document outlines how HMS-EDU is integrated with pt-health systems in Portugal.

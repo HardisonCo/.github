@@ -1,4 +1,4 @@
-# HMS-OPS for cr_Health
+# HMS-OPS for cr-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Operations Management
 
 ## Integration Points
 
-This document outlines how HMS-OPS is integrated with cr_Health systems in Costa Rica.
+This document outlines how HMS-OPS is integrated with cr-health systems in Costa Rica.

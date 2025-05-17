@@ -1,4 +1,4 @@
-# HMS-CDF for tn_Health
+# HMS-CDF for tn-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Collaborative Decision Framework
 
 ## Integration Points
 
-This document outlines how HMS-CDF is integrated with tn_Health systems in Tunisia.
+This document outlines how HMS-CDF is integrated with tn-health systems in Tunisia.

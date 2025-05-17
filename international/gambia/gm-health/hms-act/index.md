@@ -1,4 +1,4 @@
-# HMS-ACT for gm_Health
+# HMS-ACT for gm-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Agent Collaboration Tools
 
 ## Integration Points
 
-This document outlines how HMS-ACT is integrated with gm_Health systems in Gambia.
+This document outlines how HMS-ACT is integrated with gm-health systems in Gambia.

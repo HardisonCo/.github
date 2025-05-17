@@ -1,4 +1,4 @@
-# HMS-CDF for ar_Health
+# HMS-CDF for ar-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Collaborative Decision Framework
 
 ## Integration Points
 
-This document outlines how HMS-CDF is integrated with ar_Health systems in Argentina.
+This document outlines how HMS-CDF is integrated with ar-health systems in Argentina.

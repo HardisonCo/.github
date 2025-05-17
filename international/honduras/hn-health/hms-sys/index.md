@@ -1,4 +1,4 @@
-# HMS-SYS for hn_Health
+# HMS-SYS for hn-health
 
 ## Description
 
@@ -6,4 +6,4 @@ System Core
 
 ## Integration Points
 
-This document outlines how HMS-SYS is integrated with hn_Health systems in Honduras.
+This document outlines how HMS-SYS is integrated with hn-health systems in Honduras.

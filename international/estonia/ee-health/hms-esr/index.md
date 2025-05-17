@@ -1,4 +1,4 @@
-# HMS-ESR for ee_Health
+# HMS-ESR for ee-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Economic System Representation
 
 ## Integration Points
 
-This document outlines how HMS-ESR is integrated with ee_Health systems in Estonia.
+This document outlines how HMS-ESR is integrated with ee-health systems in Estonia.

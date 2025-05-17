@@ -1,4 +1,4 @@
-# HMS-ESR for ae_Health
+# HMS-ESR for ae-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Economic System Representation
 
 ## Integration Points
 
-This document outlines how HMS-ESR is integrated with ae_Health systems in United Arab Emirates.
+This document outlines how HMS-ESR is integrated with ae-health systems in United Arab Emirates.

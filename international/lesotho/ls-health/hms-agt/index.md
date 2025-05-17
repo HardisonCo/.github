@@ -1,4 +1,4 @@
-# HMS-AGT for ls_Health
+# HMS-AGT for ls-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Agent Tooling
 
 ## Integration Points
 
-This document outlines how HMS-AGT is integrated with ls_Health systems in Lesotho.
+This document outlines how HMS-AGT is integrated with ls-health systems in Lesotho.

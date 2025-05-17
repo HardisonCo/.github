@@ -2,7 +2,7 @@
 
 ## Agencies
 
-- [in_Health](in_Health/index.md) - Ministry of Health and Family Welfare
+- [in-health](in-health/index.md) - Ministry of Health and Family Welfare
 
 ## HMS Implementation Status
 

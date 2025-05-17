@@ -1,4 +1,4 @@
-# HMS-EMR for ch_Health
+# HMS-EMR for ch-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Electronic Medical Records
 
 ## Integration Points
 
-This document outlines how HMS-EMR is integrated with ch_Health systems in Switzerland.
+This document outlines how HMS-EMR is integrated with ch-health systems in Switzerland.

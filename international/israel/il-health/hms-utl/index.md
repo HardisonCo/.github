@@ -1,4 +1,4 @@
-# HMS-UTL for il_Health
+# HMS-UTL for il-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Utilities
 
 ## Integration Points
 
-This document outlines how HMS-UTL is integrated with il_Health systems in Israel.
+This document outlines how HMS-UTL is integrated with il-health systems in Israel.

@@ -1,4 +1,4 @@
-# HMS-EHR for lv_Health
+# HMS-EHR for lv-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Electronic Health Records
 
 ## Integration Points
 
-This document outlines how HMS-EHR is integrated with lv_Health systems in Latvia.
+This document outlines how HMS-EHR is integrated with lv-health systems in Latvia.

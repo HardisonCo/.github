@@ -2,7 +2,7 @@
 
 ## Agencies
 
-- [tz_Health](tz_Health/index.md) - Ministry of Health, Community Development, Gender, Elderly and Children
+- [tz-health](tz-health/index.md) - Ministry of Health, Community Development, Gender, Elderly and Children
 
 ## HMS Implementation Status
 

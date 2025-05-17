@@ -1,4 +1,4 @@
-# HMS-CDF for de_Health
+# HMS-CDF for de-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Collaborative Decision Framework
 
 ## Integration Points
 
-This document outlines how HMS-CDF is integrated with de_Health systems in Germany.
+This document outlines how HMS-CDF is integrated with de-health systems in Germany.

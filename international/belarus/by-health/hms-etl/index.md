@@ -1,4 +1,4 @@
-# HMS-ETL for by_Health
+# HMS-ETL for by-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Extract, Transform, Load
 
 ## Integration Points
 
-This document outlines how HMS-ETL is integrated with by_Health systems in Belarus.
+This document outlines how HMS-ETL is integrated with by-health systems in Belarus.

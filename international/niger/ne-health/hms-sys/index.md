@@ -1,4 +1,4 @@
-# HMS-SYS for ne_Health
+# HMS-SYS for ne-health
 
 ## Description
 
@@ -6,4 +6,4 @@ System Core
 
 ## Integration Points
 
-This document outlines how HMS-SYS is integrated with ne_Health systems in Niger.
+This document outlines how HMS-SYS is integrated with ne-health systems in Niger.

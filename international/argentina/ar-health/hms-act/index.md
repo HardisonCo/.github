@@ -1,4 +1,4 @@
-# HMS-ACT for ar_Health
+# HMS-ACT for ar-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Agent Collaboration Tools
 
 ## Integration Points
 
-This document outlines how HMS-ACT is integrated with ar_Health systems in Argentina.
+This document outlines how HMS-ACT is integrated with ar-health systems in Argentina.

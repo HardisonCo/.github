@@ -1,4 +1,4 @@
-# HMS-FLD for va_Health
+# HMS-FLD for va-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Field Data Collection
 
 ## Integration Points
 
-This document outlines how HMS-FLD is integrated with va_Health systems in Vatican City.
+This document outlines how HMS-FLD is integrated with va-health systems in Vatican City.

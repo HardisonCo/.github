@@ -1,4 +1,4 @@
-# dm_Health - Dominica Health Agency
+# dm-health - Dominica Health Agency
 
 ## Ministry of Health
 

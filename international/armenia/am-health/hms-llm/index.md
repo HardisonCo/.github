@@ -1,4 +1,4 @@
-# HMS-LLM for am_Health
+# HMS-LLM for am-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Large Language Model Operations Platform
 
 ## Integration Points
 
-This document outlines how HMS-LLM is integrated with am_Health systems in Armenia.
+This document outlines how HMS-LLM is integrated with am-health systems in Armenia.

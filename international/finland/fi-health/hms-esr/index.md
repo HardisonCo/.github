@@ -1,4 +1,4 @@
-# HMS-ESR for fi_Health
+# HMS-ESR for fi-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Economic System Representation
 
 ## Integration Points
 
-This document outlines how HMS-ESR is integrated with fi_Health systems in Finland.
+This document outlines how HMS-ESR is integrated with fi-health systems in Finland.

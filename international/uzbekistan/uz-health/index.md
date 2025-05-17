@@ -1,4 +1,4 @@
-# uz_Health - Uzbekistan Health Agency
+# uz-health - Uzbekistan Health Agency
 
 ## Ministry of Health of the Republic of Uzbekistan
 

@@ -1,4 +1,4 @@
-# HMS-SYS for ga_Health
+# HMS-SYS for ga-health
 
 ## Description
 
@@ -6,4 +6,4 @@ System Core
 
 ## Integration Points
 
-This document outlines how HMS-SYS is integrated with ga_Health systems in Gabon.
+This document outlines how HMS-SYS is integrated with ga-health systems in Gabon.

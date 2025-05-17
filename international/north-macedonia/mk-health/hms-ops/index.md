@@ -1,4 +1,4 @@
-# HMS-OPS for mk_Health
+# HMS-OPS for mk-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Operations Management
 
 ## Integration Points
 
-This document outlines how HMS-OPS is integrated with mk_Health systems in North Macedonia.
+This document outlines how HMS-OPS is integrated with mk-health systems in North Macedonia.

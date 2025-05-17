@@ -1,4 +1,4 @@
-# HMS-API for lr_Health
+# HMS-API for lr-health
 
 ## Description
 
@@ -6,4 +6,4 @@ API Services
 
 ## Integration Points
 
-This document outlines how HMS-API is integrated with lr_Health systems in Liberia.
+This document outlines how HMS-API is integrated with lr-health systems in Liberia.

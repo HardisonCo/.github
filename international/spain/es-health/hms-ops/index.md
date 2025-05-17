@@ -1,4 +1,4 @@
-# HMS-OPS for es_Health
+# HMS-OPS for es-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Operations Management
 
 ## Integration Points
 
-This document outlines how HMS-OPS is integrated with es_Health systems in Spain.
+This document outlines how HMS-OPS is integrated with es-health systems in Spain.

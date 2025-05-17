@@ -1,4 +1,4 @@
-# HMS-API for sa_Health
+# HMS-API for sa-health
 
 ## Description
 
@@ -6,4 +6,4 @@ API Services
 
 ## Integration Points
 
-This document outlines how HMS-API is integrated with sa_Health systems in Saudi Arabia.
+This document outlines how HMS-API is integrated with sa-health systems in Saudi Arabia.

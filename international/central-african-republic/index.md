@@ -2,7 +2,7 @@
 
 ## Agencies
 
-- [cf_Health](cf_Health/index.md) - Ministry of Health, Population and Social Assurance
+- [cf-health](cf-health/index.md) - Ministry of Health, Population and Social Assurance
 
 ## HMS Implementation Status
 

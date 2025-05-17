@@ -2,7 +2,7 @@
 
 ## Agencies
 
-- [sy_Health](sy_Health/index.md) - Ministry of Health
+- [sy-health](sy-health/index.md) - Ministry of Health
 
 ## HMS Implementation Status
 

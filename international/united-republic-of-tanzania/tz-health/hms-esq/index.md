@@ -1,4 +1,4 @@
-# HMS-ESQ for tz_Health
+# HMS-ESQ for tz-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Enhanced System Quality
 
 ## Integration Points
 
-This document outlines how HMS-ESQ is integrated with tz_Health systems in United Republic of Tanzania.
+This document outlines how HMS-ESQ is integrated with tz-health systems in United Republic of Tanzania.

@@ -1,4 +1,4 @@
-# ba_Health - Bosnia and Herzegovina Health Agency
+# ba-health - Bosnia and Herzegovina Health Agency
 
 ## Ministry of Health of Bosnia and Herzegovina
 

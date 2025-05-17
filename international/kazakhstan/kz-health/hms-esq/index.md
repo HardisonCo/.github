@@ -1,4 +1,4 @@
-# HMS-ESQ for kz_Health
+# HMS-ESQ for kz-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Enhanced System Quality
 
 ## Integration Points
 
-This document outlines how HMS-ESQ is integrated with kz_Health systems in Kazakhstan.
+This document outlines how HMS-ESQ is integrated with kz-health systems in Kazakhstan.

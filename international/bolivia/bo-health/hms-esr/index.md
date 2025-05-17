@@ -1,4 +1,4 @@
-# HMS-ESR for bo_Health
+# HMS-ESR for bo-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Economic System Representation
 
 ## Integration Points
 
-This document outlines how HMS-ESR is integrated with bo_Health systems in Bolivia.
+This document outlines how HMS-ESR is integrated with bo-health systems in Bolivia.

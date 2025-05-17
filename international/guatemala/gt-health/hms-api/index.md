@@ -1,4 +1,4 @@
-# HMS-API for gt_Health
+# HMS-API for gt-health
 
 ## Description
 
@@ -6,4 +6,4 @@ API Services
 
 ## Integration Points
 
-This document outlines how HMS-API is integrated with gt_Health systems in Guatemala.
+This document outlines how HMS-API is integrated with gt-health systems in Guatemala.

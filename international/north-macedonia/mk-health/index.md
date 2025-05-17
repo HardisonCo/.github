@@ -1,4 +1,4 @@
-# mk_Health - North Macedonia Health Agency
+# mk-health - North Macedonia Health Agency
 
 ## Ministry of Health
 

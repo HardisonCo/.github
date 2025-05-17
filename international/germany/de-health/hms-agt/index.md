@@ -1,4 +1,4 @@
-# HMS-AGT for de_Health
+# HMS-AGT for de-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Agent Tooling
 
 ## Integration Points
 
-This document outlines how HMS-AGT is integrated with de_Health systems in Germany.
+This document outlines how HMS-AGT is integrated with de-health systems in Germany.

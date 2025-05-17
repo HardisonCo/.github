@@ -1,4 +1,4 @@
-# HMS-GOV for bn_Health
+# HMS-GOV for bn-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Governance Framework
 
 ## Integration Points
 
-This document outlines how HMS-GOV is integrated with bn_Health systems in Brunei.
+This document outlines how HMS-GOV is integrated with bn-health systems in Brunei.

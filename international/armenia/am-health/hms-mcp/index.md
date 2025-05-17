@@ -1,4 +1,4 @@
-# HMS-MCP for am_Health
+# HMS-MCP for am-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Model-Compute-Publish
 
 ## Integration Points
 
-This document outlines how HMS-MCP is integrated with am_Health systems in Armenia.
+This document outlines how HMS-MCP is integrated with am-health systems in Armenia.

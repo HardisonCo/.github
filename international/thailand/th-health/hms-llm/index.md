@@ -1,4 +1,4 @@
-# HMS-LLM for th_Health
+# HMS-LLM for th-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Large Language Model Operations Platform
 
 ## Integration Points
 
-This document outlines how HMS-LLM is integrated with th_Health systems in Thailand.
+This document outlines how HMS-LLM is integrated with th-health systems in Thailand.

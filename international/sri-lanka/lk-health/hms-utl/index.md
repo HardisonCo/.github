@@ -1,4 +1,4 @@
-# HMS-UTL for lk_Health
+# HMS-UTL for lk-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Utilities
 
 ## Integration Points
 
-This document outlines how HMS-UTL is integrated with lk_Health systems in Sri Lanka.
+This document outlines how HMS-UTL is integrated with lk-health systems in Sri Lanka.

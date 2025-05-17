@@ -1,4 +1,4 @@
-# HMS-CUR for rw_Health
+# HMS-CUR for rw-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Currency Management
 
 ## Integration Points
 
-This document outlines how HMS-CUR is integrated with rw_Health systems in Rwanda.
+This document outlines how HMS-CUR is integrated with rw-health systems in Rwanda.

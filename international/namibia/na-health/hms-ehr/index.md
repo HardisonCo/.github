@@ -1,4 +1,4 @@
-# HMS-EHR for na_Health
+# HMS-EHR for na-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Electronic Health Records
 
 ## Integration Points
 
-This document outlines how HMS-EHR is integrated with na_Health systems in Namibia.
+This document outlines how HMS-EHR is integrated with na-health systems in Namibia.

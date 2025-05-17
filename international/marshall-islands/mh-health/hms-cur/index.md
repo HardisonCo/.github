@@ -1,4 +1,4 @@
-# HMS-CUR for mh_Health
+# HMS-CUR for mh-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Currency Management
 
 ## Integration Points
 
-This document outlines how HMS-CUR is integrated with mh_Health systems in Marshall Islands.
+This document outlines how HMS-CUR is integrated with mh-health systems in Marshall Islands.

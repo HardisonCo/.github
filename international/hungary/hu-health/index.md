@@ -1,4 +1,4 @@
-# hu_Health - Hungary Health Agency
+# hu-health - Hungary Health Agency
 
 ## National Public Health Center (Nemzeti Népegészségügyi Központ)
 

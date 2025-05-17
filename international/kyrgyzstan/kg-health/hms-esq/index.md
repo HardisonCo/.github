@@ -1,4 +1,4 @@
-# HMS-ESQ for kg_Health
+# HMS-ESQ for kg-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Enhanced System Quality
 
 ## Integration Points
 
-This document outlines how HMS-ESQ is integrated with kg_Health systems in Kyrgyzstan.
+This document outlines how HMS-ESQ is integrated with kg-health systems in Kyrgyzstan.

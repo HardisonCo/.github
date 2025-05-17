@@ -1,4 +1,4 @@
-# HMS-DEV for kw_Health
+# HMS-DEV for kw-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Development Framework
 
 ## Integration Points
 
-This document outlines how HMS-DEV is integrated with kw_Health systems in Kuwait.
+This document outlines how HMS-DEV is integrated with kw-health systems in Kuwait.

@@ -1,4 +1,4 @@
-# HMS-CUR for az_Health
+# HMS-CUR for az-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Currency Management
 
 ## Integration Points
 
-This document outlines how HMS-CUR is integrated with az_Health systems in Azerbaijan.
+This document outlines how HMS-CUR is integrated with az-health systems in Azerbaijan.

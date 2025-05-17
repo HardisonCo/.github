@@ -1,4 +1,4 @@
-# HMS-RED for bz_Health
+# HMS-RED for bz-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Reactive Data Engine
 
 ## Integration Points
 
-This document outlines how HMS-RED is integrated with bz_Health systems in Belize.
+This document outlines how HMS-RED is integrated with bz-health systems in Belize.

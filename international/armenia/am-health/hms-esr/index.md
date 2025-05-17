@@ -1,4 +1,4 @@
-# HMS-ESR for am_Health
+# HMS-ESR for am-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Economic System Representation
 
 ## Integration Points
 
-This document outlines how HMS-ESR is integrated with am_Health systems in Armenia.
+This document outlines how HMS-ESR is integrated with am-health systems in Armenia.

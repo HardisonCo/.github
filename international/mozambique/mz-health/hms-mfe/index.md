@@ -1,4 +1,4 @@
-# HMS-MFE for mz_Health
+# HMS-MFE for mz-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Micro Frontend Engine
 
 ## Integration Points
 
-This document outlines how HMS-MFE is integrated with mz_Health systems in Mozambique.
+This document outlines how HMS-MFE is integrated with mz-health systems in Mozambique.

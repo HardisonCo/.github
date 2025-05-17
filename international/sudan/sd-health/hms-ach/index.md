@@ -1,4 +1,4 @@
-# HMS-ACH for sd_Health
+# HMS-ACH for sd-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Automated Clearing House
 
 ## Integration Points
 
-This document outlines how HMS-ACH is integrated with sd_Health systems in Sudan.
+This document outlines how HMS-ACH is integrated with sd-health systems in Sudan.

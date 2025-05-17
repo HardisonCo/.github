@@ -1,4 +1,4 @@
-# HMS-ETL for va_Health
+# HMS-ETL for va-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Extract, Transform, Load
 
 ## Integration Points
 
-This document outlines how HMS-ETL is integrated with va_Health systems in Vatican City.
+This document outlines how HMS-ETL is integrated with va-health systems in Vatican City.

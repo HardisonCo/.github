@@ -1,4 +1,4 @@
-# HMS-GOV for gq_Health
+# HMS-GOV for gq-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Governance Framework
 
 ## Integration Points
 
-This document outlines how HMS-GOV is integrated with gq_Health systems in Equatorial Guinea.
+This document outlines how HMS-GOV is integrated with gq-health systems in Equatorial Guinea.

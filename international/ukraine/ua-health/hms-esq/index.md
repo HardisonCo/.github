@@ -1,4 +1,4 @@
-# HMS-ESQ for ua_Health
+# HMS-ESQ for ua-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Enhanced System Quality
 
 ## Integration Points
 
-This document outlines how HMS-ESQ is integrated with ua_Health systems in Ukraine.
+This document outlines how HMS-ESQ is integrated with ua-health systems in Ukraine.

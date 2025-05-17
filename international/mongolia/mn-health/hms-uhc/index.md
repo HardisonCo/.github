@@ -1,4 +1,4 @@
-# HMS-UHC for mn_Health
+# HMS-UHC for mn-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Universal Healthcare Components
 
 ## Integration Points
 
-This document outlines how HMS-UHC is integrated with mn_Health systems in Mongolia.
+This document outlines how HMS-UHC is integrated with mn-health systems in Mongolia.

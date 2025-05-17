@@ -1,4 +1,4 @@
-# HMS-ESR for dz_Health
+# HMS-ESR for dz-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Economic System Representation
 
 ## Integration Points
 
-This document outlines how HMS-ESR is integrated with dz_Health systems in Algeria.
+This document outlines how HMS-ESR is integrated with dz-health systems in Algeria.

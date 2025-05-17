@@ -2,7 +2,7 @@
 
 ## Agencies
 
-- [tw_Health](tw_Health/index.md) - Ministry of Health and Welfare
+- [tw-health](tw-health/index.md) - Ministry of Health and Welfare
 
 ## HMS Implementation Status
 

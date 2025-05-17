@@ -1,4 +1,4 @@
-# mc_Health - Monaco Health Agency
+# mc-health - Monaco Health Agency
 
 ## Department of Health and Social Affairs
 

@@ -1,4 +1,4 @@
-# HMS-ACH for mu_Health
+# HMS-ACH for mu-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Automated Clearing House
 
 ## Integration Points
 
-This document outlines how HMS-ACH is integrated with mu_Health systems in Mauritius.
+This document outlines how HMS-ACH is integrated with mu-health systems in Mauritius.

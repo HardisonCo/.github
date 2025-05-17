@@ -1,4 +1,4 @@
-# HMS-LLM for mh_Health
+# HMS-LLM for mh-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Large Language Model Operations Platform
 
 ## Integration Points
 
-This document outlines how HMS-LLM is integrated with mh_Health systems in Marshall Islands.
+This document outlines how HMS-LLM is integrated with mh-health systems in Marshall Islands.

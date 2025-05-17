@@ -2,7 +2,7 @@
 
 ## Agencies
 
-- [kn_Health](kn_Health/index.md) - Ministry of Health and Social Services
+- [kn-health](kn-health/index.md) - Ministry of Health and Social Services
 
 ## HMS Implementation Status
 

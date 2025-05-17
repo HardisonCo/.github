@@ -1,4 +1,4 @@
-# HMS-MFE for ga_Health
+# HMS-MFE for ga-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Micro Frontend Engine
 
 ## Integration Points
 
-This document outlines how HMS-MFE is integrated with ga_Health systems in Gabon.
+This document outlines how HMS-MFE is integrated with ga-health systems in Gabon.

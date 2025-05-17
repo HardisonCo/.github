@@ -1,4 +1,4 @@
-# HMS-GOV for cv_Health
+# HMS-GOV for cv-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Governance Framework
 
 ## Integration Points
 
-This document outlines how HMS-GOV is integrated with cv_Health systems in Cape Verde.
+This document outlines how HMS-GOV is integrated with cv-health systems in Cape Verde.

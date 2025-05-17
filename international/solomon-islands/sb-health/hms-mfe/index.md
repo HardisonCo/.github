@@ -1,4 +1,4 @@
-# HMS-MFE for sb_Health
+# HMS-MFE for sb-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Micro Frontend Engine
 
 ## Integration Points
 
-This document outlines how HMS-MFE is integrated with sb_Health systems in Solomon Islands.
+This document outlines how HMS-MFE is integrated with sb-health systems in Solomon Islands.

@@ -1,4 +1,4 @@
-# HMS-API for bh_Health
+# HMS-API for bh-health
 
 ## Description
 
@@ -6,4 +6,4 @@ API Services
 
 ## Integration Points
 
-This document outlines how HMS-API is integrated with bh_Health systems in Bahrain.
+This document outlines how HMS-API is integrated with bh-health systems in Bahrain.

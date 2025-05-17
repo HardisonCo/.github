@@ -1,4 +1,4 @@
-# HMS-AGT for kh_Health
+# HMS-AGT for kh-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Agent Tooling
 
 ## Integration Points
 
-This document outlines how HMS-AGT is integrated with kh_Health systems in Kingdom of Cambodia.
+This document outlines how HMS-AGT is integrated with kh-health systems in Kingdom of Cambodia.

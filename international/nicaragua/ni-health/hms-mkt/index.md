@@ -1,4 +1,4 @@
-# HMS-MKT for ni_Health
+# HMS-MKT for ni-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Market Analytics
 
 ## Integration Points
 
-This document outlines how HMS-MKT is integrated with ni_Health systems in Nicaragua.
+This document outlines how HMS-MKT is integrated with ni-health systems in Nicaragua.

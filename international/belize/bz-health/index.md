@@ -1,4 +1,4 @@
-# bz_Health - Belize Health Agency
+# bz-health - Belize Health Agency
 
 ## Ministry of Health, Wellness and the Elderly
 

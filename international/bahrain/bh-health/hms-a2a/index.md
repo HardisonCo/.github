@@ -1,4 +1,4 @@
-# HMS-A2A for bh_Health
+# HMS-A2A for bh-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Agent-to-Agent Communication System
 
 ## Integration Points
 
-This document outlines how HMS-A2A is integrated with bh_Health systems in Bahrain.
+This document outlines how HMS-A2A is integrated with bh-health systems in Bahrain.

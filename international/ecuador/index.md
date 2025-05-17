@@ -2,7 +2,7 @@
 
 ## Agencies
 
-- [ec_Health](ec_Health/index.md) - Ministerio de Salud Pública
+- [ec-health](ec-health/index.md) - Ministerio de Salud Pública
 
 ## HMS Implementation Status
 

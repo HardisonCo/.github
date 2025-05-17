@@ -1,4 +1,4 @@
-# HMS-CUR for ga_Health
+# HMS-CUR for ga-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Currency Management
 
 ## Integration Points
 
-This document outlines how HMS-CUR is integrated with ga_Health systems in Gabon.
+This document outlines how HMS-CUR is integrated with ga-health systems in Gabon.

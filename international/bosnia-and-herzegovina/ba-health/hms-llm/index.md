@@ -1,4 +1,4 @@
-# HMS-LLM for ba_Health
+# HMS-LLM for ba-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Large Language Model Operations Platform
 
 ## Integration Points
 
-This document outlines how HMS-LLM is integrated with ba_Health systems in Bosnia and Herzegovina.
+This document outlines how HMS-LLM is integrated with ba-health systems in Bosnia and Herzegovina.

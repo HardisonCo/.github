@@ -1,4 +1,4 @@
-# bg_Health - Bulgaria Health Agency
+# bg-health - Bulgaria Health Agency
 
 ## Ministry of Health of the Republic of Bulgaria
 

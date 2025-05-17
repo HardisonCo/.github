@@ -1,4 +1,4 @@
-# HMS-EDU for cr_Health
+# HMS-EDU for cr-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Education System
 
 ## Integration Points
 
-This document outlines how HMS-EDU is integrated with cr_Health systems in Costa Rica.
+This document outlines how HMS-EDU is integrated with cr-health systems in Costa Rica.

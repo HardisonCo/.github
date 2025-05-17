@@ -1,4 +1,4 @@
-# HMS-GOV for ua_Health
+# HMS-GOV for ua-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Governance Framework
 
 ## Integration Points
 
-This document outlines how HMS-GOV is integrated with ua_Health systems in Ukraine.
+This document outlines how HMS-GOV is integrated with ua-health systems in Ukraine.

@@ -1,4 +1,4 @@
-# HMS-SKL for dk_Health
+# HMS-SKL for dk-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Skills Management
 
 ## Integration Points
 
-This document outlines how HMS-SKL is integrated with dk_Health systems in Kingdom of Denmark.
+This document outlines how HMS-SKL is integrated with dk-health systems in Kingdom of Denmark.

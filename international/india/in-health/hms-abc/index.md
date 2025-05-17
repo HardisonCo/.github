@@ -1,4 +1,4 @@
-# HMS-ABC for in_Health
+# HMS-ABC for in-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Adaptive Business Capabilities
 
 ## Integration Points
 
-This document outlines how HMS-ABC is integrated with in_Health systems in India.
+This document outlines how HMS-ABC is integrated with in-health systems in India.

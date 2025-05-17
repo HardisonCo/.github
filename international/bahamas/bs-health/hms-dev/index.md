@@ -1,4 +1,4 @@
-# HMS-DEV for bs_Health
+# HMS-DEV for bs-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Development Framework
 
 ## Integration Points
 
-This document outlines how HMS-DEV is integrated with bs_Health systems in Bahamas.
+This document outlines how HMS-DEV is integrated with bs-health systems in Bahamas.

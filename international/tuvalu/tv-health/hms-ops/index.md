@@ -1,4 +1,4 @@
-# HMS-OPS for tv_Health
+# HMS-OPS for tv-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Operations Management
 
 ## Integration Points
 
-This document outlines how HMS-OPS is integrated with tv_Health systems in Tuvalu.
+This document outlines how HMS-OPS is integrated with tv-health systems in Tuvalu.

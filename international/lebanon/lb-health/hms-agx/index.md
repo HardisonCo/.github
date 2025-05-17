@@ -1,4 +1,4 @@
-# HMS-AGX for lb_Health
+# HMS-AGX for lb-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Advanced Graph Experience
 
 ## Integration Points
 
-This document outlines how HMS-AGX is integrated with lb_Health systems in Lebanon.
+This document outlines how HMS-AGX is integrated with lb-health systems in Lebanon.

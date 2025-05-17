@@ -1,4 +1,4 @@
-# HMS-AGT for tv_Health
+# HMS-AGT for tv-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Agent Tooling
 
 ## Integration Points
 
-This document outlines how HMS-AGT is integrated with tv_Health systems in Tuvalu.
+This document outlines how HMS-AGT is integrated with tv-health systems in Tuvalu.

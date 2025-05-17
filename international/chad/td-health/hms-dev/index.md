@@ -1,4 +1,4 @@
-# HMS-DEV for td_Health
+# HMS-DEV for td-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Development Framework
 
 ## Integration Points
 
-This document outlines how HMS-DEV is integrated with td_Health systems in Chad.
+This document outlines how HMS-DEV is integrated with td-health systems in Chad.

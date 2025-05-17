@@ -1,4 +1,4 @@
-# HMS-OPS for jp_Health
+# HMS-OPS for jp-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Operations Management
 
 ## Integration Points
 
-This document outlines how HMS-OPS is integrated with jp_Health systems in Japan.
+This document outlines how HMS-OPS is integrated with jp-health systems in Japan.

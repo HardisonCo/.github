@@ -1,4 +1,4 @@
-# HMS-EMR for au_Health
+# HMS-EMR for au-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Electronic Medical Records
 
 ## Integration Points
 
-This document outlines how HMS-EMR is integrated with au_Health systems in Australia.
+This document outlines how HMS-EMR is integrated with au-health systems in Australia.

@@ -1,4 +1,4 @@
-# HMS-MKT for bh_Health
+# HMS-MKT for bh-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Market Analytics
 
 ## Integration Points
 
-This document outlines how HMS-MKT is integrated with bh_Health systems in Bahrain.
+This document outlines how HMS-MKT is integrated with bh-health systems in Bahrain.

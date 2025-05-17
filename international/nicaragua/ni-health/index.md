@@ -1,4 +1,4 @@
-# ni_Health - Nicaragua Health Agency
+# ni-health - Nicaragua Health Agency
 
 ## Ministerio de Salud
 

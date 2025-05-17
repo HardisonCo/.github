@@ -1,4 +1,4 @@
-# HMS-AGX for bi_Health
+# HMS-AGX for bi-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Advanced Graph Experience
 
 ## Integration Points
 
-This document outlines how HMS-AGX is integrated with bi_Health systems in Burundi.
+This document outlines how HMS-AGX is integrated with bi-health systems in Burundi.

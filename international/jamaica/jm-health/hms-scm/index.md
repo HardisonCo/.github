@@ -1,4 +1,4 @@
-# HMS-SCM for jm_Health
+# HMS-SCM for jm-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Supply Chain Management
 
 ## Integration Points
 
-This document outlines how HMS-SCM is integrated with jm_Health systems in Jamaica.
+This document outlines how HMS-SCM is integrated with jm-health systems in Jamaica.

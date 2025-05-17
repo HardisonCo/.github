@@ -1,4 +1,4 @@
-# HMS-OMS for mt_Health
+# HMS-OMS for mt-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Order Management System
 
 ## Integration Points
 
-This document outlines how HMS-OMS is integrated with mt_Health systems in Malta.
+This document outlines how HMS-OMS is integrated with mt-health systems in Malta.

@@ -1,4 +1,4 @@
-# HMS-SKL for mv_Health
+# HMS-SKL for mv-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Skills Management
 
 ## Integration Points
 
-This document outlines how HMS-SKL is integrated with mv_Health systems in Maldives.
+This document outlines how HMS-SKL is integrated with mv-health systems in Maldives.

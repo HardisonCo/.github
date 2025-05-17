@@ -1,4 +1,4 @@
-# HMS-DEV for tv_Health
+# HMS-DEV for tv-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Development Framework
 
 ## Integration Points
 
-This document outlines how HMS-DEV is integrated with tv_Health systems in Tuvalu.
+This document outlines how HMS-DEV is integrated with tv-health systems in Tuvalu.

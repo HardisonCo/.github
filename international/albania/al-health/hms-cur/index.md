@@ -1,4 +1,4 @@
-# HMS-CUR for al_Health
+# HMS-CUR for al-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Currency Management
 
 ## Integration Points
 
-This document outlines how HMS-CUR is integrated with al_Health systems in Albania.
+This document outlines how HMS-CUR is integrated with al-health systems in Albania.

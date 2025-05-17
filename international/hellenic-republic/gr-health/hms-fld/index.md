@@ -1,4 +1,4 @@
-# HMS-FLD for gr_Health
+# HMS-FLD for gr-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Field Data Collection
 
 ## Integration Points
 
-This document outlines how HMS-FLD is integrated with gr_Health systems in Hellenic Republic.
+This document outlines how HMS-FLD is integrated with gr-health systems in Hellenic Republic.

@@ -1,4 +1,4 @@
-# HMS-ABC for lt_Health
+# HMS-ABC for lt-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Adaptive Business Capabilities
 
 ## Integration Points
 
-This document outlines how HMS-ABC is integrated with lt_Health systems in Lithuania.
+This document outlines how HMS-ABC is integrated with lt-health systems in Lithuania.

@@ -1,4 +1,4 @@
-# HMS-ESR for na_Health
+# HMS-ESR for na-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Economic System Representation
 
 ## Integration Points
 
-This document outlines how HMS-ESR is integrated with na_Health systems in Namibia.
+This document outlines how HMS-ESR is integrated with na-health systems in Namibia.

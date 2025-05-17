@@ -1,4 +1,4 @@
-# HMS-ESR for bi_Health
+# HMS-ESR for bi-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Economic System Representation
 
 ## Integration Points
 
-This document outlines how HMS-ESR is integrated with bi_Health systems in Burundi.
+This document outlines how HMS-ESR is integrated with bi-health systems in Burundi.

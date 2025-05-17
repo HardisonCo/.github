@@ -1,4 +1,4 @@
-# HMS-SKL for tv_Health
+# HMS-SKL for tv-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Skills Management
 
 ## Integration Points
 
-This document outlines how HMS-SKL is integrated with tv_Health systems in Tuvalu.
+This document outlines how HMS-SKL is integrated with tv-health systems in Tuvalu.

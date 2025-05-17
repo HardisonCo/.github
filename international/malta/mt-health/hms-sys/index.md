@@ -1,4 +1,4 @@
-# HMS-SYS for mt_Health
+# HMS-SYS for mt-health
 
 ## Description
 
@@ -6,4 +6,4 @@ System Core
 
 ## Integration Points
 
-This document outlines how HMS-SYS is integrated with mt_Health systems in Malta.
+This document outlines how HMS-SYS is integrated with mt-health systems in Malta.

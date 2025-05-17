@@ -1,4 +1,4 @@
-# lc_Health - Saint Lucia Health Agency
+# lc-health - Saint Lucia Health Agency
 
 ## Ministry of Health
 

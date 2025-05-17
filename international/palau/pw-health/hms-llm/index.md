@@ -1,4 +1,4 @@
-# HMS-LLM for pw_Health
+# HMS-LLM for pw-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Large Language Model Operations Platform
 
 ## Integration Points
 
-This document outlines how HMS-LLM is integrated with pw_Health systems in Palau.
+This document outlines how HMS-LLM is integrated with pw-health systems in Palau.

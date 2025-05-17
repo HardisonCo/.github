@@ -1,4 +1,4 @@
-# HMS-EDU for sg_Health
+# HMS-EDU for sg-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Education System
 
 ## Integration Points
 
-This document outlines how HMS-EDU is integrated with sg_Health systems in Singapore.
+This document outlines how HMS-EDU is integrated with sg-health systems in Singapore.

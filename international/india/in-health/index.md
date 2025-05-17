@@ -1,4 +1,4 @@
-# in_Health - India Health Agency
+# in-health - India Health Agency
 
 ## Ministry of Health and Family Welfare
 

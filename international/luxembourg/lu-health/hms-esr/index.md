@@ -1,4 +1,4 @@
-# HMS-ESR for lu_Health
+# HMS-ESR for lu-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Economic System Representation
 
 ## Integration Points
 
-This document outlines how HMS-ESR is integrated with lu_Health systems in Luxembourg.
+This document outlines how HMS-ESR is integrated with lu-health systems in Luxembourg.

@@ -2,7 +2,7 @@
 
 ## Agencies
 
-- [ua_Health](ua_Health/index.md) - Ministry of Health of Ukraine
+- [ua-health](ua-health/index.md) - Ministry of Health of Ukraine
 
 ## HMS Implementation Status
 

@@ -1,4 +1,4 @@
-# ls_Health - Lesotho Health Agency
+# ls-health - Lesotho Health Agency
 
 ## Ministry of Health and Social Welfare
 

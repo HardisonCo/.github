@@ -1,4 +1,4 @@
-# HMS-SME for ru_Health
+# HMS-SME for ru-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Subject Matter Expertise
 
 ## Integration Points
 
-This document outlines how HMS-SME is integrated with ru_Health systems in Russian Federation.
+This document outlines how HMS-SME is integrated with ru-health systems in Russian Federation.

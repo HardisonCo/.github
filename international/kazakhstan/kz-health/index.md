@@ -1,4 +1,4 @@
-# kz_Health - Kazakhstan Health Agency
+# kz-health - Kazakhstan Health Agency
 
 ## Ministry of Health of the Republic of Kazakhstan
 

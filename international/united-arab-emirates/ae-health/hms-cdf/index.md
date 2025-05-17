@@ -1,4 +1,4 @@
-# HMS-CDF for ae_Health
+# HMS-CDF for ae-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Collaborative Decision Framework
 
 ## Integration Points
 
-This document outlines how HMS-CDF is integrated with ae_Health systems in United Arab Emirates.
+This document outlines how HMS-CDF is integrated with ae-health systems in United Arab Emirates.

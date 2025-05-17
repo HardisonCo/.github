@@ -1,4 +1,4 @@
-# HMS-EHR for ru_Health
+# HMS-EHR for ru-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Electronic Health Records
 
 ## Integration Points
 
-This document outlines how HMS-EHR is integrated with ru_Health systems in Russian Federation.
+This document outlines how HMS-EHR is integrated with ru-health systems in Russian Federation.

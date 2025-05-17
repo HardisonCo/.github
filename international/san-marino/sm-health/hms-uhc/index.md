@@ -1,4 +1,4 @@
-# HMS-UHC for sm_Health
+# HMS-UHC for sm-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Universal Healthcare Components
 
 ## Integration Points
 
-This document outlines how HMS-UHC is integrated with sm_Health systems in San Marino.
+This document outlines how HMS-UHC is integrated with sm-health systems in San Marino.

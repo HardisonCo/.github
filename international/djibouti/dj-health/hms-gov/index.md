@@ -1,4 +1,4 @@
-# HMS-GOV for dj_Health
+# HMS-GOV for dj-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Governance Framework
 
 ## Integration Points
 
-This document outlines how HMS-GOV is integrated with dj_Health systems in Djibouti.
+This document outlines how HMS-GOV is integrated with dj-health systems in Djibouti.

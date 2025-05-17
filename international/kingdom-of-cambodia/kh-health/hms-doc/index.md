@@ -1,4 +1,4 @@
-# HMS-DOC for kh_Health
+# HMS-DOC for kh-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Documentation System
 
 ## Integration Points
 
-This document outlines how HMS-DOC is integrated with kh_Health systems in Kingdom of Cambodia.
+This document outlines how HMS-DOC is integrated with kh-health systems in Kingdom of Cambodia.

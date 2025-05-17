@@ -1,4 +1,4 @@
-# HMS-MFE for tl_Health
+# HMS-MFE for tl-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Micro Frontend Engine
 
 ## Integration Points
 
-This document outlines how HMS-MFE is integrated with tl_Health systems in Timor-Leste.
+This document outlines how HMS-MFE is integrated with tl-health systems in Timor-Leste.

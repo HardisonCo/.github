@@ -1,4 +1,4 @@
-# HMS-MCP for sb_Health
+# HMS-MCP for sb-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Model-Compute-Publish
 
 ## Integration Points
 
-This document outlines how HMS-MCP is integrated with sb_Health systems in Solomon Islands.
+This document outlines how HMS-MCP is integrated with sb-health systems in Solomon Islands.

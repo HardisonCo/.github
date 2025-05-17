@@ -2,7 +2,7 @@
 
 ## Agencies
 
-- [st_Health](st_Health/index.md) - Ministry of Health and Social Policy
+- [st-health](st-health/index.md) - Ministry of Health and Social Policy
 
 ## HMS Implementation Status
 

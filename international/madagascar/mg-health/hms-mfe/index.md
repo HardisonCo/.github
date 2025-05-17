@@ -1,4 +1,4 @@
-# HMS-MFE for mg_Health
+# HMS-MFE for mg-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Micro Frontend Engine
 
 ## Integration Points
 
-This document outlines how HMS-MFE is integrated with mg_Health systems in Madagascar.
+This document outlines how HMS-MFE is integrated with mg-health systems in Madagascar.

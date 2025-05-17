@@ -2,7 +2,7 @@
 
 ## Agencies
 
-- [es_Health](es_Health/index.md) - Ministry of Health (Ministerio de Sanidad)
+- [es-health](es-health/index.md) - Ministry of Health (Ministerio de Sanidad)
 
 ## HMS Implementation Status
 

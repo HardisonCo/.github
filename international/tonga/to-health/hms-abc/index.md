@@ -1,4 +1,4 @@
-# HMS-ABC for to_Health
+# HMS-ABC for to-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Adaptive Business Capabilities
 
 ## Integration Points
 
-This document outlines how HMS-ABC is integrated with to_Health systems in Tonga.
+This document outlines how HMS-ABC is integrated with to-health systems in Tonga.

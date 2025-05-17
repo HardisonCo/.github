@@ -1,4 +1,4 @@
-# HMS-ETL for fr_Health
+# HMS-ETL for fr-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Extract, Transform, Load
 
 ## Integration Points
 
-This document outlines how HMS-ETL is integrated with fr_Health systems in France.
+This document outlines how HMS-ETL is integrated with fr-health systems in France.

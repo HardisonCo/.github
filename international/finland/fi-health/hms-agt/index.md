@@ -1,4 +1,4 @@
-# HMS-AGT for fi_Health
+# HMS-AGT for fi-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Agent Tooling
 
 ## Integration Points
 
-This document outlines how HMS-AGT is integrated with fi_Health systems in Finland.
+This document outlines how HMS-AGT is integrated with fi-health systems in Finland.

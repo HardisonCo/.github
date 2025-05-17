@@ -1,4 +1,4 @@
-# HMS-GOV for md_Health
+# HMS-GOV for md-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Governance Framework
 
 ## Integration Points
 
-This document outlines how HMS-GOV is integrated with md_Health systems in Moldova.
+This document outlines how HMS-GOV is integrated with md-health systems in Moldova.

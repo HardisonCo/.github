@@ -1,4 +1,4 @@
-# HMS-EMR for jo_Health
+# HMS-EMR for jo-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Electronic Medical Records
 
 ## Integration Points
 
-This document outlines how HMS-EMR is integrated with jo_Health systems in Hashemite Kingdom of Jordan.
+This document outlines how HMS-EMR is integrated with jo-health systems in Hashemite Kingdom of Jordan.

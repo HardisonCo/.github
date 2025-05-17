@@ -1,4 +1,4 @@
-# HMS-SCM for mm_Health
+# HMS-SCM for mm-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Supply Chain Management
 
 ## Integration Points
 
-This document outlines how HMS-SCM is integrated with mm_Health systems in Myanmar (Burma).
+This document outlines how HMS-SCM is integrated with mm-health systems in Myanmar (Burma).

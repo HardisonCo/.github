@@ -1,4 +1,4 @@
-# HMS-RED for hr_Health
+# HMS-RED for hr-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Reactive Data Engine
 
 ## Integration Points
 
-This document outlines how HMS-RED is integrated with hr_Health systems in Croatia.
+This document outlines how HMS-RED is integrated with hr-health systems in Croatia.

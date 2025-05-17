@@ -1,4 +1,4 @@
-# HMS-DOC for kn_Health
+# HMS-DOC for kn-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Documentation System
 
 ## Integration Points
 
-This document outlines how HMS-DOC is integrated with kn_Health systems in Saint Kitts and Nevis.
+This document outlines how HMS-DOC is integrated with kn-health systems in Saint Kitts and Nevis.

@@ -1,4 +1,4 @@
-# be_Health - Belgium Health Agency
+# be-health - Belgium Health Agency
 
 ## Federal Public Service (FPS) Health, Food Chain Safety and Environment
 

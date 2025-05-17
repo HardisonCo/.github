@@ -1,4 +1,4 @@
-# HMS-UHC for ae_Health
+# HMS-UHC for ae-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Universal Healthcare Components
 
 ## Integration Points
 
-This document outlines how HMS-UHC is integrated with ae_Health systems in United Arab Emirates.
+This document outlines how HMS-UHC is integrated with ae-health systems in United Arab Emirates.

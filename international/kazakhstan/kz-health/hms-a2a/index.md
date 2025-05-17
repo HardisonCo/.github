@@ -1,4 +1,4 @@
-# HMS-A2A for kz_Health
+# HMS-A2A for kz-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Agent-to-Agent Communication System
 
 ## Integration Points
 
-This document outlines how HMS-A2A is integrated with kz_Health systems in Kazakhstan.
+This document outlines how HMS-A2A is integrated with kz-health systems in Kazakhstan.

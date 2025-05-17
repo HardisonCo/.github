@@ -2,7 +2,7 @@
 
 ## Agencies
 
-- [af_Health](af_Health/index.md) - Ministry of Public Health
+- [af-health](af-health/index.md) - Ministry of Public Health
 
 ## HMS Implementation Status
 

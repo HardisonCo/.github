@@ -1,4 +1,4 @@
-# HMS-ESQ for lk_Health
+# HMS-ESQ for lk-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Enhanced System Quality
 
 ## Integration Points
 
-This document outlines how HMS-ESQ is integrated with lk_Health systems in Sri Lanka.
+This document outlines how HMS-ESQ is integrated with lk-health systems in Sri Lanka.

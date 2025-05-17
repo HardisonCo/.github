@@ -1,4 +1,4 @@
-# HMS-ESQ for ml_Health
+# HMS-ESQ for ml-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Enhanced System Quality
 
 ## Integration Points
 
-This document outlines how HMS-ESQ is integrated with ml_Health systems in Mali.
+This document outlines how HMS-ESQ is integrated with ml-health systems in Mali.

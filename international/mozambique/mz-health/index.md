@@ -1,4 +1,4 @@
-# mz_Health - Mozambique Health Agency
+# mz-health - Mozambique Health Agency
 
 ## Ministério da Saúde
 

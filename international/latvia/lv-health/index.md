@@ -1,4 +1,4 @@
-# lv_Health - Latvia Health Agency
+# lv-health - Latvia Health Agency
 
 ## Ministry of Health
 

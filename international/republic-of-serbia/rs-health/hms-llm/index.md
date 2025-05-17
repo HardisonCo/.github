@@ -1,4 +1,4 @@
-# HMS-LLM for rs_Health
+# HMS-LLM for rs-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Large Language Model Operations Platform
 
 ## Integration Points
 
-This document outlines how HMS-LLM is integrated with rs_Health systems in Republic of Serbia.
+This document outlines how HMS-LLM is integrated with rs-health systems in Republic of Serbia.

@@ -1,4 +1,4 @@
-# HMS-ACT for sm_Health
+# HMS-ACT for sm-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Agent Collaboration Tools
 
 ## Integration Points
 
-This document outlines how HMS-ACT is integrated with sm_Health systems in San Marino.
+This document outlines how HMS-ACT is integrated with sm-health systems in San Marino.

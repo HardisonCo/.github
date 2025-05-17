@@ -1,4 +1,4 @@
-# HMS-ACH for md_Health
+# HMS-ACH for md-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Automated Clearing House
 
 ## Integration Points
 
-This document outlines how HMS-ACH is integrated with md_Health systems in Moldova.
+This document outlines how HMS-ACH is integrated with md-health systems in Moldova.

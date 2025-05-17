@@ -1,4 +1,4 @@
-# HMS-A2A for ar_Health
+# HMS-A2A for ar-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Agent-to-Agent Communication System
 
 ## Integration Points
 
-This document outlines how HMS-A2A is integrated with ar_Health systems in Argentina.
+This document outlines how HMS-A2A is integrated with ar-health systems in Argentina.

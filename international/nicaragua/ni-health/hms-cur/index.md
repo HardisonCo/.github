@@ -1,4 +1,4 @@
-# HMS-CUR for ni_Health
+# HMS-CUR for ni-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Currency Management
 
 ## Integration Points
 
-This document outlines how HMS-CUR is integrated with ni_Health systems in Nicaragua.
+This document outlines how HMS-CUR is integrated with ni-health systems in Nicaragua.

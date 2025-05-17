@@ -1,4 +1,4 @@
-# km_Health - Comoros Health Agency
+# km-health - Comoros Health Agency
 
 ## Ministry of Health and Solidarity
 

@@ -1,4 +1,4 @@
-# HMS-ETL for ls_Health
+# HMS-ETL for ls-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Extract, Transform, Load
 
 ## Integration Points
 
-This document outlines how HMS-ETL is integrated with ls_Health systems in Lesotho.
+This document outlines how HMS-ETL is integrated with ls-health systems in Lesotho.

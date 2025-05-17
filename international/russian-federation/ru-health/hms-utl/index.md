@@ -1,4 +1,4 @@
-# HMS-UTL for ru_Health
+# HMS-UTL for ru-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Utilities
 
 ## Integration Points
 
-This document outlines how HMS-UTL is integrated with ru_Health systems in Russian Federation.
+This document outlines how HMS-UTL is integrated with ru-health systems in Russian Federation.

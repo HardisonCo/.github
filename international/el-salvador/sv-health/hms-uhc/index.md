@@ -1,4 +1,4 @@
-# HMS-UHC for sv_Health
+# HMS-UHC for sv-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Universal Healthcare Components
 
 ## Integration Points
 
-This document outlines how HMS-UHC is integrated with sv_Health systems in El Salvador.
+This document outlines how HMS-UHC is integrated with sv-health systems in El Salvador.

@@ -1,4 +1,4 @@
-# HMS-API for qa_Health
+# HMS-API for qa-health
 
 ## Description
 
@@ -6,4 +6,4 @@ API Services
 
 ## Integration Points
 
-This document outlines how HMS-API is integrated with qa_Health systems in State of Qatar.
+This document outlines how HMS-API is integrated with qa-health systems in State of Qatar.

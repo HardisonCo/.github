@@ -1,4 +1,4 @@
-# HMS-MKT for mx_Health
+# HMS-MKT for mx-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Market Analytics
 
 ## Integration Points
 
-This document outlines how HMS-MKT is integrated with mx_Health systems in Mexico.
+This document outlines how HMS-MKT is integrated with mx-health systems in Mexico.

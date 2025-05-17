@@ -1,4 +1,4 @@
-# HMS-SYS for gq_Health
+# HMS-SYS for gq-health
 
 ## Description
 
@@ -6,4 +6,4 @@ System Core
 
 ## Integration Points
 
-This document outlines how HMS-SYS is integrated with gq_Health systems in Equatorial Guinea.
+This document outlines how HMS-SYS is integrated with gq-health systems in Equatorial Guinea.

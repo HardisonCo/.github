@@ -1,4 +1,4 @@
-# HMS-LLM for mv_Health
+# HMS-LLM for mv-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Large Language Model Operations Platform
 
 ## Integration Points
 
-This document outlines how HMS-LLM is integrated with mv_Health systems in Maldives.
+This document outlines how HMS-LLM is integrated with mv-health systems in Maldives.

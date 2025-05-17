@@ -1,4 +1,4 @@
-# HMS-SME for tz_Health
+# HMS-SME for tz-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Subject Matter Expertise
 
 ## Integration Points
 
-This document outlines how HMS-SME is integrated with tz_Health systems in United Republic of Tanzania.
+This document outlines how HMS-SME is integrated with tz-health systems in United Republic of Tanzania.

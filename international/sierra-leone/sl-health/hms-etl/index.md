@@ -1,4 +1,4 @@
-# HMS-ETL for sl_Health
+# HMS-ETL for sl-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Extract, Transform, Load
 
 ## Integration Points
 
-This document outlines how HMS-ETL is integrated with sl_Health systems in Sierra Leone.
+This document outlines how HMS-ETL is integrated with sl-health systems in Sierra Leone.

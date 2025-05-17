@@ -1,4 +1,4 @@
-# HMS-UHC for ar_Health
+# HMS-UHC for ar-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Universal Healthcare Components
 
 ## Integration Points
 
-This document outlines how HMS-UHC is integrated with ar_Health systems in Argentina.
+This document outlines how HMS-UHC is integrated with ar-health systems in Argentina.

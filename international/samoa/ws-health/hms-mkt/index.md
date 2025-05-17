@@ -1,4 +1,4 @@
-# HMS-MKT for ws_Health
+# HMS-MKT for ws-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Market Analytics
 
 ## Integration Points
 
-This document outlines how HMS-MKT is integrated with ws_Health systems in Samoa.
+This document outlines how HMS-MKT is integrated with ws-health systems in Samoa.

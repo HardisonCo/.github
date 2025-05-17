@@ -1,4 +1,4 @@
-# HMS-CDF for bb_Health
+# HMS-CDF for bb-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Collaborative Decision Framework
 
 ## Integration Points
 
-This document outlines how HMS-CDF is integrated with bb_Health systems in Barbados.
+This document outlines how HMS-CDF is integrated with bb-health systems in Barbados.

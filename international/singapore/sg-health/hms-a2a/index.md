@@ -1,4 +1,4 @@
-# HMS-A2A for sg_Health
+# HMS-A2A for sg-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Agent-to-Agent Communication System
 
 ## Integration Points
 
-This document outlines how HMS-A2A is integrated with sg_Health systems in Singapore.
+This document outlines how HMS-A2A is integrated with sg-health systems in Singapore.

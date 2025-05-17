@@ -1,4 +1,4 @@
-# HMS-OMS for ae_Health
+# HMS-OMS for ae-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Order Management System
 
 ## Integration Points
 
-This document outlines how HMS-OMS is integrated with ae_Health systems in United Arab Emirates.
+This document outlines how HMS-OMS is integrated with ae-health systems in United Arab Emirates.

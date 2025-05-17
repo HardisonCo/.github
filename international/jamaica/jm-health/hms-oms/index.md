@@ -1,4 +1,4 @@
-# HMS-OMS for jm_Health
+# HMS-OMS for jm-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Order Management System
 
 ## Integration Points
 
-This document outlines how HMS-OMS is integrated with jm_Health systems in Jamaica.
+This document outlines how HMS-OMS is integrated with jm-health systems in Jamaica.

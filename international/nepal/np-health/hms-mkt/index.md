@@ -1,4 +1,4 @@
-# HMS-MKT for np_Health
+# HMS-MKT for np-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Market Analytics
 
 ## Integration Points
 
-This document outlines how HMS-MKT is integrated with np_Health systems in Nepal.
+This document outlines how HMS-MKT is integrated with np-health systems in Nepal.

@@ -1,4 +1,4 @@
-# HMS-FLD for gn_Health
+# HMS-FLD for gn-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Field Data Collection
 
 ## Integration Points
 
-This document outlines how HMS-FLD is integrated with gn_Health systems in Guinea.
+This document outlines how HMS-FLD is integrated with gn-health systems in Guinea.

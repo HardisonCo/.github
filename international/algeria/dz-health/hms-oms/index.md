@@ -1,4 +1,4 @@
-# HMS-OMS for dz_Health
+# HMS-OMS for dz-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Order Management System
 
 ## Integration Points
 
-This document outlines how HMS-OMS is integrated with dz_Health systems in Algeria.
+This document outlines how HMS-OMS is integrated with dz-health systems in Algeria.

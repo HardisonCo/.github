@@ -1,4 +1,4 @@
-# HMS-EMR for nr_Health
+# HMS-EMR for nr-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Electronic Medical Records
 
 ## Integration Points
 
-This document outlines how HMS-EMR is integrated with nr_Health systems in Nauru.
+This document outlines how HMS-EMR is integrated with nr-health systems in Nauru.

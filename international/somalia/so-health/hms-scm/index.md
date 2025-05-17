@@ -1,4 +1,4 @@
-# HMS-SCM for so_Health
+# HMS-SCM for so-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Supply Chain Management
 
 ## Integration Points
 
-This document outlines how HMS-SCM is integrated with so_Health systems in Somalia.
+This document outlines how HMS-SCM is integrated with so-health systems in Somalia.

@@ -1,4 +1,4 @@
-# HMS-API for mv_Health
+# HMS-API for mv-health
 
 ## Description
 
@@ -6,4 +6,4 @@ API Services
 
 ## Integration Points
 
-This document outlines how HMS-API is integrated with mv_Health systems in Maldives.
+This document outlines how HMS-API is integrated with mv-health systems in Maldives.

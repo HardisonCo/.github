@@ -1,4 +1,4 @@
-# HMS-FLD for mm_Health
+# HMS-FLD for mm-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Field Data Collection
 
 ## Integration Points
 
-This document outlines how HMS-FLD is integrated with mm_Health systems in Myanmar (Burma).
+This document outlines how HMS-FLD is integrated with mm-health systems in Myanmar (Burma).

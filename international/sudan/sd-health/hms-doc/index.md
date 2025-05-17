@@ -1,4 +1,4 @@
-# HMS-DOC for sd_Health
+# HMS-DOC for sd-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Documentation System
 
 ## Integration Points
 
-This document outlines how HMS-DOC is integrated with sd_Health systems in Sudan.
+This document outlines how HMS-DOC is integrated with sd-health systems in Sudan.

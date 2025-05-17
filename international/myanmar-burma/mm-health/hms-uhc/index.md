@@ -1,4 +1,4 @@
-# HMS-UHC for mm_Health
+# HMS-UHC for mm-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Universal Healthcare Components
 
 ## Integration Points
 
-This document outlines how HMS-UHC is integrated with mm_Health systems in Myanmar (Burma).
+This document outlines how HMS-UHC is integrated with mm-health systems in Myanmar (Burma).

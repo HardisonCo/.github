@@ -1,4 +1,4 @@
-# HMS-DEV for vc_Health
+# HMS-DEV for vc-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Development Framework
 
 ## Integration Points
 
-This document outlines how HMS-DEV is integrated with vc_Health systems in Saint Vincent and the Grenadines.
+This document outlines how HMS-DEV is integrated with vc-health systems in Saint Vincent and the Grenadines.

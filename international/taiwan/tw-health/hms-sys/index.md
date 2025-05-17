@@ -1,4 +1,4 @@
-# HMS-SYS for tw_Health
+# HMS-SYS for tw-health
 
 ## Description
 
@@ -6,4 +6,4 @@ System Core
 
 ## Integration Points
 
-This document outlines how HMS-SYS is integrated with tw_Health systems in Taiwan.
+This document outlines how HMS-SYS is integrated with tw-health systems in Taiwan.

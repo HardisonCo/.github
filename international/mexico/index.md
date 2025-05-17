@@ -2,7 +2,7 @@
 
 ## Agencies
 
-- [mx_Health](mx_Health/index.md) - Secretaría de Salud
+- [mx-health](mx-health/index.md) - Secretaría de Salud
 
 ## HMS Implementation Status
 

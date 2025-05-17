@@ -1,4 +1,4 @@
-# do_Health - Dominican Republic Health Agency
+# do-health - Dominican Republic Health Agency
 
 ## Ministerio de Salud Pública
 

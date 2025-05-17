@@ -1,4 +1,4 @@
-# HMS-MKT for mu_Health
+# HMS-MKT for mu-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Market Analytics
 
 ## Integration Points
 
-This document outlines how HMS-MKT is integrated with mu_Health systems in Mauritius.
+This document outlines how HMS-MKT is integrated with mu-health systems in Mauritius.

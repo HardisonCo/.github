@@ -2,7 +2,7 @@
 
 ## Agencies
 
-- [nl_Health](nl_Health/index.md) - Ministry of Health, Welfare and Sport
+- [nl-health](nl-health/index.md) - Ministry of Health, Welfare and Sport
 
 ## HMS Implementation Status
 

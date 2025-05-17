@@ -1,4 +1,4 @@
-# HMS-ESR for ws_Health
+# HMS-ESR for ws-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Economic System Representation
 
 ## Integration Points
 
-This document outlines how HMS-ESR is integrated with ws_Health systems in Samoa.
+This document outlines how HMS-ESR is integrated with ws-health systems in Samoa.

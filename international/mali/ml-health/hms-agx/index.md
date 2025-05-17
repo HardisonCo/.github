@@ -1,4 +1,4 @@
-# HMS-AGX for ml_Health
+# HMS-AGX for ml-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Advanced Graph Experience
 
 ## Integration Points
 
-This document outlines how HMS-AGX is integrated with ml_Health systems in Mali.
+This document outlines how HMS-AGX is integrated with ml-health systems in Mali.

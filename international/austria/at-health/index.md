@@ -1,4 +1,4 @@
-# at_Health - Austria Health Agency
+# at-health - Austria Health Agency
 
 ## Federal Ministry of Social Affairs, Health, Care and Consumer Protection
 

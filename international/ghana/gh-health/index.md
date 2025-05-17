@@ -1,4 +1,4 @@
-# gh_Health - Ghana Health Agency
+# gh-health - Ghana Health Agency
 
 ## Ministry of Health
 

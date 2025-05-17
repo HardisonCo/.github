@@ -1,4 +1,4 @@
-# HMS-NFO for vc_Health
+# HMS-NFO for vc-health
 
 ## Description
 
@@ -6,4 +6,4 @@ National Financial Organizations
 
 ## Integration Points
 
-This document outlines how HMS-NFO is integrated with vc_Health systems in Saint Vincent and the Grenadines.
+This document outlines how HMS-NFO is integrated with vc-health systems in Saint Vincent and the Grenadines.

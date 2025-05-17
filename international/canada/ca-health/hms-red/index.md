@@ -1,4 +1,4 @@
-# HMS-RED for ca_Health
+# HMS-RED for ca-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Reactive Data Engine
 
 ## Integration Points
 
-This document outlines how HMS-RED is integrated with ca_Health systems in Canada.
+This document outlines how HMS-RED is integrated with ca-health systems in Canada.

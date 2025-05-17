@@ -1,4 +1,4 @@
-# HMS-EHR for gq_Health
+# HMS-EHR for gq-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Electronic Health Records
 
 ## Integration Points
 
-This document outlines how HMS-EHR is integrated with gq_Health systems in Equatorial Guinea.
+This document outlines how HMS-EHR is integrated with gq-health systems in Equatorial Guinea.

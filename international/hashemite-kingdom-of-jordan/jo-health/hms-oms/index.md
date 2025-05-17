@@ -1,4 +1,4 @@
-# HMS-OMS for jo_Health
+# HMS-OMS for jo-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Order Management System
 
 ## Integration Points
 
-This document outlines how HMS-OMS is integrated with jo_Health systems in Hashemite Kingdom of Jordan.
+This document outlines how HMS-OMS is integrated with jo-health systems in Hashemite Kingdom of Jordan.

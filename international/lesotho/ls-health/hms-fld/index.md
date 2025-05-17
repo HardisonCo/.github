@@ -1,4 +1,4 @@
-# HMS-FLD for ls_Health
+# HMS-FLD for ls-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Field Data Collection
 
 ## Integration Points
 
-This document outlines how HMS-FLD is integrated with ls_Health systems in Lesotho.
+This document outlines how HMS-FLD is integrated with ls-health systems in Lesotho.

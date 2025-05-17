@@ -1,4 +1,4 @@
-# HMS-MCP for km_Health
+# HMS-MCP for km-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Model-Compute-Publish
 
 ## Integration Points
 
-This document outlines how HMS-MCP is integrated with km_Health systems in Comoros.
+This document outlines how HMS-MCP is integrated with km-health systems in Comoros.

@@ -1,4 +1,4 @@
-# HMS-EDU for ir_Health
+# HMS-EDU for ir-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Education System
 
 ## Integration Points
 
-This document outlines how HMS-EDU is integrated with ir_Health systems in Islamic Republic of Iran.
+This document outlines how HMS-EDU is integrated with ir-health systems in Islamic Republic of Iran.

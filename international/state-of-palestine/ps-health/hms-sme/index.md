@@ -1,4 +1,4 @@
-# HMS-SME for ps_Health
+# HMS-SME for ps-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Subject Matter Expertise
 
 ## Integration Points
 
-This document outlines how HMS-SME is integrated with ps_Health systems in State of Palestine.
+This document outlines how HMS-SME is integrated with ps-health systems in State of Palestine.

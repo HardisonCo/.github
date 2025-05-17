@@ -1,4 +1,4 @@
-# HMS-SKL for gt_Health
+# HMS-SKL for gt-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Skills Management
 
 ## Integration Points
 
-This document outlines how HMS-SKL is integrated with gt_Health systems in Guatemala.
+This document outlines how HMS-SKL is integrated with gt-health systems in Guatemala.

@@ -1,4 +1,4 @@
-# HMS-NFO for jp_Health
+# HMS-NFO for jp-health
 
 ## Description
 
@@ -6,4 +6,4 @@ National Financial Organizations
 
 ## Integration Points
 
-This document outlines how HMS-NFO is integrated with jp_Health systems in Japan.
+This document outlines how HMS-NFO is integrated with jp-health systems in Japan.

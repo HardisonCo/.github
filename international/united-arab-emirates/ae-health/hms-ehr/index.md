@@ -1,4 +1,4 @@
-# HMS-EHR for ae_Health
+# HMS-EHR for ae-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Electronic Health Records
 
 ## Integration Points
 
-This document outlines how HMS-EHR is integrated with ae_Health systems in United Arab Emirates.
+This document outlines how HMS-EHR is integrated with ae-health systems in United Arab Emirates.

@@ -1,4 +1,4 @@
-# HMS-SCM for pl_Health
+# HMS-SCM for pl-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Supply Chain Management
 
 ## Integration Points
 
-This document outlines how HMS-SCM is integrated with pl_Health systems in Poland.
+This document outlines how HMS-SCM is integrated with pl-health systems in Poland.

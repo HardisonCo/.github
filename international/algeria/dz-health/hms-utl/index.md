@@ -1,4 +1,4 @@
-# HMS-UTL for dz_Health
+# HMS-UTL for dz-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Utilities
 
 ## Integration Points
 
-This document outlines how HMS-UTL is integrated with dz_Health systems in Algeria.
+This document outlines how HMS-UTL is integrated with dz-health systems in Algeria.

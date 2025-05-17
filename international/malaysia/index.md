@@ -2,7 +2,7 @@
 
 ## Agencies
 
-- [my_Health](my_Health/index.md) - Ministry of Health Malaysia
+- [my-health](my-health/index.md) - Ministry of Health Malaysia
 
 ## HMS Implementation Status
 

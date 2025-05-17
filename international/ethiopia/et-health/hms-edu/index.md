@@ -1,4 +1,4 @@
-# HMS-EDU for et_Health
+# HMS-EDU for et-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Education System
 
 ## Integration Points
 
-This document outlines how HMS-EDU is integrated with et_Health systems in Ethiopia.
+This document outlines how HMS-EDU is integrated with et-health systems in Ethiopia.

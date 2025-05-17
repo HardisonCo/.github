@@ -1,4 +1,4 @@
-# HMS-UTL for qa_Health
+# HMS-UTL for qa-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Utilities
 
 ## Integration Points
 
-This document outlines how HMS-UTL is integrated with qa_Health systems in State of Qatar.
+This document outlines how HMS-UTL is integrated with qa-health systems in State of Qatar.

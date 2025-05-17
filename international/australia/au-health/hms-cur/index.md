@@ -1,4 +1,4 @@
-# HMS-CUR for au_Health
+# HMS-CUR for au-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Currency Management
 
 ## Integration Points
 
-This document outlines how HMS-CUR is integrated with au_Health systems in Australia.
+This document outlines how HMS-CUR is integrated with au-health systems in Australia.

@@ -1,4 +1,4 @@
-# HMS-AGT for et_Health
+# HMS-AGT for et-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Agent Tooling
 
 ## Integration Points
 
-This document outlines how HMS-AGT is integrated with et_Health systems in Ethiopia.
+This document outlines how HMS-AGT is integrated with et-health systems in Ethiopia.

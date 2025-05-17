@@ -2,7 +2,7 @@
 
 ## Agencies
 
-- [is_Health](is_Health/index.md) - Directorate of Health
+- [is-health](is-health/index.md) - Directorate of Health
 
 ## HMS Implementation Status
 

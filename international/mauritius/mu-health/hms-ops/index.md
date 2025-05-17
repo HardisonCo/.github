@@ -1,4 +1,4 @@
-# HMS-OPS for mu_Health
+# HMS-OPS for mu-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Operations Management
 
 ## Integration Points
 
-This document outlines how HMS-OPS is integrated with mu_Health systems in Mauritius.
+This document outlines how HMS-OPS is integrated with mu-health systems in Mauritius.

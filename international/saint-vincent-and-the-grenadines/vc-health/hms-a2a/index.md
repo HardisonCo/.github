@@ -1,4 +1,4 @@
-# HMS-A2A for vc_Health
+# HMS-A2A for vc-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Agent-to-Agent Communication System
 
 ## Integration Points
 
-This document outlines how HMS-A2A is integrated with vc_Health systems in Saint Vincent and the Grenadines.
+This document outlines how HMS-A2A is integrated with vc-health systems in Saint Vincent and the Grenadines.

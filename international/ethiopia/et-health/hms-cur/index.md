@@ -1,4 +1,4 @@
-# HMS-CUR for et_Health
+# HMS-CUR for et-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Currency Management
 
 ## Integration Points
 
-This document outlines how HMS-CUR is integrated with et_Health systems in Ethiopia.
+This document outlines how HMS-CUR is integrated with et-health systems in Ethiopia.

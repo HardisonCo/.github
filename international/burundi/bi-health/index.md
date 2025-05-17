@@ -1,4 +1,4 @@
-# bi_Health - Burundi Health Agency
+# bi-health - Burundi Health Agency
 
 ## Ministry of Public Health and Fight against AIDS
 

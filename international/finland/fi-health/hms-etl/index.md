@@ -1,4 +1,4 @@
-# HMS-ETL for fi_Health
+# HMS-ETL for fi-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Extract, Transform, Load
 
 ## Integration Points
 
-This document outlines how HMS-ETL is integrated with fi_Health systems in Finland.
+This document outlines how HMS-ETL is integrated with fi-health systems in Finland.

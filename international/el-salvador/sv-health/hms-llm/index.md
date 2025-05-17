@@ -1,4 +1,4 @@
-# HMS-LLM for sv_Health
+# HMS-LLM for sv-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Large Language Model Operations Platform
 
 ## Integration Points
 
-This document outlines how HMS-LLM is integrated with sv_Health systems in El Salvador.
+This document outlines how HMS-LLM is integrated with sv-health systems in El Salvador.

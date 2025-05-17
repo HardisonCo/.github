@@ -1,4 +1,4 @@
-# HMS-EDU for nr_Health
+# HMS-EDU for nr-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Education System
 
 ## Integration Points
 
-This document outlines how HMS-EDU is integrated with nr_Health systems in Nauru.
+This document outlines how HMS-EDU is integrated with nr-health systems in Nauru.

@@ -1,4 +1,4 @@
-# HMS-GOV for az_Health
+# HMS-GOV for az-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Governance Framework
 
 ## Integration Points
 
-This document outlines how HMS-GOV is integrated with az_Health systems in Azerbaijan.
+This document outlines how HMS-GOV is integrated with az-health systems in Azerbaijan.

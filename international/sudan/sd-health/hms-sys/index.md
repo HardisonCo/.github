@@ -1,4 +1,4 @@
-# HMS-SYS for sd_Health
+# HMS-SYS for sd-health
 
 ## Description
 
@@ -6,4 +6,4 @@ System Core
 
 ## Integration Points
 
-This document outlines how HMS-SYS is integrated with sd_Health systems in Sudan.
+This document outlines how HMS-SYS is integrated with sd-health systems in Sudan.

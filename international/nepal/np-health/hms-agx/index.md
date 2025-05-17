@@ -1,4 +1,4 @@
-# HMS-AGX for np_Health
+# HMS-AGX for np-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Advanced Graph Experience
 
 ## Integration Points
 
-This document outlines how HMS-AGX is integrated with np_Health systems in Nepal.
+This document outlines how HMS-AGX is integrated with np-health systems in Nepal.

@@ -1,4 +1,4 @@
-# HMS-UHC for cl_Health
+# HMS-UHC for cl-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Universal Healthcare Components
 
 ## Integration Points
 
-This document outlines how HMS-UHC is integrated with cl_Health systems in Chile.
+This document outlines how HMS-UHC is integrated with cl-health systems in Chile.

@@ -1,4 +1,4 @@
-# HMS-UHC for vc_Health
+# HMS-UHC for vc-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Universal Healthcare Components
 
 ## Integration Points
 
-This document outlines how HMS-UHC is integrated with vc_Health systems in Saint Vincent and the Grenadines.
+This document outlines how HMS-UHC is integrated with vc-health systems in Saint Vincent and the Grenadines.

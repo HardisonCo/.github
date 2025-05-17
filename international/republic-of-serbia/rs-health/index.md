@@ -1,4 +1,4 @@
-# rs_Health - Republic of Serbia Health Agency
+# rs-health - Republic of Serbia Health Agency
 
 ## Ministry of Health of the Republic of Serbia
 

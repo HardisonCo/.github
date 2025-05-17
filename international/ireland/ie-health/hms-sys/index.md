@@ -1,4 +1,4 @@
-# HMS-SYS for ie_Health
+# HMS-SYS for ie-health
 
 ## Description
 
@@ -6,4 +6,4 @@ System Core
 
 ## Integration Points
 
-This document outlines how HMS-SYS is integrated with ie_Health systems in Ireland.
+This document outlines how HMS-SYS is integrated with ie-health systems in Ireland.

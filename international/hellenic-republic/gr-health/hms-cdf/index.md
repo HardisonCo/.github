@@ -1,4 +1,4 @@
-# HMS-CDF for gr_Health
+# HMS-CDF for gr-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Collaborative Decision Framework
 
 ## Integration Points
 
-This document outlines how HMS-CDF is integrated with gr_Health systems in Hellenic Republic.
+This document outlines how HMS-CDF is integrated with gr-health systems in Hellenic Republic.

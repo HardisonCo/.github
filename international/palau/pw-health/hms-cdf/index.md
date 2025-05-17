@@ -1,4 +1,4 @@
-# HMS-CDF for pw_Health
+# HMS-CDF for pw-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Collaborative Decision Framework
 
 ## Integration Points
 
-This document outlines how HMS-CDF is integrated with pw_Health systems in Palau.
+This document outlines how HMS-CDF is integrated with pw-health systems in Palau.

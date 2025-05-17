@@ -1,4 +1,4 @@
-# HMS-EHR for qa_Health
+# HMS-EHR for qa-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Electronic Health Records
 
 ## Integration Points
 
-This document outlines how HMS-EHR is integrated with qa_Health systems in State of Qatar.
+This document outlines how HMS-EHR is integrated with qa-health systems in State of Qatar.

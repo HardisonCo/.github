@@ -1,4 +1,4 @@
-# HMS-SKL for rs_Health
+# HMS-SKL for rs-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Skills Management
 
 ## Integration Points
 
-This document outlines how HMS-SKL is integrated with rs_Health systems in Republic of Serbia.
+This document outlines how HMS-SKL is integrated with rs-health systems in Republic of Serbia.

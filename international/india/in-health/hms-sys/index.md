@@ -1,4 +1,4 @@
-# HMS-SYS for in_Health
+# HMS-SYS for in-health
 
 ## Description
 
@@ -6,4 +6,4 @@ System Core
 
 ## Integration Points
 
-This document outlines how HMS-SYS is integrated with in_Health systems in India.
+This document outlines how HMS-SYS is integrated with in-health systems in India.

@@ -1,4 +1,4 @@
-# HMS-GOV for by_Health
+# HMS-GOV for by-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Governance Framework
 
 ## Integration Points
 
-This document outlines how HMS-GOV is integrated with by_Health systems in Belarus.
+This document outlines how HMS-GOV is integrated with by-health systems in Belarus.

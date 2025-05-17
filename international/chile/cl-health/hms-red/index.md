@@ -1,4 +1,4 @@
-# HMS-RED for cl_Health
+# HMS-RED for cl-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Reactive Data Engine
 
 ## Integration Points
 
-This document outlines how HMS-RED is integrated with cl_Health systems in Chile.
+This document outlines how HMS-RED is integrated with cl-health systems in Chile.

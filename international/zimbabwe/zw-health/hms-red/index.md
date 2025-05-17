@@ -1,4 +1,4 @@
-# HMS-RED for zw_Health
+# HMS-RED for zw-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Reactive Data Engine
 
 ## Integration Points
 
-This document outlines how HMS-RED is integrated with zw_Health systems in Zimbabwe.
+This document outlines how HMS-RED is integrated with zw-health systems in Zimbabwe.

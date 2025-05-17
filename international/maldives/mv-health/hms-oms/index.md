@@ -1,4 +1,4 @@
-# HMS-OMS for mv_Health
+# HMS-OMS for mv-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Order Management System
 
 ## Integration Points
 
-This document outlines how HMS-OMS is integrated with mv_Health systems in Maldives.
+This document outlines how HMS-OMS is integrated with mv-health systems in Maldives.

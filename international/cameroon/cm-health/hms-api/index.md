@@ -1,4 +1,4 @@
-# HMS-API for cm_Health
+# HMS-API for cm-health
 
 ## Description
 
@@ -6,4 +6,4 @@ API Services
 
 ## Integration Points
 
-This document outlines how HMS-API is integrated with cm_Health systems in Cameroon.
+This document outlines how HMS-API is integrated with cm-health systems in Cameroon.

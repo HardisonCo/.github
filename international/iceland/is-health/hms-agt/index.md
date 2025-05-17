@@ -1,4 +1,4 @@
-# HMS-AGT for is_Health
+# HMS-AGT for is-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Agent Tooling
 
 ## Integration Points
 
-This document outlines how HMS-AGT is integrated with is_Health systems in Iceland.
+This document outlines how HMS-AGT is integrated with is-health systems in Iceland.

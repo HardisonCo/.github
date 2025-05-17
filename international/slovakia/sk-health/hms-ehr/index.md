@@ -1,4 +1,4 @@
-# HMS-EHR for sk_Health
+# HMS-EHR for sk-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Electronic Health Records
 
 ## Integration Points
 
-This document outlines how HMS-EHR is integrated with sk_Health systems in Slovakia.
+This document outlines how HMS-EHR is integrated with sk-health systems in Slovakia.

@@ -1,4 +1,4 @@
-# HMS-ACH for bf_Health
+# HMS-ACH for bf-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Automated Clearing House
 
 ## Integration Points
 
-This document outlines how HMS-ACH is integrated with bf_Health systems in Burkina Faso.
+This document outlines how HMS-ACH is integrated with bf-health systems in Burkina Faso.

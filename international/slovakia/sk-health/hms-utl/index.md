@@ -1,4 +1,4 @@
-# HMS-UTL for sk_Health
+# HMS-UTL for sk-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Utilities
 
 ## Integration Points
 
-This document outlines how HMS-UTL is integrated with sk_Health systems in Slovakia.
+This document outlines how HMS-UTL is integrated with sk-health systems in Slovakia.

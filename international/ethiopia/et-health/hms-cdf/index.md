@@ -1,4 +1,4 @@
-# HMS-CDF for et_Health
+# HMS-CDF for et-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Collaborative Decision Framework
 
 ## Integration Points
 
-This document outlines how HMS-CDF is integrated with et_Health systems in Ethiopia.
+This document outlines how HMS-CDF is integrated with et-health systems in Ethiopia.

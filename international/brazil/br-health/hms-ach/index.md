@@ -1,4 +1,4 @@
-# HMS-ACH for br_Health
+# HMS-ACH for br-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Automated Clearing House
 
 ## Integration Points
 
-This document outlines how HMS-ACH is integrated with br_Health systems in Brazil.
+This document outlines how HMS-ACH is integrated with br-health systems in Brazil.

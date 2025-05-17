@@ -1,4 +1,4 @@
-# lk_Health - Sri Lanka Health Agency
+# lk-health - Sri Lanka Health Agency
 
 ## Ministry of Health, Sri Lanka
 

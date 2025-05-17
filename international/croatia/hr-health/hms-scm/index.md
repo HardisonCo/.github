@@ -1,4 +1,4 @@
-# HMS-SCM for hr_Health
+# HMS-SCM for hr-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Supply Chain Management
 
 ## Integration Points
 
-This document outlines how HMS-SCM is integrated with hr_Health systems in Croatia.
+This document outlines how HMS-SCM is integrated with hr-health systems in Croatia.

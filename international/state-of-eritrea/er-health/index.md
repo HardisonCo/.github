@@ -1,4 +1,4 @@
-# er_Health - State of Eritrea Health Agency
+# er-health - State of Eritrea Health Agency
 
 ## Ministry of Health
 

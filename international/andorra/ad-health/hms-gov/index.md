@@ -1,4 +1,4 @@
-# HMS-GOV for ad_Health
+# HMS-GOV for ad-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Governance Framework
 
 ## Integration Points
 
-This document outlines how HMS-GOV is integrated with ad_Health systems in Andorra.
+This document outlines how HMS-GOV is integrated with ad-health systems in Andorra.

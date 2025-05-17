@@ -1,4 +1,4 @@
-# HMS-ACH for th_Health
+# HMS-ACH for th-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Automated Clearing House
 
 ## Integration Points
 
-This document outlines how HMS-ACH is integrated with th_Health systems in Thailand.
+This document outlines how HMS-ACH is integrated with th-health systems in Thailand.

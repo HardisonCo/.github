@@ -2,7 +2,7 @@
 
 ## Agencies
 
-- [bg_Health](bg_Health/index.md) - Ministry of Health of the Republic of Bulgaria
+- [bg-health](bg-health/index.md) - Ministry of Health of the Republic of Bulgaria
 
 ## HMS Implementation Status
 

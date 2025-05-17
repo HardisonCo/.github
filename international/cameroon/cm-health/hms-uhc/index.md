@@ -1,4 +1,4 @@
-# HMS-UHC for cm_Health
+# HMS-UHC for cm-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Universal Healthcare Components
 
 ## Integration Points
 
-This document outlines how HMS-UHC is integrated with cm_Health systems in Cameroon.
+This document outlines how HMS-UHC is integrated with cm-health systems in Cameroon.

@@ -1,4 +1,4 @@
-# HMS-OPS for ru_Health
+# HMS-OPS for ru-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Operations Management
 
 ## Integration Points
 
-This document outlines how HMS-OPS is integrated with ru_Health systems in Russian Federation.
+This document outlines how HMS-OPS is integrated with ru-health systems in Russian Federation.

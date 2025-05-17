@@ -1,4 +1,4 @@
-# HMS-GOV for ni_Health
+# HMS-GOV for ni-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Governance Framework
 
 ## Integration Points
 
-This document outlines how HMS-GOV is integrated with ni_Health systems in Nicaragua.
+This document outlines how HMS-GOV is integrated with ni-health systems in Nicaragua.

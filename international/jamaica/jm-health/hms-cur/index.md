@@ -1,4 +1,4 @@
-# HMS-CUR for jm_Health
+# HMS-CUR for jm-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Currency Management
 
 ## Integration Points
 
-This document outlines how HMS-CUR is integrated with jm_Health systems in Jamaica.
+This document outlines how HMS-CUR is integrated with jm-health systems in Jamaica.

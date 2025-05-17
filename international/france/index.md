@@ -2,7 +2,7 @@
 
 ## Agencies
 
-- [fr_Health](fr_Health/index.md) - Ministry of Solidarity and Health
+- [fr-health](fr-health/index.md) - Ministry of Solidarity and Health
 
 ## HMS Implementation Status
 

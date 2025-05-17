@@ -1,4 +1,4 @@
-# HMS-UHC for bi_Health
+# HMS-UHC for bi-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Universal Healthcare Components
 
 ## Integration Points
 
-This document outlines how HMS-UHC is integrated with bi_Health systems in Burundi.
+This document outlines how HMS-UHC is integrated with bi-health systems in Burundi.

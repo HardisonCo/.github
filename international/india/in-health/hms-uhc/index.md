@@ -1,4 +1,4 @@
-# HMS-UHC for in_Health
+# HMS-UHC for in-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Universal Healthcare Components
 
 ## Integration Points
 
-This document outlines how HMS-UHC is integrated with in_Health systems in India.
+This document outlines how HMS-UHC is integrated with in-health systems in India.

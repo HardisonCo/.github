@@ -1,4 +1,4 @@
-# bw_Health - Botswana Health Agency
+# bw-health - Botswana Health Agency
 
 ## Ministry of Health and Wellness
 

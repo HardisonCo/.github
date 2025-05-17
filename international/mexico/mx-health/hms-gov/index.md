@@ -1,4 +1,4 @@
-# HMS-GOV for mx_Health
+# HMS-GOV for mx-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Governance Framework
 
 ## Integration Points
 
-This document outlines how HMS-GOV is integrated with mx_Health systems in Mexico.
+This document outlines how HMS-GOV is integrated with mx-health systems in Mexico.

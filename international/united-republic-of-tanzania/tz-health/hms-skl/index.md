@@ -1,4 +1,4 @@
-# HMS-SKL for tz_Health
+# HMS-SKL for tz-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Skills Management
 
 ## Integration Points
 
-This document outlines how HMS-SKL is integrated with tz_Health systems in United Republic of Tanzania.
+This document outlines how HMS-SKL is integrated with tz-health systems in United Republic of Tanzania.

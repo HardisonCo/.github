@@ -1,4 +1,4 @@
-# HMS-ESR for hn_Health
+# HMS-ESR for hn-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Economic System Representation
 
 ## Integration Points
 
-This document outlines how HMS-ESR is integrated with hn_Health systems in Honduras.
+This document outlines how HMS-ESR is integrated with hn-health systems in Honduras.

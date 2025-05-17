@@ -1,4 +1,4 @@
-# HMS-AGT for ws_Health
+# HMS-AGT for ws-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Agent Tooling
 
 ## Integration Points
 
-This document outlines how HMS-AGT is integrated with ws_Health systems in Samoa.
+This document outlines how HMS-AGT is integrated with ws-health systems in Samoa.

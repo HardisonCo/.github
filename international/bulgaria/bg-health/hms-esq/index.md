@@ -1,4 +1,4 @@
-# HMS-ESQ for bg_Health
+# HMS-ESQ for bg-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Enhanced System Quality
 
 ## Integration Points
 
-This document outlines how HMS-ESQ is integrated with bg_Health systems in Bulgaria.
+This document outlines how HMS-ESQ is integrated with bg-health systems in Bulgaria.

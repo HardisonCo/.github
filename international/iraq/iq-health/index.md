@@ -1,4 +1,4 @@
-# iq_Health - Iraq Health Agency
+# iq-health - Iraq Health Agency
 
 ## Ministry of Health
 

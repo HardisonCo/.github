@@ -1,4 +1,4 @@
-# HMS-LLM for to_Health
+# HMS-LLM for to-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Large Language Model Operations Platform
 
 ## Integration Points
 
-This document outlines how HMS-LLM is integrated with to_Health systems in Tonga.
+This document outlines how HMS-LLM is integrated with to-health systems in Tonga.

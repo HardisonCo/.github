@@ -1,4 +1,4 @@
-# HMS-ACT for cg_Health
+# HMS-ACT for cg-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Agent Collaboration Tools
 
 ## Integration Points
 
-This document outlines how HMS-ACT is integrated with cg_Health systems in Republic of the Congo.
+This document outlines how HMS-ACT is integrated with cg-health systems in Republic of the Congo.

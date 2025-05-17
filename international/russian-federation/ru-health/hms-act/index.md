@@ -1,4 +1,4 @@
-# HMS-ACT for ru_Health
+# HMS-ACT for ru-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Agent Collaboration Tools
 
 ## Integration Points
 
-This document outlines how HMS-ACT is integrated with ru_Health systems in Russian Federation.
+This document outlines how HMS-ACT is integrated with ru-health systems in Russian Federation.

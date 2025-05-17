@@ -1,4 +1,4 @@
-# sc_Health - Seychelles Health Agency
+# sc-health - Seychelles Health Agency
 
 ## Ministry of Health and Social Development
 

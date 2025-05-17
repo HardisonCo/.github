@@ -1,4 +1,4 @@
-# HMS-AGX for mc_Health
+# HMS-AGX for mc-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Advanced Graph Experience
 
 ## Integration Points
 
-This document outlines how HMS-AGX is integrated with mc_Health systems in Monaco.
+This document outlines how HMS-AGX is integrated with mc-health systems in Monaco.

@@ -1,4 +1,4 @@
-# HMS-EMR for dk_Health
+# HMS-EMR for dk-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Electronic Medical Records
 
 ## Integration Points
 
-This document outlines how HMS-EMR is integrated with dk_Health systems in Kingdom of Denmark.
+This document outlines how HMS-EMR is integrated with dk-health systems in Kingdom of Denmark.

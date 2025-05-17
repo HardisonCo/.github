@@ -1,4 +1,4 @@
-# HMS-MKT for kh_Health
+# HMS-MKT for kh-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Market Analytics
 
 ## Integration Points
 
-This document outlines how HMS-MKT is integrated with kh_Health systems in Kingdom of Cambodia.
+This document outlines how HMS-MKT is integrated with kh-health systems in Kingdom of Cambodia.

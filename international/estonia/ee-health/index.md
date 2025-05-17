@@ -1,4 +1,4 @@
-# ee_Health - Estonia Health Agency
+# ee-health - Estonia Health Agency
 
 ## Estonian Health Board
 

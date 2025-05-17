@@ -1,4 +1,4 @@
-# HMS-LLM for at_Health
+# HMS-LLM for at-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Large Language Model Operations Platform
 
 ## Integration Points
 
-This document outlines how HMS-LLM is integrated with at_Health systems in Austria.
+This document outlines how HMS-LLM is integrated with at-health systems in Austria.

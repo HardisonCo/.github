@@ -1,4 +1,4 @@
-# HMS-MFE for cg_Health
+# HMS-MFE for cg-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Micro Frontend Engine
 
 ## Integration Points
 
-This document outlines how HMS-MFE is integrated with cg_Health systems in Republic of the Congo.
+This document outlines how HMS-MFE is integrated with cg-health systems in Republic of the Congo.

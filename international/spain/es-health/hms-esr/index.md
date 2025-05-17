@@ -1,4 +1,4 @@
-# HMS-ESR for es_Health
+# HMS-ESR for es-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Economic System Representation
 
 ## Integration Points
 
-This document outlines how HMS-ESR is integrated with es_Health systems in Spain.
+This document outlines how HMS-ESR is integrated with es-health systems in Spain.

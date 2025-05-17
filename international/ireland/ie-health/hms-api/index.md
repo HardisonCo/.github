@@ -1,4 +1,4 @@
-# HMS-API for ie_Health
+# HMS-API for ie-health
 
 ## Description
 
@@ -6,4 +6,4 @@ API Services
 
 ## Integration Points
 
-This document outlines how HMS-API is integrated with ie_Health systems in Ireland.
+This document outlines how HMS-API is integrated with ie-health systems in Ireland.

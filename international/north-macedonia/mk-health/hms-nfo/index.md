@@ -1,4 +1,4 @@
-# HMS-NFO for mk_Health
+# HMS-NFO for mk-health
 
 ## Description
 
@@ -6,4 +6,4 @@ National Financial Organizations
 
 ## Integration Points
 
-This document outlines how HMS-NFO is integrated with mk_Health systems in North Macedonia.
+This document outlines how HMS-NFO is integrated with mk-health systems in North Macedonia.

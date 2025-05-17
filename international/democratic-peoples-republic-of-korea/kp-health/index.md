@@ -1,4 +1,4 @@
-# kp_Health - Democratic People's Republic of Korea Health Agency
+# kp-health - Democratic People's Republic of Korea Health Agency
 
 ## Ministry of Public Health
 

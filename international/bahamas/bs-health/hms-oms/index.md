@@ -1,4 +1,4 @@
-# HMS-OMS for bs_Health
+# HMS-OMS for bs-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Order Management System
 
 ## Integration Points
 
-This document outlines how HMS-OMS is integrated with bs_Health systems in Bahamas.
+This document outlines how HMS-OMS is integrated with bs-health systems in Bahamas.

@@ -1,4 +1,4 @@
-# HMS-LLM for kz_Health
+# HMS-LLM for kz-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Large Language Model Operations Platform
 
 ## Integration Points
 
-This document outlines how HMS-LLM is integrated with kz_Health systems in Kazakhstan.
+This document outlines how HMS-LLM is integrated with kz-health systems in Kazakhstan.

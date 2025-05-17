@@ -1,4 +1,4 @@
-# HMS-UHC for lv_Health
+# HMS-UHC for lv-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Universal Healthcare Components
 
 ## Integration Points
 
-This document outlines how HMS-UHC is integrated with lv_Health systems in Latvia.
+This document outlines how HMS-UHC is integrated with lv-health systems in Latvia.

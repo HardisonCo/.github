@@ -1,4 +1,4 @@
-# HMS-AGX for ec_Health
+# HMS-AGX for ec-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Advanced Graph Experience
 
 ## Integration Points
 
-This document outlines how HMS-AGX is integrated with ec_Health systems in Ecuador.
+This document outlines how HMS-AGX is integrated with ec-health systems in Ecuador.

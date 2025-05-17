@@ -1,4 +1,4 @@
-# HMS-MCP for gd_Health
+# HMS-MCP for gd-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Model-Compute-Publish
 
 ## Integration Points
 
-This document outlines how HMS-MCP is integrated with gd_Health systems in Grenada.
+This document outlines how HMS-MCP is integrated with gd-health systems in Grenada.

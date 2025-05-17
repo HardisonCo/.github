@@ -1,4 +1,4 @@
-# HMS-ACT for az_Health
+# HMS-ACT for az-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Agent Collaboration Tools
 
 ## Integration Points
 
-This document outlines how HMS-ACT is integrated with az_Health systems in Azerbaijan.
+This document outlines how HMS-ACT is integrated with az-health systems in Azerbaijan.

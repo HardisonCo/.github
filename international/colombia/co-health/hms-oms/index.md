@@ -1,4 +1,4 @@
-# HMS-OMS for co_Health
+# HMS-OMS for co-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Order Management System
 
 ## Integration Points
 
-This document outlines how HMS-OMS is integrated with co_Health systems in Colombia.
+This document outlines how HMS-OMS is integrated with co-health systems in Colombia.

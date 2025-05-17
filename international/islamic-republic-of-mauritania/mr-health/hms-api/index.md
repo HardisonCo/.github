@@ -1,4 +1,4 @@
-# HMS-API for mr_Health
+# HMS-API for mr-health
 
 ## Description
 
@@ -6,4 +6,4 @@ API Services
 
 ## Integration Points
 
-This document outlines how HMS-API is integrated with mr_Health systems in Islamic Republic of Mauritania.
+This document outlines how HMS-API is integrated with mr-health systems in Islamic Republic of Mauritania.

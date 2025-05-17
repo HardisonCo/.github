@@ -1,4 +1,4 @@
-# HMS-RED for kg_Health
+# HMS-RED for kg-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Reactive Data Engine
 
 ## Integration Points
 
-This document outlines how HMS-RED is integrated with kg_Health systems in Kyrgyzstan.
+This document outlines how HMS-RED is integrated with kg-health systems in Kyrgyzstan.

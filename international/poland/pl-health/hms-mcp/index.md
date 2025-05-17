@@ -1,4 +1,4 @@
-# HMS-MCP for pl_Health
+# HMS-MCP for pl-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Model-Compute-Publish
 
 ## Integration Points
 
-This document outlines how HMS-MCP is integrated with pl_Health systems in Poland.
+This document outlines how HMS-MCP is integrated with pl-health systems in Poland.

@@ -1,4 +1,4 @@
-# HMS-A2A for vn_Health
+# HMS-A2A for vn-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Agent-to-Agent Communication System
 
 ## Integration Points
 
-This document outlines how HMS-A2A is integrated with vn_Health systems in Vietnam.
+This document outlines how HMS-A2A is integrated with vn-health systems in Vietnam.

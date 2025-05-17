@@ -1,4 +1,4 @@
-# HMS-ABC for om_Health
+# HMS-ABC for om-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Adaptive Business Capabilities
 
 ## Integration Points
 
-This document outlines how HMS-ABC is integrated with om_Health systems in Sultanate of Oman.
+This document outlines how HMS-ABC is integrated with om-health systems in Sultanate of Oman.

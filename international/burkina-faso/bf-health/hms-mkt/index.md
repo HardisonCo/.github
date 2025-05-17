@@ -1,4 +1,4 @@
-# HMS-MKT for bf_Health
+# HMS-MKT for bf-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Market Analytics
 
 ## Integration Points
 
-This document outlines how HMS-MKT is integrated with bf_Health systems in Burkina Faso.
+This document outlines how HMS-MKT is integrated with bf-health systems in Burkina Faso.

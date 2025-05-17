@@ -1,4 +1,4 @@
-# HMS-FLD for ci_Health
+# HMS-FLD for ci-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Field Data Collection
 
 ## Integration Points
 
-This document outlines how HMS-FLD is integrated with ci_Health systems in Côte d'Ivoire.
+This document outlines how HMS-FLD is integrated with ci-health systems in Côte d'Ivoire.

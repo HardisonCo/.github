@@ -1,4 +1,4 @@
-# HMS-EMR for ca_Health
+# HMS-EMR for ca-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Electronic Medical Records
 
 ## Integration Points
 
-This document outlines how HMS-EMR is integrated with ca_Health systems in Canada.
+This document outlines how HMS-EMR is integrated with ca-health systems in Canada.

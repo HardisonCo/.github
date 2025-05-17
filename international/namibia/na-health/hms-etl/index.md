@@ -1,4 +1,4 @@
-# HMS-ETL for na_Health
+# HMS-ETL for na-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Extract, Transform, Load
 
 ## Integration Points
 
-This document outlines how HMS-ETL is integrated with na_Health systems in Namibia.
+This document outlines how HMS-ETL is integrated with na-health systems in Namibia.

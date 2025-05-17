@@ -1,4 +1,4 @@
-# HMS-SKL for jo_Health
+# HMS-SKL for jo-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Skills Management
 
 ## Integration Points
 
-This document outlines how HMS-SKL is integrated with jo_Health systems in Hashemite Kingdom of Jordan.
+This document outlines how HMS-SKL is integrated with jo-health systems in Hashemite Kingdom of Jordan.

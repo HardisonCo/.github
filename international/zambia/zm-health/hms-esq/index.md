@@ -1,4 +1,4 @@
-# HMS-ESQ for zm_Health
+# HMS-ESQ for zm-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Enhanced System Quality
 
 ## Integration Points
 
-This document outlines how HMS-ESQ is integrated with zm_Health systems in Zambia.
+This document outlines how HMS-ESQ is integrated with zm-health systems in Zambia.

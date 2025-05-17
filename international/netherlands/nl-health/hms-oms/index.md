@@ -1,4 +1,4 @@
-# HMS-OMS for nl_Health
+# HMS-OMS for nl-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Order Management System
 
 ## Integration Points
 
-This document outlines how HMS-OMS is integrated with nl_Health systems in Netherlands.
+This document outlines how HMS-OMS is integrated with nl-health systems in Netherlands.

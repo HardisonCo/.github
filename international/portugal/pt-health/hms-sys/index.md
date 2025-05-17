@@ -1,4 +1,4 @@
-# HMS-SYS for pt_Health
+# HMS-SYS for pt-health
 
 ## Description
 
@@ -6,4 +6,4 @@ System Core
 
 ## Integration Points
 
-This document outlines how HMS-SYS is integrated with pt_Health systems in Portugal.
+This document outlines how HMS-SYS is integrated with pt-health systems in Portugal.

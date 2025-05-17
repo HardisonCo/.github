@@ -1,4 +1,4 @@
-# HMS-NFO for ni_Health
+# HMS-NFO for ni-health
 
 ## Description
 
@@ -6,4 +6,4 @@ National Financial Organizations
 
 ## Integration Points
 
-This document outlines how HMS-NFO is integrated with ni_Health systems in Nicaragua.
+This document outlines how HMS-NFO is integrated with ni-health systems in Nicaragua.

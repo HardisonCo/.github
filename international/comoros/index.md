@@ -2,7 +2,7 @@
 
 ## Agencies
 
-- [km_Health](km_Health/index.md) - Ministry of Health and Solidarity
+- [km-health](km-health/index.md) - Ministry of Health and Solidarity
 
 ## HMS Implementation Status
 

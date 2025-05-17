@@ -1,4 +1,4 @@
-# HMS-RED for sn_Health
+# HMS-RED for sn-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Reactive Data Engine
 
 ## Integration Points
 
-This document outlines how HMS-RED is integrated with sn_Health systems in Senegal.
+This document outlines how HMS-RED is integrated with sn-health systems in Senegal.

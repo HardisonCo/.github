@@ -1,4 +1,4 @@
-# HMS-MCP for es_Health
+# HMS-MCP for es-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Model-Compute-Publish
 
 ## Integration Points
 
-This document outlines how HMS-MCP is integrated with es_Health systems in Spain.
+This document outlines how HMS-MCP is integrated with es-health systems in Spain.

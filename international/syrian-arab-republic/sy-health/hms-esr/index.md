@@ -1,4 +1,4 @@
-# HMS-ESR for sy_Health
+# HMS-ESR for sy-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Economic System Representation
 
 ## Integration Points
 
-This document outlines how HMS-ESR is integrated with sy_Health systems in Syrian Arab Republic.
+This document outlines how HMS-ESR is integrated with sy-health systems in Syrian Arab Republic.

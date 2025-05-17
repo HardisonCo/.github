@@ -1,4 +1,4 @@
-# HMS-OPS for vn_Health
+# HMS-OPS for vn-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Operations Management
 
 ## Integration Points
 
-This document outlines how HMS-OPS is integrated with vn_Health systems in Vietnam.
+This document outlines how HMS-OPS is integrated with vn-health systems in Vietnam.

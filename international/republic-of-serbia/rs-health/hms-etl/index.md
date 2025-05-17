@@ -1,4 +1,4 @@
-# HMS-ETL for rs_Health
+# HMS-ETL for rs-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Extract, Transform, Load
 
 ## Integration Points
 
-This document outlines how HMS-ETL is integrated with rs_Health systems in Republic of Serbia.
+This document outlines how HMS-ETL is integrated with rs-health systems in Republic of Serbia.

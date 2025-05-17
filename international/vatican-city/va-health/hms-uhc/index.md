@@ -1,4 +1,4 @@
-# HMS-UHC for va_Health
+# HMS-UHC for va-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Universal Healthcare Components
 
 ## Integration Points
 
-This document outlines how HMS-UHC is integrated with va_Health systems in Vatican City.
+This document outlines how HMS-UHC is integrated with va-health systems in Vatican City.

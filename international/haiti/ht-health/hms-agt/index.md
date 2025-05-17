@@ -1,4 +1,4 @@
-# HMS-AGT for ht_Health
+# HMS-AGT for ht-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Agent Tooling
 
 ## Integration Points
 
-This document outlines how HMS-AGT is integrated with ht_Health systems in Haiti.
+This document outlines how HMS-AGT is integrated with ht-health systems in Haiti.

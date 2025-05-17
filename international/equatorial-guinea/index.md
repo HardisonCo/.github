@@ -2,7 +2,7 @@
 
 ## Agencies
 
-- [gq_Health](gq_Health/index.md) - Ministerio de Salud Pública
+- [gq-health](gq-health/index.md) - Ministerio de Salud Pública
 
 ## HMS Implementation Status
 

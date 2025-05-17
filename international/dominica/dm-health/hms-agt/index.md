@@ -1,4 +1,4 @@
-# HMS-AGT for dm_Health
+# HMS-AGT for dm-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Agent Tooling
 
 ## Integration Points
 
-This document outlines how HMS-AGT is integrated with dm_Health systems in Dominica.
+This document outlines how HMS-AGT is integrated with dm-health systems in Dominica.

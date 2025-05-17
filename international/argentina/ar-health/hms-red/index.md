@@ -1,4 +1,4 @@
-# HMS-RED for ar_Health
+# HMS-RED for ar-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Reactive Data Engine
 
 ## Integration Points
 
-This document outlines how HMS-RED is integrated with ar_Health systems in Argentina.
+This document outlines how HMS-RED is integrated with ar-health systems in Argentina.

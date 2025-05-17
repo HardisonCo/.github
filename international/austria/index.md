@@ -2,7 +2,7 @@
 
 ## Agencies
 
-- [at_Health](at_Health/index.md) - Federal Ministry of Social Affairs, Health, Care and Consumer Protection
+- [at-health](at-health/index.md) - Federal Ministry of Social Affairs, Health, Care and Consumer Protection
 
 ## HMS Implementation Status
 

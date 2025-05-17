@@ -1,4 +1,4 @@
-# HMS-ESQ for ca_Health
+# HMS-ESQ for ca-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Enhanced System Quality
 
 ## Integration Points
 
-This document outlines how HMS-ESQ is integrated with ca_Health systems in Canada.
+This document outlines how HMS-ESQ is integrated with ca-health systems in Canada.

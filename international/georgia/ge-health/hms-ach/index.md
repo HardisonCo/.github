@@ -1,4 +1,4 @@
-# HMS-ACH for ge_Health
+# HMS-ACH for ge-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Automated Clearing House
 
 ## Integration Points
 
-This document outlines how HMS-ACH is integrated with ge_Health systems in Georgia.
+This document outlines how HMS-ACH is integrated with ge-health systems in Georgia.

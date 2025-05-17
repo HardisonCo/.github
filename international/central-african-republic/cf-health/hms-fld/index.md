@@ -1,4 +1,4 @@
-# HMS-FLD for cf_Health
+# HMS-FLD for cf-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Field Data Collection
 
 ## Integration Points
 
-This document outlines how HMS-FLD is integrated with cf_Health systems in Central African Republic.
+This document outlines how HMS-FLD is integrated with cf-health systems in Central African Republic.

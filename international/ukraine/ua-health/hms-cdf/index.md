@@ -1,4 +1,4 @@
-# HMS-CDF for ua_Health
+# HMS-CDF for ua-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Collaborative Decision Framework
 
 ## Integration Points
 
-This document outlines how HMS-CDF is integrated with ua_Health systems in Ukraine.
+This document outlines how HMS-CDF is integrated with ua-health systems in Ukraine.

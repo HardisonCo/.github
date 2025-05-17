@@ -1,4 +1,4 @@
-# HMS-A2A for bb_Health
+# HMS-A2A for bb-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Agent-to-Agent Communication System
 
 ## Integration Points
 
-This document outlines how HMS-A2A is integrated with bb_Health systems in Barbados.
+This document outlines how HMS-A2A is integrated with bb-health systems in Barbados.

@@ -1,4 +1,4 @@
-# zm_Health - Zambia Health Agency
+# zm-health - Zambia Health Agency
 
 ## Ministry of Health
 

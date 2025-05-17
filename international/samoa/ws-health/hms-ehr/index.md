@@ -1,4 +1,4 @@
-# HMS-EHR for ws_Health
+# HMS-EHR for ws-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Electronic Health Records
 
 ## Integration Points
 
-This document outlines how HMS-EHR is integrated with ws_Health systems in Samoa.
+This document outlines how HMS-EHR is integrated with ws-health systems in Samoa.

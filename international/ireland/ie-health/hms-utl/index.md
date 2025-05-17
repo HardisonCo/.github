@@ -1,4 +1,4 @@
-# HMS-UTL for ie_Health
+# HMS-UTL for ie-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Utilities
 
 ## Integration Points
 
-This document outlines how HMS-UTL is integrated with ie_Health systems in Ireland.
+This document outlines how HMS-UTL is integrated with ie-health systems in Ireland.

@@ -1,4 +1,4 @@
-# HMS-OMS for dk_Health
+# HMS-OMS for dk-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Order Management System
 
 ## Integration Points
 
-This document outlines how HMS-OMS is integrated with dk_Health systems in Kingdom of Denmark.
+This document outlines how HMS-OMS is integrated with dk-health systems in Kingdom of Denmark.

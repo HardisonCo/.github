@@ -1,4 +1,4 @@
-# HMS-AGT for tj_Health
+# HMS-AGT for tj-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Agent Tooling
 
 ## Integration Points
 
-This document outlines how HMS-AGT is integrated with tj_Health systems in Tajikistan.
+This document outlines how HMS-AGT is integrated with tj-health systems in Tajikistan.

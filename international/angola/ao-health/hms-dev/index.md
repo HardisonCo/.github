@@ -1,4 +1,4 @@
-# HMS-DEV for ao_Health
+# HMS-DEV for ao-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Development Framework
 
 ## Integration Points
 
-This document outlines how HMS-DEV is integrated with ao_Health systems in Angola.
+This document outlines how HMS-DEV is integrated with ao-health systems in Angola.

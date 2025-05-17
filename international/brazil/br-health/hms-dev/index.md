@@ -1,4 +1,4 @@
-# HMS-DEV for br_Health
+# HMS-DEV for br-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Development Framework
 
 ## Integration Points
 
-This document outlines how HMS-DEV is integrated with br_Health systems in Brazil.
+This document outlines how HMS-DEV is integrated with br-health systems in Brazil.

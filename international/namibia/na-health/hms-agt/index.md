@@ -1,4 +1,4 @@
-# HMS-AGT for na_Health
+# HMS-AGT for na-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Agent Tooling
 
 ## Integration Points
 
-This document outlines how HMS-AGT is integrated with na_Health systems in Namibia.
+This document outlines how HMS-AGT is integrated with na-health systems in Namibia.

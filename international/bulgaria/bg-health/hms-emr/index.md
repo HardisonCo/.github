@@ -1,4 +1,4 @@
-# HMS-EMR for bg_Health
+# HMS-EMR for bg-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Electronic Medical Records
 
 ## Integration Points
 
-This document outlines how HMS-EMR is integrated with bg_Health systems in Bulgaria.
+This document outlines how HMS-EMR is integrated with bg-health systems in Bulgaria.

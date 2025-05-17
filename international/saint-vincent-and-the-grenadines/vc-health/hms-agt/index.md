@@ -1,4 +1,4 @@
-# HMS-AGT for vc_Health
+# HMS-AGT for vc-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Agent Tooling
 
 ## Integration Points
 
-This document outlines how HMS-AGT is integrated with vc_Health systems in Saint Vincent and the Grenadines.
+This document outlines how HMS-AGT is integrated with vc-health systems in Saint Vincent and the Grenadines.

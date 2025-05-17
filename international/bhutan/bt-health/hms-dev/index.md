@@ -1,4 +1,4 @@
-# HMS-DEV for bt_Health
+# HMS-DEV for bt-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Development Framework
 
 ## Integration Points
 
-This document outlines how HMS-DEV is integrated with bt_Health systems in Bhutan.
+This document outlines how HMS-DEV is integrated with bt-health systems in Bhutan.

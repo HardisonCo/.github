@@ -1,4 +1,4 @@
-# af_Health - Afghanistan Health Agency
+# af-health - Afghanistan Health Agency
 
 ## Ministry of Public Health
 

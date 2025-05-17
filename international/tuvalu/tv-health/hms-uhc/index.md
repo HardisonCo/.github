@@ -1,4 +1,4 @@
-# HMS-UHC for tv_Health
+# HMS-UHC for tv-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Universal Healthcare Components
 
 ## Integration Points
 
-This document outlines how HMS-UHC is integrated with tv_Health systems in Tuvalu.
+This document outlines how HMS-UHC is integrated with tv-health systems in Tuvalu.

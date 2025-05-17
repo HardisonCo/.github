@@ -1,4 +1,4 @@
-# HMS-SKL for sg_Health
+# HMS-SKL for sg-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Skills Management
 
 ## Integration Points
 
-This document outlines how HMS-SKL is integrated with sg_Health systems in Singapore.
+This document outlines how HMS-SKL is integrated with sg-health systems in Singapore.

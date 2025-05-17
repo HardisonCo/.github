@@ -1,4 +1,4 @@
-# HMS-EMR for st_Health
+# HMS-EMR for st-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Electronic Medical Records
 
 ## Integration Points
 
-This document outlines how HMS-EMR is integrated with st_Health systems in São Tomé and Príncipe.
+This document outlines how HMS-EMR is integrated with st-health systems in São Tomé and Príncipe.

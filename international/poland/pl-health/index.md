@@ -1,4 +1,4 @@
-# pl_Health - Poland Health Agency
+# pl-health - Poland Health Agency
 
 ## Ministry of Health
 

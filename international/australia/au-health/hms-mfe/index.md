@@ -1,4 +1,4 @@
-# HMS-MFE for au_Health
+# HMS-MFE for au-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Micro Frontend Engine
 
 ## Integration Points
 
-This document outlines how HMS-MFE is integrated with au_Health systems in Australia.
+This document outlines how HMS-MFE is integrated with au-health systems in Australia.

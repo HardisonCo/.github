@@ -1,4 +1,4 @@
-# HMS-SKL for lb_Health
+# HMS-SKL for lb-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Skills Management
 
 ## Integration Points
 
-This document outlines how HMS-SKL is integrated with lb_Health systems in Lebanon.
+This document outlines how HMS-SKL is integrated with lb-health systems in Lebanon.

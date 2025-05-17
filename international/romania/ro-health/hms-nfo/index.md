@@ -1,4 +1,4 @@
-# HMS-NFO for ro_Health
+# HMS-NFO for ro-health
 
 ## Description
 
@@ -6,4 +6,4 @@ National Financial Organizations
 
 ## Integration Points
 
-This document outlines how HMS-NFO is integrated with ro_Health systems in Romania.
+This document outlines how HMS-NFO is integrated with ro-health systems in Romania.

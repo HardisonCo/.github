@@ -1,4 +1,4 @@
-# HMS-ACT for ga_Health
+# HMS-ACT for ga-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Agent Collaboration Tools
 
 ## Integration Points
 
-This document outlines how HMS-ACT is integrated with ga_Health systems in Gabon.
+This document outlines how HMS-ACT is integrated with ga-health systems in Gabon.

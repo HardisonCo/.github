@@ -1,4 +1,4 @@
-# HMS-AGT for sz_Health
+# HMS-AGT for sz-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Agent Tooling
 
 ## Integration Points
 
-This document outlines how HMS-AGT is integrated with sz_Health systems in Eswatini (Swaziland).
+This document outlines how HMS-AGT is integrated with sz-health systems in Eswatini (Swaziland).

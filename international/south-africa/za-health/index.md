@@ -1,4 +1,4 @@
-# za_Health - South Africa Health Agency
+# za-health - South Africa Health Agency
 
 ## National Department of Health
 

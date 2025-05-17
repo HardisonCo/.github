@@ -1,4 +1,4 @@
-# HMS-UHC for cf_Health
+# HMS-UHC for cf-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Universal Healthcare Components
 
 ## Integration Points
 
-This document outlines how HMS-UHC is integrated with cf_Health systems in Central African Republic.
+This document outlines how HMS-UHC is integrated with cf-health systems in Central African Republic.

@@ -1,4 +1,4 @@
-# HMS-SKL for om_Health
+# HMS-SKL for om-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Skills Management
 
 ## Integration Points
 
-This document outlines how HMS-SKL is integrated with om_Health systems in Sultanate of Oman.
+This document outlines how HMS-SKL is integrated with om-health systems in Sultanate of Oman.

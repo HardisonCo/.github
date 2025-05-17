@@ -1,4 +1,4 @@
-# HMS-CUR for ba_Health
+# HMS-CUR for ba-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Currency Management
 
 ## Integration Points
 
-This document outlines how HMS-CUR is integrated with ba_Health systems in Bosnia and Herzegovina.
+This document outlines how HMS-CUR is integrated with ba-health systems in Bosnia and Herzegovina.

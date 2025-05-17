@@ -1,4 +1,4 @@
-# HMS-MKT for ec_Health
+# HMS-MKT for ec-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Market Analytics
 
 ## Integration Points
 
-This document outlines how HMS-MKT is integrated with ec_Health systems in Ecuador.
+This document outlines how HMS-MKT is integrated with ec-health systems in Ecuador.

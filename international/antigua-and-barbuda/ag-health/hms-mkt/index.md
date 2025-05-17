@@ -1,4 +1,4 @@
-# HMS-MKT for ag_Health
+# HMS-MKT for ag-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Market Analytics
 
 ## Integration Points
 
-This document outlines how HMS-MKT is integrated with ag_Health systems in Antigua and Barbuda.
+This document outlines how HMS-MKT is integrated with ag-health systems in Antigua and Barbuda.

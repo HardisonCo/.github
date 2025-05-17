@@ -1,4 +1,4 @@
-# HMS-SCM for uy_Health
+# HMS-SCM for uy-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Supply Chain Management
 
 ## Integration Points
 
-This document outlines how HMS-SCM is integrated with uy_Health systems in Eastern Republic of Uruguay.
+This document outlines how HMS-SCM is integrated with uy-health systems in Eastern Republic of Uruguay.

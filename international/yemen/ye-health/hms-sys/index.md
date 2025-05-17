@@ -1,4 +1,4 @@
-# HMS-SYS for ye_Health
+# HMS-SYS for ye-health
 
 ## Description
 
@@ -6,4 +6,4 @@ System Core
 
 ## Integration Points
 
-This document outlines how HMS-SYS is integrated with ye_Health systems in Yemen.
+This document outlines how HMS-SYS is integrated with ye-health systems in Yemen.

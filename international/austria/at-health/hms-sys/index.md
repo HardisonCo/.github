@@ -1,4 +1,4 @@
-# HMS-SYS for at_Health
+# HMS-SYS for at-health
 
 ## Description
 
@@ -6,4 +6,4 @@ System Core
 
 ## Integration Points
 
-This document outlines how HMS-SYS is integrated with at_Health systems in Austria.
+This document outlines how HMS-SYS is integrated with at-health systems in Austria.

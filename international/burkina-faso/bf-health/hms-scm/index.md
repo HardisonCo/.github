@@ -1,4 +1,4 @@
-# HMS-SCM for bf_Health
+# HMS-SCM for bf-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Supply Chain Management
 
 ## Integration Points
 
-This document outlines how HMS-SCM is integrated with bf_Health systems in Burkina Faso.
+This document outlines how HMS-SCM is integrated with bf-health systems in Burkina Faso.

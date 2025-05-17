@@ -1,4 +1,4 @@
-# HMS-AGX for py_Health
+# HMS-AGX for py-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Advanced Graph Experience
 
 ## Integration Points
 
-This document outlines how HMS-AGX is integrated with py_Health systems in Paraguay.
+This document outlines how HMS-AGX is integrated with py-health systems in Paraguay.

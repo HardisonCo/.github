@@ -1,4 +1,4 @@
-# HMS-API for pt_Health
+# HMS-API for pt-health
 
 ## Description
 
@@ -6,4 +6,4 @@ API Services
 
 ## Integration Points
 
-This document outlines how HMS-API is integrated with pt_Health systems in Portugal.
+This document outlines how HMS-API is integrated with pt-health systems in Portugal.

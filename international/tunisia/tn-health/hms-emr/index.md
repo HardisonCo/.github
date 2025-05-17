@@ -1,4 +1,4 @@
-# HMS-EMR for tn_Health
+# HMS-EMR for tn-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Electronic Medical Records
 
 ## Integration Points
 
-This document outlines how HMS-EMR is integrated with tn_Health systems in Tunisia.
+This document outlines how HMS-EMR is integrated with tn-health systems in Tunisia.

@@ -1,4 +1,4 @@
-# HMS-OMS for ge_Health
+# HMS-OMS for ge-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Order Management System
 
 ## Integration Points
 
-This document outlines how HMS-OMS is integrated with ge_Health systems in Georgia.
+This document outlines how HMS-OMS is integrated with ge-health systems in Georgia.

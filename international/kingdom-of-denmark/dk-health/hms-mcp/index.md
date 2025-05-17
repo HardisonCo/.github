@@ -1,4 +1,4 @@
-# HMS-MCP for dk_Health
+# HMS-MCP for dk-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Model-Compute-Publish
 
 ## Integration Points
 
-This document outlines how HMS-MCP is integrated with dk_Health systems in Kingdom of Denmark.
+This document outlines how HMS-MCP is integrated with dk-health systems in Kingdom of Denmark.

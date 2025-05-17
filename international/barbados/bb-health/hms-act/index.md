@@ -1,4 +1,4 @@
-# HMS-ACT for bb_Health
+# HMS-ACT for bb-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Agent Collaboration Tools
 
 ## Integration Points
 
-This document outlines how HMS-ACT is integrated with bb_Health systems in Barbados.
+This document outlines how HMS-ACT is integrated with bb-health systems in Barbados.

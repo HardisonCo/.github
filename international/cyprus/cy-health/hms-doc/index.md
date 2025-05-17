@@ -1,4 +1,4 @@
-# HMS-DOC for cy_Health
+# HMS-DOC for cy-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Documentation System
 
 ## Integration Points
 
-This document outlines how HMS-DOC is integrated with cy_Health systems in Cyprus.
+This document outlines how HMS-DOC is integrated with cy-health systems in Cyprus.

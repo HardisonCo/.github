@@ -1,4 +1,4 @@
-# HMS-MCP for kz_Health
+# HMS-MCP for kz-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Model-Compute-Publish
 
 ## Integration Points
 
-This document outlines how HMS-MCP is integrated with kz_Health systems in Kazakhstan.
+This document outlines how HMS-MCP is integrated with kz-health systems in Kazakhstan.

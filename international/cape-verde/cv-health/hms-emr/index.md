@@ -1,4 +1,4 @@
-# HMS-EMR for cv_Health
+# HMS-EMR for cv-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Electronic Medical Records
 
 ## Integration Points
 
-This document outlines how HMS-EMR is integrated with cv_Health systems in Cape Verde.
+This document outlines how HMS-EMR is integrated with cv-health systems in Cape Verde.

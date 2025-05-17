@@ -1,4 +1,4 @@
-# HMS-OMS for it_Health
+# HMS-OMS for it-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Order Management System
 
 ## Integration Points
 
-This document outlines how HMS-OMS is integrated with it_Health systems in Italy.
+This document outlines how HMS-OMS is integrated with it-health systems in Italy.

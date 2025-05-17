@@ -1,4 +1,4 @@
-# ir_Health - Islamic Republic of Iran Health Agency
+# ir-health - Islamic Republic of Iran Health Agency
 
 ## Ministry of Health and Medical Education
 

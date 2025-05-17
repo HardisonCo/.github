@@ -1,4 +1,4 @@
-# HMS-ETL for bw_Health
+# HMS-ETL for bw-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Extract, Transform, Load
 
 ## Integration Points
 
-This document outlines how HMS-ETL is integrated with bw_Health systems in Botswana.
+This document outlines how HMS-ETL is integrated with bw-health systems in Botswana.

@@ -1,4 +1,4 @@
-# HMS-ESR for et_Health
+# HMS-ESR for et-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Economic System Representation
 
 ## Integration Points
 
-This document outlines how HMS-ESR is integrated with et_Health systems in Ethiopia.
+This document outlines how HMS-ESR is integrated with et-health systems in Ethiopia.

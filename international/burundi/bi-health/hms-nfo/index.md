@@ -1,4 +1,4 @@
-# HMS-NFO for bi_Health
+# HMS-NFO for bi-health
 
 ## Description
 
@@ -6,4 +6,4 @@ National Financial Organizations
 
 ## Integration Points
 
-This document outlines how HMS-NFO is integrated with bi_Health systems in Burundi.
+This document outlines how HMS-NFO is integrated with bi-health systems in Burundi.

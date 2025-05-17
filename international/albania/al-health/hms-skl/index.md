@@ -1,4 +1,4 @@
-# HMS-SKL for al_Health
+# HMS-SKL for al-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Skills Management
 
 ## Integration Points
 
-This document outlines how HMS-SKL is integrated with al_Health systems in Albania.
+This document outlines how HMS-SKL is integrated with al-health systems in Albania.

@@ -1,4 +1,4 @@
-# HMS-NFO for lr_Health
+# HMS-NFO for lr-health
 
 ## Description
 
@@ -6,4 +6,4 @@ National Financial Organizations
 
 ## Integration Points
 
-This document outlines how HMS-NFO is integrated with lr_Health systems in Liberia.
+This document outlines how HMS-NFO is integrated with lr-health systems in Liberia.

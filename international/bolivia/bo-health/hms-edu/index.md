@@ -1,4 +1,4 @@
-# HMS-EDU for bo_Health
+# HMS-EDU for bo-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Education System
 
 ## Integration Points
 
-This document outlines how HMS-EDU is integrated with bo_Health systems in Bolivia.
+This document outlines how HMS-EDU is integrated with bo-health systems in Bolivia.

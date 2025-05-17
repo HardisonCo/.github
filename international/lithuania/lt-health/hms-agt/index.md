@@ -1,4 +1,4 @@
-# HMS-AGT for lt_Health
+# HMS-AGT for lt-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Agent Tooling
 
 ## Integration Points
 
-This document outlines how HMS-AGT is integrated with lt_Health systems in Lithuania.
+This document outlines how HMS-AGT is integrated with lt-health systems in Lithuania.

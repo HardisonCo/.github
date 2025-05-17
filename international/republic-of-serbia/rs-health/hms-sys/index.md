@@ -1,4 +1,4 @@
-# HMS-SYS for rs_Health
+# HMS-SYS for rs-health
 
 ## Description
 
@@ -6,4 +6,4 @@ System Core
 
 ## Integration Points
 
-This document outlines how HMS-SYS is integrated with rs_Health systems in Republic of Serbia.
+This document outlines how HMS-SYS is integrated with rs-health systems in Republic of Serbia.

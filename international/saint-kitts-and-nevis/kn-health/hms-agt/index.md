@@ -1,4 +1,4 @@
-# HMS-AGT for kn_Health
+# HMS-AGT for kn-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Agent Tooling
 
 ## Integration Points
 
-This document outlines how HMS-AGT is integrated with kn_Health systems in Saint Kitts and Nevis.
+This document outlines how HMS-AGT is integrated with kn-health systems in Saint Kitts and Nevis.

@@ -1,4 +1,4 @@
-# HMS-UHC for np_Health
+# HMS-UHC for np-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Universal Healthcare Components
 
 ## Integration Points
 
-This document outlines how HMS-UHC is integrated with np_Health systems in Nepal.
+This document outlines how HMS-UHC is integrated with np-health systems in Nepal.

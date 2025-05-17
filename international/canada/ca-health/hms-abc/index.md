@@ -1,4 +1,4 @@
-# HMS-ABC for ca_Health
+# HMS-ABC for ca-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Adaptive Business Capabilities
 
 ## Integration Points
 
-This document outlines how HMS-ABC is integrated with ca_Health systems in Canada.
+This document outlines how HMS-ABC is integrated with ca-health systems in Canada.

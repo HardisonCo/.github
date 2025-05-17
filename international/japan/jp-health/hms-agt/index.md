@@ -1,4 +1,4 @@
-# HMS-AGT for jp_Health
+# HMS-AGT for jp-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Agent Tooling
 
 ## Integration Points
 
-This document outlines how HMS-AGT is integrated with jp_Health systems in Japan.
+This document outlines how HMS-AGT is integrated with jp-health systems in Japan.

@@ -1,4 +1,4 @@
-# HMS-EHR for bd_Health
+# HMS-EHR for bd-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Electronic Health Records
 
 ## Integration Points
 
-This document outlines how HMS-EHR is integrated with bd_Health systems in Bangladesh.
+This document outlines how HMS-EHR is integrated with bd-health systems in Bangladesh.

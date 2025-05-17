@@ -1,4 +1,4 @@
-# HMS-ESQ for az_Health
+# HMS-ESQ for az-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Enhanced System Quality
 
 ## Integration Points
 
-This document outlines how HMS-ESQ is integrated with az_Health systems in Azerbaijan.
+This document outlines how HMS-ESQ is integrated with az-health systems in Azerbaijan.

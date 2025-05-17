@@ -1,4 +1,4 @@
-# HMS-SYS for ao_Health
+# HMS-SYS for ao-health
 
 ## Description
 
@@ -6,4 +6,4 @@ System Core
 
 ## Integration Points
 
-This document outlines how HMS-SYS is integrated with ao_Health systems in Angola.
+This document outlines how HMS-SYS is integrated with ao-health systems in Angola.

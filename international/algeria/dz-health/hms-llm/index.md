@@ -1,4 +1,4 @@
-# HMS-LLM for dz_Health
+# HMS-LLM for dz-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Large Language Model Operations Platform
 
 ## Integration Points
 
-This document outlines how HMS-LLM is integrated with dz_Health systems in Algeria.
+This document outlines how HMS-LLM is integrated with dz-health systems in Algeria.

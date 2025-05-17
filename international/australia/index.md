@@ -2,7 +2,7 @@
 
 ## Agencies
 
-- [au_Health](au_Health/index.md) - Department of Health
+- [au-health](au-health/index.md) - Department of Health
 
 ## HMS Implementation Status
 

@@ -1,4 +1,4 @@
-# HMS-DOC for mg_Health
+# HMS-DOC for mg-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Documentation System
 
 ## Integration Points
 
-This document outlines how HMS-DOC is integrated with mg_Health systems in Madagascar.
+This document outlines how HMS-DOC is integrated with mg-health systems in Madagascar.

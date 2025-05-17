@@ -1,4 +1,4 @@
-# HMS-SKL for pa_Health
+# HMS-SKL for pa-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Skills Management
 
 ## Integration Points
 
-This document outlines how HMS-SKL is integrated with pa_Health systems in Panama.
+This document outlines how HMS-SKL is integrated with pa-health systems in Panama.

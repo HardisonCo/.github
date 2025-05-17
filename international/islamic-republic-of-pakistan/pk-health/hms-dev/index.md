@@ -1,4 +1,4 @@
-# HMS-DEV for pk_Health
+# HMS-DEV for pk-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Development Framework
 
 ## Integration Points
 
-This document outlines how HMS-DEV is integrated with pk_Health systems in Islamic Republic of Pakistan.
+This document outlines how HMS-DEV is integrated with pk-health systems in Islamic Republic of Pakistan.

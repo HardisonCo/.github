@@ -1,4 +1,4 @@
-# HMS-OMS for pa_Health
+# HMS-OMS for pa-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Order Management System
 
 ## Integration Points
 
-This document outlines how HMS-OMS is integrated with pa_Health systems in Panama.
+This document outlines how HMS-OMS is integrated with pa-health systems in Panama.

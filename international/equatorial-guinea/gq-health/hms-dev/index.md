@@ -1,4 +1,4 @@
-# HMS-DEV for gq_Health
+# HMS-DEV for gq-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Development Framework
 
 ## Integration Points
 
-This document outlines how HMS-DEV is integrated with gq_Health systems in Equatorial Guinea.
+This document outlines how HMS-DEV is integrated with gq-health systems in Equatorial Guinea.

@@ -1,4 +1,4 @@
-# HMS-DEV for sr_Health
+# HMS-DEV for sr-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Development Framework
 
 ## Integration Points
 
-This document outlines how HMS-DEV is integrated with sr_Health systems in Suriname.
+This document outlines how HMS-DEV is integrated with sr-health systems in Suriname.

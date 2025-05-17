@@ -1,4 +1,4 @@
-# my_Health - Malaysia Health Agency
+# my-health - Malaysia Health Agency
 
 ## Ministry of Health Malaysia
 

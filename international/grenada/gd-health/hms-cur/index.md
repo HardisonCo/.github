@@ -1,4 +1,4 @@
-# HMS-CUR for gd_Health
+# HMS-CUR for gd-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Currency Management
 
 ## Integration Points
 
-This document outlines how HMS-CUR is integrated with gd_Health systems in Grenada.
+This document outlines how HMS-CUR is integrated with gd-health systems in Grenada.

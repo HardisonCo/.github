@@ -1,4 +1,4 @@
-# HMS-CUR for lr_Health
+# HMS-CUR for lr-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Currency Management
 
 ## Integration Points
 
-This document outlines how HMS-CUR is integrated with lr_Health systems in Liberia.
+This document outlines how HMS-CUR is integrated with lr-health systems in Liberia.

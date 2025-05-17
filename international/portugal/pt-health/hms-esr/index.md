@@ -1,4 +1,4 @@
-# HMS-ESR for pt_Health
+# HMS-ESR for pt-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Economic System Representation
 
 ## Integration Points
 
-This document outlines how HMS-ESR is integrated with pt_Health systems in Portugal.
+This document outlines how HMS-ESR is integrated with pt-health systems in Portugal.

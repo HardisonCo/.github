@@ -1,4 +1,4 @@
-# HMS-DOC for rw_Health
+# HMS-DOC for rw-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Documentation System
 
 ## Integration Points
 
-This document outlines how HMS-DOC is integrated with rw_Health systems in Rwanda.
+This document outlines how HMS-DOC is integrated with rw-health systems in Rwanda.

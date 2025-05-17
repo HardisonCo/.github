@@ -1,4 +1,4 @@
-# HMS-UHC for ng_Health
+# HMS-UHC for ng-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Universal Healthcare Components
 
 ## Integration Points
 
-This document outlines how HMS-UHC is integrated with ng_Health systems in Nigeria.
+This document outlines how HMS-UHC is integrated with ng-health systems in Nigeria.

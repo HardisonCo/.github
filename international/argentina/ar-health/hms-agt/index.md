@@ -1,4 +1,4 @@
-# HMS-AGT for ar_Health
+# HMS-AGT for ar-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Agent Tooling
 
 ## Integration Points
 
-This document outlines how HMS-AGT is integrated with ar_Health systems in Argentina.
+This document outlines how HMS-AGT is integrated with ar-health systems in Argentina.

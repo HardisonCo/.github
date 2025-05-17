@@ -1,4 +1,4 @@
-# HMS-OMS for gh_Health
+# HMS-OMS for gh-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Order Management System
 
 ## Integration Points
 
-This document outlines how HMS-OMS is integrated with gh_Health systems in Ghana.
+This document outlines how HMS-OMS is integrated with gh-health systems in Ghana.

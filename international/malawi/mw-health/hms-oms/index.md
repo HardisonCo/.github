@@ -1,4 +1,4 @@
-# HMS-OMS for mw_Health
+# HMS-OMS for mw-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Order Management System
 
 ## Integration Points
 
-This document outlines how HMS-OMS is integrated with mw_Health systems in Malawi.
+This document outlines how HMS-OMS is integrated with mw-health systems in Malawi.

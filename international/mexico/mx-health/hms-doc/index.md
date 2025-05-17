@@ -1,4 +1,4 @@
-# HMS-DOC for mx_Health
+# HMS-DOC for mx-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Documentation System
 
 ## Integration Points
 
-This document outlines how HMS-DOC is integrated with mx_Health systems in Mexico.
+This document outlines how HMS-DOC is integrated with mx-health systems in Mexico.

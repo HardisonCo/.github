@@ -1,4 +1,4 @@
-# sd_Health - Sudan Health Agency
+# sd-health - Sudan Health Agency
 
 ## Ministry of Health of Sudan
 

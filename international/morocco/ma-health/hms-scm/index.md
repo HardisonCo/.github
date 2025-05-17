@@ -1,4 +1,4 @@
-# HMS-SCM for ma_Health
+# HMS-SCM for ma-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Supply Chain Management
 
 ## Integration Points
 
-This document outlines how HMS-SCM is integrated with ma_Health systems in Morocco.
+This document outlines how HMS-SCM is integrated with ma-health systems in Morocco.

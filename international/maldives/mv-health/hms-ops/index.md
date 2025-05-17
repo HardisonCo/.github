@@ -1,4 +1,4 @@
-# HMS-OPS for mv_Health
+# HMS-OPS for mv-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Operations Management
 
 ## Integration Points
 
-This document outlines how HMS-OPS is integrated with mv_Health systems in Maldives.
+This document outlines how HMS-OPS is integrated with mv-health systems in Maldives.

@@ -1,4 +1,4 @@
-# HMS-EMR for hu_Health
+# HMS-EMR for hu-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Electronic Medical Records
 
 ## Integration Points
 
-This document outlines how HMS-EMR is integrated with hu_Health systems in Hungary.
+This document outlines how HMS-EMR is integrated with hu-health systems in Hungary.

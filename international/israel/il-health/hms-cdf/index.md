@@ -1,4 +1,4 @@
-# HMS-CDF for il_Health
+# HMS-CDF for il-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Collaborative Decision Framework
 
 ## Integration Points
 
-This document outlines how HMS-CDF is integrated with il_Health systems in Israel.
+This document outlines how HMS-CDF is integrated with il-health systems in Israel.

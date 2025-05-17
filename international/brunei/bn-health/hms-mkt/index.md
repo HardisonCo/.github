@@ -1,4 +1,4 @@
-# HMS-MKT for bn_Health
+# HMS-MKT for bn-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Market Analytics
 
 ## Integration Points
 
-This document outlines how HMS-MKT is integrated with bn_Health systems in Brunei.
+This document outlines how HMS-MKT is integrated with bn-health systems in Brunei.

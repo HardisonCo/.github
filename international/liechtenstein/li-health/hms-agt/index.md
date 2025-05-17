@@ -1,4 +1,4 @@
-# HMS-AGT for li_Health
+# HMS-AGT for li-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Agent Tooling
 
 ## Integration Points
 
-This document outlines how HMS-AGT is integrated with li_Health systems in Liechtenstein.
+This document outlines how HMS-AGT is integrated with li-health systems in Liechtenstein.

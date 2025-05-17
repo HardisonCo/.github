@@ -1,4 +1,4 @@
-# HMS-MFE for cy_Health
+# HMS-MFE for cy-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Micro Frontend Engine
 
 ## Integration Points
 
-This document outlines how HMS-MFE is integrated with cy_Health systems in Cyprus.
+This document outlines how HMS-MFE is integrated with cy-health systems in Cyprus.

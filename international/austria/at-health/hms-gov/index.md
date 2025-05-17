@@ -1,4 +1,4 @@
-# HMS-GOV for at_Health
+# HMS-GOV for at-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Governance Framework
 
 ## Integration Points
 
-This document outlines how HMS-GOV is integrated with at_Health systems in Austria.
+This document outlines how HMS-GOV is integrated with at-health systems in Austria.

@@ -2,7 +2,7 @@
 
 ## Agencies
 
-- [vn_Health](vn_Health/index.md) - Ministry of Health
+- [vn-health](vn-health/index.md) - Ministry of Health
 
 ## HMS Implementation Status
 

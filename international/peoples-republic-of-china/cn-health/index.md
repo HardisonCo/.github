@@ -1,4 +1,4 @@
-# cn_Health - People's Republic of China Health Agency
+# cn-health - People's Republic of China Health Agency
 
 ## National Health Commission of the People's Republic of China
 

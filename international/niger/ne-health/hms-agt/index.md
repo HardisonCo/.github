@@ -1,4 +1,4 @@
-# HMS-AGT for ne_Health
+# HMS-AGT for ne-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Agent Tooling
 
 ## Integration Points
 
-This document outlines how HMS-AGT is integrated with ne_Health systems in Niger.
+This document outlines how HMS-AGT is integrated with ne-health systems in Niger.

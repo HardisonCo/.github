@@ -1,4 +1,4 @@
-# HMS-ESR for mv_Health
+# HMS-ESR for mv-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Economic System Representation
 
 ## Integration Points
 
-This document outlines how HMS-ESR is integrated with mv_Health systems in Maldives.
+This document outlines how HMS-ESR is integrated with mv-health systems in Maldives.

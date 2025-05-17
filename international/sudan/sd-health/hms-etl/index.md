@@ -1,4 +1,4 @@
-# HMS-ETL for sd_Health
+# HMS-ETL for sd-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Extract, Transform, Load
 
 ## Integration Points
 
-This document outlines how HMS-ETL is integrated with sd_Health systems in Sudan.
+This document outlines how HMS-ETL is integrated with sd-health systems in Sudan.

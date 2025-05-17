@@ -1,4 +1,4 @@
-# HMS-ACT for fj_Health
+# HMS-ACT for fj-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Agent Collaboration Tools
 
 ## Integration Points
 
-This document outlines how HMS-ACT is integrated with fj_Health systems in Fiji.
+This document outlines how HMS-ACT is integrated with fj-health systems in Fiji.

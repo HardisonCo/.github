@@ -1,4 +1,4 @@
-# HMS-CDF for ss_Health
+# HMS-CDF for ss-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Collaborative Decision Framework
 
 ## Integration Points
 
-This document outlines how HMS-CDF is integrated with ss_Health systems in South Sudan.
+This document outlines how HMS-CDF is integrated with ss-health systems in South Sudan.

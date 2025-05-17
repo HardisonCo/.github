@@ -2,7 +2,7 @@
 
 ## Agencies
 
-- [jm_Health](jm_Health/index.md) - Ministry of Health and Wellness
+- [jm-health](jm-health/index.md) - Ministry of Health and Wellness
 
 ## HMS Implementation Status
 

@@ -1,4 +1,4 @@
-# HMS-NFO for lk_Health
+# HMS-NFO for lk-health
 
 ## Description
 
@@ -6,4 +6,4 @@ National Financial Organizations
 
 ## Integration Points
 
-This document outlines how HMS-NFO is integrated with lk_Health systems in Sri Lanka.
+This document outlines how HMS-NFO is integrated with lk-health systems in Sri Lanka.

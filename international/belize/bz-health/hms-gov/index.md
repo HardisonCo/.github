@@ -1,4 +1,4 @@
-# HMS-GOV for bz_Health
+# HMS-GOV for bz-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Governance Framework
 
 ## Integration Points
 
-This document outlines how HMS-GOV is integrated with bz_Health systems in Belize.
+This document outlines how HMS-GOV is integrated with bz-health systems in Belize.

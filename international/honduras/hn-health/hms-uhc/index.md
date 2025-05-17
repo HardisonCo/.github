@@ -1,4 +1,4 @@
-# HMS-UHC for hn_Health
+# HMS-UHC for hn-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Universal Healthcare Components
 
 ## Integration Points
 
-This document outlines how HMS-UHC is integrated with hn_Health systems in Honduras.
+This document outlines how HMS-UHC is integrated with hn-health systems in Honduras.

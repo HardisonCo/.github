@@ -1,4 +1,4 @@
-# HMS-EMR for dm_Health
+# HMS-EMR for dm-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Electronic Medical Records
 
 ## Integration Points
 
-This document outlines how HMS-EMR is integrated with dm_Health systems in Dominica.
+This document outlines how HMS-EMR is integrated with dm-health systems in Dominica.

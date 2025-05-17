@@ -1,4 +1,4 @@
-# HMS-DEV for il_Health
+# HMS-DEV for il-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Development Framework
 
 ## Integration Points
 
-This document outlines how HMS-DEV is integrated with il_Health systems in Israel.
+This document outlines how HMS-DEV is integrated with il-health systems in Israel.

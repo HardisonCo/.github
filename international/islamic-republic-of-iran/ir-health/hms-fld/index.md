@@ -1,4 +1,4 @@
-# HMS-FLD for ir_Health
+# HMS-FLD for ir-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Field Data Collection
 
 ## Integration Points
 
-This document outlines how HMS-FLD is integrated with ir_Health systems in Islamic Republic of Iran.
+This document outlines how HMS-FLD is integrated with ir-health systems in Islamic Republic of Iran.

@@ -1,4 +1,4 @@
-# HMS-OMS for ye_Health
+# HMS-OMS for ye-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Order Management System
 
 ## Integration Points
 
-This document outlines how HMS-OMS is integrated with ye_Health systems in Yemen.
+This document outlines how HMS-OMS is integrated with ye-health systems in Yemen.

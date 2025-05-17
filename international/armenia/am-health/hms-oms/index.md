@@ -1,4 +1,4 @@
-# HMS-OMS for am_Health
+# HMS-OMS for am-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Order Management System
 
 ## Integration Points
 
-This document outlines how HMS-OMS is integrated with am_Health systems in Armenia.
+This document outlines how HMS-OMS is integrated with am-health systems in Armenia.

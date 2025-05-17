@@ -1,4 +1,4 @@
-# tg_Health - Togo Health Agency
+# tg-health - Togo Health Agency
 
 ## Ministry of Health, Labour and the Social Action
 

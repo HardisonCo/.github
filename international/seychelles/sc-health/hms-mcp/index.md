@@ -1,4 +1,4 @@
-# HMS-MCP for sc_Health
+# HMS-MCP for sc-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Model-Compute-Publish
 
 ## Integration Points
 
-This document outlines how HMS-MCP is integrated with sc_Health systems in Seychelles.
+This document outlines how HMS-MCP is integrated with sc-health systems in Seychelles.

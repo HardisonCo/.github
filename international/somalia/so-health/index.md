@@ -1,4 +1,4 @@
-# so_Health - Somalia Health Agency
+# so-health - Somalia Health Agency
 
 ## Ministry of Health and Human Development
 

@@ -1,4 +1,4 @@
-# HMS-AGX for sn_Health
+# HMS-AGX for sn-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Advanced Graph Experience
 
 ## Integration Points
 
-This document outlines how HMS-AGX is integrated with sn_Health systems in Senegal.
+This document outlines how HMS-AGX is integrated with sn-health systems in Senegal.

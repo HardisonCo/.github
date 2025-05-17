@@ -1,4 +1,4 @@
-# HMS-ACH for by_Health
+# HMS-ACH for by-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Automated Clearing House
 
 ## Integration Points
 
-This document outlines how HMS-ACH is integrated with by_Health systems in Belarus.
+This document outlines how HMS-ACH is integrated with by-health systems in Belarus.

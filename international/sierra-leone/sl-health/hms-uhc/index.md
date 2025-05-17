@@ -1,4 +1,4 @@
-# HMS-UHC for sl_Health
+# HMS-UHC for sl-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Universal Healthcare Components
 
 ## Integration Points
 
-This document outlines how HMS-UHC is integrated with sl_Health systems in Sierra Leone.
+This document outlines how HMS-UHC is integrated with sl-health systems in Sierra Leone.

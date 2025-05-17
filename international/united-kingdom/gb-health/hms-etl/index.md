@@ -1,4 +1,4 @@
-# HMS-ETL for gb_Health
+# HMS-ETL for gb-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Extract, Transform, Load
 
 ## Integration Points
 
-This document outlines how HMS-ETL is integrated with gb_Health systems in United Kingdom.
+This document outlines how HMS-ETL is integrated with gb-health systems in United Kingdom.

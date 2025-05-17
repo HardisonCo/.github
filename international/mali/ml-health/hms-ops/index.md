@@ -1,4 +1,4 @@
-# HMS-OPS for ml_Health
+# HMS-OPS for ml-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Operations Management
 
 ## Integration Points
 
-This document outlines how HMS-OPS is integrated with ml_Health systems in Mali.
+This document outlines how HMS-OPS is integrated with ml-health systems in Mali.

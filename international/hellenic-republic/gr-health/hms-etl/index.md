@@ -1,4 +1,4 @@
-# HMS-ETL for gr_Health
+# HMS-ETL for gr-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Extract, Transform, Load
 
 ## Integration Points
 
-This document outlines how HMS-ETL is integrated with gr_Health systems in Hellenic Republic.
+This document outlines how HMS-ETL is integrated with gr-health systems in Hellenic Republic.

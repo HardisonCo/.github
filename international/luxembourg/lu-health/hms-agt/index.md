@@ -1,4 +1,4 @@
-# HMS-AGT for lu_Health
+# HMS-AGT for lu-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Agent Tooling
 
 ## Integration Points
 
-This document outlines how HMS-AGT is integrated with lu_Health systems in Luxembourg.
+This document outlines how HMS-AGT is integrated with lu-health systems in Luxembourg.

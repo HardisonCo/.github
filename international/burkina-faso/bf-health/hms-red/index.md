@@ -1,4 +1,4 @@
-# HMS-RED for bf_Health
+# HMS-RED for bf-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Reactive Data Engine
 
 ## Integration Points
 
-This document outlines how HMS-RED is integrated with bf_Health systems in Burkina Faso.
+This document outlines how HMS-RED is integrated with bf-health systems in Burkina Faso.

@@ -1,4 +1,4 @@
-# HMS-OPS for va_Health
+# HMS-OPS for va-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Operations Management
 
 ## Integration Points
 
-This document outlines how HMS-OPS is integrated with va_Health systems in Vatican City.
+This document outlines how HMS-OPS is integrated with va-health systems in Vatican City.

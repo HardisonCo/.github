@@ -1,4 +1,4 @@
-# HMS-SCM for ar_Health
+# HMS-SCM for ar-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Supply Chain Management
 
 ## Integration Points
 
-This document outlines how HMS-SCM is integrated with ar_Health systems in Argentina.
+This document outlines how HMS-SCM is integrated with ar-health systems in Argentina.

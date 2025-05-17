@@ -1,4 +1,4 @@
-# HMS-MKT for to_Health
+# HMS-MKT for to-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Market Analytics
 
 ## Integration Points
 
-This document outlines how HMS-MKT is integrated with to_Health systems in Tonga.
+This document outlines how HMS-MKT is integrated with to-health systems in Tonga.

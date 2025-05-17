@@ -1,4 +1,4 @@
-# HMS-EMR for ml_Health
+# HMS-EMR for ml-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Electronic Medical Records
 
 ## Integration Points
 
-This document outlines how HMS-EMR is integrated with ml_Health systems in Mali.
+This document outlines how HMS-EMR is integrated with ml-health systems in Mali.

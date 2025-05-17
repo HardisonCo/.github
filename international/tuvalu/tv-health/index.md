@@ -1,4 +1,4 @@
-# tv_Health - Tuvalu Health Agency
+# tv-health - Tuvalu Health Agency
 
 ## Ministry of Health
 

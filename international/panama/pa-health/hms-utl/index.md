@@ -1,4 +1,4 @@
-# HMS-UTL for pa_Health
+# HMS-UTL for pa-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Utilities
 
 ## Integration Points
 
-This document outlines how HMS-UTL is integrated with pa_Health systems in Panama.
+This document outlines how HMS-UTL is integrated with pa-health systems in Panama.

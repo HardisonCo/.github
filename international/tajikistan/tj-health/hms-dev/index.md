@@ -1,4 +1,4 @@
-# HMS-DEV for tj_Health
+# HMS-DEV for tj-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Development Framework
 
 ## Integration Points
 
-This document outlines how HMS-DEV is integrated with tj_Health systems in Tajikistan.
+This document outlines how HMS-DEV is integrated with tj-health systems in Tajikistan.

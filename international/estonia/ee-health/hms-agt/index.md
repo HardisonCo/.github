@@ -1,4 +1,4 @@
-# HMS-AGT for ee_Health
+# HMS-AGT for ee-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Agent Tooling
 
 ## Integration Points
 
-This document outlines how HMS-AGT is integrated with ee_Health systems in Estonia.
+This document outlines how HMS-AGT is integrated with ee-health systems in Estonia.

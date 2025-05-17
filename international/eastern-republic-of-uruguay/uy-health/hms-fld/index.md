@@ -1,4 +1,4 @@
-# HMS-FLD for uy_Health
+# HMS-FLD for uy-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Field Data Collection
 
 ## Integration Points
 
-This document outlines how HMS-FLD is integrated with uy_Health systems in Eastern Republic of Uruguay.
+This document outlines how HMS-FLD is integrated with uy-health systems in Eastern Republic of Uruguay.

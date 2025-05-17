@@ -1,4 +1,4 @@
-# HMS-SKL for kn_Health
+# HMS-SKL for kn-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Skills Management
 
 ## Integration Points
 
-This document outlines how HMS-SKL is integrated with kn_Health systems in Saint Kitts and Nevis.
+This document outlines how HMS-SKL is integrated with kn-health systems in Saint Kitts and Nevis.

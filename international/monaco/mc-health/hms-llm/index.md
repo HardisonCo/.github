@@ -1,4 +1,4 @@
-# HMS-LLM for mc_Health
+# HMS-LLM for mc-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Large Language Model Operations Platform
 
 ## Integration Points
 
-This document outlines how HMS-LLM is integrated with mc_Health systems in Monaco.
+This document outlines how HMS-LLM is integrated with mc-health systems in Monaco.

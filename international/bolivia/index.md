@@ -2,7 +2,7 @@
 
 ## Agencies
 
-- [bo_Health](bo_Health/index.md) - Ministerio de Salud Pública
+- [bo-health](bo-health/index.md) - Ministerio de Salud Pública
 
 ## HMS Implementation Status
 

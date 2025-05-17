@@ -1,4 +1,4 @@
-# HMS-ABC for pt_Health
+# HMS-ABC for pt-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Adaptive Business Capabilities
 
 ## Integration Points
 
-This document outlines how HMS-ABC is integrated with pt_Health systems in Portugal.
+This document outlines how HMS-ABC is integrated with pt-health systems in Portugal.

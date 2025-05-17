@@ -1,4 +1,4 @@
-# HMS-ETL for gw_Health
+# HMS-ETL for gw-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Extract, Transform, Load
 
 ## Integration Points
 
-This document outlines how HMS-ETL is integrated with gw_Health systems in Guinea-Bissau.
+This document outlines how HMS-ETL is integrated with gw-health systems in Guinea-Bissau.

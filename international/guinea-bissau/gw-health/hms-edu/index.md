@@ -1,4 +1,4 @@
-# HMS-EDU for gw_Health
+# HMS-EDU for gw-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Education System
 
 ## Integration Points
 
-This document outlines how HMS-EDU is integrated with gw_Health systems in Guinea-Bissau.
+This document outlines how HMS-EDU is integrated with gw-health systems in Guinea-Bissau.

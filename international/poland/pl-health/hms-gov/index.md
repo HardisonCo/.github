@@ -1,4 +1,4 @@
-# HMS-GOV for pl_Health
+# HMS-GOV for pl-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Governance Framework
 
 ## Integration Points
 
-This document outlines how HMS-GOV is integrated with pl_Health systems in Poland.
+This document outlines how HMS-GOV is integrated with pl-health systems in Poland.

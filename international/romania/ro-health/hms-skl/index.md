@@ -1,4 +1,4 @@
-# HMS-SKL for ro_Health
+# HMS-SKL for ro-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Skills Management
 
 ## Integration Points
 
-This document outlines how HMS-SKL is integrated with ro_Health systems in Romania.
+This document outlines how HMS-SKL is integrated with ro-health systems in Romania.

@@ -1,4 +1,4 @@
-# HMS-SME for ae_Health
+# HMS-SME for ae-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Subject Matter Expertise
 
 ## Integration Points
 
-This document outlines how HMS-SME is integrated with ae_Health systems in United Arab Emirates.
+This document outlines how HMS-SME is integrated with ae-health systems in United Arab Emirates.

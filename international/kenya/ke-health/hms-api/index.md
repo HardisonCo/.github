@@ -1,4 +1,4 @@
-# HMS-API for ke_Health
+# HMS-API for ke-health
 
 ## Description
 
@@ -6,4 +6,4 @@ API Services
 
 ## Integration Points
 
-This document outlines how HMS-API is integrated with ke_Health systems in Kenya.
+This document outlines how HMS-API is integrated with ke-health systems in Kenya.

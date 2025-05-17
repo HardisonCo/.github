@@ -1,4 +1,4 @@
-# HMS-A2A for co_Health
+# HMS-A2A for co-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Agent-to-Agent Communication System
 
 ## Integration Points
 
-This document outlines how HMS-A2A is integrated with co_Health systems in Colombia.
+This document outlines how HMS-A2A is integrated with co-health systems in Colombia.

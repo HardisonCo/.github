@@ -2,7 +2,7 @@
 
 ## Agencies
 
-- [pg_Health](pg_Health/index.md) - Department of Health
+- [pg-health](pg-health/index.md) - Department of Health
 
 ## HMS Implementation Status
 

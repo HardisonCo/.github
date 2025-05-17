@@ -1,4 +1,4 @@
-# HMS-SCM for gn_Health
+# HMS-SCM for gn-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Supply Chain Management
 
 ## Integration Points
 
-This document outlines how HMS-SCM is integrated with gn_Health systems in Guinea.
+This document outlines how HMS-SCM is integrated with gn-health systems in Guinea.

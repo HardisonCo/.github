@@ -1,4 +1,4 @@
-# HMS-ACH for mz_Health
+# HMS-ACH for mz-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Automated Clearing House
 
 ## Integration Points
 
-This document outlines how HMS-ACH is integrated with mz_Health systems in Mozambique.
+This document outlines how HMS-ACH is integrated with mz-health systems in Mozambique.

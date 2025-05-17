@@ -1,4 +1,4 @@
-# HMS-MKT for bb_Health
+# HMS-MKT for bb-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Market Analytics
 
 ## Integration Points
 
-This document outlines how HMS-MKT is integrated with bb_Health systems in Barbados.
+This document outlines how HMS-MKT is integrated with bb-health systems in Barbados.

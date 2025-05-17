@@ -1,4 +1,4 @@
-# HMS-EHR for zw_Health
+# HMS-EHR for zw-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Electronic Health Records
 
 ## Integration Points
 
-This document outlines how HMS-EHR is integrated with zw_Health systems in Zimbabwe.
+This document outlines how HMS-EHR is integrated with zw-health systems in Zimbabwe.

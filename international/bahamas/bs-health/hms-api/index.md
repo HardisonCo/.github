@@ -1,4 +1,4 @@
-# HMS-API for bs_Health
+# HMS-API for bs-health
 
 ## Description
 
@@ -6,4 +6,4 @@ API Services
 
 ## Integration Points
 
-This document outlines how HMS-API is integrated with bs_Health systems in Bahamas.
+This document outlines how HMS-API is integrated with bs-health systems in Bahamas.

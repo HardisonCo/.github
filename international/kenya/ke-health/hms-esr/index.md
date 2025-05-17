@@ -1,4 +1,4 @@
-# HMS-ESR for ke_Health
+# HMS-ESR for ke-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Economic System Representation
 
 ## Integration Points
 
-This document outlines how HMS-ESR is integrated with ke_Health systems in Kenya.
+This document outlines how HMS-ESR is integrated with ke-health systems in Kenya.

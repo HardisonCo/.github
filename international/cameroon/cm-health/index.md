@@ -1,4 +1,4 @@
-# cm_Health - Cameroon Health Agency
+# cm-health - Cameroon Health Agency
 
 ## Ministry of Public Health
 

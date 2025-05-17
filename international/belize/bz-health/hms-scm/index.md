@@ -1,4 +1,4 @@
-# HMS-SCM for bz_Health
+# HMS-SCM for bz-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Supply Chain Management
 
 ## Integration Points
 
-This document outlines how HMS-SCM is integrated with bz_Health systems in Belize.
+This document outlines how HMS-SCM is integrated with bz-health systems in Belize.

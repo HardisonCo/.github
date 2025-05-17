@@ -1,4 +1,4 @@
-# HMS-AGX for ru_Health
+# HMS-AGX for ru-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Advanced Graph Experience
 
 ## Integration Points
 
-This document outlines how HMS-AGX is integrated with ru_Health systems in Russian Federation.
+This document outlines how HMS-AGX is integrated with ru-health systems in Russian Federation.

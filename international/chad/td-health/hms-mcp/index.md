@@ -1,4 +1,4 @@
-# HMS-MCP for td_Health
+# HMS-MCP for td-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Model-Compute-Publish
 
 ## Integration Points
 
-This document outlines how HMS-MCP is integrated with td_Health systems in Chad.
+This document outlines how HMS-MCP is integrated with td-health systems in Chad.

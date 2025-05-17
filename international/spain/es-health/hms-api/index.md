@@ -1,4 +1,4 @@
-# HMS-API for es_Health
+# HMS-API for es-health
 
 ## Description
 
@@ -6,4 +6,4 @@ API Services
 
 ## Integration Points
 
-This document outlines how HMS-API is integrated with es_Health systems in Spain.
+This document outlines how HMS-API is integrated with es-health systems in Spain.

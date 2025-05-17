@@ -1,4 +1,4 @@
-# HMS-EDU for ao_Health
+# HMS-EDU for ao-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Education System
 
 ## Integration Points
 
-This document outlines how HMS-EDU is integrated with ao_Health systems in Angola.
+This document outlines how HMS-EDU is integrated with ao-health systems in Angola.

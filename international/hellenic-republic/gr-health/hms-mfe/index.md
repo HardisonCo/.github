@@ -1,4 +1,4 @@
-# HMS-MFE for gr_Health
+# HMS-MFE for gr-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Micro Frontend Engine
 
 ## Integration Points
 
-This document outlines how HMS-MFE is integrated with gr_Health systems in Hellenic Republic.
+This document outlines how HMS-MFE is integrated with gr-health systems in Hellenic Republic.

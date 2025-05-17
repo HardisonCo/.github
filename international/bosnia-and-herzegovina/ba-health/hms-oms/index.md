@@ -1,4 +1,4 @@
-# HMS-OMS for ba_Health
+# HMS-OMS for ba-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Order Management System
 
 ## Integration Points
 
-This document outlines how HMS-OMS is integrated with ba_Health systems in Bosnia and Herzegovina.
+This document outlines how HMS-OMS is integrated with ba-health systems in Bosnia and Herzegovina.

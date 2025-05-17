@@ -1,4 +1,4 @@
-# gb_Health - United Kingdom Health Agency
+# gb-health - United Kingdom Health Agency
 
 ## Department of Health and Social Care
 

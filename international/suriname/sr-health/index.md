@@ -1,4 +1,4 @@
-# sr_Health - Suriname Health Agency
+# sr-health - Suriname Health Agency
 
 ## Ministry of Health, Environment and Sport
 

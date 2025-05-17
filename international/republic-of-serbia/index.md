@@ -2,7 +2,7 @@
 
 ## Agencies
 
-- [rs_Health](rs_Health/index.md) - Ministry of Health of the Republic of Serbia
+- [rs-health](rs-health/index.md) - Ministry of Health of the Republic of Serbia
 
 ## HMS Implementation Status
 

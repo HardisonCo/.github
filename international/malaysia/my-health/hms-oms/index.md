@@ -1,4 +1,4 @@
-# HMS-OMS for my_Health
+# HMS-OMS for my-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Order Management System
 
 ## Integration Points
 
-This document outlines how HMS-OMS is integrated with my_Health systems in Malaysia.
+This document outlines how HMS-OMS is integrated with my-health systems in Malaysia.

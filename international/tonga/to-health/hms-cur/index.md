@@ -1,4 +1,4 @@
-# HMS-CUR for to_Health
+# HMS-CUR for to-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Currency Management
 
 ## Integration Points
 
-This document outlines how HMS-CUR is integrated with to_Health systems in Tonga.
+This document outlines how HMS-CUR is integrated with to-health systems in Tonga.

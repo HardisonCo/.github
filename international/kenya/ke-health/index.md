@@ -1,4 +1,4 @@
-# ke_Health - Kenya Health Agency
+# ke-health - Kenya Health Agency
 
 ## Ministry of Health
 

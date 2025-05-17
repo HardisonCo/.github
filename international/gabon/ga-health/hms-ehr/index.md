@@ -1,4 +1,4 @@
-# HMS-EHR for ga_Health
+# HMS-EHR for ga-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Electronic Health Records
 
 ## Integration Points
 
-This document outlines how HMS-EHR is integrated with ga_Health systems in Gabon.
+This document outlines how HMS-EHR is integrated with ga-health systems in Gabon.

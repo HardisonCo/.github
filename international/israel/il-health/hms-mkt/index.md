@@ -1,4 +1,4 @@
-# HMS-MKT for il_Health
+# HMS-MKT for il-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Market Analytics
 
 ## Integration Points
 
-This document outlines how HMS-MKT is integrated with il_Health systems in Israel.
+This document outlines how HMS-MKT is integrated with il-health systems in Israel.

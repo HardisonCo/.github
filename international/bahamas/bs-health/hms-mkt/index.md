@@ -1,4 +1,4 @@
-# HMS-MKT for bs_Health
+# HMS-MKT for bs-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Market Analytics
 
 ## Integration Points
 
-This document outlines how HMS-MKT is integrated with bs_Health systems in Bahamas.
+This document outlines how HMS-MKT is integrated with bs-health systems in Bahamas.

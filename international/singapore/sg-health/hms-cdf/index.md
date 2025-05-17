@@ -1,4 +1,4 @@
-# HMS-CDF for sg_Health
+# HMS-CDF for sg-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Collaborative Decision Framework
 
 ## Integration Points
 
-This document outlines how HMS-CDF is integrated with sg_Health systems in Singapore.
+This document outlines how HMS-CDF is integrated with sg-health systems in Singapore.

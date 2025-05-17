@@ -2,7 +2,7 @@
 
 ## Agencies
 
-- [cr_Health](cr_Health/index.md) - Ministerio de Salud de Costa Rica
+- [cr-health](cr-health/index.md) - Ministerio de Salud de Costa Rica
 
 ## HMS Implementation Status
 

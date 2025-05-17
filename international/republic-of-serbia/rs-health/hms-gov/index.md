@@ -1,4 +1,4 @@
-# HMS-GOV for rs_Health
+# HMS-GOV for rs-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Governance Framework
 
 ## Integration Points
 
-This document outlines how HMS-GOV is integrated with rs_Health systems in Republic of Serbia.
+This document outlines how HMS-GOV is integrated with rs-health systems in Republic of Serbia.

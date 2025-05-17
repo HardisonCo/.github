@@ -1,4 +1,4 @@
-# HMS-AGX for zm_Health
+# HMS-AGX for zm-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Advanced Graph Experience
 
 ## Integration Points
 
-This document outlines how HMS-AGX is integrated with zm_Health systems in Zambia.
+This document outlines how HMS-AGX is integrated with zm-health systems in Zambia.

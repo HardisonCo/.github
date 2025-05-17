@@ -1,4 +1,4 @@
-# HMS-DEV for cv_Health
+# HMS-DEV for cv-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Development Framework
 
 ## Integration Points
 
-This document outlines how HMS-DEV is integrated with cv_Health systems in Cape Verde.
+This document outlines how HMS-DEV is integrated with cv-health systems in Cape Verde.

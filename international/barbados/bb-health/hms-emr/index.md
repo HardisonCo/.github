@@ -1,4 +1,4 @@
-# HMS-EMR for bb_Health
+# HMS-EMR for bb-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Electronic Medical Records
 
 ## Integration Points
 
-This document outlines how HMS-EMR is integrated with bb_Health systems in Barbados.
+This document outlines how HMS-EMR is integrated with bb-health systems in Barbados.

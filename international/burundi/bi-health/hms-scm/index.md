@@ -1,4 +1,4 @@
-# HMS-SCM for bi_Health
+# HMS-SCM for bi-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Supply Chain Management
 
 ## Integration Points
 
-This document outlines how HMS-SCM is integrated with bi_Health systems in Burundi.
+This document outlines how HMS-SCM is integrated with bi-health systems in Burundi.

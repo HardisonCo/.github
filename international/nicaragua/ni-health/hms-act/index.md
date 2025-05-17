@@ -1,4 +1,4 @@
-# HMS-ACT for ni_Health
+# HMS-ACT for ni-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Agent Collaboration Tools
 
 ## Integration Points
 
-This document outlines how HMS-ACT is integrated with ni_Health systems in Nicaragua.
+This document outlines how HMS-ACT is integrated with ni-health systems in Nicaragua.

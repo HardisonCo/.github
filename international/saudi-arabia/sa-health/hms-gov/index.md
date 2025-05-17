@@ -1,4 +1,4 @@
-# HMS-GOV for sa_Health
+# HMS-GOV for sa-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Governance Framework
 
 ## Integration Points
 
-This document outlines how HMS-GOV is integrated with sa_Health systems in Saudi Arabia.
+This document outlines how HMS-GOV is integrated with sa-health systems in Saudi Arabia.

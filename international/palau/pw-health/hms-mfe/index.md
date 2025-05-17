@@ -1,4 +1,4 @@
-# HMS-MFE for pw_Health
+# HMS-MFE for pw-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Micro Frontend Engine
 
 ## Integration Points
 
-This document outlines how HMS-MFE is integrated with pw_Health systems in Palau.
+This document outlines how HMS-MFE is integrated with pw-health systems in Palau.

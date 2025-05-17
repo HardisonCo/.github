@@ -1,4 +1,4 @@
-# HMS-GOV for lt_Health
+# HMS-GOV for lt-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Governance Framework
 
 ## Integration Points
 
-This document outlines how HMS-GOV is integrated with lt_Health systems in Lithuania.
+This document outlines how HMS-GOV is integrated with lt-health systems in Lithuania.

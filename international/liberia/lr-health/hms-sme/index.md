@@ -1,4 +1,4 @@
-# HMS-SME for lr_Health
+# HMS-SME for lr-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Subject Matter Expertise
 
 ## Integration Points
 
-This document outlines how HMS-SME is integrated with lr_Health systems in Liberia.
+This document outlines how HMS-SME is integrated with lr-health systems in Liberia.

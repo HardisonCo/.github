@@ -1,4 +1,4 @@
-# HMS-RED for sd_Health
+# HMS-RED for sd-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Reactive Data Engine
 
 ## Integration Points
 
-This document outlines how HMS-RED is integrated with sd_Health systems in Sudan.
+This document outlines how HMS-RED is integrated with sd-health systems in Sudan.

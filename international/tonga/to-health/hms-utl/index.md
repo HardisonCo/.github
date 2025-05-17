@@ -1,4 +1,4 @@
-# HMS-UTL for to_Health
+# HMS-UTL for to-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Utilities
 
 ## Integration Points
 
-This document outlines how HMS-UTL is integrated with to_Health systems in Tonga.
+This document outlines how HMS-UTL is integrated with to-health systems in Tonga.

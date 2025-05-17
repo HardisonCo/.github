@@ -1,4 +1,4 @@
-# HMS-ESR for ma_Health
+# HMS-ESR for ma-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Economic System Representation
 
 ## Integration Points
 
-This document outlines how HMS-ESR is integrated with ma_Health systems in Morocco.
+This document outlines how HMS-ESR is integrated with ma-health systems in Morocco.

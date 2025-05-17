@@ -1,4 +1,4 @@
-# HMS-ACH for mh_Health
+# HMS-ACH for mh-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Automated Clearing House
 
 ## Integration Points
 
-This document outlines how HMS-ACH is integrated with mh_Health systems in Marshall Islands.
+This document outlines how HMS-ACH is integrated with mh-health systems in Marshall Islands.

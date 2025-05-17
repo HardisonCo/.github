@@ -1,4 +1,4 @@
-# pa_Health - Panama Health Agency
+# pa-health - Panama Health Agency
 
 ## Ministerio de Salud de Panamá
 

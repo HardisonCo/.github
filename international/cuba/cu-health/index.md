@@ -1,4 +1,4 @@
-# cu_Health - Cuba Health Agency
+# cu-health - Cuba Health Agency
 
 ## Ministerio de Salud Pública
 

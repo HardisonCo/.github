@@ -1,4 +1,4 @@
-# HMS-OMS for ni_Health
+# HMS-OMS for ni-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Order Management System
 
 ## Integration Points
 
-This document outlines how HMS-OMS is integrated with ni_Health systems in Nicaragua.
+This document outlines how HMS-OMS is integrated with ni-health systems in Nicaragua.

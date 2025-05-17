@@ -1,4 +1,4 @@
-# HMS-FLD for cm_Health
+# HMS-FLD for cm-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Field Data Collection
 
 ## Integration Points
 
-This document outlines how HMS-FLD is integrated with cm_Health systems in Cameroon.
+This document outlines how HMS-FLD is integrated with cm-health systems in Cameroon.

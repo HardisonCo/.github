@@ -1,4 +1,4 @@
-# HMS-CUR for sz_Health
+# HMS-CUR for sz-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Currency Management
 
 ## Integration Points
 
-This document outlines how HMS-CUR is integrated with sz_Health systems in Eswatini (Swaziland).
+This document outlines how HMS-CUR is integrated with sz-health systems in Eswatini (Swaziland).

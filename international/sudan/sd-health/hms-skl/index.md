@@ -1,4 +1,4 @@
-# HMS-SKL for sd_Health
+# HMS-SKL for sd-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Skills Management
 
 ## Integration Points
 
-This document outlines how HMS-SKL is integrated with sd_Health systems in Sudan.
+This document outlines how HMS-SKL is integrated with sd-health systems in Sudan.

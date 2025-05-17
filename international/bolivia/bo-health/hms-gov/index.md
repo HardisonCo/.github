@@ -1,4 +1,4 @@
-# HMS-GOV for bo_Health
+# HMS-GOV for bo-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Governance Framework
 
 ## Integration Points
 
-This document outlines how HMS-GOV is integrated with bo_Health systems in Bolivia.
+This document outlines how HMS-GOV is integrated with bo-health systems in Bolivia.

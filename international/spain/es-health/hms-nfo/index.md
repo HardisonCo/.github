@@ -1,4 +1,4 @@
-# HMS-NFO for es_Health
+# HMS-NFO for es-health
 
 ## Description
 
@@ -6,4 +6,4 @@ National Financial Organizations
 
 ## Integration Points
 
-This document outlines how HMS-NFO is integrated with es_Health systems in Spain.
+This document outlines how HMS-NFO is integrated with es-health systems in Spain.

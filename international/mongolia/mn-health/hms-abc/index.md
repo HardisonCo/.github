@@ -1,4 +1,4 @@
-# HMS-ABC for mn_Health
+# HMS-ABC for mn-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Adaptive Business Capabilities
 
 ## Integration Points
 
-This document outlines how HMS-ABC is integrated with mn_Health systems in Mongolia.
+This document outlines how HMS-ABC is integrated with mn-health systems in Mongolia.

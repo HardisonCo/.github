@@ -1,4 +1,4 @@
-# HMS-OMS for mc_Health
+# HMS-OMS for mc-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Order Management System
 
 ## Integration Points
 
-This document outlines how HMS-OMS is integrated with mc_Health systems in Monaco.
+This document outlines how HMS-OMS is integrated with mc-health systems in Monaco.

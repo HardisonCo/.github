@@ -1,4 +1,4 @@
-# HMS-DEV for iq_Health
+# HMS-DEV for iq-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Development Framework
 
 ## Integration Points
 
-This document outlines how HMS-DEV is integrated with iq_Health systems in Iraq.
+This document outlines how HMS-DEV is integrated with iq-health systems in Iraq.

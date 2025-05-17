@@ -1,4 +1,4 @@
-# HMS-GOV for tj_Health
+# HMS-GOV for tj-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Governance Framework
 
 ## Integration Points
 
-This document outlines how HMS-GOV is integrated with tj_Health systems in Tajikistan.
+This document outlines how HMS-GOV is integrated with tj-health systems in Tajikistan.

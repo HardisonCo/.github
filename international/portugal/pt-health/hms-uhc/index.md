@@ -1,4 +1,4 @@
-# HMS-UHC for pt_Health
+# HMS-UHC for pt-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Universal Healthcare Components
 
 ## Integration Points
 
-This document outlines how HMS-UHC is integrated with pt_Health systems in Portugal.
+This document outlines how HMS-UHC is integrated with pt-health systems in Portugal.

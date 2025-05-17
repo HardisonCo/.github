@@ -1,4 +1,4 @@
-# HMS-ESR for mw_Health
+# HMS-ESR for mw-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Economic System Representation
 
 ## Integration Points
 
-This document outlines how HMS-ESR is integrated with mw_Health systems in Malawi.
+This document outlines how HMS-ESR is integrated with mw-health systems in Malawi.

@@ -1,4 +1,4 @@
-# HMS-AGT for pa_Health
+# HMS-AGT for pa-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Agent Tooling
 
 ## Integration Points
 
-This document outlines how HMS-AGT is integrated with pa_Health systems in Panama.
+This document outlines how HMS-AGT is integrated with pa-health systems in Panama.

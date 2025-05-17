@@ -1,4 +1,4 @@
-# HMS-GOV for cg_Health
+# HMS-GOV for cg-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Governance Framework
 
 ## Integration Points
 
-This document outlines how HMS-GOV is integrated with cg_Health systems in Republic of the Congo.
+This document outlines how HMS-GOV is integrated with cg-health systems in Republic of the Congo.

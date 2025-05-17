@@ -1,4 +1,4 @@
-# HMS-ETL for bg_Health
+# HMS-ETL for bg-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Extract, Transform, Load
 
 ## Integration Points
 
-This document outlines how HMS-ETL is integrated with bg_Health systems in Bulgaria.
+This document outlines how HMS-ETL is integrated with bg-health systems in Bulgaria.

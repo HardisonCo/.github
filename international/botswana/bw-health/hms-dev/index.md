@@ -1,4 +1,4 @@
-# HMS-DEV for bw_Health
+# HMS-DEV for bw-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Development Framework
 
 ## Integration Points
 
-This document outlines how HMS-DEV is integrated with bw_Health systems in Botswana.
+This document outlines how HMS-DEV is integrated with bw-health systems in Botswana.

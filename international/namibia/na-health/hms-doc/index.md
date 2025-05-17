@@ -1,4 +1,4 @@
-# HMS-DOC for na_Health
+# HMS-DOC for na-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Documentation System
 
 ## Integration Points
 
-This document outlines how HMS-DOC is integrated with na_Health systems in Namibia.
+This document outlines how HMS-DOC is integrated with na-health systems in Namibia.

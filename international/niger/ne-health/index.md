@@ -1,4 +1,4 @@
-# ne_Health - Niger Health Agency
+# ne-health - Niger Health Agency
 
 ## Ministry of Health, Public Hygiene and Social Affairs
 

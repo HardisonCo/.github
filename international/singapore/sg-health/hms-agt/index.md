@@ -1,4 +1,4 @@
-# HMS-AGT for sg_Health
+# HMS-AGT for sg-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Agent Tooling
 
 ## Integration Points
 
-This document outlines how HMS-AGT is integrated with sg_Health systems in Singapore.
+This document outlines how HMS-AGT is integrated with sg-health systems in Singapore.

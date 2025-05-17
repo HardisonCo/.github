@@ -1,4 +1,4 @@
-# HMS-UHC for jm_Health
+# HMS-UHC for jm-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Universal Healthcare Components
 
 ## Integration Points
 
-This document outlines how HMS-UHC is integrated with jm_Health systems in Jamaica.
+This document outlines how HMS-UHC is integrated with jm-health systems in Jamaica.

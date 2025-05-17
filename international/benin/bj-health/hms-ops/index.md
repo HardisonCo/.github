@@ -1,4 +1,4 @@
-# HMS-OPS for bj_Health
+# HMS-OPS for bj-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Operations Management
 
 ## Integration Points
 
-This document outlines how HMS-OPS is integrated with bj_Health systems in Benin.
+This document outlines how HMS-OPS is integrated with bj-health systems in Benin.

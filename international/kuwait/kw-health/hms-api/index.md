@@ -1,4 +1,4 @@
-# HMS-API for kw_Health
+# HMS-API for kw-health
 
 ## Description
 
@@ -6,4 +6,4 @@ API Services
 
 ## Integration Points
 
-This document outlines how HMS-API is integrated with kw_Health systems in Kuwait.
+This document outlines how HMS-API is integrated with kw-health systems in Kuwait.

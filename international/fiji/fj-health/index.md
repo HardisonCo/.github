@@ -1,4 +1,4 @@
-# fj_Health - Fiji Health Agency
+# fj-health - Fiji Health Agency
 
 ## Ministry of Health and Medical Services
 

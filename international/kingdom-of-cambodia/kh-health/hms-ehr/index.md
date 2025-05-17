@@ -1,4 +1,4 @@
-# HMS-EHR for kh_Health
+# HMS-EHR for kh-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Electronic Health Records
 
 ## Integration Points
 
-This document outlines how HMS-EHR is integrated with kh_Health systems in Kingdom of Cambodia.
+This document outlines how HMS-EHR is integrated with kh-health systems in Kingdom of Cambodia.

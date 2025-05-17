@@ -1,4 +1,4 @@
-# HMS-API for mk_Health
+# HMS-API for mk-health
 
 ## Description
 
@@ -6,4 +6,4 @@ API Services
 
 ## Integration Points
 
-This document outlines how HMS-API is integrated with mk_Health systems in North Macedonia.
+This document outlines how HMS-API is integrated with mk-health systems in North Macedonia.

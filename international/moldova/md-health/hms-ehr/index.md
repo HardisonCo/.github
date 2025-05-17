@@ -1,4 +1,4 @@
-# HMS-EHR for md_Health
+# HMS-EHR for md-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Electronic Health Records
 
 ## Integration Points
 
-This document outlines how HMS-EHR is integrated with md_Health systems in Moldova.
+This document outlines how HMS-EHR is integrated with md-health systems in Moldova.

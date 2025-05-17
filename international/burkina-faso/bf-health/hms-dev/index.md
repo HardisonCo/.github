@@ -1,4 +1,4 @@
-# HMS-DEV for bf_Health
+# HMS-DEV for bf-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Development Framework
 
 ## Integration Points
 
-This document outlines how HMS-DEV is integrated with bf_Health systems in Burkina Faso.
+This document outlines how HMS-DEV is integrated with bf-health systems in Burkina Faso.

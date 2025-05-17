@@ -1,4 +1,4 @@
-# HMS-MFE for tj_Health
+# HMS-MFE for tj-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Micro Frontend Engine
 
 ## Integration Points
 
-This document outlines how HMS-MFE is integrated with tj_Health systems in Tajikistan.
+This document outlines how HMS-MFE is integrated with tj-health systems in Tajikistan.

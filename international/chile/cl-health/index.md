@@ -1,4 +1,4 @@
-# cl_Health - Chile Health Agency
+# cl-health - Chile Health Agency
 
 ## Ministerio de Salud de Chile
 

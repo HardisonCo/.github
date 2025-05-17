@@ -1,4 +1,4 @@
-# HMS-SYS for st_Health
+# HMS-SYS for st-health
 
 ## Description
 
@@ -6,4 +6,4 @@ System Core
 
 ## Integration Points
 
-This document outlines how HMS-SYS is integrated with st_Health systems in São Tomé and Príncipe.
+This document outlines how HMS-SYS is integrated with st-health systems in São Tomé and Príncipe.

@@ -1,4 +1,4 @@
-# HMS-EMR for mm_Health
+# HMS-EMR for mm-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Electronic Medical Records
 
 ## Integration Points
 
-This document outlines how HMS-EMR is integrated with mm_Health systems in Myanmar (Burma).
+This document outlines how HMS-EMR is integrated with mm-health systems in Myanmar (Burma).

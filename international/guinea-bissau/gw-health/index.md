@@ -1,4 +1,4 @@
-# gw_Health - Guinea-Bissau Health Agency
+# gw-health - Guinea-Bissau Health Agency
 
 ## Ministry of Health and Social Affairs
 

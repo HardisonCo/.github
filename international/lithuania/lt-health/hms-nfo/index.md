@@ -1,4 +1,4 @@
-# HMS-NFO for lt_Health
+# HMS-NFO for lt-health
 
 ## Description
 
@@ -6,4 +6,4 @@ National Financial Organizations
 
 ## Integration Points
 
-This document outlines how HMS-NFO is integrated with lt_Health systems in Lithuania.
+This document outlines how HMS-NFO is integrated with lt-health systems in Lithuania.

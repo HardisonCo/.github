@@ -1,4 +1,4 @@
-# HMS-AGX for th_Health
+# HMS-AGX for th-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Advanced Graph Experience
 
 ## Integration Points
 
-This document outlines how HMS-AGX is integrated with th_Health systems in Thailand.
+This document outlines how HMS-AGX is integrated with th-health systems in Thailand.

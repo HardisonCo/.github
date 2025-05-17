@@ -2,7 +2,7 @@
 
 ## Agencies
 
-- [pt_Health](pt_Health/index.md) - Ministry of Health
+- [pt-health](pt-health/index.md) - Ministry of Health
 
 ## HMS Implementation Status
 

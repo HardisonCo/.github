@@ -1,4 +1,4 @@
-# HMS-UTL for rs_Health
+# HMS-UTL for rs-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Utilities
 
 ## Integration Points
 
-This document outlines how HMS-UTL is integrated with rs_Health systems in Republic of Serbia.
+This document outlines how HMS-UTL is integrated with rs-health systems in Republic of Serbia.

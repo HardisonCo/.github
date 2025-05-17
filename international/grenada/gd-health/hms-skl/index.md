@@ -1,4 +1,4 @@
-# HMS-SKL for gd_Health
+# HMS-SKL for gd-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Skills Management
 
 ## Integration Points
 
-This document outlines how HMS-SKL is integrated with gd_Health systems in Grenada.
+This document outlines how HMS-SKL is integrated with gd-health systems in Grenada.

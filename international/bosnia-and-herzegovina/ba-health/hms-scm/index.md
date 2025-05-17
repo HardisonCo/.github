@@ -1,4 +1,4 @@
-# HMS-SCM for ba_Health
+# HMS-SCM for ba-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Supply Chain Management
 
 ## Integration Points
 
-This document outlines how HMS-SCM is integrated with ba_Health systems in Bosnia and Herzegovina.
+This document outlines how HMS-SCM is integrated with ba-health systems in Bosnia and Herzegovina.

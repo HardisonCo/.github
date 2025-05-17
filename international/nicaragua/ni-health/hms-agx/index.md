@@ -1,4 +1,4 @@
-# HMS-AGX for ni_Health
+# HMS-AGX for ni-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Advanced Graph Experience
 
 ## Integration Points
 
-This document outlines how HMS-AGX is integrated with ni_Health systems in Nicaragua.
+This document outlines how HMS-AGX is integrated with ni-health systems in Nicaragua.

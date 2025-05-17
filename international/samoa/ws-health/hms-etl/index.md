@@ -1,4 +1,4 @@
-# HMS-ETL for ws_Health
+# HMS-ETL for ws-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Extract, Transform, Load
 
 ## Integration Points
 
-This document outlines how HMS-ETL is integrated with ws_Health systems in Samoa.
+This document outlines how HMS-ETL is integrated with ws-health systems in Samoa.

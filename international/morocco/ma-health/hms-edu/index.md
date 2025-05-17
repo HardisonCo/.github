@@ -1,4 +1,4 @@
-# HMS-EDU for ma_Health
+# HMS-EDU for ma-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Education System
 
 ## Integration Points
 
-This document outlines how HMS-EDU is integrated with ma_Health systems in Morocco.
+This document outlines how HMS-EDU is integrated with ma-health systems in Morocco.

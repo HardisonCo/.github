@@ -1,4 +1,4 @@
-# HMS-UHC for rw_Health
+# HMS-UHC for rw-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Universal Healthcare Components
 
 ## Integration Points
 
-This document outlines how HMS-UHC is integrated with rw_Health systems in Rwanda.
+This document outlines how HMS-UHC is integrated with rw-health systems in Rwanda.

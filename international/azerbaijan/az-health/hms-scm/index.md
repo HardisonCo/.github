@@ -1,4 +1,4 @@
-# HMS-SCM for az_Health
+# HMS-SCM for az-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Supply Chain Management
 
 ## Integration Points
 
-This document outlines how HMS-SCM is integrated with az_Health systems in Azerbaijan.
+This document outlines how HMS-SCM is integrated with az-health systems in Azerbaijan.

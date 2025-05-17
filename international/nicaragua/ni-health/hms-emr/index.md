@@ -1,4 +1,4 @@
-# HMS-EMR for ni_Health
+# HMS-EMR for ni-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Electronic Medical Records
 
 ## Integration Points
 
-This document outlines how HMS-EMR is integrated with ni_Health systems in Nicaragua.
+This document outlines how HMS-EMR is integrated with ni-health systems in Nicaragua.

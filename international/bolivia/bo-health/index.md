@@ -1,4 +1,4 @@
-# bo_Health - Bolivia Health Agency
+# bo-health - Bolivia Health Agency
 
 ## Ministerio de Salud Pública
 

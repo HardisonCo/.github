@@ -1,4 +1,4 @@
-# HMS-ACT for hu_Health
+# HMS-ACT for hu-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Agent Collaboration Tools
 
 ## Integration Points
 
-This document outlines how HMS-ACT is integrated with hu_Health systems in Hungary.
+This document outlines how HMS-ACT is integrated with hu-health systems in Hungary.

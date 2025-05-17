@@ -1,4 +1,4 @@
-# HMS-UTL for km_Health
+# HMS-UTL for km-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Utilities
 
 ## Integration Points
 
-This document outlines how HMS-UTL is integrated with km_Health systems in Comoros.
+This document outlines how HMS-UTL is integrated with km-health systems in Comoros.

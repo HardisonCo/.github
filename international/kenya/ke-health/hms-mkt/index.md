@@ -1,4 +1,4 @@
-# HMS-MKT for ke_Health
+# HMS-MKT for ke-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Market Analytics
 
 ## Integration Points
 
-This document outlines how HMS-MKT is integrated with ke_Health systems in Kenya.
+This document outlines how HMS-MKT is integrated with ke-health systems in Kenya.

@@ -1,4 +1,4 @@
-# HMS-ESR for md_Health
+# HMS-ESR for md-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Economic System Representation
 
 ## Integration Points
 
-This document outlines how HMS-ESR is integrated with md_Health systems in Moldova.
+This document outlines how HMS-ESR is integrated with md-health systems in Moldova.

@@ -1,4 +1,4 @@
-# mm_Health - Myanmar (Burma) Health Agency
+# mm-health - Myanmar (Burma) Health Agency
 
 ## Ministry of Health and Sports
 

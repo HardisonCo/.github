@@ -1,4 +1,4 @@
-# HMS-SCM for sz_Health
+# HMS-SCM for sz-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Supply Chain Management
 
 ## Integration Points
 
-This document outlines how HMS-SCM is integrated with sz_Health systems in Eswatini (Swaziland).
+This document outlines how HMS-SCM is integrated with sz-health systems in Eswatini (Swaziland).

@@ -2,7 +2,7 @@
 
 ## Agencies
 
-- [ne_Health](ne_Health/index.md) - Ministry of Health, Public Hygiene and Social Affairs
+- [ne-health](ne-health/index.md) - Ministry of Health, Public Hygiene and Social Affairs
 
 ## HMS Implementation Status
 

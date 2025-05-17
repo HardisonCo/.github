@@ -2,7 +2,7 @@
 
 ## Agencies
 
-- [cl_Health](cl_Health/index.md) - Ministerio de Salud de Chile
+- [cl-health](cl-health/index.md) - Ministerio de Salud de Chile
 
 ## HMS Implementation Status
 

@@ -1,4 +1,4 @@
-# HMS-CDF for jm_Health
+# HMS-CDF for jm-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Collaborative Decision Framework
 
 ## Integration Points
 
-This document outlines how HMS-CDF is integrated with jm_Health systems in Jamaica.
+This document outlines how HMS-CDF is integrated with jm-health systems in Jamaica.

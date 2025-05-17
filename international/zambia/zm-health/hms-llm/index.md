@@ -1,4 +1,4 @@
-# HMS-LLM for zm_Health
+# HMS-LLM for zm-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Large Language Model Operations Platform
 
 ## Integration Points
 
-This document outlines how HMS-LLM is integrated with zm_Health systems in Zambia.
+This document outlines how HMS-LLM is integrated with zm-health systems in Zambia.

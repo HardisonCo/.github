@@ -1,4 +1,4 @@
-# HMS-ESQ for rw_Health
+# HMS-ESQ for rw-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Enhanced System Quality
 
 ## Integration Points
 
-This document outlines how HMS-ESQ is integrated with rw_Health systems in Rwanda.
+This document outlines how HMS-ESQ is integrated with rw-health systems in Rwanda.

@@ -1,4 +1,4 @@
-# HMS-NFO for by_Health
+# HMS-NFO for by-health
 
 ## Description
 
@@ -6,4 +6,4 @@ National Financial Organizations
 
 ## Integration Points
 
-This document outlines how HMS-NFO is integrated with by_Health systems in Belarus.
+This document outlines how HMS-NFO is integrated with by-health systems in Belarus.

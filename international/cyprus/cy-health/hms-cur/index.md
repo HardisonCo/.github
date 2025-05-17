@@ -1,4 +1,4 @@
-# HMS-CUR for cy_Health
+# HMS-CUR for cy-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Currency Management
 
 ## Integration Points
 
-This document outlines how HMS-CUR is integrated with cy_Health systems in Cyprus.
+This document outlines how HMS-CUR is integrated with cy-health systems in Cyprus.

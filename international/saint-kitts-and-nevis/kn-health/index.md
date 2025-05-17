@@ -1,4 +1,4 @@
-# kn_Health - Saint Kitts and Nevis Health Agency
+# kn-health - Saint Kitts and Nevis Health Agency
 
 ## Ministry of Health and Social Services
 

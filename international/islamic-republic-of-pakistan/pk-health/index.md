@@ -1,4 +1,4 @@
-# pk_Health - Islamic Republic of Pakistan Health Agency
+# pk-health - Islamic Republic of Pakistan Health Agency
 
 ## Ministry of National Health Services, Regulations & Coordination
 

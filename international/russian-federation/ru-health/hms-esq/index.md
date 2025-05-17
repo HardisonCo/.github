@@ -1,4 +1,4 @@
-# HMS-ESQ for ru_Health
+# HMS-ESQ for ru-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Enhanced System Quality
 
 ## Integration Points
 
-This document outlines how HMS-ESQ is integrated with ru_Health systems in Russian Federation.
+This document outlines how HMS-ESQ is integrated with ru-health systems in Russian Federation.

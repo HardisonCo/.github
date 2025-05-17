@@ -1,4 +1,4 @@
-# HMS-RED for bb_Health
+# HMS-RED for bb-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Reactive Data Engine
 
 ## Integration Points
 
-This document outlines how HMS-RED is integrated with bb_Health systems in Barbados.
+This document outlines how HMS-RED is integrated with bb-health systems in Barbados.

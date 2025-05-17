@@ -1,4 +1,4 @@
-# HMS-DEV for fj_Health
+# HMS-DEV for fj-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Development Framework
 
 ## Integration Points
 
-This document outlines how HMS-DEV is integrated with fj_Health systems in Fiji.
+This document outlines how HMS-DEV is integrated with fj-health systems in Fiji.

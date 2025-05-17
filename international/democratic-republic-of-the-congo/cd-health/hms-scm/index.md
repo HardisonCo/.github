@@ -1,4 +1,4 @@
-# HMS-SCM for cd_Health
+# HMS-SCM for cd-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Supply Chain Management
 
 ## Integration Points
 
-This document outlines how HMS-SCM is integrated with cd_Health systems in Democratic Republic of the Congo.
+This document outlines how HMS-SCM is integrated with cd-health systems in Democratic Republic of the Congo.

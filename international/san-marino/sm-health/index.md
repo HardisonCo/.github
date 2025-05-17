@@ -1,4 +1,4 @@
-# sm_Health - San Marino Health Agency
+# sm-health - San Marino Health Agency
 
 ## Ministero della Salute
 

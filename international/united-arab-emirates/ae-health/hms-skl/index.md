@@ -1,4 +1,4 @@
-# HMS-SKL for ae_Health
+# HMS-SKL for ae-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Skills Management
 
 ## Integration Points
 
-This document outlines how HMS-SKL is integrated with ae_Health systems in United Arab Emirates.
+This document outlines how HMS-SKL is integrated with ae-health systems in United Arab Emirates.

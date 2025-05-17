@@ -1,4 +1,4 @@
-# HMS-CDF for ml_Health
+# HMS-CDF for ml-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Collaborative Decision Framework
 
 ## Integration Points
 
-This document outlines how HMS-CDF is integrated with ml_Health systems in Mali.
+This document outlines how HMS-CDF is integrated with ml-health systems in Mali.

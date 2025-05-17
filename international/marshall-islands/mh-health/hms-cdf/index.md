@@ -1,4 +1,4 @@
-# HMS-CDF for mh_Health
+# HMS-CDF for mh-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Collaborative Decision Framework
 
 ## Integration Points
 
-This document outlines how HMS-CDF is integrated with mh_Health systems in Marshall Islands.
+This document outlines how HMS-CDF is integrated with mh-health systems in Marshall Islands.

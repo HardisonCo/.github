@@ -1,4 +1,4 @@
-# HMS-FLD for ba_Health
+# HMS-FLD for ba-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Field Data Collection
 
 ## Integration Points
 
-This document outlines how HMS-FLD is integrated with ba_Health systems in Bosnia and Herzegovina.
+This document outlines how HMS-FLD is integrated with ba-health systems in Bosnia and Herzegovina.

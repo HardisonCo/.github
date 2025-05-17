@@ -1,4 +1,4 @@
-# HMS-DOC for tl_Health
+# HMS-DOC for tl-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Documentation System
 
 ## Integration Points
 
-This document outlines how HMS-DOC is integrated with tl_Health systems in Timor-Leste.
+This document outlines how HMS-DOC is integrated with tl-health systems in Timor-Leste.

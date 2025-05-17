@@ -1,4 +1,4 @@
-# HMS-UTL for pk_Health
+# HMS-UTL for pk-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Utilities
 
 ## Integration Points
 
-This document outlines how HMS-UTL is integrated with pk_Health systems in Islamic Republic of Pakistan.
+This document outlines how HMS-UTL is integrated with pk-health systems in Islamic Republic of Pakistan.

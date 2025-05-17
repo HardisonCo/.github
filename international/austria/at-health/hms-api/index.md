@@ -1,4 +1,4 @@
-# HMS-API for at_Health
+# HMS-API for at-health
 
 ## Description
 
@@ -6,4 +6,4 @@ API Services
 
 ## Integration Points
 
-This document outlines how HMS-API is integrated with at_Health systems in Austria.
+This document outlines how HMS-API is integrated with at-health systems in Austria.

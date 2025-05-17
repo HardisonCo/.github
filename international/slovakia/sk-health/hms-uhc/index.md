@@ -1,4 +1,4 @@
-# HMS-UHC for sk_Health
+# HMS-UHC for sk-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Universal Healthcare Components
 
 ## Integration Points
 
-This document outlines how HMS-UHC is integrated with sk_Health systems in Slovakia.
+This document outlines how HMS-UHC is integrated with sk-health systems in Slovakia.

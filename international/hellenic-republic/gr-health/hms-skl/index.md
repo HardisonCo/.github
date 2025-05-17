@@ -1,4 +1,4 @@
-# HMS-SKL for gr_Health
+# HMS-SKL for gr-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Skills Management
 
 ## Integration Points
 
-This document outlines how HMS-SKL is integrated with gr_Health systems in Hellenic Republic.
+This document outlines how HMS-SKL is integrated with gr-health systems in Hellenic Republic.

@@ -1,4 +1,4 @@
-# HMS-OMS for sy_Health
+# HMS-OMS for sy-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Order Management System
 
 ## Integration Points
 
-This document outlines how HMS-OMS is integrated with sy_Health systems in Syrian Arab Republic.
+This document outlines how HMS-OMS is integrated with sy-health systems in Syrian Arab Republic.

@@ -1,4 +1,4 @@
-# HMS-GOV for lc_Health
+# HMS-GOV for lc-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Governance Framework
 
 ## Integration Points
 
-This document outlines how HMS-GOV is integrated with lc_Health systems in Saint Lucia.
+This document outlines how HMS-GOV is integrated with lc-health systems in Saint Lucia.

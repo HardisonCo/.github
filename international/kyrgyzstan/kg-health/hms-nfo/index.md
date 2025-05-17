@@ -1,4 +1,4 @@
-# HMS-NFO for kg_Health
+# HMS-NFO for kg-health
 
 ## Description
 
@@ -6,4 +6,4 @@ National Financial Organizations
 
 ## Integration Points
 
-This document outlines how HMS-NFO is integrated with kg_Health systems in Kyrgyzstan.
+This document outlines how HMS-NFO is integrated with kg-health systems in Kyrgyzstan.

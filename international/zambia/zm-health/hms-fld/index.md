@@ -1,4 +1,4 @@
-# HMS-FLD for zm_Health
+# HMS-FLD for zm-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Field Data Collection
 
 ## Integration Points
 
-This document outlines how HMS-FLD is integrated with zm_Health systems in Zambia.
+This document outlines how HMS-FLD is integrated with zm-health systems in Zambia.

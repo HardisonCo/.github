@@ -1,4 +1,4 @@
-# HMS-DEV for bj_Health
+# HMS-DEV for bj-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Development Framework
 
 ## Integration Points
 
-This document outlines how HMS-DEV is integrated with bj_Health systems in Benin.
+This document outlines how HMS-DEV is integrated with bj-health systems in Benin.

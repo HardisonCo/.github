@@ -2,7 +2,7 @@
 
 ## Agencies
 
-- [li_Health](li_Health/index.md) - State Secretariat for Social Security
+- [li-health](li-health/index.md) - State Secretariat for Social Security
 
 ## HMS Implementation Status
 

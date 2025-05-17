@@ -1,4 +1,4 @@
-# HMS-SKL for zm_Health
+# HMS-SKL for zm-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Skills Management
 
 ## Integration Points
 
-This document outlines how HMS-SKL is integrated with zm_Health systems in Zambia.
+This document outlines how HMS-SKL is integrated with zm-health systems in Zambia.

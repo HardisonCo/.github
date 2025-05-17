@@ -1,4 +1,4 @@
-# HMS-ACH for sa_Health
+# HMS-ACH for sa-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Automated Clearing House
 
 ## Integration Points
 
-This document outlines how HMS-ACH is integrated with sa_Health systems in Saudi Arabia.
+This document outlines how HMS-ACH is integrated with sa-health systems in Saudi Arabia.

@@ -1,4 +1,4 @@
-# HMS-A2A for dj_Health
+# HMS-A2A for dj-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Agent-to-Agent Communication System
 
 ## Integration Points
 
-This document outlines how HMS-A2A is integrated with dj_Health systems in Djibouti.
+This document outlines how HMS-A2A is integrated with dj-health systems in Djibouti.

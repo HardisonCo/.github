@@ -1,4 +1,4 @@
-# HMS-API for gh_Health
+# HMS-API for gh-health
 
 ## Description
 
@@ -6,4 +6,4 @@ API Services
 
 ## Integration Points
 
-This document outlines how HMS-API is integrated with gh_Health systems in Ghana.
+This document outlines how HMS-API is integrated with gh-health systems in Ghana.

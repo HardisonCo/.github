@@ -1,4 +1,4 @@
-# HMS-OMS for dj_Health
+# HMS-OMS for dj-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Order Management System
 
 ## Integration Points
 
-This document outlines how HMS-OMS is integrated with dj_Health systems in Djibouti.
+This document outlines how HMS-OMS is integrated with dj-health systems in Djibouti.

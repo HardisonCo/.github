@@ -1,4 +1,4 @@
-# HMS-ESR for sd_Health
+# HMS-ESR for sd-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Economic System Representation
 
 ## Integration Points
 
-This document outlines how HMS-ESR is integrated with sd_Health systems in Sudan.
+This document outlines how HMS-ESR is integrated with sd-health systems in Sudan.

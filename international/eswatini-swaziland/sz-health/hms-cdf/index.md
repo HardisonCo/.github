@@ -1,4 +1,4 @@
-# HMS-CDF for sz_Health
+# HMS-CDF for sz-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Collaborative Decision Framework
 
 ## Integration Points
 
-This document outlines how HMS-CDF is integrated with sz_Health systems in Eswatini (Swaziland).
+This document outlines how HMS-CDF is integrated with sz-health systems in Eswatini (Swaziland).

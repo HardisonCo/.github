@@ -1,4 +1,4 @@
-# HMS-DOC for ee_Health
+# HMS-DOC for ee-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Documentation System
 
 ## Integration Points
 
-This document outlines how HMS-DOC is integrated with ee_Health systems in Estonia.
+This document outlines how HMS-DOC is integrated with ee-health systems in Estonia.

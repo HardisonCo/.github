@@ -1,4 +1,4 @@
-# HMS-ESQ for th_Health
+# HMS-ESQ for th-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Enhanced System Quality
 
 ## Integration Points
 
-This document outlines how HMS-ESQ is integrated with th_Health systems in Thailand.
+This document outlines how HMS-ESQ is integrated with th-health systems in Thailand.

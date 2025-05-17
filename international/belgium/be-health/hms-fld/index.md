@@ -1,4 +1,4 @@
-# HMS-FLD for be_Health
+# HMS-FLD for be-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Field Data Collection
 
 ## Integration Points
 
-This document outlines how HMS-FLD is integrated with be_Health systems in Belgium.
+This document outlines how HMS-FLD is integrated with be-health systems in Belgium.

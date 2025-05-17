@@ -1,4 +1,4 @@
-# HMS-EMR for fi_Health
+# HMS-EMR for fi-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Electronic Medical Records
 
 ## Integration Points
 
-This document outlines how HMS-EMR is integrated with fi_Health systems in Finland.
+This document outlines how HMS-EMR is integrated with fi-health systems in Finland.

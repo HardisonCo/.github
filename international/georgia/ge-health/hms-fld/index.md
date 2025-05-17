@@ -1,4 +1,4 @@
-# HMS-FLD for ge_Health
+# HMS-FLD for ge-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Field Data Collection
 
 ## Integration Points
 
-This document outlines how HMS-FLD is integrated with ge_Health systems in Georgia.
+This document outlines how HMS-FLD is integrated with ge-health systems in Georgia.

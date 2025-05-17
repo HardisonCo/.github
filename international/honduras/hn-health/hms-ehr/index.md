@@ -1,4 +1,4 @@
-# HMS-EHR for hn_Health
+# HMS-EHR for hn-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Electronic Health Records
 
 ## Integration Points
 
-This document outlines how HMS-EHR is integrated with hn_Health systems in Honduras.
+This document outlines how HMS-EHR is integrated with hn-health systems in Honduras.

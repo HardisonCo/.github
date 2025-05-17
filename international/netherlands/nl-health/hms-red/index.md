@@ -1,4 +1,4 @@
-# HMS-RED for nl_Health
+# HMS-RED for nl-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Reactive Data Engine
 
 ## Integration Points
 
-This document outlines how HMS-RED is integrated with nl_Health systems in Netherlands.
+This document outlines how HMS-RED is integrated with nl-health systems in Netherlands.

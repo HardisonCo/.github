@@ -1,4 +1,4 @@
-# HMS-SKL for li_Health
+# HMS-SKL for li-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Skills Management
 
 ## Integration Points
 
-This document outlines how HMS-SKL is integrated with li_Health systems in Liechtenstein.
+This document outlines how HMS-SKL is integrated with li-health systems in Liechtenstein.

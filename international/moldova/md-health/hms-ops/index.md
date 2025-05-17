@@ -1,4 +1,4 @@
-# HMS-OPS for md_Health
+# HMS-OPS for md-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Operations Management
 
 ## Integration Points
 
-This document outlines how HMS-OPS is integrated with md_Health systems in Moldova.
+This document outlines how HMS-OPS is integrated with md-health systems in Moldova.

@@ -1,4 +1,4 @@
-# HMS-CDF for nl_Health
+# HMS-CDF for nl-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Collaborative Decision Framework
 
 ## Integration Points
 
-This document outlines how HMS-CDF is integrated with nl_Health systems in Netherlands.
+This document outlines how HMS-CDF is integrated with nl-health systems in Netherlands.

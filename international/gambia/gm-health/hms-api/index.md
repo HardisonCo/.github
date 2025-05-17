@@ -1,4 +1,4 @@
-# HMS-API for gm_Health
+# HMS-API for gm-health
 
 ## Description
 
@@ -6,4 +6,4 @@ API Services
 
 ## Integration Points
 
-This document outlines how HMS-API is integrated with gm_Health systems in Gambia.
+This document outlines how HMS-API is integrated with gm-health systems in Gambia.

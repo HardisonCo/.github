@@ -1,4 +1,4 @@
-# sg_Health - Singapore Health Agency
+# sg-health - Singapore Health Agency
 
 ## Ministry of Health
 

@@ -1,4 +1,4 @@
-# HMS-OMS for ca_Health
+# HMS-OMS for ca-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Order Management System
 
 ## Integration Points
 
-This document outlines how HMS-OMS is integrated with ca_Health systems in Canada.
+This document outlines how HMS-OMS is integrated with ca-health systems in Canada.

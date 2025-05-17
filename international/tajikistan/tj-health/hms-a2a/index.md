@@ -1,4 +1,4 @@
-# HMS-A2A for tj_Health
+# HMS-A2A for tj-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Agent-to-Agent Communication System
 
 ## Integration Points
 
-This document outlines how HMS-A2A is integrated with tj_Health systems in Tajikistan.
+This document outlines how HMS-A2A is integrated with tj-health systems in Tajikistan.

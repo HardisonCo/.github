@@ -1,4 +1,4 @@
-# HMS-OPS for mc_Health
+# HMS-OPS for mc-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Operations Management
 
 ## Integration Points
 
-This document outlines how HMS-OPS is integrated with mc_Health systems in Monaco.
+This document outlines how HMS-OPS is integrated with mc-health systems in Monaco.

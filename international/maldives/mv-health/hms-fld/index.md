@@ -1,4 +1,4 @@
-# HMS-FLD for mv_Health
+# HMS-FLD for mv-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Field Data Collection
 
 ## Integration Points
 
-This document outlines how HMS-FLD is integrated with mv_Health systems in Maldives.
+This document outlines how HMS-FLD is integrated with mv-health systems in Maldives.

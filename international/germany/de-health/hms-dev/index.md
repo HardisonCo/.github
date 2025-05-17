@@ -1,4 +1,4 @@
-# HMS-DEV for de_Health
+# HMS-DEV for de-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Development Framework
 
 ## Integration Points
 
-This document outlines how HMS-DEV is integrated with de_Health systems in Germany.
+This document outlines how HMS-DEV is integrated with de-health systems in Germany.

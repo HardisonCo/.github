@@ -1,4 +1,4 @@
-# HMS-SCM for tw_Health
+# HMS-SCM for tw-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Supply Chain Management
 
 ## Integration Points
 
-This document outlines how HMS-SCM is integrated with tw_Health systems in Taiwan.
+This document outlines how HMS-SCM is integrated with tw-health systems in Taiwan.

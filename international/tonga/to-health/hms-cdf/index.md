@@ -1,4 +1,4 @@
-# HMS-CDF for to_Health
+# HMS-CDF for to-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Collaborative Decision Framework
 
 ## Integration Points
 
-This document outlines how HMS-CDF is integrated with to_Health systems in Tonga.
+This document outlines how HMS-CDF is integrated with to-health systems in Tonga.

@@ -2,7 +2,7 @@
 
 ## Agencies
 
-- [gm_Health](gm_Health/index.md) - Ministry of Health and Social Welfare
+- [gm-health](gm-health/index.md) - Ministry of Health and Social Welfare
 
 ## HMS Implementation Status
 

@@ -1,4 +1,4 @@
-# HMS-OMS for mx_Health
+# HMS-OMS for mx-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Order Management System
 
 ## Integration Points
 
-This document outlines how HMS-OMS is integrated with mx_Health systems in Mexico.
+This document outlines how HMS-OMS is integrated with mx-health systems in Mexico.

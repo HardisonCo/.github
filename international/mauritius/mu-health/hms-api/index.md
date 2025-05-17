@@ -1,4 +1,4 @@
-# HMS-API for mu_Health
+# HMS-API for mu-health
 
 ## Description
 
@@ -6,4 +6,4 @@ API Services
 
 ## Integration Points
 
-This document outlines how HMS-API is integrated with mu_Health systems in Mauritius.
+This document outlines how HMS-API is integrated with mu-health systems in Mauritius.

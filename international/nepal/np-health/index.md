@@ -1,4 +1,4 @@
-# np_Health - Nepal Health Agency
+# np-health - Nepal Health Agency
 
 ## Ministry of Health and Population
 

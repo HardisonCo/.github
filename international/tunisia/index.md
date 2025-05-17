@@ -2,7 +2,7 @@
 
 ## Agencies
 
-- [tn_Health](tn_Health/index.md) - Ministry of Health, Women, Families and Children
+- [tn-health](tn-health/index.md) - Ministry of Health, Women, Families and Children
 
 ## HMS Implementation Status
 

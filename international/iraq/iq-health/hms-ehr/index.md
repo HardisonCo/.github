@@ -1,4 +1,4 @@
-# HMS-EHR for iq_Health
+# HMS-EHR for iq-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Electronic Health Records
 
 ## Integration Points
 
-This document outlines how HMS-EHR is integrated with iq_Health systems in Iraq.
+This document outlines how HMS-EHR is integrated with iq-health systems in Iraq.

@@ -1,4 +1,4 @@
-# tt_Health - Trinidad and Tobago Health Agency
+# tt-health - Trinidad and Tobago Health Agency
 
 ## Ministry of Health
 

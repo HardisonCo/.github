@@ -1,4 +1,4 @@
-# HMS-MCP for sz_Health
+# HMS-MCP for sz-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Model-Compute-Publish
 
 ## Integration Points
 
-This document outlines how HMS-MCP is integrated with sz_Health systems in Eswatini (Swaziland).
+This document outlines how HMS-MCP is integrated with sz-health systems in Eswatini (Swaziland).

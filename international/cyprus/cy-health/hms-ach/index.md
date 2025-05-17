@@ -1,4 +1,4 @@
-# HMS-ACH for cy_Health
+# HMS-ACH for cy-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Automated Clearing House
 
 ## Integration Points
 
-This document outlines how HMS-ACH is integrated with cy_Health systems in Cyprus.
+This document outlines how HMS-ACH is integrated with cy-health systems in Cyprus.

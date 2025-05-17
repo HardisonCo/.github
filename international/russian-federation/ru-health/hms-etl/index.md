@@ -1,4 +1,4 @@
-# HMS-ETL for ru_Health
+# HMS-ETL for ru-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Extract, Transform, Load
 
 ## Integration Points
 
-This document outlines how HMS-ETL is integrated with ru_Health systems in Russian Federation.
+This document outlines how HMS-ETL is integrated with ru-health systems in Russian Federation.

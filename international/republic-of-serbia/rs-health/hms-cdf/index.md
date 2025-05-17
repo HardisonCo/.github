@@ -1,4 +1,4 @@
-# HMS-CDF for rs_Health
+# HMS-CDF for rs-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Collaborative Decision Framework
 
 ## Integration Points
 
-This document outlines how HMS-CDF is integrated with rs_Health systems in Republic of Serbia.
+This document outlines how HMS-CDF is integrated with rs-health systems in Republic of Serbia.

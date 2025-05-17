@@ -1,4 +1,4 @@
-# HMS-SYS for kw_Health
+# HMS-SYS for kw-health
 
 ## Description
 
@@ -6,4 +6,4 @@ System Core
 
 ## Integration Points
 
-This document outlines how HMS-SYS is integrated with kw_Health systems in Kuwait.
+This document outlines how HMS-SYS is integrated with kw-health systems in Kuwait.

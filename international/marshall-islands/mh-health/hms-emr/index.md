@@ -1,4 +1,4 @@
-# HMS-EMR for mh_Health
+# HMS-EMR for mh-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Electronic Medical Records
 
 ## Integration Points
 
-This document outlines how HMS-EMR is integrated with mh_Health systems in Marshall Islands.
+This document outlines how HMS-EMR is integrated with mh-health systems in Marshall Islands.

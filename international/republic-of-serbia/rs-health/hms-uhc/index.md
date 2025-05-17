@@ -1,4 +1,4 @@
-# HMS-UHC for rs_Health
+# HMS-UHC for rs-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Universal Healthcare Components
 
 ## Integration Points
 
-This document outlines how HMS-UHC is integrated with rs_Health systems in Republic of Serbia.
+This document outlines how HMS-UHC is integrated with rs-health systems in Republic of Serbia.

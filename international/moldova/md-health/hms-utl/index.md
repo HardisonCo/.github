@@ -1,4 +1,4 @@
-# HMS-UTL for md_Health
+# HMS-UTL for md-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Utilities
 
 ## Integration Points
 
-This document outlines how HMS-UTL is integrated with md_Health systems in Moldova.
+This document outlines how HMS-UTL is integrated with md-health systems in Moldova.

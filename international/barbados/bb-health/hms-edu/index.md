@@ -1,4 +1,4 @@
-# HMS-EDU for bb_Health
+# HMS-EDU for bb-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Education System
 
 ## Integration Points
 
-This document outlines how HMS-EDU is integrated with bb_Health systems in Barbados.
+This document outlines how HMS-EDU is integrated with bb-health systems in Barbados.

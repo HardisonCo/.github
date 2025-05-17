@@ -1,4 +1,4 @@
-# HMS-EMR for pa_Health
+# HMS-EMR for pa-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Electronic Medical Records
 
 ## Integration Points
 
-This document outlines how HMS-EMR is integrated with pa_Health systems in Panama.
+This document outlines how HMS-EMR is integrated with pa-health systems in Panama.

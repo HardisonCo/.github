@@ -1,4 +1,4 @@
-# HMS-SYS for pl_Health
+# HMS-SYS for pl-health
 
 ## Description
 
@@ -6,4 +6,4 @@ System Core
 
 ## Integration Points
 
-This document outlines how HMS-SYS is integrated with pl_Health systems in Poland.
+This document outlines how HMS-SYS is integrated with pl-health systems in Poland.

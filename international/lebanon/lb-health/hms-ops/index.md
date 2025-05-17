@@ -1,4 +1,4 @@
-# HMS-OPS for lb_Health
+# HMS-OPS for lb-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Operations Management
 
 ## Integration Points
 
-This document outlines how HMS-OPS is integrated with lb_Health systems in Lebanon.
+This document outlines how HMS-OPS is integrated with lb-health systems in Lebanon.

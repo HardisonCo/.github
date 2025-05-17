@@ -1,4 +1,4 @@
-# HMS-SKL for ls_Health
+# HMS-SKL for ls-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Skills Management
 
 ## Integration Points
 
-This document outlines how HMS-SKL is integrated with ls_Health systems in Lesotho.
+This document outlines how HMS-SKL is integrated with ls-health systems in Lesotho.

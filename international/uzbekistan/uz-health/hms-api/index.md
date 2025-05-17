@@ -1,4 +1,4 @@
-# HMS-API for uz_Health
+# HMS-API for uz-health
 
 ## Description
 
@@ -6,4 +6,4 @@ API Services
 
 ## Integration Points
 
-This document outlines how HMS-API is integrated with uz_Health systems in Uzbekistan.
+This document outlines how HMS-API is integrated with uz-health systems in Uzbekistan.

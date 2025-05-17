@@ -1,4 +1,4 @@
-# HMS-ESR for ag_Health
+# HMS-ESR for ag-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Economic System Representation
 
 ## Integration Points
 
-This document outlines how HMS-ESR is integrated with ag_Health systems in Antigua and Barbuda.
+This document outlines how HMS-ESR is integrated with ag-health systems in Antigua and Barbuda.

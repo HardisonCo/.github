@@ -1,4 +1,4 @@
-# HMS-GOV for gw_Health
+# HMS-GOV for gw-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Governance Framework
 
 ## Integration Points
 
-This document outlines how HMS-GOV is integrated with gw_Health systems in Guinea-Bissau.
+This document outlines how HMS-GOV is integrated with gw-health systems in Guinea-Bissau.

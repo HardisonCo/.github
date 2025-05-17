@@ -2,7 +2,7 @@
 
 ## Agencies
 
-- [co_Health](co_Health/index.md) - Ministerio de Salud y Protección Social
+- [co-health](co-health/index.md) - Ministerio de Salud y Protección Social
 
 ## HMS Implementation Status
 

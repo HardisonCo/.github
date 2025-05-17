@@ -1,4 +1,4 @@
-# HMS-SYS for ch_Health
+# HMS-SYS for ch-health
 
 ## Description
 
@@ -6,4 +6,4 @@ System Core
 
 ## Integration Points
 
-This document outlines how HMS-SYS is integrated with ch_Health systems in Switzerland.
+This document outlines how HMS-SYS is integrated with ch-health systems in Switzerland.

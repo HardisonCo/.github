@@ -1,4 +1,4 @@
-# HMS-CDF for sk_Health
+# HMS-CDF for sk-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Collaborative Decision Framework
 
 ## Integration Points
 
-This document outlines how HMS-CDF is integrated with sk_Health systems in Slovakia.
+This document outlines how HMS-CDF is integrated with sk-health systems in Slovakia.

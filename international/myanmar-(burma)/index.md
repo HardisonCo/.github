@@ -2,7 +2,7 @@
 
 ## Agencies
 
-- [mm_Health](mm_Health/index.md) - Ministry of Health and Sports
+- [mm-health](mm-health/index.md) - Ministry of Health and Sports
 
 ## HMS Implementation Status
 

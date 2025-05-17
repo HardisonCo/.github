@@ -1,4 +1,4 @@
-# HMS-ETL for sn_Health
+# HMS-ETL for sn-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Extract, Transform, Load
 
 ## Integration Points
 
-This document outlines how HMS-ETL is integrated with sn_Health systems in Senegal.
+This document outlines how HMS-ETL is integrated with sn-health systems in Senegal.

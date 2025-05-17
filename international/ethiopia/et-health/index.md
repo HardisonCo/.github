@@ -1,4 +1,4 @@
-# et_Health - Ethiopia Health Agency
+# et-health - Ethiopia Health Agency
 
 ## Ministry of Health
 

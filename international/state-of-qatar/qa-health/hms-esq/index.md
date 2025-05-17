@@ -1,4 +1,4 @@
-# HMS-ESQ for qa_Health
+# HMS-ESQ for qa-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Enhanced System Quality
 
 ## Integration Points
 
-This document outlines how HMS-ESQ is integrated with qa_Health systems in State of Qatar.
+This document outlines how HMS-ESQ is integrated with qa-health systems in State of Qatar.

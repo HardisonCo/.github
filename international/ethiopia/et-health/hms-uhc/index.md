@@ -1,4 +1,4 @@
-# HMS-UHC for et_Health
+# HMS-UHC for et-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Universal Healthcare Components
 
 ## Integration Points
 
-This document outlines how HMS-UHC is integrated with et_Health systems in Ethiopia.
+This document outlines how HMS-UHC is integrated with et-health systems in Ethiopia.

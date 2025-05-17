@@ -1,4 +1,4 @@
-# HMS-SYS for bi_Health
+# HMS-SYS for bi-health
 
 ## Description
 
@@ -6,4 +6,4 @@ System Core
 
 ## Integration Points
 
-This document outlines how HMS-SYS is integrated with bi_Health systems in Burundi.
+This document outlines how HMS-SYS is integrated with bi-health systems in Burundi.

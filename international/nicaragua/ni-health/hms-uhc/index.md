@@ -1,4 +1,4 @@
-# HMS-UHC for ni_Health
+# HMS-UHC for ni-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Universal Healthcare Components
 
 ## Integration Points
 
-This document outlines how HMS-UHC is integrated with ni_Health systems in Nicaragua.
+This document outlines how HMS-UHC is integrated with ni-health systems in Nicaragua.

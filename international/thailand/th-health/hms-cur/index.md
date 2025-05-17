@@ -1,4 +1,4 @@
-# HMS-CUR for th_Health
+# HMS-CUR for th-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Currency Management
 
 ## Integration Points
 
-This document outlines how HMS-CUR is integrated with th_Health systems in Thailand.
+This document outlines how HMS-CUR is integrated with th-health systems in Thailand.

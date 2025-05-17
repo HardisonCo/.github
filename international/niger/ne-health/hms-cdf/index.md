@@ -1,4 +1,4 @@
-# HMS-CDF for ne_Health
+# HMS-CDF for ne-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Collaborative Decision Framework
 
 ## Integration Points
 
-This document outlines how HMS-CDF is integrated with ne_Health systems in Niger.
+This document outlines how HMS-CDF is integrated with ne-health systems in Niger.

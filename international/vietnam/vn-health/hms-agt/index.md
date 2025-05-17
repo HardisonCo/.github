@@ -1,4 +1,4 @@
-# HMS-AGT for vn_Health
+# HMS-AGT for vn-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Agent Tooling
 
 ## Integration Points
 
-This document outlines how HMS-AGT is integrated with vn_Health systems in Vietnam.
+This document outlines how HMS-AGT is integrated with vn-health systems in Vietnam.

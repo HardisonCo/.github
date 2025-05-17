@@ -1,4 +1,4 @@
-# HMS-DOC for st_Health
+# HMS-DOC for st-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Documentation System
 
 ## Integration Points
 
-This document outlines how HMS-DOC is integrated with st_Health systems in São Tomé and Príncipe.
+This document outlines how HMS-DOC is integrated with st-health systems in São Tomé and Príncipe.

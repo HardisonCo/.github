@@ -1,4 +1,4 @@
-# HMS-MFE for cz_Health
+# HMS-MFE for cz-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Micro Frontend Engine
 
 ## Integration Points
 
-This document outlines how HMS-MFE is integrated with cz_Health systems in Czech Republic.
+This document outlines how HMS-MFE is integrated with cz-health systems in Czech Republic.

@@ -1,4 +1,4 @@
-# HMS-ESQ for bn_Health
+# HMS-ESQ for bn-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Enhanced System Quality
 
 ## Integration Points
 
-This document outlines how HMS-ESQ is integrated with bn_Health systems in Brunei.
+This document outlines how HMS-ESQ is integrated with bn-health systems in Brunei.

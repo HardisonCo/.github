@@ -1,4 +1,4 @@
-# HMS-OPS for bt_Health
+# HMS-OPS for bt-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Operations Management
 
 ## Integration Points
 
-This document outlines how HMS-OPS is integrated with bt_Health systems in Bhutan.
+This document outlines how HMS-OPS is integrated with bt-health systems in Bhutan.

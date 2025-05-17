@@ -1,4 +1,4 @@
-# HMS-ESQ for rs_Health
+# HMS-ESQ for rs-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Enhanced System Quality
 
 ## Integration Points
 
-This document outlines how HMS-ESQ is integrated with rs_Health systems in Republic of Serbia.
+This document outlines how HMS-ESQ is integrated with rs-health systems in Republic of Serbia.

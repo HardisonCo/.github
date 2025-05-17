@@ -1,4 +1,4 @@
-# HMS-A2A for cm_Health
+# HMS-A2A for cm-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Agent-to-Agent Communication System
 
 ## Integration Points
 
-This document outlines how HMS-A2A is integrated with cm_Health systems in Cameroon.
+This document outlines how HMS-A2A is integrated with cm-health systems in Cameroon.

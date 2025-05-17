@@ -2,7 +2,7 @@
 
 ## Agencies
 
-- [gb_Health](gb_Health/index.md) - Department of Health and Social Care
+- [gb-health](gb-health/index.md) - Department of Health and Social Care
 
 ## HMS Implementation Status
 

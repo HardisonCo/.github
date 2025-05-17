@@ -1,4 +1,4 @@
-# HMS-EHR for sb_Health
+# HMS-EHR for sb-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Electronic Health Records
 
 ## Integration Points
 
-This document outlines how HMS-EHR is integrated with sb_Health systems in Solomon Islands.
+This document outlines how HMS-EHR is integrated with sb-health systems in Solomon Islands.

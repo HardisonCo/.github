@@ -1,4 +1,4 @@
-# HMS-OMS for et_Health
+# HMS-OMS for et-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Order Management System
 
 ## Integration Points
 
-This document outlines how HMS-OMS is integrated with et_Health systems in Ethiopia.
+This document outlines how HMS-OMS is integrated with et-health systems in Ethiopia.

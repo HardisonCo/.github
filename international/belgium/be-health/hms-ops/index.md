@@ -1,4 +1,4 @@
-# HMS-OPS for be_Health
+# HMS-OPS for be-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Operations Management
 
 ## Integration Points
 
-This document outlines how HMS-OPS is integrated with be_Health systems in Belgium.
+This document outlines how HMS-OPS is integrated with be-health systems in Belgium.

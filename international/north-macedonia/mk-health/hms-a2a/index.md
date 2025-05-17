@@ -1,4 +1,4 @@
-# HMS-A2A for mk_Health
+# HMS-A2A for mk-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Agent-to-Agent Communication System
 
 ## Integration Points
 
-This document outlines how HMS-A2A is integrated with mk_Health systems in North Macedonia.
+This document outlines how HMS-A2A is integrated with mk-health systems in North Macedonia.

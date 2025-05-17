@@ -1,4 +1,4 @@
-# HMS-SKL for la_Health
+# HMS-SKL for la-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Skills Management
 
 ## Integration Points
 
-This document outlines how HMS-SKL is integrated with la_Health systems in Lao People's Democratic Republic.
+This document outlines how HMS-SKL is integrated with la-health systems in Lao People's Democratic Republic.

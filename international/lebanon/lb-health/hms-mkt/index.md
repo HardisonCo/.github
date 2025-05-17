@@ -1,4 +1,4 @@
-# HMS-MKT for lb_Health
+# HMS-MKT for lb-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Market Analytics
 
 ## Integration Points
 
-This document outlines how HMS-MKT is integrated with lb_Health systems in Lebanon.
+This document outlines how HMS-MKT is integrated with lb-health systems in Lebanon.

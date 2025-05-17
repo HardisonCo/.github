@@ -1,4 +1,4 @@
-# HMS-OMS for by_Health
+# HMS-OMS for by-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Order Management System
 
 ## Integration Points
 
-This document outlines how HMS-OMS is integrated with by_Health systems in Belarus.
+This document outlines how HMS-OMS is integrated with by-health systems in Belarus.

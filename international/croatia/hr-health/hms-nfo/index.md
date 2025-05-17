@@ -1,4 +1,4 @@
-# HMS-NFO for hr_Health
+# HMS-NFO for hr-health
 
 ## Description
 
@@ -6,4 +6,4 @@ National Financial Organizations
 
 ## Integration Points
 
-This document outlines how HMS-NFO is integrated with hr_Health systems in Croatia.
+This document outlines how HMS-NFO is integrated with hr-health systems in Croatia.

@@ -1,4 +1,4 @@
-# HMS-OPS for sz_Health
+# HMS-OPS for sz-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Operations Management
 
 ## Integration Points
 
-This document outlines how HMS-OPS is integrated with sz_Health systems in Eswatini (Swaziland).
+This document outlines how HMS-OPS is integrated with sz-health systems in Eswatini (Swaziland).

@@ -1,4 +1,4 @@
-# HMS-MKT for ch_Health
+# HMS-MKT for ch-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Market Analytics
 
 ## Integration Points
 
-This document outlines how HMS-MKT is integrated with ch_Health systems in Switzerland.
+This document outlines how HMS-MKT is integrated with ch-health systems in Switzerland.

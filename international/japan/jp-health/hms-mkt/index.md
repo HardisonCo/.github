@@ -1,4 +1,4 @@
-# HMS-MKT for jp_Health
+# HMS-MKT for jp-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Market Analytics
 
 ## Integration Points
 
-This document outlines how HMS-MKT is integrated with jp_Health systems in Japan.
+This document outlines how HMS-MKT is integrated with jp-health systems in Japan.

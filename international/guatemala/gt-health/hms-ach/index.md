@@ -1,4 +1,4 @@
-# HMS-ACH for gt_Health
+# HMS-ACH for gt-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Automated Clearing House
 
 ## Integration Points
 
-This document outlines how HMS-ACH is integrated with gt_Health systems in Guatemala.
+This document outlines how HMS-ACH is integrated with gt-health systems in Guatemala.

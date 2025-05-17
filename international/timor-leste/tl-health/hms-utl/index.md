@@ -1,4 +1,4 @@
-# HMS-UTL for tl_Health
+# HMS-UTL for tl-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Utilities
 
 ## Integration Points
 
-This document outlines how HMS-UTL is integrated with tl_Health systems in Timor-Leste.
+This document outlines how HMS-UTL is integrated with tl-health systems in Timor-Leste.

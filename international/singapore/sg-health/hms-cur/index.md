@@ -1,4 +1,4 @@
-# HMS-CUR for sg_Health
+# HMS-CUR for sg-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Currency Management
 
 ## Integration Points
 
-This document outlines how HMS-CUR is integrated with sg_Health systems in Singapore.
+This document outlines how HMS-CUR is integrated with sg-health systems in Singapore.

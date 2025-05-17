@@ -1,4 +1,4 @@
-# HMS-A2A for al_Health
+# HMS-A2A for al-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Agent-to-Agent Communication System
 
 ## Integration Points
 
-This document outlines how HMS-A2A is integrated with al_Health systems in Albania.
+This document outlines how HMS-A2A is integrated with al-health systems in Albania.

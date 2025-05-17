@@ -1,4 +1,4 @@
-# HMS-ACH for pl_Health
+# HMS-ACH for pl-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Automated Clearing House
 
 ## Integration Points
 
-This document outlines how HMS-ACH is integrated with pl_Health systems in Poland.
+This document outlines how HMS-ACH is integrated with pl-health systems in Poland.

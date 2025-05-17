@@ -2,7 +2,7 @@
 
 ## Agencies
 
-- [by_Health](by_Health/index.md) - Ministry of Health of the Republic of Belarus
+- [by-health](by-health/index.md) - Ministry of Health of the Republic of Belarus
 
 ## HMS Implementation Status
 

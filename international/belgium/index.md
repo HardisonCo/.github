@@ -2,7 +2,7 @@
 
 ## Agencies
 
-- [be_Health](be_Health/index.md) - Federal Public Service (FPS) Health, Food Chain Safety and Environment
+- [be-health](be-health/index.md) - Federal Public Service (FPS) Health, Food Chain Safety and Environment
 
 ## HMS Implementation Status
 

@@ -1,4 +1,4 @@
-# HMS-OMS for ls_Health
+# HMS-OMS for ls-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Order Management System
 
 ## Integration Points
 
-This document outlines how HMS-OMS is integrated with ls_Health systems in Lesotho.
+This document outlines how HMS-OMS is integrated with ls-health systems in Lesotho.

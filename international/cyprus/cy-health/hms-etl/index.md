@@ -1,4 +1,4 @@
-# HMS-ETL for cy_Health
+# HMS-ETL for cy-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Extract, Transform, Load
 
 ## Integration Points
 
-This document outlines how HMS-ETL is integrated with cy_Health systems in Cyprus.
+This document outlines how HMS-ETL is integrated with cy-health systems in Cyprus.

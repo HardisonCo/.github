@@ -1,4 +1,4 @@
-# HMS-FLD for is_Health
+# HMS-FLD for is-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Field Data Collection
 
 ## Integration Points
 
-This document outlines how HMS-FLD is integrated with is_Health systems in Iceland.
+This document outlines how HMS-FLD is integrated with is-health systems in Iceland.

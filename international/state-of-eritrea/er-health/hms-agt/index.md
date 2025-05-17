@@ -1,4 +1,4 @@
-# HMS-AGT for er_Health
+# HMS-AGT for er-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Agent Tooling
 
 ## Integration Points
 
-This document outlines how HMS-AGT is integrated with er_Health systems in State of Eritrea.
+This document outlines how HMS-AGT is integrated with er-health systems in State of Eritrea.

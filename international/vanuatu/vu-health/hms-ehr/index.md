@@ -1,4 +1,4 @@
-# HMS-EHR for vu_Health
+# HMS-EHR for vu-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Electronic Health Records
 
 ## Integration Points
 
-This document outlines how HMS-EHR is integrated with vu_Health systems in Vanuatu.
+This document outlines how HMS-EHR is integrated with vu-health systems in Vanuatu.

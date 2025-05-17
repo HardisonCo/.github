@@ -1,4 +1,4 @@
-# HMS-UTL for ar_Health
+# HMS-UTL for ar-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Utilities
 
 ## Integration Points
 
-This document outlines how HMS-UTL is integrated with ar_Health systems in Argentina.
+This document outlines how HMS-UTL is integrated with ar-health systems in Argentina.

@@ -1,4 +1,4 @@
-# HMS-ESQ for ee_Health
+# HMS-ESQ for ee-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Enhanced System Quality
 
 ## Integration Points
 
-This document outlines how HMS-ESQ is integrated with ee_Health systems in Estonia.
+This document outlines how HMS-ESQ is integrated with ee-health systems in Estonia.

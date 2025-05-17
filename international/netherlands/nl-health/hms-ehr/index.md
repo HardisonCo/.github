@@ -1,4 +1,4 @@
-# HMS-EHR for nl_Health
+# HMS-EHR for nl-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Electronic Health Records
 
 ## Integration Points
 
-This document outlines how HMS-EHR is integrated with nl_Health systems in Netherlands.
+This document outlines how HMS-EHR is integrated with nl-health systems in Netherlands.

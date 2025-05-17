@@ -1,4 +1,4 @@
-# HMS-MFE for sr_Health
+# HMS-MFE for sr-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Micro Frontend Engine
 
 ## Integration Points
 
-This document outlines how HMS-MFE is integrated with sr_Health systems in Suriname.
+This document outlines how HMS-MFE is integrated with sr-health systems in Suriname.

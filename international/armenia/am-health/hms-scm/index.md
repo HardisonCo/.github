@@ -1,4 +1,4 @@
-# HMS-SCM for am_Health
+# HMS-SCM for am-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Supply Chain Management
 
 ## Integration Points
 
-This document outlines how HMS-SCM is integrated with am_Health systems in Armenia.
+This document outlines how HMS-SCM is integrated with am-health systems in Armenia.

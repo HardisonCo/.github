@@ -1,4 +1,4 @@
-# HMS-ACT for ml_Health
+# HMS-ACT for ml-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Agent Collaboration Tools
 
 ## Integration Points
 
-This document outlines how HMS-ACT is integrated with ml_Health systems in Mali.
+This document outlines how HMS-ACT is integrated with ml-health systems in Mali.

@@ -2,7 +2,7 @@
 
 ## Agencies
 
-- [vu_Health](vu_Health/index.md) - Ministry of Health and Social Services
+- [vu-health](vu-health/index.md) - Ministry of Health and Social Services
 
 ## HMS Implementation Status
 

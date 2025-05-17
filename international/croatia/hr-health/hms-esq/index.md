@@ -1,4 +1,4 @@
-# HMS-ESQ for hr_Health
+# HMS-ESQ for hr-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Enhanced System Quality
 
 ## Integration Points
 
-This document outlines how HMS-ESQ is integrated with hr_Health systems in Croatia.
+This document outlines how HMS-ESQ is integrated with hr-health systems in Croatia.

@@ -1,4 +1,4 @@
-# HMS-AGX for hn_Health
+# HMS-AGX for hn-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Advanced Graph Experience
 
 ## Integration Points
 
-This document outlines how HMS-AGX is integrated with hn_Health systems in Honduras.
+This document outlines how HMS-AGX is integrated with hn-health systems in Honduras.

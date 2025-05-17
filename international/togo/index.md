@@ -2,7 +2,7 @@
 
 ## Agencies
 
-- [tg_Health](tg_Health/index.md) - Ministry of Health, Labour and the Social Action
+- [tg-health](tg-health/index.md) - Ministry of Health, Labour and the Social Action
 
 ## HMS Implementation Status
 

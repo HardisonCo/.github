@@ -1,4 +1,4 @@
-# HMS-MFE for pl_Health
+# HMS-MFE for pl-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Micro Frontend Engine
 
 ## Integration Points
 
-This document outlines how HMS-MFE is integrated with pl_Health systems in Poland.
+This document outlines how HMS-MFE is integrated with pl-health systems in Poland.

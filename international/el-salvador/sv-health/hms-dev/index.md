@@ -1,4 +1,4 @@
-# HMS-DEV for sv_Health
+# HMS-DEV for sv-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Development Framework
 
 ## Integration Points
 
-This document outlines how HMS-DEV is integrated with sv_Health systems in El Salvador.
+This document outlines how HMS-DEV is integrated with sv-health systems in El Salvador.

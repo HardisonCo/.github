@@ -1,4 +1,4 @@
-# HMS-EDU for nl_Health
+# HMS-EDU for nl-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Education System
 
 ## Integration Points
 
-This document outlines how HMS-EDU is integrated with nl_Health systems in Netherlands.
+This document outlines how HMS-EDU is integrated with nl-health systems in Netherlands.

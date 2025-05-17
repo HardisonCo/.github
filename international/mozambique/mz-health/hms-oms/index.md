@@ -1,4 +1,4 @@
-# HMS-OMS for mz_Health
+# HMS-OMS for mz-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Order Management System
 
 ## Integration Points
 
-This document outlines how HMS-OMS is integrated with mz_Health systems in Mozambique.
+This document outlines how HMS-OMS is integrated with mz-health systems in Mozambique.

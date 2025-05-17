@@ -1,4 +1,4 @@
-# HMS-UHC for co_Health
+# HMS-UHC for co-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Universal Healthcare Components
 
 ## Integration Points
 
-This document outlines how HMS-UHC is integrated with co_Health systems in Colombia.
+This document outlines how HMS-UHC is integrated with co-health systems in Colombia.

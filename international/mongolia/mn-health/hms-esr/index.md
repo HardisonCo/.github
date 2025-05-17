@@ -1,4 +1,4 @@
-# HMS-ESR for mn_Health
+# HMS-ESR for mn-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Economic System Representation
 
 ## Integration Points
 
-This document outlines how HMS-ESR is integrated with mn_Health systems in Mongolia.
+This document outlines how HMS-ESR is integrated with mn-health systems in Mongolia.

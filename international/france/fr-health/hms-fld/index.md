@@ -1,4 +1,4 @@
-# HMS-FLD for fr_Health
+# HMS-FLD for fr-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Field Data Collection
 
 ## Integration Points
 
-This document outlines how HMS-FLD is integrated with fr_Health systems in France.
+This document outlines how HMS-FLD is integrated with fr-health systems in France.

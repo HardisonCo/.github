@@ -1,4 +1,4 @@
-# HMS-UHC for mg_Health
+# HMS-UHC for mg-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Universal Healthcare Components
 
 ## Integration Points
 
-This document outlines how HMS-UHC is integrated with mg_Health systems in Madagascar.
+This document outlines how HMS-UHC is integrated with mg-health systems in Madagascar.

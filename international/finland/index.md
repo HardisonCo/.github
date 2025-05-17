@@ -2,7 +2,7 @@
 
 ## Agencies
 
-- [fi_Health](fi_Health/index.md) - Ministry of Social Affairs and Health
+- [fi-health](fi-health/index.md) - Ministry of Social Affairs and Health
 
 ## HMS Implementation Status
 

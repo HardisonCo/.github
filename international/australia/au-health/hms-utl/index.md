@@ -1,4 +1,4 @@
-# HMS-UTL for au_Health
+# HMS-UTL for au-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Utilities
 
 ## Integration Points
 
-This document outlines how HMS-UTL is integrated with au_Health systems in Australia.
+This document outlines how HMS-UTL is integrated with au-health systems in Australia.

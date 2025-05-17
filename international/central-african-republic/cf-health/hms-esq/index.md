@@ -1,4 +1,4 @@
-# HMS-ESQ for cf_Health
+# HMS-ESQ for cf-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Enhanced System Quality
 
 ## Integration Points
 
-This document outlines how HMS-ESQ is integrated with cf_Health systems in Central African Republic.
+This document outlines how HMS-ESQ is integrated with cf-health systems in Central African Republic.

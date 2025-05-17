@@ -1,4 +1,4 @@
-# HMS-ABC for ad_Health
+# HMS-ABC for ad-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Adaptive Business Capabilities
 
 ## Integration Points
 
-This document outlines how HMS-ABC is integrated with ad_Health systems in Andorra.
+This document outlines how HMS-ABC is integrated with ad-health systems in Andorra.

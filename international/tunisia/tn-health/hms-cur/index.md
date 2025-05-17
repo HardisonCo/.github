@@ -1,4 +1,4 @@
-# HMS-CUR for tn_Health
+# HMS-CUR for tn-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Currency Management
 
 ## Integration Points
 
-This document outlines how HMS-CUR is integrated with tn_Health systems in Tunisia.
+This document outlines how HMS-CUR is integrated with tn-health systems in Tunisia.

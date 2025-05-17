@@ -1,4 +1,4 @@
-# HMS-ABC for gn_Health
+# HMS-ABC for gn-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Adaptive Business Capabilities
 
 ## Integration Points
 
-This document outlines how HMS-ABC is integrated with gn_Health systems in Guinea.
+This document outlines how HMS-ABC is integrated with gn-health systems in Guinea.

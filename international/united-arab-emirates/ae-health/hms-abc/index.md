@@ -1,4 +1,4 @@
-# HMS-ABC for ae_Health
+# HMS-ABC for ae-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Adaptive Business Capabilities
 
 ## Integration Points
 
-This document outlines how HMS-ABC is integrated with ae_Health systems in United Arab Emirates.
+This document outlines how HMS-ABC is integrated with ae-health systems in United Arab Emirates.

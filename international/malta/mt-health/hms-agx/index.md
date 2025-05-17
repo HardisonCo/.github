@@ -1,4 +1,4 @@
-# HMS-AGX for mt_Health
+# HMS-AGX for mt-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Advanced Graph Experience
 
 ## Integration Points
 
-This document outlines how HMS-AGX is integrated with mt_Health systems in Malta.
+This document outlines how HMS-AGX is integrated with mt-health systems in Malta.

@@ -1,4 +1,4 @@
-# HMS-AGX for am_Health
+# HMS-AGX for am-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Advanced Graph Experience
 
 ## Integration Points
 
-This document outlines how HMS-AGX is integrated with am_Health systems in Armenia.
+This document outlines how HMS-AGX is integrated with am-health systems in Armenia.

@@ -1,4 +1,4 @@
-# HMS-NFO for ar_Health
+# HMS-NFO for ar-health
 
 ## Description
 
@@ -6,4 +6,4 @@ National Financial Organizations
 
 ## Integration Points
 
-This document outlines how HMS-NFO is integrated with ar_Health systems in Argentina.
+This document outlines how HMS-NFO is integrated with ar-health systems in Argentina.

@@ -1,4 +1,4 @@
-# HMS-AGT for ba_Health
+# HMS-AGT for ba-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Agent Tooling
 
 ## Integration Points
 
-This document outlines how HMS-AGT is integrated with ba_Health systems in Bosnia and Herzegovina.
+This document outlines how HMS-AGT is integrated with ba-health systems in Bosnia and Herzegovina.

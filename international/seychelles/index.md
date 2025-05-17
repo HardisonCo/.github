@@ -2,7 +2,7 @@
 
 ## Agencies
 
-- [sc_Health](sc_Health/index.md) - Ministry of Health and Social Development
+- [sc-health](sc-health/index.md) - Ministry of Health and Social Development
 
 ## HMS Implementation Status
 

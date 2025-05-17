@@ -1,4 +1,4 @@
-# HMS-CUR for kh_Health
+# HMS-CUR for kh-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Currency Management
 
 ## Integration Points
 
-This document outlines how HMS-CUR is integrated with kh_Health systems in Kingdom of Cambodia.
+This document outlines how HMS-CUR is integrated with kh-health systems in Kingdom of Cambodia.

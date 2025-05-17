@@ -2,7 +2,7 @@
 
 ## Agencies
 
-- [pa_Health](pa_Health/index.md) - Ministerio de Salud de Panamá
+- [pa-health](pa-health/index.md) - Ministerio de Salud de Panamá
 
 ## HMS Implementation Status
 

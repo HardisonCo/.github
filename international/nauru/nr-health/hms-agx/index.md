@@ -1,4 +1,4 @@
-# HMS-AGX for nr_Health
+# HMS-AGX for nr-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Advanced Graph Experience
 
 ## Integration Points
 
-This document outlines how HMS-AGX is integrated with nr_Health systems in Nauru.
+This document outlines how HMS-AGX is integrated with nr-health systems in Nauru.

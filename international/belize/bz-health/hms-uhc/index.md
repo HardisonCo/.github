@@ -1,4 +1,4 @@
-# HMS-UHC for bz_Health
+# HMS-UHC for bz-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Universal Healthcare Components
 
 ## Integration Points
 
-This document outlines how HMS-UHC is integrated with bz_Health systems in Belize.
+This document outlines how HMS-UHC is integrated with bz-health systems in Belize.

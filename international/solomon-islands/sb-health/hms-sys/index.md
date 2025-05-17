@@ -1,4 +1,4 @@
-# HMS-SYS for sb_Health
+# HMS-SYS for sb-health
 
 ## Description
 
@@ -6,4 +6,4 @@ System Core
 
 ## Integration Points
 
-This document outlines how HMS-SYS is integrated with sb_Health systems in Solomon Islands.
+This document outlines how HMS-SYS is integrated with sb-health systems in Solomon Islands.

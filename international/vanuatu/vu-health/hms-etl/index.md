@@ -1,4 +1,4 @@
-# HMS-ETL for vu_Health
+# HMS-ETL for vu-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Extract, Transform, Load
 
 ## Integration Points
 
-This document outlines how HMS-ETL is integrated with vu_Health systems in Vanuatu.
+This document outlines how HMS-ETL is integrated with vu-health systems in Vanuatu.

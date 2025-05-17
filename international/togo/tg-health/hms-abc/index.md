@@ -1,4 +1,4 @@
-# HMS-ABC for tg_Health
+# HMS-ABC for tg-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Adaptive Business Capabilities
 
 ## Integration Points
 
-This document outlines how HMS-ABC is integrated with tg_Health systems in Togo.
+This document outlines how HMS-ABC is integrated with tg-health systems in Togo.

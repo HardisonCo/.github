@@ -2,7 +2,7 @@
 
 ## Agencies
 
-- [bj_Health](bj_Health/index.md) - Ministère de la Santé et de l'Hygiène Publique
+- [bj-health](bj-health/index.md) - Ministère de la Santé et de l'Hygiène Publique
 
 ## HMS Implementation Status
 

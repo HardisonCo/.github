@@ -1,4 +1,4 @@
-# cv_Health - Cape Verde Health Agency
+# cv-health - Cape Verde Health Agency
 
 ## Ministério da Saúde
 

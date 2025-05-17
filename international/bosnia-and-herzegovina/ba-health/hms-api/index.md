@@ -1,4 +1,4 @@
-# HMS-API for ba_Health
+# HMS-API for ba-health
 
 ## Description
 
@@ -6,4 +6,4 @@ API Services
 
 ## Integration Points
 
-This document outlines how HMS-API is integrated with ba_Health systems in Bosnia and Herzegovina.
+This document outlines how HMS-API is integrated with ba-health systems in Bosnia and Herzegovina.

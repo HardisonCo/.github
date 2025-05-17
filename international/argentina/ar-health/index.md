@@ -1,4 +1,4 @@
-# ar_Health - Argentina Health Agency
+# ar-health - Argentina Health Agency
 
 ## Ministerio de Salud de la Nación
 

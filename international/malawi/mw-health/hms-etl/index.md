@@ -1,4 +1,4 @@
-# HMS-ETL for mw_Health
+# HMS-ETL for mw-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Extract, Transform, Load
 
 ## Integration Points
 
-This document outlines how HMS-ETL is integrated with mw_Health systems in Malawi.
+This document outlines how HMS-ETL is integrated with mw-health systems in Malawi.

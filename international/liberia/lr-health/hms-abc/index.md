@@ -1,4 +1,4 @@
-# HMS-ABC for lr_Health
+# HMS-ABC for lr-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Adaptive Business Capabilities
 
 ## Integration Points
 
-This document outlines how HMS-ABC is integrated with lr_Health systems in Liberia.
+This document outlines how HMS-ABC is integrated with lr-health systems in Liberia.

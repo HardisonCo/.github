@@ -1,4 +1,4 @@
-# ru_Health - Russian Federation Health Agency
+# ru-health - Russian Federation Health Agency
 
 ## Ministry of Health of the Russian Federation
 

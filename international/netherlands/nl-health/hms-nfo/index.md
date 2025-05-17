@@ -1,4 +1,4 @@
-# HMS-NFO for nl_Health
+# HMS-NFO for nl-health
 
 ## Description
 
@@ -6,4 +6,4 @@ National Financial Organizations
 
 ## Integration Points
 
-This document outlines how HMS-NFO is integrated with nl_Health systems in Netherlands.
+This document outlines how HMS-NFO is integrated with nl-health systems in Netherlands.

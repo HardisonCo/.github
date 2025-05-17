@@ -1,4 +1,4 @@
-# HMS-ABC for br_Health
+# HMS-ABC for br-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Adaptive Business Capabilities
 
 ## Integration Points
 
-This document outlines how HMS-ABC is integrated with br_Health systems in Brazil.
+This document outlines how HMS-ABC is integrated with br-health systems in Brazil.

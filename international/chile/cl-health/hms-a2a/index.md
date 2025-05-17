@@ -1,4 +1,4 @@
-# HMS-A2A for cl_Health
+# HMS-A2A for cl-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Agent-to-Agent Communication System
 
 ## Integration Points
 
-This document outlines how HMS-A2A is integrated with cl_Health systems in Chile.
+This document outlines how HMS-A2A is integrated with cl-health systems in Chile.

@@ -1,4 +1,4 @@
-# HMS-ESQ for eg_Health
+# HMS-ESQ for eg-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Enhanced System Quality
 
 ## Integration Points
 
-This document outlines how HMS-ESQ is integrated with eg_Health systems in Arab Republic of Egypt.
+This document outlines how HMS-ESQ is integrated with eg-health systems in Arab Republic of Egypt.

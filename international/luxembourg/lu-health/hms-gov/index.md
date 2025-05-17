@@ -1,4 +1,4 @@
-# HMS-GOV for lu_Health
+# HMS-GOV for lu-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Governance Framework
 
 ## Integration Points
 
-This document outlines how HMS-GOV is integrated with lu_Health systems in Luxembourg.
+This document outlines how HMS-GOV is integrated with lu-health systems in Luxembourg.

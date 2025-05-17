@@ -1,4 +1,4 @@
-# HMS-ACH for bd_Health
+# HMS-ACH for bd-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Automated Clearing House
 
 ## Integration Points
 
-This document outlines how HMS-ACH is integrated with bd_Health systems in Bangladesh.
+This document outlines how HMS-ACH is integrated with bd-health systems in Bangladesh.

@@ -1,4 +1,4 @@
-# HMS-NFO for gq_Health
+# HMS-NFO for gq-health
 
 ## Description
 
@@ -6,4 +6,4 @@ National Financial Organizations
 
 ## Integration Points
 
-This document outlines how HMS-NFO is integrated with gq_Health systems in Equatorial Guinea.
+This document outlines how HMS-NFO is integrated with gq-health systems in Equatorial Guinea.

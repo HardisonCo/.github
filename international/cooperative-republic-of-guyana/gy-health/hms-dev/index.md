@@ -1,4 +1,4 @@
-# HMS-DEV for gy_Health
+# HMS-DEV for gy-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Development Framework
 
 ## Integration Points
 
-This document outlines how HMS-DEV is integrated with gy_Health systems in Cooperative Republic of Guyana.
+This document outlines how HMS-DEV is integrated with gy-health systems in Cooperative Republic of Guyana.

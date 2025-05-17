@@ -1,4 +1,4 @@
-# ml_Health - Mali Health Agency
+# ml-health - Mali Health Agency
 
 ## Ministry of Health and Public Hygiene
 

@@ -1,4 +1,4 @@
-# HMS-OMS for td_Health
+# HMS-OMS for td-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Order Management System
 
 ## Integration Points
 
-This document outlines how HMS-OMS is integrated with td_Health systems in Chad.
+This document outlines how HMS-OMS is integrated with td-health systems in Chad.

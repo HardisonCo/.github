@@ -1,4 +1,4 @@
-# HMS-CDF for ie_Health
+# HMS-CDF for ie-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Collaborative Decision Framework
 
 ## Integration Points
 
-This document outlines how HMS-CDF is integrated with ie_Health systems in Ireland.
+This document outlines how HMS-CDF is integrated with ie-health systems in Ireland.

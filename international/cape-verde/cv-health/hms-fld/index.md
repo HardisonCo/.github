@@ -1,4 +1,4 @@
-# HMS-FLD for cv_Health
+# HMS-FLD for cv-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Field Data Collection
 
 ## Integration Points
 
-This document outlines how HMS-FLD is integrated with cv_Health systems in Cape Verde.
+This document outlines how HMS-FLD is integrated with cv-health systems in Cape Verde.

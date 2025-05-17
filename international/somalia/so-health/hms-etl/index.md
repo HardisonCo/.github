@@ -1,4 +1,4 @@
-# HMS-ETL for so_Health
+# HMS-ETL for so-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Extract, Transform, Load
 
 ## Integration Points
 
-This document outlines how HMS-ETL is integrated with so_Health systems in Somalia.
+This document outlines how HMS-ETL is integrated with so-health systems in Somalia.

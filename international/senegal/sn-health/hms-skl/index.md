@@ -1,4 +1,4 @@
-# HMS-SKL for sn_Health
+# HMS-SKL for sn-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Skills Management
 
 ## Integration Points
 
-This document outlines how HMS-SKL is integrated with sn_Health systems in Senegal.
+This document outlines how HMS-SKL is integrated with sn-health systems in Senegal.

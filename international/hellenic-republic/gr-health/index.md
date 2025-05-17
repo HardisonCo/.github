@@ -1,4 +1,4 @@
-# gr_Health - Hellenic Republic Health Agency
+# gr-health - Hellenic Republic Health Agency
 
 ## Ministry of Health
 

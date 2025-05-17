@@ -1,4 +1,4 @@
-# HMS-ACH for so_Health
+# HMS-ACH for so-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Automated Clearing House
 
 ## Integration Points
 
-This document outlines how HMS-ACH is integrated with so_Health systems in Somalia.
+This document outlines how HMS-ACH is integrated with so-health systems in Somalia.

@@ -1,4 +1,4 @@
-# HMS-API for ss_Health
+# HMS-API for ss-health
 
 ## Description
 
@@ -6,4 +6,4 @@ API Services
 
 ## Integration Points
 
-This document outlines how HMS-API is integrated with ss_Health systems in South Sudan.
+This document outlines how HMS-API is integrated with ss-health systems in South Sudan.

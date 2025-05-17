@@ -1,4 +1,4 @@
-# HMS-SKL for hu_Health
+# HMS-SKL for hu-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Skills Management
 
 ## Integration Points
 
-This document outlines how HMS-SKL is integrated with hu_Health systems in Hungary.
+This document outlines how HMS-SKL is integrated with hu-health systems in Hungary.

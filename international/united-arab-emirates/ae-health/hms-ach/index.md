@@ -1,4 +1,4 @@
-# HMS-ACH for ae_Health
+# HMS-ACH for ae-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Automated Clearing House
 
 ## Integration Points
 
-This document outlines how HMS-ACH is integrated with ae_Health systems in United Arab Emirates.
+This document outlines how HMS-ACH is integrated with ae-health systems in United Arab Emirates.

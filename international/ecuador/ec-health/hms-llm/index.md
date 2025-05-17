@@ -1,4 +1,4 @@
-# HMS-LLM for ec_Health
+# HMS-LLM for ec-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Large Language Model Operations Platform
 
 ## Integration Points
 
-This document outlines how HMS-LLM is integrated with ec_Health systems in Ecuador.
+This document outlines how HMS-LLM is integrated with ec-health systems in Ecuador.

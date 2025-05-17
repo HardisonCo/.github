@@ -1,4 +1,4 @@
-# HMS-LLM for km_Health
+# HMS-LLM for km-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Large Language Model Operations Platform
 
 ## Integration Points
 
-This document outlines how HMS-LLM is integrated with km_Health systems in Comoros.
+This document outlines how HMS-LLM is integrated with km-health systems in Comoros.

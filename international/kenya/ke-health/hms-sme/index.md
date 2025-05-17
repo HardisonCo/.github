@@ -1,4 +1,4 @@
-# HMS-SME for ke_Health
+# HMS-SME for ke-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Subject Matter Expertise
 
 ## Integration Points
 
-This document outlines how HMS-SME is integrated with ke_Health systems in Kenya.
+This document outlines how HMS-SME is integrated with ke-health systems in Kenya.

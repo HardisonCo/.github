@@ -1,4 +1,4 @@
-# HMS-ESR for ni_Health
+# HMS-ESR for ni-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Economic System Representation
 
 ## Integration Points
 
-This document outlines how HMS-ESR is integrated with ni_Health systems in Nicaragua.
+This document outlines how HMS-ESR is integrated with ni-health systems in Nicaragua.

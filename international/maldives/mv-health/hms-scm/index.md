@@ -1,4 +1,4 @@
-# HMS-SCM for mv_Health
+# HMS-SCM for mv-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Supply Chain Management
 
 ## Integration Points
 
-This document outlines how HMS-SCM is integrated with mv_Health systems in Maldives.
+This document outlines how HMS-SCM is integrated with mv-health systems in Maldives.

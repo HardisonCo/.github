@@ -1,4 +1,4 @@
-# HMS-EDU for bi_Health
+# HMS-EDU for bi-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Education System
 
 ## Integration Points
 
-This document outlines how HMS-EDU is integrated with bi_Health systems in Burundi.
+This document outlines how HMS-EDU is integrated with bi-health systems in Burundi.

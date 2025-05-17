@@ -1,4 +1,4 @@
-# HMS-NFO for sc_Health
+# HMS-NFO for sc-health
 
 ## Description
 
@@ -6,4 +6,4 @@ National Financial Organizations
 
 ## Integration Points
 
-This document outlines how HMS-NFO is integrated with sc_Health systems in Seychelles.
+This document outlines how HMS-NFO is integrated with sc-health systems in Seychelles.

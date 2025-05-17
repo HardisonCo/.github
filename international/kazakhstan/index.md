@@ -2,7 +2,7 @@
 
 ## Agencies
 
-- [kz_Health](kz_Health/index.md) - Ministry of Health of the Republic of Kazakhstan
+- [kz-health](kz-health/index.md) - Ministry of Health of the Republic of Kazakhstan
 
 ## HMS Implementation Status
 

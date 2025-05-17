@@ -1,4 +1,4 @@
-# mh_Health - Marshall Islands Health Agency
+# mh-health - Marshall Islands Health Agency
 
 ## Ministry of Health
 

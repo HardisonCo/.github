@@ -1,4 +1,4 @@
-# HMS-EMR for cg_Health
+# HMS-EMR for cg-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Electronic Medical Records
 
 ## Integration Points
 
-This document outlines how HMS-EMR is integrated with cg_Health systems in Republic of the Congo.
+This document outlines how HMS-EMR is integrated with cg-health systems in Republic of the Congo.

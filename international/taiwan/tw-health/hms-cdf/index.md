@@ -1,4 +1,4 @@
-# HMS-CDF for tw_Health
+# HMS-CDF for tw-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Collaborative Decision Framework
 
 ## Integration Points
 
-This document outlines how HMS-CDF is integrated with tw_Health systems in Taiwan.
+This document outlines how HMS-CDF is integrated with tw-health systems in Taiwan.

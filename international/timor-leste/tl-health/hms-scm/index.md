@@ -1,4 +1,4 @@
-# HMS-SCM for tl_Health
+# HMS-SCM for tl-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Supply Chain Management
 
 ## Integration Points
 
-This document outlines how HMS-SCM is integrated with tl_Health systems in Timor-Leste.
+This document outlines how HMS-SCM is integrated with tl-health systems in Timor-Leste.

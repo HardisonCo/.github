@@ -1,4 +1,4 @@
-# HMS-UHC for tn_Health
+# HMS-UHC for tn-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Universal Healthcare Components
 
 ## Integration Points
 
-This document outlines how HMS-UHC is integrated with tn_Health systems in Tunisia.
+This document outlines how HMS-UHC is integrated with tn-health systems in Tunisia.

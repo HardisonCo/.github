@@ -1,4 +1,4 @@
-# HMS-ESR for ne_Health
+# HMS-ESR for ne-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Economic System Representation
 
 ## Integration Points
 
-This document outlines how HMS-ESR is integrated with ne_Health systems in Niger.
+This document outlines how HMS-ESR is integrated with ne-health systems in Niger.

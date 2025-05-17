@@ -1,4 +1,4 @@
-# HMS-MKT for gy_Health
+# HMS-MKT for gy-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Market Analytics
 
 ## Integration Points
 
-This document outlines how HMS-MKT is integrated with gy_Health systems in Cooperative Republic of Guyana.
+This document outlines how HMS-MKT is integrated with gy-health systems in Cooperative Republic of Guyana.

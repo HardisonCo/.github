@@ -1,4 +1,4 @@
-# HMS-MKT for dj_Health
+# HMS-MKT for dj-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Market Analytics
 
 ## Integration Points
 
-This document outlines how HMS-MKT is integrated with dj_Health systems in Djibouti.
+This document outlines how HMS-MKT is integrated with dj-health systems in Djibouti.

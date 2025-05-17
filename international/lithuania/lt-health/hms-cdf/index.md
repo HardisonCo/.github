@@ -1,4 +1,4 @@
-# HMS-CDF for lt_Health
+# HMS-CDF for lt-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Collaborative Decision Framework
 
 ## Integration Points
 
-This document outlines how HMS-CDF is integrated with lt_Health systems in Lithuania.
+This document outlines how HMS-CDF is integrated with lt-health systems in Lithuania.

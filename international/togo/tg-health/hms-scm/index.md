@@ -1,4 +1,4 @@
-# HMS-SCM for tg_Health
+# HMS-SCM for tg-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Supply Chain Management
 
 ## Integration Points
 
-This document outlines how HMS-SCM is integrated with tg_Health systems in Togo.
+This document outlines how HMS-SCM is integrated with tg-health systems in Togo.

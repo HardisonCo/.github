@@ -1,4 +1,4 @@
-# HMS-SCM for bb_Health
+# HMS-SCM for bb-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Supply Chain Management
 
 ## Integration Points
 
-This document outlines how HMS-SCM is integrated with bb_Health systems in Barbados.
+This document outlines how HMS-SCM is integrated with bb-health systems in Barbados.

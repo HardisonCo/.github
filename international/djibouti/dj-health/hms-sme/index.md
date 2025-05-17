@@ -1,4 +1,4 @@
-# HMS-SME for dj_Health
+# HMS-SME for dj-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Subject Matter Expertise
 
 ## Integration Points
 
-This document outlines how HMS-SME is integrated with dj_Health systems in Djibouti.
+This document outlines how HMS-SME is integrated with dj-health systems in Djibouti.

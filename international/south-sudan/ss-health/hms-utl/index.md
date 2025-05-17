@@ -1,4 +1,4 @@
-# HMS-UTL for ss_Health
+# HMS-UTL for ss-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Utilities
 
 ## Integration Points
 
-This document outlines how HMS-UTL is integrated with ss_Health systems in South Sudan.
+This document outlines how HMS-UTL is integrated with ss-health systems in South Sudan.

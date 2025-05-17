@@ -1,4 +1,4 @@
-# HMS-FLD for kg_Health
+# HMS-FLD for kg-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Field Data Collection
 
 ## Integration Points
 
-This document outlines how HMS-FLD is integrated with kg_Health systems in Kyrgyzstan.
+This document outlines how HMS-FLD is integrated with kg-health systems in Kyrgyzstan.

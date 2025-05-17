@@ -1,4 +1,4 @@
-# HMS-MCP for bn_Health
+# HMS-MCP for bn-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Model-Compute-Publish
 
 ## Integration Points
 
-This document outlines how HMS-MCP is integrated with bn_Health systems in Brunei.
+This document outlines how HMS-MCP is integrated with bn-health systems in Brunei.

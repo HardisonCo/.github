@@ -1,4 +1,4 @@
-# HMS-SKL for nr_Health
+# HMS-SKL for nr-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Skills Management
 
 ## Integration Points
 
-This document outlines how HMS-SKL is integrated with nr_Health systems in Nauru.
+This document outlines how HMS-SKL is integrated with nr-health systems in Nauru.

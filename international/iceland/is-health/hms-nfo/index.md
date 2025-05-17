@@ -1,4 +1,4 @@
-# HMS-NFO for is_Health
+# HMS-NFO for is-health
 
 ## Description
 
@@ -6,4 +6,4 @@ National Financial Organizations
 
 ## Integration Points
 
-This document outlines how HMS-NFO is integrated with is_Health systems in Iceland.
+This document outlines how HMS-NFO is integrated with is-health systems in Iceland.

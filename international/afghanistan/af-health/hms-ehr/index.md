@@ -1,4 +1,4 @@
-# HMS-EHR for af_Health
+# HMS-EHR for af-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Electronic Health Records
 
 ## Integration Points
 
-This document outlines how HMS-EHR is integrated with af_Health systems in Afghanistan.
+This document outlines how HMS-EHR is integrated with af-health systems in Afghanistan.

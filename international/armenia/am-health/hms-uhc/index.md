@@ -1,4 +1,4 @@
-# HMS-UHC for am_Health
+# HMS-UHC for am-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Universal Healthcare Components
 
 ## Integration Points
 
-This document outlines how HMS-UHC is integrated with am_Health systems in Armenia.
+This document outlines how HMS-UHC is integrated with am-health systems in Armenia.

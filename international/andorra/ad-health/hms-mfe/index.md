@@ -1,4 +1,4 @@
-# HMS-MFE for ad_Health
+# HMS-MFE for ad-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Micro Frontend Engine
 
 ## Integration Points
 
-This document outlines how HMS-MFE is integrated with ad_Health systems in Andorra.
+This document outlines how HMS-MFE is integrated with ad-health systems in Andorra.

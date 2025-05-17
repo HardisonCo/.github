@@ -1,4 +1,4 @@
-# HMS-EMR for th_Health
+# HMS-EMR for th-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Electronic Medical Records
 
 ## Integration Points
 
-This document outlines how HMS-EMR is integrated with th_Health systems in Thailand.
+This document outlines how HMS-EMR is integrated with th-health systems in Thailand.

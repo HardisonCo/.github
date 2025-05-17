@@ -1,4 +1,4 @@
-# HMS-A2A for mv_Health
+# HMS-A2A for mv-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Agent-to-Agent Communication System
 
 ## Integration Points
 
-This document outlines how HMS-A2A is integrated with mv_Health systems in Maldives.
+This document outlines how HMS-A2A is integrated with mv-health systems in Maldives.

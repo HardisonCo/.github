@@ -1,4 +1,4 @@
-# HMS-OMS for tn_Health
+# HMS-OMS for tn-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Order Management System
 
 ## Integration Points
 
-This document outlines how HMS-OMS is integrated with tn_Health systems in Tunisia.
+This document outlines how HMS-OMS is integrated with tn-health systems in Tunisia.

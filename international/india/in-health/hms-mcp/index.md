@@ -1,4 +1,4 @@
-# HMS-MCP for in_Health
+# HMS-MCP for in-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Model-Compute-Publish
 
 ## Integration Points
 
-This document outlines how HMS-MCP is integrated with in_Health systems in India.
+This document outlines how HMS-MCP is integrated with in-health systems in India.

@@ -1,4 +1,4 @@
-# HMS-AGT for hn_Health
+# HMS-AGT for hn-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Agent Tooling
 
 ## Integration Points
 
-This document outlines how HMS-AGT is integrated with hn_Health systems in Honduras.
+This document outlines how HMS-AGT is integrated with hn-health systems in Honduras.

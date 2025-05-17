@@ -1,4 +1,4 @@
-# HMS-ETL for sc_Health
+# HMS-ETL for sc-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Extract, Transform, Load
 
 ## Integration Points
 
-This document outlines how HMS-ETL is integrated with sc_Health systems in Seychelles.
+This document outlines how HMS-ETL is integrated with sc-health systems in Seychelles.

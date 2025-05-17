@@ -1,4 +1,4 @@
-# HMS-UHC for ba_Health
+# HMS-UHC for ba-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Universal Healthcare Components
 
 ## Integration Points
 
-This document outlines how HMS-UHC is integrated with ba_Health systems in Bosnia and Herzegovina.
+This document outlines how HMS-UHC is integrated with ba-health systems in Bosnia and Herzegovina.

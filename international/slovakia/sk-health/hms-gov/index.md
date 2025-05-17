@@ -1,4 +1,4 @@
-# HMS-GOV for sk_Health
+# HMS-GOV for sk-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Governance Framework
 
 ## Integration Points
 
-This document outlines how HMS-GOV is integrated with sk_Health systems in Slovakia.
+This document outlines how HMS-GOV is integrated with sk-health systems in Slovakia.

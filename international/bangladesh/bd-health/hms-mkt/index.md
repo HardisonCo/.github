@@ -1,4 +1,4 @@
-# HMS-MKT for bd_Health
+# HMS-MKT for bd-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Market Analytics
 
 ## Integration Points
 
-This document outlines how HMS-MKT is integrated with bd_Health systems in Bangladesh.
+This document outlines how HMS-MKT is integrated with bd-health systems in Bangladesh.

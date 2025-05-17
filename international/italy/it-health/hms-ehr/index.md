@@ -1,4 +1,4 @@
-# HMS-EHR for it_Health
+# HMS-EHR for it-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Electronic Health Records
 
 ## Integration Points
 
-This document outlines how HMS-EHR is integrated with it_Health systems in Italy.
+This document outlines how HMS-EHR is integrated with it-health systems in Italy.

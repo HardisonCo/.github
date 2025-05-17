@@ -1,4 +1,4 @@
-# HMS-LLM for tl_Health
+# HMS-LLM for tl-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Large Language Model Operations Platform
 
 ## Integration Points
 
-This document outlines how HMS-LLM is integrated with tl_Health systems in Timor-Leste.
+This document outlines how HMS-LLM is integrated with tl-health systems in Timor-Leste.

@@ -1,4 +1,4 @@
-# HMS-RED for ro_Health
+# HMS-RED for ro-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Reactive Data Engine
 
 ## Integration Points
 
-This document outlines how HMS-RED is integrated with ro_Health systems in Romania.
+This document outlines how HMS-RED is integrated with ro-health systems in Romania.

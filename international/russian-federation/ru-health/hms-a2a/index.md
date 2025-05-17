@@ -1,4 +1,4 @@
-# HMS-A2A for ru_Health
+# HMS-A2A for ru-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Agent-to-Agent Communication System
 
 ## Integration Points
 
-This document outlines how HMS-A2A is integrated with ru_Health systems in Russian Federation.
+This document outlines how HMS-A2A is integrated with ru-health systems in Russian Federation.

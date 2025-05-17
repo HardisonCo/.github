@@ -1,4 +1,4 @@
-# HMS-SME for sd_Health
+# HMS-SME for sd-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Subject Matter Expertise
 
 ## Integration Points
 
-This document outlines how HMS-SME is integrated with sd_Health systems in Sudan.
+This document outlines how HMS-SME is integrated with sd-health systems in Sudan.

@@ -1,4 +1,4 @@
-# HMS-NFO for sy_Health
+# HMS-NFO for sy-health
 
 ## Description
 
@@ -6,4 +6,4 @@ National Financial Organizations
 
 ## Integration Points
 
-This document outlines how HMS-NFO is integrated with sy_Health systems in Syrian Arab Republic.
+This document outlines how HMS-NFO is integrated with sy-health systems in Syrian Arab Republic.

@@ -1,4 +1,4 @@
-# HMS-ESQ for mx_Health
+# HMS-ESQ for mx-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Enhanced System Quality
 
 ## Integration Points
 
-This document outlines how HMS-ESQ is integrated with mx_Health systems in Mexico.
+This document outlines how HMS-ESQ is integrated with mx-health systems in Mexico.

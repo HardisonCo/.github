@@ -1,4 +1,4 @@
-# HMS-NFO for sr_Health
+# HMS-NFO for sr-health
 
 ## Description
 
@@ -6,4 +6,4 @@ National Financial Organizations
 
 ## Integration Points
 
-This document outlines how HMS-NFO is integrated with sr_Health systems in Suriname.
+This document outlines how HMS-NFO is integrated with sr-health systems in Suriname.

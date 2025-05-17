@@ -1,4 +1,4 @@
-# HMS-UTL for nr_Health
+# HMS-UTL for nr-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Utilities
 
 ## Integration Points
 
-This document outlines how HMS-UTL is integrated with nr_Health systems in Nauru.
+This document outlines how HMS-UTL is integrated with nr-health systems in Nauru.

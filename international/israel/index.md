@@ -2,7 +2,7 @@
 
 ## Agencies
 
-- [il_Health](il_Health/index.md) - Ministry of Health
+- [il-health](il-health/index.md) - Ministry of Health
 
 ## HMS Implementation Status
 

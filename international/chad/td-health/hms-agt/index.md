@@ -1,4 +1,4 @@
-# HMS-AGT for td_Health
+# HMS-AGT for td-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Agent Tooling
 
 ## Integration Points
 
-This document outlines how HMS-AGT is integrated with td_Health systems in Chad.
+This document outlines how HMS-AGT is integrated with td-health systems in Chad.

@@ -1,4 +1,4 @@
-# HMS-MKT for is_Health
+# HMS-MKT for is-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Market Analytics
 
 ## Integration Points
 
-This document outlines how HMS-MKT is integrated with is_Health systems in Iceland.
+This document outlines how HMS-MKT is integrated with is-health systems in Iceland.

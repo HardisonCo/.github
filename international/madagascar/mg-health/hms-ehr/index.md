@@ -1,4 +1,4 @@
-# HMS-EHR for mg_Health
+# HMS-EHR for mg-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Electronic Health Records
 
 ## Integration Points
 
-This document outlines how HMS-EHR is integrated with mg_Health systems in Madagascar.
+This document outlines how HMS-EHR is integrated with mg-health systems in Madagascar.

@@ -1,4 +1,4 @@
-# HMS-SCM for ge_Health
+# HMS-SCM for ge-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Supply Chain Management
 
 ## Integration Points
 
-This document outlines how HMS-SCM is integrated with ge_Health systems in Georgia.
+This document outlines how HMS-SCM is integrated with ge-health systems in Georgia.

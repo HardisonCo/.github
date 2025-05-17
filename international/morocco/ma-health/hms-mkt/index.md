@@ -1,4 +1,4 @@
-# HMS-MKT for ma_Health
+# HMS-MKT for ma-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Market Analytics
 
 ## Integration Points
 
-This document outlines how HMS-MKT is integrated with ma_Health systems in Morocco.
+This document outlines how HMS-MKT is integrated with ma-health systems in Morocco.

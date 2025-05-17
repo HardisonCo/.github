@@ -2,7 +2,7 @@
 
 ## Agencies
 
-- [al_Health](al_Health/index.md) - Ministry of Health and Social Protection
+- [al-health](al-health/index.md) - Ministry of Health and Social Protection
 
 ## HMS Implementation Status
 

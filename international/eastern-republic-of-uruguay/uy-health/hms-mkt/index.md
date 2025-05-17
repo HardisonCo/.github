@@ -1,4 +1,4 @@
-# HMS-MKT for uy_Health
+# HMS-MKT for uy-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Market Analytics
 
 ## Integration Points
 
-This document outlines how HMS-MKT is integrated with uy_Health systems in Eastern Republic of Uruguay.
+This document outlines how HMS-MKT is integrated with uy-health systems in Eastern Republic of Uruguay.

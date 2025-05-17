@@ -1,4 +1,4 @@
-# HMS-SCM for ag_Health
+# HMS-SCM for ag-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Supply Chain Management
 
 ## Integration Points
 
-This document outlines how HMS-SCM is integrated with ag_Health systems in Antigua and Barbuda.
+This document outlines how HMS-SCM is integrated with ag-health systems in Antigua and Barbuda.

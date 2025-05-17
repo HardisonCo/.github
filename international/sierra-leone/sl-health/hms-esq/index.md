@@ -1,4 +1,4 @@
-# HMS-ESQ for sl_Health
+# HMS-ESQ for sl-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Enhanced System Quality
 
 ## Integration Points
 
-This document outlines how HMS-ESQ is integrated with sl_Health systems in Sierra Leone.
+This document outlines how HMS-ESQ is integrated with sl-health systems in Sierra Leone.

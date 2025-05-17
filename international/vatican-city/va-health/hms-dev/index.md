@@ -1,4 +1,4 @@
-# HMS-DEV for va_Health
+# HMS-DEV for va-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Development Framework
 
 ## Integration Points
 
-This document outlines how HMS-DEV is integrated with va_Health systems in Vatican City.
+This document outlines how HMS-DEV is integrated with va-health systems in Vatican City.

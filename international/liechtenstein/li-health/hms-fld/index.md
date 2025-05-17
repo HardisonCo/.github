@@ -1,4 +1,4 @@
-# HMS-FLD for li_Health
+# HMS-FLD for li-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Field Data Collection
 
 ## Integration Points
 
-This document outlines how HMS-FLD is integrated with li_Health systems in Liechtenstein.
+This document outlines how HMS-FLD is integrated with li-health systems in Liechtenstein.

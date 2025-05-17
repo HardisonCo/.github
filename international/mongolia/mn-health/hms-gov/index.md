@@ -1,4 +1,4 @@
-# HMS-GOV for mn_Health
+# HMS-GOV for mn-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Governance Framework
 
 ## Integration Points
 
-This document outlines how HMS-GOV is integrated with mn_Health systems in Mongolia.
+This document outlines how HMS-GOV is integrated with mn-health systems in Mongolia.

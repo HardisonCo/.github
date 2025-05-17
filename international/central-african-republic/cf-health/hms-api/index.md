@@ -1,4 +1,4 @@
-# HMS-API for cf_Health
+# HMS-API for cf-health
 
 ## Description
 
@@ -6,4 +6,4 @@ API Services
 
 ## Integration Points
 
-This document outlines how HMS-API is integrated with cf_Health systems in Central African Republic.
+This document outlines how HMS-API is integrated with cf-health systems in Central African Republic.

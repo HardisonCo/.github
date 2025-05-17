@@ -1,4 +1,4 @@
-# HMS-OPS for sg_Health
+# HMS-OPS for sg-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Operations Management
 
 ## Integration Points
 
-This document outlines how HMS-OPS is integrated with sg_Health systems in Singapore.
+This document outlines how HMS-OPS is integrated with sg-health systems in Singapore.

@@ -1,4 +1,4 @@
-# dz_Health - Algeria Health Agency
+# dz-health - Algeria Health Agency
 
 ## Ministère de la Santé, de la Population et de la Réforme Hospitalière
 

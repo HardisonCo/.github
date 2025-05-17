@@ -1,4 +1,4 @@
-# HMS-EDU for er_Health
+# HMS-EDU for er-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Education System
 
 ## Integration Points
 
-This document outlines how HMS-EDU is integrated with er_Health systems in State of Eritrea.
+This document outlines how HMS-EDU is integrated with er-health systems in State of Eritrea.

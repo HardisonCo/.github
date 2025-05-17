@@ -1,4 +1,4 @@
-# HMS-MCP for jm_Health
+# HMS-MCP for jm-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Model-Compute-Publish
 
 ## Integration Points
 
-This document outlines how HMS-MCP is integrated with jm_Health systems in Jamaica.
+This document outlines how HMS-MCP is integrated with jm-health systems in Jamaica.

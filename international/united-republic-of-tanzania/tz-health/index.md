@@ -1,4 +1,4 @@
-# tz_Health - United Republic of Tanzania Health Agency
+# tz-health - United Republic of Tanzania Health Agency
 
 ## Ministry of Health, Community Development, Gender, Elderly and Children
 

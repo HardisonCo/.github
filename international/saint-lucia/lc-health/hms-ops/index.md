@@ -1,4 +1,4 @@
-# HMS-OPS for lc_Health
+# HMS-OPS for lc-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Operations Management
 
 ## Integration Points
 
-This document outlines how HMS-OPS is integrated with lc_Health systems in Saint Lucia.
+This document outlines how HMS-OPS is integrated with lc-health systems in Saint Lucia.

@@ -1,4 +1,4 @@
-# HMS-SCM for lc_Health
+# HMS-SCM for lc-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Supply Chain Management
 
 ## Integration Points
 
-This document outlines how HMS-SCM is integrated with lc_Health systems in Saint Lucia.
+This document outlines how HMS-SCM is integrated with lc-health systems in Saint Lucia.

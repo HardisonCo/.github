@@ -1,4 +1,4 @@
-# by_Health - Belarus Health Agency
+# by-health - Belarus Health Agency
 
 ## Ministry of Health of the Republic of Belarus
 

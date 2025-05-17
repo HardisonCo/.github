@@ -1,4 +1,4 @@
-# HMS-OPS for om_Health
+# HMS-OPS for om-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Operations Management
 
 ## Integration Points
 
-This document outlines how HMS-OPS is integrated with om_Health systems in Sultanate of Oman.
+This document outlines how HMS-OPS is integrated with om-health systems in Sultanate of Oman.

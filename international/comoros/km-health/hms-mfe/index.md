@@ -1,4 +1,4 @@
-# HMS-MFE for km_Health
+# HMS-MFE for km-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Micro Frontend Engine
 
 ## Integration Points
 
-This document outlines how HMS-MFE is integrated with km_Health systems in Comoros.
+This document outlines how HMS-MFE is integrated with km-health systems in Comoros.

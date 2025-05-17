@@ -1,4 +1,4 @@
-# HMS-RED for sk_Health
+# HMS-RED for sk-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Reactive Data Engine
 
 ## Integration Points
 
-This document outlines how HMS-RED is integrated with sk_Health systems in Slovakia.
+This document outlines how HMS-RED is integrated with sk-health systems in Slovakia.

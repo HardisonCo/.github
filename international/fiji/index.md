@@ -2,7 +2,7 @@
 
 ## Agencies
 
-- [fj_Health](fj_Health/index.md) - Ministry of Health and Medical Services
+- [fj-health](fj-health/index.md) - Ministry of Health and Medical Services
 
 ## HMS Implementation Status
 

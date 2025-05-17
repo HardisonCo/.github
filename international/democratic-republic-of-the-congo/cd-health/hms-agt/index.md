@@ -1,4 +1,4 @@
-# HMS-AGT for cd_Health
+# HMS-AGT for cd-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Agent Tooling
 
 ## Integration Points
 
-This document outlines how HMS-AGT is integrated with cd_Health systems in Democratic Republic of the Congo.
+This document outlines how HMS-AGT is integrated with cd-health systems in Democratic Republic of the Congo.

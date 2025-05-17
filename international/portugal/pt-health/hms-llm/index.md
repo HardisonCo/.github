@@ -1,4 +1,4 @@
-# HMS-LLM for pt_Health
+# HMS-LLM for pt-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Large Language Model Operations Platform
 
 ## Integration Points
 
-This document outlines how HMS-LLM is integrated with pt_Health systems in Portugal.
+This document outlines how HMS-LLM is integrated with pt-health systems in Portugal.

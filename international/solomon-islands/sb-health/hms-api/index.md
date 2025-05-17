@@ -1,4 +1,4 @@
-# HMS-API for sb_Health
+# HMS-API for sb-health
 
 ## Description
 
@@ -6,4 +6,4 @@ API Services
 
 ## Integration Points
 
-This document outlines how HMS-API is integrated with sb_Health systems in Solomon Islands.
+This document outlines how HMS-API is integrated with sb-health systems in Solomon Islands.

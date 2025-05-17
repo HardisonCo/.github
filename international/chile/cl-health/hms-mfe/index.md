@@ -1,4 +1,4 @@
-# HMS-MFE for cl_Health
+# HMS-MFE for cl-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Micro Frontend Engine
 
 ## Integration Points
 
-This document outlines how HMS-MFE is integrated with cl_Health systems in Chile.
+This document outlines how HMS-MFE is integrated with cl-health systems in Chile.

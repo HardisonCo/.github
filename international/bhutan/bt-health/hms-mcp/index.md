@@ -1,4 +1,4 @@
-# HMS-MCP for bt_Health
+# HMS-MCP for bt-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Model-Compute-Publish
 
 ## Integration Points
 
-This document outlines how HMS-MCP is integrated with bt_Health systems in Bhutan.
+This document outlines how HMS-MCP is integrated with bt-health systems in Bhutan.

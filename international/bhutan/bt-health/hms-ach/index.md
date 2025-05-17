@@ -1,4 +1,4 @@
-# HMS-ACH for bt_Health
+# HMS-ACH for bt-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Automated Clearing House
 
 ## Integration Points
 
-This document outlines how HMS-ACH is integrated with bt_Health systems in Bhutan.
+This document outlines how HMS-ACH is integrated with bt-health systems in Bhutan.

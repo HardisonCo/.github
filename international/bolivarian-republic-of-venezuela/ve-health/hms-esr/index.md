@@ -1,4 +1,4 @@
-# HMS-ESR for ve_Health
+# HMS-ESR for ve-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Economic System Representation
 
 ## Integration Points
 
-This document outlines how HMS-ESR is integrated with ve_Health systems in Bolivarian Republic of Venezuela.
+This document outlines how HMS-ESR is integrated with ve-health systems in Bolivarian Republic of Venezuela.

@@ -1,4 +1,4 @@
-# HMS-EHR for ss_Health
+# HMS-EHR for ss-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Electronic Health Records
 
 ## Integration Points
 
-This document outlines how HMS-EHR is integrated with ss_Health systems in South Sudan.
+This document outlines how HMS-EHR is integrated with ss-health systems in South Sudan.

@@ -1,4 +1,4 @@
-# HMS-MCP for az_Health
+# HMS-MCP for az-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Model-Compute-Publish
 
 ## Integration Points
 
-This document outlines how HMS-MCP is integrated with az_Health systems in Azerbaijan.
+This document outlines how HMS-MCP is integrated with az-health systems in Azerbaijan.

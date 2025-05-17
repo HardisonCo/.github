@@ -1,4 +1,4 @@
-# HMS-ESR for ro_Health
+# HMS-ESR for ro-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Economic System Representation
 
 ## Integration Points
 
-This document outlines how HMS-ESR is integrated with ro_Health systems in Romania.
+This document outlines how HMS-ESR is integrated with ro-health systems in Romania.

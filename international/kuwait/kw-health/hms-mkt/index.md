@@ -1,4 +1,4 @@
-# HMS-MKT for kw_Health
+# HMS-MKT for kw-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Market Analytics
 
 ## Integration Points
 
-This document outlines how HMS-MKT is integrated with kw_Health systems in Kuwait.
+This document outlines how HMS-MKT is integrated with kw-health systems in Kuwait.

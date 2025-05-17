@@ -1,4 +1,4 @@
-# HMS-EMR for ua_Health
+# HMS-EMR for ua-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Electronic Medical Records
 
 ## Integration Points
 
-This document outlines how HMS-EMR is integrated with ua_Health systems in Ukraine.
+This document outlines how HMS-EMR is integrated with ua-health systems in Ukraine.

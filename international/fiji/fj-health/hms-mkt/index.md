@@ -1,4 +1,4 @@
-# HMS-MKT for fj_Health
+# HMS-MKT for fj-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Market Analytics
 
 ## Integration Points
 
-This document outlines how HMS-MKT is integrated with fj_Health systems in Fiji.
+This document outlines how HMS-MKT is integrated with fj-health systems in Fiji.

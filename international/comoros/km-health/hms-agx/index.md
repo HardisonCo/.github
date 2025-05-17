@@ -1,4 +1,4 @@
-# HMS-AGX for km_Health
+# HMS-AGX for km-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Advanced Graph Experience
 
 ## Integration Points
 
-This document outlines how HMS-AGX is integrated with km_Health systems in Comoros.
+This document outlines how HMS-AGX is integrated with km-health systems in Comoros.

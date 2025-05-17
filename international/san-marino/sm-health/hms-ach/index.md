@@ -1,4 +1,4 @@
-# HMS-ACH for sm_Health
+# HMS-ACH for sm-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Automated Clearing House
 
 ## Integration Points
 
-This document outlines how HMS-ACH is integrated with sm_Health systems in San Marino.
+This document outlines how HMS-ACH is integrated with sm-health systems in San Marino.

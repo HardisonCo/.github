@@ -1,4 +1,4 @@
-# HMS-ESQ for pl_Health
+# HMS-ESQ for pl-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Enhanced System Quality
 
 ## Integration Points
 
-This document outlines how HMS-ESQ is integrated with pl_Health systems in Poland.
+This document outlines how HMS-ESQ is integrated with pl-health systems in Poland.

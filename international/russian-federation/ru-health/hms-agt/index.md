@@ -1,4 +1,4 @@
-# HMS-AGT for ru_Health
+# HMS-AGT for ru-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Agent Tooling
 
 ## Integration Points
 
-This document outlines how HMS-AGT is integrated with ru_Health systems in Russian Federation.
+This document outlines how HMS-AGT is integrated with ru-health systems in Russian Federation.

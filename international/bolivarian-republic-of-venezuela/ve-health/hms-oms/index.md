@@ -1,4 +1,4 @@
-# HMS-OMS for ve_Health
+# HMS-OMS for ve-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Order Management System
 
 ## Integration Points
 
-This document outlines how HMS-OMS is integrated with ve_Health systems in Bolivarian Republic of Venezuela.
+This document outlines how HMS-OMS is integrated with ve-health systems in Bolivarian Republic of Venezuela.

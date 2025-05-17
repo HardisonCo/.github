@@ -1,4 +1,4 @@
-# HMS-SCM for st_Health
+# HMS-SCM for st-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Supply Chain Management
 
 ## Integration Points
 
-This document outlines how HMS-SCM is integrated with st_Health systems in São Tomé and Príncipe.
+This document outlines how HMS-SCM is integrated with st-health systems in São Tomé and Príncipe.

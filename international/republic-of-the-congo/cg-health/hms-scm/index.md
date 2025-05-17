@@ -1,4 +1,4 @@
-# HMS-SCM for cg_Health
+# HMS-SCM for cg-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Supply Chain Management
 
 ## Integration Points
 
-This document outlines how HMS-SCM is integrated with cg_Health systems in Republic of the Congo.
+This document outlines how HMS-SCM is integrated with cg-health systems in Republic of the Congo.

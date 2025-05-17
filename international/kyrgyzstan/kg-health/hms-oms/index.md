@@ -1,4 +1,4 @@
-# HMS-OMS for kg_Health
+# HMS-OMS for kg-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Order Management System
 
 ## Integration Points
 
-This document outlines how HMS-OMS is integrated with kg_Health systems in Kyrgyzstan.
+This document outlines how HMS-OMS is integrated with kg-health systems in Kyrgyzstan.

@@ -1,4 +1,4 @@
-# gd_Health - Grenada Health Agency
+# gd-health - Grenada Health Agency
 
 ## Ministry of Health
 

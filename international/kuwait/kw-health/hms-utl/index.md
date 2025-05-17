@@ -1,4 +1,4 @@
-# HMS-UTL for kw_Health
+# HMS-UTL for kw-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Utilities
 
 ## Integration Points
 
-This document outlines how HMS-UTL is integrated with kw_Health systems in Kuwait.
+This document outlines how HMS-UTL is integrated with kw-health systems in Kuwait.

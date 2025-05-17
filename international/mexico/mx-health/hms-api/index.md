@@ -1,4 +1,4 @@
-# HMS-API for mx_Health
+# HMS-API for mx-health
 
 ## Description
 
@@ -6,4 +6,4 @@ API Services
 
 ## Integration Points
 
-This document outlines how HMS-API is integrated with mx_Health systems in Mexico.
+This document outlines how HMS-API is integrated with mx-health systems in Mexico.

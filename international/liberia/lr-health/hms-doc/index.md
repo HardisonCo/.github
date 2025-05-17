@@ -1,4 +1,4 @@
-# HMS-DOC for lr_Health
+# HMS-DOC for lr-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Documentation System
 
 ## Integration Points
 
-This document outlines how HMS-DOC is integrated with lr_Health systems in Liberia.
+This document outlines how HMS-DOC is integrated with lr-health systems in Liberia.

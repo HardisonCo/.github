@@ -1,4 +1,4 @@
-# HMS-UTL for zw_Health
+# HMS-UTL for zw-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Utilities
 
 ## Integration Points
 
-This document outlines how HMS-UTL is integrated with zw_Health systems in Zimbabwe.
+This document outlines how HMS-UTL is integrated with zw-health systems in Zimbabwe.

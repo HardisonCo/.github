@@ -1,4 +1,4 @@
-# mg_Health - Madagascar Health Agency
+# mg-health - Madagascar Health Agency
 
 ## Ministry of Public Health and Population
 

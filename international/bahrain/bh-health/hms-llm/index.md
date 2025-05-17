@@ -1,4 +1,4 @@
-# HMS-LLM for bh_Health
+# HMS-LLM for bh-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Large Language Model Operations Platform
 
 ## Integration Points
 
-This document outlines how HMS-LLM is integrated with bh_Health systems in Bahrain.
+This document outlines how HMS-LLM is integrated with bh-health systems in Bahrain.

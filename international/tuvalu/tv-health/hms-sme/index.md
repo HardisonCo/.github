@@ -1,4 +1,4 @@
-# HMS-SME for tv_Health
+# HMS-SME for tv-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Subject Matter Expertise
 
 ## Integration Points
 
-This document outlines how HMS-SME is integrated with tv_Health systems in Tuvalu.
+This document outlines how HMS-SME is integrated with tv-health systems in Tuvalu.

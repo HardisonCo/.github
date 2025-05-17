@@ -1,4 +1,4 @@
-# HMS-MCP for br_Health
+# HMS-MCP for br-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Model-Compute-Publish
 
 ## Integration Points
 
-This document outlines how HMS-MCP is integrated with br_Health systems in Brazil.
+This document outlines how HMS-MCP is integrated with br-health systems in Brazil.

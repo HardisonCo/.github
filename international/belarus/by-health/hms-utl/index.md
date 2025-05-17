@@ -1,4 +1,4 @@
-# HMS-UTL for by_Health
+# HMS-UTL for by-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Utilities
 
 ## Integration Points
 
-This document outlines how HMS-UTL is integrated with by_Health systems in Belarus.
+This document outlines how HMS-UTL is integrated with by-health systems in Belarus.

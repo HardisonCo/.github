@@ -1,4 +1,4 @@
-# HMS-ETL for is_Health
+# HMS-ETL for is-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Extract, Transform, Load
 
 ## Integration Points
 
-This document outlines how HMS-ETL is integrated with is_Health systems in Iceland.
+This document outlines how HMS-ETL is integrated with is-health systems in Iceland.

@@ -1,4 +1,4 @@
-# HMS-ESQ for hu_Health
+# HMS-ESQ for hu-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Enhanced System Quality
 
 ## Integration Points
 
-This document outlines how HMS-ESQ is integrated with hu_Health systems in Hungary.
+This document outlines how HMS-ESQ is integrated with hu-health systems in Hungary.

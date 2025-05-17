@@ -1,4 +1,4 @@
-# HMS-MFE for ni_Health
+# HMS-MFE for ni-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Micro Frontend Engine
 
 ## Integration Points
 
-This document outlines how HMS-MFE is integrated with ni_Health systems in Nicaragua.
+This document outlines how HMS-MFE is integrated with ni-health systems in Nicaragua.

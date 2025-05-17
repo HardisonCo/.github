@@ -1,4 +1,4 @@
-# HMS-EDU for cz_Health
+# HMS-EDU for cz-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Education System
 
 ## Integration Points
 
-This document outlines how HMS-EDU is integrated with cz_Health systems in Czech Republic.
+This document outlines how HMS-EDU is integrated with cz-health systems in Czech Republic.

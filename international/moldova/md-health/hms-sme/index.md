@@ -1,4 +1,4 @@
-# HMS-SME for md_Health
+# HMS-SME for md-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Subject Matter Expertise
 
 ## Integration Points
 
-This document outlines how HMS-SME is integrated with md_Health systems in Moldova.
+This document outlines how HMS-SME is integrated with md-health systems in Moldova.

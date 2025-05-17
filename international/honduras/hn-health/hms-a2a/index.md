@@ -1,4 +1,4 @@
-# HMS-A2A for hn_Health
+# HMS-A2A for hn-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Agent-to-Agent Communication System
 
 ## Integration Points
 
-This document outlines how HMS-A2A is integrated with hn_Health systems in Honduras.
+This document outlines how HMS-A2A is integrated with hn-health systems in Honduras.

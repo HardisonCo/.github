@@ -1,4 +1,4 @@
-# li_Health - Liechtenstein Health Agency
+# li-health - Liechtenstein Health Agency
 
 ## State Secretariat for Social Security
 

@@ -1,4 +1,4 @@
-# HMS-SKL for bs_Health
+# HMS-SKL for bs-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Skills Management
 
 ## Integration Points
 
-This document outlines how HMS-SKL is integrated with bs_Health systems in Bahamas.
+This document outlines how HMS-SKL is integrated with bs-health systems in Bahamas.

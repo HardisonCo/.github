@@ -1,4 +1,4 @@
-# HMS-OPS for kh_Health
+# HMS-OPS for kh-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Operations Management
 
 ## Integration Points
 
-This document outlines how HMS-OPS is integrated with kh_Health systems in Kingdom of Cambodia.
+This document outlines how HMS-OPS is integrated with kh-health systems in Kingdom of Cambodia.

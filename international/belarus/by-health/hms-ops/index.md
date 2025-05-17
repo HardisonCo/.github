@@ -1,4 +1,4 @@
-# HMS-OPS for by_Health
+# HMS-OPS for by-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Operations Management
 
 ## Integration Points
 
-This document outlines how HMS-OPS is integrated with by_Health systems in Belarus.
+This document outlines how HMS-OPS is integrated with by-health systems in Belarus.

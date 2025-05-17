@@ -1,4 +1,4 @@
-# HMS-EHR for rs_Health
+# HMS-EHR for rs-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Electronic Health Records
 
 ## Integration Points
 
-This document outlines how HMS-EHR is integrated with rs_Health systems in Republic of Serbia.
+This document outlines how HMS-EHR is integrated with rs-health systems in Republic of Serbia.

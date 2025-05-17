@@ -1,4 +1,4 @@
-# HMS-UHC for dj_Health
+# HMS-UHC for dj-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Universal Healthcare Components
 
 ## Integration Points
 
-This document outlines how HMS-UHC is integrated with dj_Health systems in Djibouti.
+This document outlines how HMS-UHC is integrated with dj-health systems in Djibouti.

@@ -1,4 +1,4 @@
-# HMS-MCP for hr_Health
+# HMS-MCP for hr-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Model-Compute-Publish
 
 ## Integration Points
 
-This document outlines how HMS-MCP is integrated with hr_Health systems in Croatia.
+This document outlines how HMS-MCP is integrated with hr-health systems in Croatia.

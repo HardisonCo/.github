@@ -1,4 +1,4 @@
-# HMS-FLD for sm_Health
+# HMS-FLD for sm-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Field Data Collection
 
 ## Integration Points
 
-This document outlines how HMS-FLD is integrated with sm_Health systems in San Marino.
+This document outlines how HMS-FLD is integrated with sm-health systems in San Marino.

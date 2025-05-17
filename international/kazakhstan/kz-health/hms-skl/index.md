@@ -1,4 +1,4 @@
-# HMS-SKL for kz_Health
+# HMS-SKL for kz-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Skills Management
 
 ## Integration Points
 
-This document outlines how HMS-SKL is integrated with kz_Health systems in Kazakhstan.
+This document outlines how HMS-SKL is integrated with kz-health systems in Kazakhstan.

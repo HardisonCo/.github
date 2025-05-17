@@ -1,4 +1,4 @@
-# HMS-GOV for rw_Health
+# HMS-GOV for rw-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Governance Framework
 
 ## Integration Points
 
-This document outlines how HMS-GOV is integrated with rw_Health systems in Rwanda.
+This document outlines how HMS-GOV is integrated with rw-health systems in Rwanda.

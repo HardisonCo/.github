@@ -1,4 +1,4 @@
-# mt_Health - Malta Health Agency
+# mt-health - Malta Health Agency
 
 ## Ministry for Health
 

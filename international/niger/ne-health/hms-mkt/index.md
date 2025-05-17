@@ -1,4 +1,4 @@
-# HMS-MKT for ne_Health
+# HMS-MKT for ne-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Market Analytics
 
 ## Integration Points
 
-This document outlines how HMS-MKT is integrated with ne_Health systems in Niger.
+This document outlines how HMS-MKT is integrated with ne-health systems in Niger.

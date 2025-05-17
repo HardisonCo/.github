@@ -1,4 +1,4 @@
-# HMS-ETL for lr_Health
+# HMS-ETL for lr-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Extract, Transform, Load
 
 ## Integration Points
 
-This document outlines how HMS-ETL is integrated with lr_Health systems in Liberia.
+This document outlines how HMS-ETL is integrated with lr-health systems in Liberia.

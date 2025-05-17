@@ -1,4 +1,4 @@
-# ug_Health - Uganda Health Agency
+# ug-health - Uganda Health Agency
 
 ## Ministry of Health
 

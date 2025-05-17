@@ -1,4 +1,4 @@
-# HMS-AGX for it_Health
+# HMS-AGX for it-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Advanced Graph Experience
 
 ## Integration Points
 
-This document outlines how HMS-AGX is integrated with it_Health systems in Italy.
+This document outlines how HMS-AGX is integrated with it-health systems in Italy.

@@ -1,4 +1,4 @@
-# HMS-EMR for ve_Health
+# HMS-EMR for ve-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Electronic Medical Records
 
 ## Integration Points
 
-This document outlines how HMS-EMR is integrated with ve_Health systems in Bolivarian Republic of Venezuela.
+This document outlines how HMS-EMR is integrated with ve-health systems in Bolivarian Republic of Venezuela.

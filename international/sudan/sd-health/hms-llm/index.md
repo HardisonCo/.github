@@ -1,4 +1,4 @@
-# HMS-LLM for sd_Health
+# HMS-LLM for sd-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Large Language Model Operations Platform
 
 ## Integration Points
 
-This document outlines how HMS-LLM is integrated with sd_Health systems in Sudan.
+This document outlines how HMS-LLM is integrated with sd-health systems in Sudan.

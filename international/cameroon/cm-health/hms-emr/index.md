@@ -1,4 +1,4 @@
-# HMS-EMR for cm_Health
+# HMS-EMR for cm-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Electronic Medical Records
 
 ## Integration Points
 
-This document outlines how HMS-EMR is integrated with cm_Health systems in Cameroon.
+This document outlines how HMS-EMR is integrated with cm-health systems in Cameroon.

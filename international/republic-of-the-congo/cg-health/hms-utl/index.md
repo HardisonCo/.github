@@ -1,4 +1,4 @@
-# HMS-UTL for cg_Health
+# HMS-UTL for cg-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Utilities
 
 ## Integration Points
 
-This document outlines how HMS-UTL is integrated with cg_Health systems in Republic of the Congo.
+This document outlines how HMS-UTL is integrated with cg-health systems in Republic of the Congo.

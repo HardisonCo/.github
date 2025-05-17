@@ -1,4 +1,4 @@
-# HMS-ACH for ca_Health
+# HMS-ACH for ca-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Automated Clearing House
 
 ## Integration Points
 
-This document outlines how HMS-ACH is integrated with ca_Health systems in Canada.
+This document outlines how HMS-ACH is integrated with ca-health systems in Canada.

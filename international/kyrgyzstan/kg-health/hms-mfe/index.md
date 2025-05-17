@@ -1,4 +1,4 @@
-# HMS-MFE for kg_Health
+# HMS-MFE for kg-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Micro Frontend Engine
 
 ## Integration Points
 
-This document outlines how HMS-MFE is integrated with kg_Health systems in Kyrgyzstan.
+This document outlines how HMS-MFE is integrated with kg-health systems in Kyrgyzstan.

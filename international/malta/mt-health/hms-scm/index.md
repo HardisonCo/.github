@@ -1,4 +1,4 @@
-# HMS-SCM for mt_Health
+# HMS-SCM for mt-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Supply Chain Management
 
 ## Integration Points
 
-This document outlines how HMS-SCM is integrated with mt_Health systems in Malta.
+This document outlines how HMS-SCM is integrated with mt-health systems in Malta.

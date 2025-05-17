@@ -1,4 +1,4 @@
-# HMS-AGT for ve_Health
+# HMS-AGT for ve-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Agent Tooling
 
 ## Integration Points
 
-This document outlines how HMS-AGT is integrated with ve_Health systems in Bolivarian Republic of Venezuela.
+This document outlines how HMS-AGT is integrated with ve-health systems in Bolivarian Republic of Venezuela.

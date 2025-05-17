@@ -2,7 +2,7 @@
 
 ## Agencies
 
-- [am_Health](am_Health/index.md) - Ministry of Health of the Republic of Armenia
+- [am-health](am-health/index.md) - Ministry of Health of the Republic of Armenia
 
 ## HMS Implementation Status
 

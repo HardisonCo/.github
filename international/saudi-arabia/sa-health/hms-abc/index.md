@@ -1,4 +1,4 @@
-# HMS-ABC for sa_Health
+# HMS-ABC for sa-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Adaptive Business Capabilities
 
 ## Integration Points
 
-This document outlines how HMS-ABC is integrated with sa_Health systems in Saudi Arabia.
+This document outlines how HMS-ABC is integrated with sa-health systems in Saudi Arabia.

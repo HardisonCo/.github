@@ -1,4 +1,4 @@
-# eg_Health - Arab Republic of Egypt Health Agency
+# eg-health - Arab Republic of Egypt Health Agency
 
 ## Ministry of Health and Population
 

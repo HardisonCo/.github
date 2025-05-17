@@ -1,4 +1,4 @@
-# HMS-FLD for kw_Health
+# HMS-FLD for kw-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Field Data Collection
 
 ## Integration Points
 
-This document outlines how HMS-FLD is integrated with kw_Health systems in Kuwait.
+This document outlines how HMS-FLD is integrated with kw-health systems in Kuwait.

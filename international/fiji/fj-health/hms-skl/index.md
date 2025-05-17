@@ -1,4 +1,4 @@
-# HMS-SKL for fj_Health
+# HMS-SKL for fj-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Skills Management
 
 ## Integration Points
 
-This document outlines how HMS-SKL is integrated with fj_Health systems in Fiji.
+This document outlines how HMS-SKL is integrated with fj-health systems in Fiji.

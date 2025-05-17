@@ -1,4 +1,4 @@
-# HMS-MKT for sd_Health
+# HMS-MKT for sd-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Market Analytics
 
 ## Integration Points
 
-This document outlines how HMS-MKT is integrated with sd_Health systems in Sudan.
+This document outlines how HMS-MKT is integrated with sd-health systems in Sudan.

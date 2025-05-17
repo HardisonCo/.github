@@ -1,4 +1,4 @@
-# ws_Health - Samoa Health Agency
+# ws-health - Samoa Health Agency
 
 ## Ministry of Health
 

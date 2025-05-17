@@ -1,4 +1,4 @@
-# HMS-RED for sz_Health
+# HMS-RED for sz-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Reactive Data Engine
 
 ## Integration Points
 
-This document outlines how HMS-RED is integrated with sz_Health systems in Eswatini (Swaziland).
+This document outlines how HMS-RED is integrated with sz-health systems in Eswatini (Swaziland).

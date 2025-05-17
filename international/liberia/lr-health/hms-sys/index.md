@@ -1,4 +1,4 @@
-# HMS-SYS for lr_Health
+# HMS-SYS for lr-health
 
 ## Description
 
@@ -6,4 +6,4 @@ System Core
 
 ## Integration Points
 
-This document outlines how HMS-SYS is integrated with lr_Health systems in Liberia.
+This document outlines how HMS-SYS is integrated with lr-health systems in Liberia.

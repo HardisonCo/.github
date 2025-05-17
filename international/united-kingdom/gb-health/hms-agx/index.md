@@ -1,4 +1,4 @@
-# HMS-AGX for gb_Health
+# HMS-AGX for gb-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Advanced Graph Experience
 
 ## Integration Points
 
-This document outlines how HMS-AGX is integrated with gb_Health systems in United Kingdom.
+This document outlines how HMS-AGX is integrated with gb-health systems in United Kingdom.

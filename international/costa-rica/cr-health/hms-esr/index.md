@@ -1,4 +1,4 @@
-# HMS-ESR for cr_Health
+# HMS-ESR for cr-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Economic System Representation
 
 ## Integration Points
 
-This document outlines how HMS-ESR is integrated with cr_Health systems in Costa Rica.
+This document outlines how HMS-ESR is integrated with cr-health systems in Costa Rica.

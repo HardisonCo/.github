@@ -1,4 +1,4 @@
-# HMS-OMS for mg_Health
+# HMS-OMS for mg-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Order Management System
 
 ## Integration Points
 
-This document outlines how HMS-OMS is integrated with mg_Health systems in Madagascar.
+This document outlines how HMS-OMS is integrated with mg-health systems in Madagascar.

@@ -1,4 +1,4 @@
-# HMS-ACH for rs_Health
+# HMS-ACH for rs-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Automated Clearing House
 
 ## Integration Points
 
-This document outlines how HMS-ACH is integrated with rs_Health systems in Republic of Serbia.
+This document outlines how HMS-ACH is integrated with rs-health systems in Republic of Serbia.

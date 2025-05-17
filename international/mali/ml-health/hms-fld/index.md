@@ -1,4 +1,4 @@
-# HMS-FLD for ml_Health
+# HMS-FLD for ml-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Field Data Collection
 
 ## Integration Points
 
-This document outlines how HMS-FLD is integrated with ml_Health systems in Mali.
+This document outlines how HMS-FLD is integrated with ml-health systems in Mali.

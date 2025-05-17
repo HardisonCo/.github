@@ -1,4 +1,4 @@
-# HMS-GOV for jp_Health
+# HMS-GOV for jp-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Governance Framework
 
 ## Integration Points
 
-This document outlines how HMS-GOV is integrated with jp_Health systems in Japan.
+This document outlines how HMS-GOV is integrated with jp-health systems in Japan.

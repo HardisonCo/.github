@@ -1,4 +1,4 @@
-# HMS-RED for lu_Health
+# HMS-RED for lu-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Reactive Data Engine
 
 ## Integration Points
 
-This document outlines how HMS-RED is integrated with lu_Health systems in Luxembourg.
+This document outlines how HMS-RED is integrated with lu-health systems in Luxembourg.

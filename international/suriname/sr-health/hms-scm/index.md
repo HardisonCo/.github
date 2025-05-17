@@ -1,4 +1,4 @@
-# HMS-SCM for sr_Health
+# HMS-SCM for sr-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Supply Chain Management
 
 ## Integration Points
 
-This document outlines how HMS-SCM is integrated with sr_Health systems in Suriname.
+This document outlines how HMS-SCM is integrated with sr-health systems in Suriname.

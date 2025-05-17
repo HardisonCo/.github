@@ -1,4 +1,4 @@
-# HMS-SYS for vc_Health
+# HMS-SYS for vc-health
 
 ## Description
 
@@ -6,4 +6,4 @@ System Core
 
 ## Integration Points
 
-This document outlines how HMS-SYS is integrated with vc_Health systems in Saint Vincent and the Grenadines.
+This document outlines how HMS-SYS is integrated with vc-health systems in Saint Vincent and the Grenadines.

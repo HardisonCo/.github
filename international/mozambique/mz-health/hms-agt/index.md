@@ -1,4 +1,4 @@
-# HMS-AGT for mz_Health
+# HMS-AGT for mz-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Agent Tooling
 
 ## Integration Points
 
-This document outlines how HMS-AGT is integrated with mz_Health systems in Mozambique.
+This document outlines how HMS-AGT is integrated with mz-health systems in Mozambique.

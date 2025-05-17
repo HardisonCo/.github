@@ -1,4 +1,4 @@
-# HMS-UHC for gm_Health
+# HMS-UHC for gm-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Universal Healthcare Components
 
 ## Integration Points
 
-This document outlines how HMS-UHC is integrated with gm_Health systems in Gambia.
+This document outlines how HMS-UHC is integrated with gm-health systems in Gambia.

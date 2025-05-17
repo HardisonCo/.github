@@ -1,4 +1,4 @@
-# HMS-DOC for kg_Health
+# HMS-DOC for kg-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Documentation System
 
 ## Integration Points
 
-This document outlines how HMS-DOC is integrated with kg_Health systems in Kyrgyzstan.
+This document outlines how HMS-DOC is integrated with kg-health systems in Kyrgyzstan.

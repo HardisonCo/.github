@@ -1,4 +1,4 @@
-# HMS-UTL for cy_Health
+# HMS-UTL for cy-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Utilities
 
 ## Integration Points
 
-This document outlines how HMS-UTL is integrated with cy_Health systems in Cyprus.
+This document outlines how HMS-UTL is integrated with cy-health systems in Cyprus.

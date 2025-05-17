@@ -1,4 +1,4 @@
-# HMS-MKT for hr_Health
+# HMS-MKT for hr-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Market Analytics
 
 ## Integration Points
 
-This document outlines how HMS-MKT is integrated with hr_Health systems in Croatia.
+This document outlines how HMS-MKT is integrated with hr-health systems in Croatia.

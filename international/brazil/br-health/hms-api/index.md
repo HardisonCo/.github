@@ -1,4 +1,4 @@
-# HMS-API for br_Health
+# HMS-API for br-health
 
 ## Description
 
@@ -6,4 +6,4 @@ API Services
 
 ## Integration Points
 
-This document outlines how HMS-API is integrated with br_Health systems in Brazil.
+This document outlines how HMS-API is integrated with br-health systems in Brazil.

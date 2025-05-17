@@ -1,4 +1,4 @@
-# HMS-AGT for bz_Health
+# HMS-AGT for bz-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Agent Tooling
 
 ## Integration Points
 
-This document outlines how HMS-AGT is integrated with bz_Health systems in Belize.
+This document outlines how HMS-AGT is integrated with bz-health systems in Belize.

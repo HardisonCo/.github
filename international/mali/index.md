@@ -2,7 +2,7 @@
 
 ## Agencies
 
-- [ml_Health](ml_Health/index.md) - Ministry of Health and Public Hygiene
+- [ml-health](ml-health/index.md) - Ministry of Health and Public Hygiene
 
 ## HMS Implementation Status
 

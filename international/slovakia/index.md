@@ -2,7 +2,7 @@
 
 ## Agencies
 
-- [sk_Health](sk_Health/index.md) - Ministry of Health of the Slovak Republic
+- [sk-health](sk-health/index.md) - Ministry of Health of the Slovak Republic
 
 ## HMS Implementation Status
 

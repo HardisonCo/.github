@@ -1,4 +1,4 @@
-# HMS-ESR for do_Health
+# HMS-ESR for do-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Economic System Representation
 
 ## Integration Points
 
-This document outlines how HMS-ESR is integrated with do_Health systems in Dominican Republic.
+This document outlines how HMS-ESR is integrated with do-health systems in Dominican Republic.

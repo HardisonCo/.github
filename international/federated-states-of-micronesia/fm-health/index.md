@@ -1,4 +1,4 @@
-# fm_Health - Federated States of Micronesia Health Agency
+# fm-health - Federated States of Micronesia Health Agency
 
 ## Ministry of Health and Social Affairs
 

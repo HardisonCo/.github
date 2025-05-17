@@ -1,4 +1,4 @@
-# HMS-ACH for mt_Health
+# HMS-ACH for mt-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Automated Clearing House
 
 ## Integration Points
 
-This document outlines how HMS-ACH is integrated with mt_Health systems in Malta.
+This document outlines how HMS-ACH is integrated with mt-health systems in Malta.

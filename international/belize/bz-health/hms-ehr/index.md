@@ -1,4 +1,4 @@
-# HMS-EHR for bz_Health
+# HMS-EHR for bz-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Electronic Health Records
 
 ## Integration Points
 
-This document outlines how HMS-EHR is integrated with bz_Health systems in Belize.
+This document outlines how HMS-EHR is integrated with bz-health systems in Belize.

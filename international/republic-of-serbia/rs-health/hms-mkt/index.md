@@ -1,4 +1,4 @@
-# HMS-MKT for rs_Health
+# HMS-MKT for rs-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Market Analytics
 
 ## Integration Points
 
-This document outlines how HMS-MKT is integrated with rs_Health systems in Republic of Serbia.
+This document outlines how HMS-MKT is integrated with rs-health systems in Republic of Serbia.

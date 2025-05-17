@@ -1,4 +1,4 @@
-# mv_Health - Maldives Health Agency
+# mv-health - Maldives Health Agency
 
 ## Ministry of Health
 

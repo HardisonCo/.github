@@ -1,4 +1,4 @@
-# HMS-MCP for pt_Health
+# HMS-MCP for pt-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Model-Compute-Publish
 
 ## Integration Points
 
-This document outlines how HMS-MCP is integrated with pt_Health systems in Portugal.
+This document outlines how HMS-MCP is integrated with pt-health systems in Portugal.

@@ -2,7 +2,7 @@
 
 ## Agencies
 
-- [na_Health](na_Health/index.md) - Ministry of Health and Social Services
+- [na-health](na-health/index.md) - Ministry of Health and Social Services
 
 ## HMS Implementation Status
 

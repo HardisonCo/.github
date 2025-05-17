@@ -1,4 +1,4 @@
-# HMS-CDF for ls_Health
+# HMS-CDF for ls-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Collaborative Decision Framework
 
 ## Integration Points
 
-This document outlines how HMS-CDF is integrated with ls_Health systems in Lesotho.
+This document outlines how HMS-CDF is integrated with ls-health systems in Lesotho.

@@ -1,4 +1,4 @@
-# HMS-UHC for bf_Health
+# HMS-UHC for bf-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Universal Healthcare Components
 
 ## Integration Points
 
-This document outlines how HMS-UHC is integrated with bf_Health systems in Burkina Faso.
+This document outlines how HMS-UHC is integrated with bf-health systems in Burkina Faso.

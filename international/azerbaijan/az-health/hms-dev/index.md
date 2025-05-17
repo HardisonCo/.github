@@ -1,4 +1,4 @@
-# HMS-DEV for az_Health
+# HMS-DEV for az-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Development Framework
 
 ## Integration Points
 
-This document outlines how HMS-DEV is integrated with az_Health systems in Azerbaijan.
+This document outlines how HMS-DEV is integrated with az-health systems in Azerbaijan.

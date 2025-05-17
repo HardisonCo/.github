@@ -1,4 +1,4 @@
-# HMS-LLM for au_Health
+# HMS-LLM for au-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Large Language Model Operations Platform
 
 ## Integration Points
 
-This document outlines how HMS-LLM is integrated with au_Health systems in Australia.
+This document outlines how HMS-LLM is integrated with au-health systems in Australia.

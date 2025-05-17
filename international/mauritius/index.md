@@ -2,7 +2,7 @@
 
 ## Agencies
 
-- [mu_Health](mu_Health/index.md) - Ministry of Health and Quality of Life
+- [mu-health](mu-health/index.md) - Ministry of Health and Quality of Life
 
 ## HMS Implementation Status
 

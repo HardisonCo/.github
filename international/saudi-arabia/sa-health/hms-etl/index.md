@@ -1,4 +1,4 @@
-# HMS-ETL for sa_Health
+# HMS-ETL for sa-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Extract, Transform, Load
 
 ## Integration Points
 
-This document outlines how HMS-ETL is integrated with sa_Health systems in Saudi Arabia.
+This document outlines how HMS-ETL is integrated with sa-health systems in Saudi Arabia.

@@ -1,4 +1,4 @@
-# HMS-ABC for lc_Health
+# HMS-ABC for lc-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Adaptive Business Capabilities
 
 ## Integration Points
 
-This document outlines how HMS-ABC is integrated with lc_Health systems in Saint Lucia.
+This document outlines how HMS-ABC is integrated with lc-health systems in Saint Lucia.

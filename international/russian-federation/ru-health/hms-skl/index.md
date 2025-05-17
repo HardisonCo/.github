@@ -1,4 +1,4 @@
-# HMS-SKL for ru_Health
+# HMS-SKL for ru-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Skills Management
 
 ## Integration Points
 
-This document outlines how HMS-SKL is integrated with ru_Health systems in Russian Federation.
+This document outlines how HMS-SKL is integrated with ru-health systems in Russian Federation.

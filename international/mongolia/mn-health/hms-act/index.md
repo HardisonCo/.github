@@ -1,4 +1,4 @@
-# HMS-ACT for mn_Health
+# HMS-ACT for mn-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Agent Collaboration Tools
 
 ## Integration Points
 
-This document outlines how HMS-ACT is integrated with mn_Health systems in Mongolia.
+This document outlines how HMS-ACT is integrated with mn-health systems in Mongolia.

@@ -1,4 +1,4 @@
-# HMS-DOC for zw_Health
+# HMS-DOC for zw-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Documentation System
 
 ## Integration Points
 
-This document outlines how HMS-DOC is integrated with zw_Health systems in Zimbabwe.
+This document outlines how HMS-DOC is integrated with zw-health systems in Zimbabwe.

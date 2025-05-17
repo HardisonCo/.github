@@ -2,7 +2,7 @@
 
 ## Agencies
 
-- [me_Health](me_Health/index.md) - Ministry of Health of Montenegro
+- [me-health](me-health/index.md) - Ministry of Health of Montenegro
 
 ## HMS Implementation Status
 

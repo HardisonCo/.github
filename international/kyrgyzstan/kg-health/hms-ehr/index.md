@@ -1,4 +1,4 @@
-# HMS-EHR for kg_Health
+# HMS-EHR for kg-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Electronic Health Records
 
 ## Integration Points
 
-This document outlines how HMS-EHR is integrated with kg_Health systems in Kyrgyzstan.
+This document outlines how HMS-EHR is integrated with kg-health systems in Kyrgyzstan.

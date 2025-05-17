@@ -1,4 +1,4 @@
-# la_Health - Lao People's Democratic Republic Health Agency
+# la-health - Lao People's Democratic Republic Health Agency
 
 ## Ministry of Health
 

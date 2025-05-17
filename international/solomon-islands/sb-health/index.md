@@ -1,4 +1,4 @@
-# sb_Health - Solomon Islands Health Agency
+# sb-health - Solomon Islands Health Agency
 
 ## Ministry of Health and Medical Services
 

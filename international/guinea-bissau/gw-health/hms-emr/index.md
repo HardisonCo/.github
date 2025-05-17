@@ -1,4 +1,4 @@
-# HMS-EMR for gw_Health
+# HMS-EMR for gw-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Electronic Medical Records
 
 ## Integration Points
 
-This document outlines how HMS-EMR is integrated with gw_Health systems in Guinea-Bissau.
+This document outlines how HMS-EMR is integrated with gw-health systems in Guinea-Bissau.

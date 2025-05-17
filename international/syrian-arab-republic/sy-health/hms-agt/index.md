@@ -1,4 +1,4 @@
-# HMS-AGT for sy_Health
+# HMS-AGT for sy-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Agent Tooling
 
 ## Integration Points
 
-This document outlines how HMS-AGT is integrated with sy_Health systems in Syrian Arab Republic.
+This document outlines how HMS-AGT is integrated with sy-health systems in Syrian Arab Republic.

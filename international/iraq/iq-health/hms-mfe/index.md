@@ -1,4 +1,4 @@
-# HMS-MFE for iq_Health
+# HMS-MFE for iq-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Micro Frontend Engine
 
 ## Integration Points
 
-This document outlines how HMS-MFE is integrated with iq_Health systems in Iraq.
+This document outlines how HMS-MFE is integrated with iq-health systems in Iraq.

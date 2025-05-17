@@ -1,4 +1,4 @@
-# HMS-ETL for tg_Health
+# HMS-ETL for tg-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Extract, Transform, Load
 
 ## Integration Points
 
-This document outlines how HMS-ETL is integrated with tg_Health systems in Togo.
+This document outlines how HMS-ETL is integrated with tg-health systems in Togo.

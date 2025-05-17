@@ -1,4 +1,4 @@
-# HMS-CUR for ro_Health
+# HMS-CUR for ro-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Currency Management
 
 ## Integration Points
 
-This document outlines how HMS-CUR is integrated with ro_Health systems in Romania.
+This document outlines how HMS-CUR is integrated with ro-health systems in Romania.

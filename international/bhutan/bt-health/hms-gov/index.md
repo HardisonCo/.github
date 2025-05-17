@@ -1,4 +1,4 @@
-# HMS-GOV for bt_Health
+# HMS-GOV for bt-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Governance Framework
 
 ## Integration Points
 
-This document outlines how HMS-GOV is integrated with bt_Health systems in Bhutan.
+This document outlines how HMS-GOV is integrated with bt-health systems in Bhutan.

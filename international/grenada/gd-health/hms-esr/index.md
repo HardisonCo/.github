@@ -1,4 +1,4 @@
-# HMS-ESR for gd_Health
+# HMS-ESR for gd-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Economic System Representation
 
 ## Integration Points
 
-This document outlines how HMS-ESR is integrated with gd_Health systems in Grenada.
+This document outlines how HMS-ESR is integrated with gd-health systems in Grenada.

@@ -1,4 +1,4 @@
-# HMS-ETL for ec_Health
+# HMS-ETL for ec-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Extract, Transform, Load
 
 ## Integration Points
 
-This document outlines how HMS-ETL is integrated with ec_Health systems in Ecuador.
+This document outlines how HMS-ETL is integrated with ec-health systems in Ecuador.

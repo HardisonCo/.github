@@ -2,7 +2,7 @@
 
 ## Agencies
 
-- [za_Health](za_Health/index.md) - National Department of Health
+- [za-health](za-health/index.md) - National Department of Health
 
 ## HMS Implementation Status
 

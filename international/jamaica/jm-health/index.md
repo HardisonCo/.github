@@ -1,4 +1,4 @@
-# jm_Health - Jamaica Health Agency
+# jm-health - Jamaica Health Agency
 
 ## Ministry of Health and Wellness
 

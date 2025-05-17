@@ -1,4 +1,4 @@
-# HMS-ETL for gq_Health
+# HMS-ETL for gq-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Extract, Transform, Load
 
 ## Integration Points
 
-This document outlines how HMS-ETL is integrated with gq_Health systems in Equatorial Guinea.
+This document outlines how HMS-ETL is integrated with gq-health systems in Equatorial Guinea.

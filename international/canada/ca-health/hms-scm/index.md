@@ -1,4 +1,4 @@
-# HMS-SCM for ca_Health
+# HMS-SCM for ca-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Supply Chain Management
 
 ## Integration Points
 
-This document outlines how HMS-SCM is integrated with ca_Health systems in Canada.
+This document outlines how HMS-SCM is integrated with ca-health systems in Canada.

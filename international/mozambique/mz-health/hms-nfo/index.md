@@ -1,4 +1,4 @@
-# HMS-NFO for mz_Health
+# HMS-NFO for mz-health
 
 ## Description
 
@@ -6,4 +6,4 @@ National Financial Organizations
 
 ## Integration Points
 
-This document outlines how HMS-NFO is integrated with mz_Health systems in Mozambique.
+This document outlines how HMS-NFO is integrated with mz-health systems in Mozambique.

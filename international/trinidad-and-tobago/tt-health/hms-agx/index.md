@@ -1,4 +1,4 @@
-# HMS-AGX for tt_Health
+# HMS-AGX for tt-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Advanced Graph Experience
 
 ## Integration Points
 
-This document outlines how HMS-AGX is integrated with tt_Health systems in Trinidad and Tobago.
+This document outlines how HMS-AGX is integrated with tt-health systems in Trinidad and Tobago.

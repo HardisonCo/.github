@@ -1,4 +1,4 @@
-# HMS-OMS for sc_Health
+# HMS-OMS for sc-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Order Management System
 
 ## Integration Points
 
-This document outlines how HMS-OMS is integrated with sc_Health systems in Seychelles.
+This document outlines how HMS-OMS is integrated with sc-health systems in Seychelles.

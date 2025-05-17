@@ -2,7 +2,7 @@
 
 ## Agencies
 
-- [mt_Health](mt_Health/index.md) - Ministry for Health
+- [mt-health](mt-health/index.md) - Ministry for Health
 
 ## HMS Implementation Status
 

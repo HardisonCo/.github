@@ -1,4 +1,4 @@
-# HMS-AGX for ee_Health
+# HMS-AGX for ee-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Advanced Graph Experience
 
 ## Integration Points
 
-This document outlines how HMS-AGX is integrated with ee_Health systems in Estonia.
+This document outlines how HMS-AGX is integrated with ee-health systems in Estonia.

@@ -1,4 +1,4 @@
-# HMS-DEV for by_Health
+# HMS-DEV for by-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Development Framework
 
 ## Integration Points
 
-This document outlines how HMS-DEV is integrated with by_Health systems in Belarus.
+This document outlines how HMS-DEV is integrated with by-health systems in Belarus.

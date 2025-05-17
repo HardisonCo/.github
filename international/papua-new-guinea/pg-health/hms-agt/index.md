@@ -1,4 +1,4 @@
-# HMS-AGT for pg_Health
+# HMS-AGT for pg-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Agent Tooling
 
 ## Integration Points
 
-This document outlines how HMS-AGT is integrated with pg_Health systems in Papua New Guinea.
+This document outlines how HMS-AGT is integrated with pg-health systems in Papua New Guinea.

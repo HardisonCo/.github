@@ -1,4 +1,4 @@
-# HMS-RED for ag_Health
+# HMS-RED for ag-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Reactive Data Engine
 
 ## Integration Points
 
-This document outlines how HMS-RED is integrated with ag_Health systems in Antigua and Barbuda.
+This document outlines how HMS-RED is integrated with ag-health systems in Antigua and Barbuda.

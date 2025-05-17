@@ -1,4 +1,4 @@
-# HMS-SYS for dj_Health
+# HMS-SYS for dj-health
 
 ## Description
 
@@ -6,4 +6,4 @@ System Core
 
 ## Integration Points
 
-This document outlines how HMS-SYS is integrated with dj_Health systems in Djibouti.
+This document outlines how HMS-SYS is integrated with dj-health systems in Djibouti.

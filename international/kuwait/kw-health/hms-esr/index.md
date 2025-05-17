@@ -1,4 +1,4 @@
-# HMS-ESR for kw_Health
+# HMS-ESR for kw-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Economic System Representation
 
 ## Integration Points
 
-This document outlines how HMS-ESR is integrated with kw_Health systems in Kuwait.
+This document outlines how HMS-ESR is integrated with kw-health systems in Kuwait.

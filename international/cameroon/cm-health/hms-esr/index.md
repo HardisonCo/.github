@@ -1,4 +1,4 @@
-# HMS-ESR for cm_Health
+# HMS-ESR for cm-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Economic System Representation
 
 ## Integration Points
 
-This document outlines how HMS-ESR is integrated with cm_Health systems in Cameroon.
+This document outlines how HMS-ESR is integrated with cm-health systems in Cameroon.

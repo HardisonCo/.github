@@ -1,4 +1,4 @@
-# HMS-SKL for bi_Health
+# HMS-SKL for bi-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Skills Management
 
 ## Integration Points
 
-This document outlines how HMS-SKL is integrated with bi_Health systems in Burundi.
+This document outlines how HMS-SKL is integrated with bi-health systems in Burundi.

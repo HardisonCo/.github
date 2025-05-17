@@ -1,4 +1,4 @@
-# HMS-DOC for ge_Health
+# HMS-DOC for ge-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Documentation System
 
 ## Integration Points
 
-This document outlines how HMS-DOC is integrated with ge_Health systems in Georgia.
+This document outlines how HMS-DOC is integrated with ge-health systems in Georgia.

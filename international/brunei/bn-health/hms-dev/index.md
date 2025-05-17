@@ -1,4 +1,4 @@
-# HMS-DEV for bn_Health
+# HMS-DEV for bn-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Development Framework
 
 ## Integration Points
 
-This document outlines how HMS-DEV is integrated with bn_Health systems in Brunei.
+This document outlines how HMS-DEV is integrated with bn-health systems in Brunei.

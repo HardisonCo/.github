@@ -1,4 +1,4 @@
-# HMS-SYS for bg_Health
+# HMS-SYS for bg-health
 
 ## Description
 
@@ -6,4 +6,4 @@ System Core
 
 ## Integration Points
 
-This document outlines how HMS-SYS is integrated with bg_Health systems in Bulgaria.
+This document outlines how HMS-SYS is integrated with bg-health systems in Bulgaria.

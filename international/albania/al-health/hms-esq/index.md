@@ -1,4 +1,4 @@
-# HMS-ESQ for al_Health
+# HMS-ESQ for al-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Enhanced System Quality
 
 ## Integration Points
 
-This document outlines how HMS-ESQ is integrated with al_Health systems in Albania.
+This document outlines how HMS-ESQ is integrated with al-health systems in Albania.

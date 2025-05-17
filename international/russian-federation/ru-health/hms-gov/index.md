@@ -1,4 +1,4 @@
-# HMS-GOV for ru_Health
+# HMS-GOV for ru-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Governance Framework
 
 ## Integration Points
 
-This document outlines how HMS-GOV is integrated with ru_Health systems in Russian Federation.
+This document outlines how HMS-GOV is integrated with ru-health systems in Russian Federation.

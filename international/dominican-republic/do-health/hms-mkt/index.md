@@ -1,4 +1,4 @@
-# HMS-MKT for do_Health
+# HMS-MKT for do-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Market Analytics
 
 ## Integration Points
 
-This document outlines how HMS-MKT is integrated with do_Health systems in Dominican Republic.
+This document outlines how HMS-MKT is integrated with do-health systems in Dominican Republic.

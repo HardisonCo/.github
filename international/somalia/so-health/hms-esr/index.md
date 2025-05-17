@@ -1,4 +1,4 @@
-# HMS-ESR for so_Health
+# HMS-ESR for so-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Economic System Representation
 
 ## Integration Points
 
-This document outlines how HMS-ESR is integrated with so_Health systems in Somalia.
+This document outlines how HMS-ESR is integrated with so-health systems in Somalia.

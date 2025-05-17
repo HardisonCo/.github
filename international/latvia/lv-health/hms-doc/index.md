@@ -1,4 +1,4 @@
-# HMS-DOC for lv_Health
+# HMS-DOC for lv-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Documentation System
 
 ## Integration Points
 
-This document outlines how HMS-DOC is integrated with lv_Health systems in Latvia.
+This document outlines how HMS-DOC is integrated with lv-health systems in Latvia.

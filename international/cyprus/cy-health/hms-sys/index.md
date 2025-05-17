@@ -1,4 +1,4 @@
-# HMS-SYS for cy_Health
+# HMS-SYS for cy-health
 
 ## Description
 
@@ -6,4 +6,4 @@ System Core
 
 ## Integration Points
 
-This document outlines how HMS-SYS is integrated with cy_Health systems in Cyprus.
+This document outlines how HMS-SYS is integrated with cy-health systems in Cyprus.

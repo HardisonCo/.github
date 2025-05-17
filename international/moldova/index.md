@@ -2,7 +2,7 @@
 
 ## Agencies
 
-- [md_Health](md_Health/index.md) - Ministry of Health, Labour and Social Protection of the Republic of Moldova
+- [md-health](md-health/index.md) - Ministry of Health, Labour and Social Protection of the Republic of Moldova
 
 ## HMS Implementation Status
 

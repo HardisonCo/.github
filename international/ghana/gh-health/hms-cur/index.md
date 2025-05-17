@@ -1,4 +1,4 @@
-# HMS-CUR for gh_Health
+# HMS-CUR for gh-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Currency Management
 
 ## Integration Points
 
-This document outlines how HMS-CUR is integrated with gh_Health systems in Ghana.
+This document outlines how HMS-CUR is integrated with gh-health systems in Ghana.

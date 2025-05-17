@@ -1,4 +1,4 @@
-# lb_Health - Lebanon Health Agency
+# lb-health - Lebanon Health Agency
 
 ## Ministry of Public Health
 

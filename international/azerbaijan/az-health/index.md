@@ -1,4 +1,4 @@
-# az_Health - Azerbaijan Health Agency
+# az-health - Azerbaijan Health Agency
 
 ## Ministry of Healthcare of the Republic of Azerbaijan
 

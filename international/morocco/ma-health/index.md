@@ -1,4 +1,4 @@
-# ma_Health - Morocco Health Agency
+# ma-health - Morocco Health Agency
 
 ## Ministry of Health
 

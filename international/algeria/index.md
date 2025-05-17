@@ -2,7 +2,7 @@
 
 ## Agencies
 
-- [dz_Health](dz_Health/index.md) - Ministère de la Santé, de la Population et de la Réforme Hospitalière
+- [dz-health](dz-health/index.md) - Ministère de la Santé, de la Population et de la Réforme Hospitalière
 
 ## HMS Implementation Status
 

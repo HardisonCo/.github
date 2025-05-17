@@ -1,4 +1,4 @@
-# HMS-MCP for tv_Health
+# HMS-MCP for tv-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Model-Compute-Publish
 
 ## Integration Points
 
-This document outlines how HMS-MCP is integrated with tv_Health systems in Tuvalu.
+This document outlines how HMS-MCP is integrated with tv-health systems in Tuvalu.

@@ -1,4 +1,4 @@
-# HMS-OMS for sb_Health
+# HMS-OMS for sb-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Order Management System
 
 ## Integration Points
 
-This document outlines how HMS-OMS is integrated with sb_Health systems in Solomon Islands.
+This document outlines how HMS-OMS is integrated with sb-health systems in Solomon Islands.

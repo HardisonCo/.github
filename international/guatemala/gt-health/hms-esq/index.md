@@ -1,4 +1,4 @@
-# HMS-ESQ for gt_Health
+# HMS-ESQ for gt-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Enhanced System Quality
 
 ## Integration Points
 
-This document outlines how HMS-ESQ is integrated with gt_Health systems in Guatemala.
+This document outlines how HMS-ESQ is integrated with gt-health systems in Guatemala.

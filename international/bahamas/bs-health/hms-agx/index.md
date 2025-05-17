@@ -1,4 +1,4 @@
-# HMS-AGX for bs_Health
+# HMS-AGX for bs-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Advanced Graph Experience
 
 ## Integration Points
 
-This document outlines how HMS-AGX is integrated with bs_Health systems in Bahamas.
+This document outlines how HMS-AGX is integrated with bs-health systems in Bahamas.

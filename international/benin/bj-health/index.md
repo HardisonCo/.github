@@ -1,4 +1,4 @@
-# bj_Health - Benin Health Agency
+# bj-health - Benin Health Agency
 
 ## Ministère de la Santé et de l'Hygiène Publique
 

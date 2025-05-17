@@ -1,4 +1,4 @@
-# HMS-AGT for al_Health
+# HMS-AGT for al-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Agent Tooling
 
 ## Integration Points
 
-This document outlines how HMS-AGT is integrated with al_Health systems in Albania.
+This document outlines how HMS-AGT is integrated with al-health systems in Albania.

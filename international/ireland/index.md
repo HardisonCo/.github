@@ -2,7 +2,7 @@
 
 ## Agencies
 
-- [ie_Health](ie_Health/index.md) - Department of Health
+- [ie-health](ie-health/index.md) - Department of Health
 
 ## HMS Implementation Status
 

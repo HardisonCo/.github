@@ -1,4 +1,4 @@
-# ps_Health - State of Palestine Health Agency
+# ps-health - State of Palestine Health Agency
 
 ## Ministry of Health
 

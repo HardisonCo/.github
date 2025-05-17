@@ -1,4 +1,4 @@
-# HMS-EDU for gm_Health
+# HMS-EDU for gm-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Education System
 
 ## Integration Points
 
-This document outlines how HMS-EDU is integrated with gm_Health systems in Gambia.
+This document outlines how HMS-EDU is integrated with gm-health systems in Gambia.

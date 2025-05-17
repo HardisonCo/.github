@@ -1,4 +1,4 @@
-# lu_Health - Luxembourg Health Agency
+# lu-health - Luxembourg Health Agency
 
 ## Ministry of Health (Ministère de la Santé)
 

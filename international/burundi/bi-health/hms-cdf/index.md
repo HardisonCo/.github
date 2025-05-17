@@ -1,4 +1,4 @@
-# HMS-CDF for bi_Health
+# HMS-CDF for bi-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Collaborative Decision Framework
 
 ## Integration Points
 
-This document outlines how HMS-CDF is integrated with bi_Health systems in Burundi.
+This document outlines how HMS-CDF is integrated with bi-health systems in Burundi.

@@ -1,4 +1,4 @@
-# HMS-MKT for ye_Health
+# HMS-MKT for ye-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Market Analytics
 
 ## Integration Points
 
-This document outlines how HMS-MKT is integrated with ye_Health systems in Yemen.
+This document outlines how HMS-MKT is integrated with ye-health systems in Yemen.

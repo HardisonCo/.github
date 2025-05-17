@@ -1,4 +1,4 @@
-# HMS-ESR for tv_Health
+# HMS-ESR for tv-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Economic System Representation
 
 ## Integration Points
 
-This document outlines how HMS-ESR is integrated with tv_Health systems in Tuvalu.
+This document outlines how HMS-ESR is integrated with tv-health systems in Tuvalu.

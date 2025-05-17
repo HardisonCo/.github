@@ -1,4 +1,4 @@
-# ss_Health - South Sudan Health Agency
+# ss-health - South Sudan Health Agency
 
 ## Ministry of Health of the Republic of South Sudan
 

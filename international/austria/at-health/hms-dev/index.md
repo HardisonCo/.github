@@ -1,4 +1,4 @@
-# HMS-DEV for at_Health
+# HMS-DEV for at-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Development Framework
 
 ## Integration Points
 
-This document outlines how HMS-DEV is integrated with at_Health systems in Austria.
+This document outlines how HMS-DEV is integrated with at-health systems in Austria.

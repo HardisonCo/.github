@@ -1,4 +1,4 @@
-# HMS-ETL for me_Health
+# HMS-ETL for me-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Extract, Transform, Load
 
 ## Integration Points
 
-This document outlines how HMS-ETL is integrated with me_Health systems in Montenegro.
+This document outlines how HMS-ETL is integrated with me-health systems in Montenegro.

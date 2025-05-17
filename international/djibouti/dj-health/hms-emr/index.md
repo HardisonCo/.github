@@ -1,4 +1,4 @@
-# HMS-EMR for dj_Health
+# HMS-EMR for dj-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Electronic Medical Records
 
 ## Integration Points
 
-This document outlines how HMS-EMR is integrated with dj_Health systems in Djibouti.
+This document outlines how HMS-EMR is integrated with dj-health systems in Djibouti.

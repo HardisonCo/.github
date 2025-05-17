@@ -1,4 +1,4 @@
-# HMS-EHR for tj_Health
+# HMS-EHR for tj-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Electronic Health Records
 
 ## Integration Points
 
-This document outlines how HMS-EHR is integrated with tj_Health systems in Tajikistan.
+This document outlines how HMS-EHR is integrated with tj-health systems in Tajikistan.

@@ -1,4 +1,4 @@
-# HMS-UHC for ad_Health
+# HMS-UHC for ad-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Universal Healthcare Components
 
 ## Integration Points
 
-This document outlines how HMS-UHC is integrated with ad_Health systems in Andorra.
+This document outlines how HMS-UHC is integrated with ad-health systems in Andorra.

@@ -1,4 +1,4 @@
-# HMS-RED for ni_Health
+# HMS-RED for ni-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Reactive Data Engine
 
 ## Integration Points
 
-This document outlines how HMS-RED is integrated with ni_Health systems in Nicaragua.
+This document outlines how HMS-RED is integrated with ni-health systems in Nicaragua.

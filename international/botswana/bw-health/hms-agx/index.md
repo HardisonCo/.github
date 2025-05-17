@@ -1,4 +1,4 @@
-# HMS-AGX for bw_Health
+# HMS-AGX for bw-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Advanced Graph Experience
 
 ## Integration Points
 
-This document outlines how HMS-AGX is integrated with bw_Health systems in Botswana.
+This document outlines how HMS-AGX is integrated with bw-health systems in Botswana.

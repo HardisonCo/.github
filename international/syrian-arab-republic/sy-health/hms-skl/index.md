@@ -1,4 +1,4 @@
-# HMS-SKL for sy_Health
+# HMS-SKL for sy-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Skills Management
 
 ## Integration Points
 
-This document outlines how HMS-SKL is integrated with sy_Health systems in Syrian Arab Republic.
+This document outlines how HMS-SKL is integrated with sy-health systems in Syrian Arab Republic.

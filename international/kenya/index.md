@@ -2,7 +2,7 @@
 
 ## Agencies
 
-- [ke_Health](ke_Health/index.md) - Ministry of Health
+- [ke-health](ke-health/index.md) - Ministry of Health
 
 ## HMS Implementation Status
 

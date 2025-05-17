@@ -1,4 +1,4 @@
-# HMS-ABC for ke_Health
+# HMS-ABC for ke-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Adaptive Business Capabilities
 
 ## Integration Points
 
-This document outlines how HMS-ABC is integrated with ke_Health systems in Kenya.
+This document outlines how HMS-ABC is integrated with ke-health systems in Kenya.

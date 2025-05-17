@@ -1,4 +1,4 @@
-# HMS-DEV for gd_Health
+# HMS-DEV for gd-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Development Framework
 
 ## Integration Points
 
-This document outlines how HMS-DEV is integrated with gd_Health systems in Grenada.
+This document outlines how HMS-DEV is integrated with gd-health systems in Grenada.

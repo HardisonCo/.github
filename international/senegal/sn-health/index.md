@@ -1,4 +1,4 @@
-# sn_Health - Senegal Health Agency
+# sn-health - Senegal Health Agency
 
 ## Ministry of Health and Social Action
 

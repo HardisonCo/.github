@@ -2,7 +2,7 @@
 
 ## Agencies
 
-- [bz_Health](bz_Health/index.md) - Ministry of Health, Wellness and the Elderly
+- [bz-health](bz-health/index.md) - Ministry of Health, Wellness and the Elderly
 
 ## HMS Implementation Status
 

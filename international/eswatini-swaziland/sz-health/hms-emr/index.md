@@ -1,4 +1,4 @@
-# HMS-EMR for sz_Health
+# HMS-EMR for sz-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Electronic Medical Records
 
 ## Integration Points
 
-This document outlines how HMS-EMR is integrated with sz_Health systems in Eswatini (Swaziland).
+This document outlines how HMS-EMR is integrated with sz-health systems in Eswatini (Swaziland).

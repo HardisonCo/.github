@@ -1,4 +1,4 @@
-# HMS-API for gq_Health
+# HMS-API for gq-health
 
 ## Description
 
@@ -6,4 +6,4 @@ API Services
 
 ## Integration Points
 
-This document outlines how HMS-API is integrated with gq_Health systems in Equatorial Guinea.
+This document outlines how HMS-API is integrated with gq-health systems in Equatorial Guinea.

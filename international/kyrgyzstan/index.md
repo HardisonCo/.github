@@ -2,7 +2,7 @@
 
 ## Agencies
 
-- [kg_Health](kg_Health/index.md) - Ministry of Health of the Kyrgyz Republic
+- [kg-health](kg-health/index.md) - Ministry of Health of the Kyrgyz Republic
 
 ## HMS Implementation Status
 

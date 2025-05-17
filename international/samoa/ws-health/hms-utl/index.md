@@ -1,4 +1,4 @@
-# HMS-UTL for ws_Health
+# HMS-UTL for ws-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Utilities
 
 ## Integration Points
 
-This document outlines how HMS-UTL is integrated with ws_Health systems in Samoa.
+This document outlines how HMS-UTL is integrated with ws-health systems in Samoa.

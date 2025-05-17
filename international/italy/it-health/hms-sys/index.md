@@ -1,4 +1,4 @@
-# HMS-SYS for it_Health
+# HMS-SYS for it-health
 
 ## Description
 
@@ -6,4 +6,4 @@ System Core
 
 ## Integration Points
 
-This document outlines how HMS-SYS is integrated with it_Health systems in Italy.
+This document outlines how HMS-SYS is integrated with it-health systems in Italy.

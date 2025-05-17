@@ -1,4 +1,4 @@
-# HMS-DOC for sn_Health
+# HMS-DOC for sn-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Documentation System
 
 ## Integration Points
 
-This document outlines how HMS-DOC is integrated with sn_Health systems in Senegal.
+This document outlines how HMS-DOC is integrated with sn-health systems in Senegal.

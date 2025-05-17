@@ -1,4 +1,4 @@
-# HMS-GOV for gd_Health
+# HMS-GOV for gd-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Governance Framework
 
 ## Integration Points
 
-This document outlines how HMS-GOV is integrated with gd_Health systems in Grenada.
+This document outlines how HMS-GOV is integrated with gd-health systems in Grenada.

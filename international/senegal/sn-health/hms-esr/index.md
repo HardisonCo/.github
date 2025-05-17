@@ -1,4 +1,4 @@
-# HMS-ESR for sn_Health
+# HMS-ESR for sn-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Economic System Representation
 
 ## Integration Points
 
-This document outlines how HMS-ESR is integrated with sn_Health systems in Senegal.
+This document outlines how HMS-ESR is integrated with sn-health systems in Senegal.

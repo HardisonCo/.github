@@ -1,4 +1,4 @@
-# sy_Health - Syrian Arab Republic Health Agency
+# sy-health - Syrian Arab Republic Health Agency
 
 ## Ministry of Health
 

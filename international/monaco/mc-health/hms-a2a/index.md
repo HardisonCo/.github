@@ -1,4 +1,4 @@
-# HMS-A2A for mc_Health
+# HMS-A2A for mc-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Agent-to-Agent Communication System
 
 ## Integration Points
 
-This document outlines how HMS-A2A is integrated with mc_Health systems in Monaco.
+This document outlines how HMS-A2A is integrated with mc-health systems in Monaco.

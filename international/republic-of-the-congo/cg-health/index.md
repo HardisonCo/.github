@@ -1,4 +1,4 @@
-# cg_Health - Republic of the Congo Health Agency
+# cg-health - Republic of the Congo Health Agency
 
 ## Ministry of Health and Population Development
 

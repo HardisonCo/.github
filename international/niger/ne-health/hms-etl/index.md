@@ -1,4 +1,4 @@
-# HMS-ETL for ne_Health
+# HMS-ETL for ne-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Extract, Transform, Load
 
 ## Integration Points
 
-This document outlines how HMS-ETL is integrated with ne_Health systems in Niger.
+This document outlines how HMS-ETL is integrated with ne-health systems in Niger.

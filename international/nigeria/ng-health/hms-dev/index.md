@@ -1,4 +1,4 @@
-# HMS-DEV for ng_Health
+# HMS-DEV for ng-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Development Framework
 
 ## Integration Points
 
-This document outlines how HMS-DEV is integrated with ng_Health systems in Nigeria.
+This document outlines how HMS-DEV is integrated with ng-health systems in Nigeria.

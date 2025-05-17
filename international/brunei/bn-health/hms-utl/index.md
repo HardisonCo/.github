@@ -1,4 +1,4 @@
-# HMS-UTL for bn_Health
+# HMS-UTL for bn-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Utilities
 
 ## Integration Points
 
-This document outlines how HMS-UTL is integrated with bn_Health systems in Brunei.
+This document outlines how HMS-UTL is integrated with bn-health systems in Brunei.

@@ -1,4 +1,4 @@
-# HMS-DOC for bz_Health
+# HMS-DOC for bz-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Documentation System
 
 ## Integration Points
 
-This document outlines how HMS-DOC is integrated with bz_Health systems in Belize.
+This document outlines how HMS-DOC is integrated with bz-health systems in Belize.

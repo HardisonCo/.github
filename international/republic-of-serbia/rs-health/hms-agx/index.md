@@ -1,4 +1,4 @@
-# HMS-AGX for rs_Health
+# HMS-AGX for rs-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Advanced Graph Experience
 
 ## Integration Points
 
-This document outlines how HMS-AGX is integrated with rs_Health systems in Republic of Serbia.
+This document outlines how HMS-AGX is integrated with rs-health systems in Republic of Serbia.

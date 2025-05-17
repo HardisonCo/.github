@@ -1,4 +1,4 @@
-# HMS-GOV for al_Health
+# HMS-GOV for al-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Governance Framework
 
 ## Integration Points
 
-This document outlines how HMS-GOV is integrated with al_Health systems in Albania.
+This document outlines how HMS-GOV is integrated with al-health systems in Albania.

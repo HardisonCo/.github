@@ -1,4 +1,4 @@
-# HMS-RED for ae_Health
+# HMS-RED for ae-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Reactive Data Engine
 
 ## Integration Points
 
-This document outlines how HMS-RED is integrated with ae_Health systems in United Arab Emirates.
+This document outlines how HMS-RED is integrated with ae-health systems in United Arab Emirates.

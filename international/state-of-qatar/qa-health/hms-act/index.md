@@ -1,4 +1,4 @@
-# HMS-ACT for qa_Health
+# HMS-ACT for qa-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Agent Collaboration Tools
 
 ## Integration Points
 
-This document outlines how HMS-ACT is integrated with qa_Health systems in State of Qatar.
+This document outlines how HMS-ACT is integrated with qa-health systems in State of Qatar.

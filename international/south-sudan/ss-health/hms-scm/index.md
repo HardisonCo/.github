@@ -1,4 +1,4 @@
-# HMS-SCM for ss_Health
+# HMS-SCM for ss-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Supply Chain Management
 
 ## Integration Points
 
-This document outlines how HMS-SCM is integrated with ss_Health systems in South Sudan.
+This document outlines how HMS-SCM is integrated with ss-health systems in South Sudan.

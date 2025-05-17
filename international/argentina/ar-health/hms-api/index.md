@@ -1,4 +1,4 @@
-# HMS-API for ar_Health
+# HMS-API for ar-health
 
 ## Description
 
@@ -6,4 +6,4 @@ API Services
 
 ## Integration Points
 
-This document outlines how HMS-API is integrated with ar_Health systems in Argentina.
+This document outlines how HMS-API is integrated with ar-health systems in Argentina.

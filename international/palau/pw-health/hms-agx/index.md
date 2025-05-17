@@ -1,4 +1,4 @@
-# HMS-AGX for pw_Health
+# HMS-AGX for pw-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Advanced Graph Experience
 
 ## Integration Points
 
-This document outlines how HMS-AGX is integrated with pw_Health systems in Palau.
+This document outlines how HMS-AGX is integrated with pw-health systems in Palau.

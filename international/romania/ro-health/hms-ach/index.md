@@ -1,4 +1,4 @@
-# HMS-ACH for ro_Health
+# HMS-ACH for ro-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Automated Clearing House
 
 ## Integration Points
 
-This document outlines how HMS-ACH is integrated with ro_Health systems in Romania.
+This document outlines how HMS-ACH is integrated with ro-health systems in Romania.

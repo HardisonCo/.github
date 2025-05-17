@@ -1,4 +1,4 @@
-# HMS-FLD for ao_Health
+# HMS-FLD for ao-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Field Data Collection
 
 ## Integration Points
 
-This document outlines how HMS-FLD is integrated with ao_Health systems in Angola.
+This document outlines how HMS-FLD is integrated with ao-health systems in Angola.

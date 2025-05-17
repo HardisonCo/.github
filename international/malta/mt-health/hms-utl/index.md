@@ -1,4 +1,4 @@
-# HMS-UTL for mt_Health
+# HMS-UTL for mt-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Utilities
 
 ## Integration Points
 
-This document outlines how HMS-UTL is integrated with mt_Health systems in Malta.
+This document outlines how HMS-UTL is integrated with mt-health systems in Malta.

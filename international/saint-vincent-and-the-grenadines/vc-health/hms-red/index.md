@@ -1,4 +1,4 @@
-# HMS-RED for vc_Health
+# HMS-RED for vc-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Reactive Data Engine
 
 ## Integration Points
 
-This document outlines how HMS-RED is integrated with vc_Health systems in Saint Vincent and the Grenadines.
+This document outlines how HMS-RED is integrated with vc-health systems in Saint Vincent and the Grenadines.

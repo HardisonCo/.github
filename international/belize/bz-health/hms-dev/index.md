@@ -1,4 +1,4 @@
-# HMS-DEV for bz_Health
+# HMS-DEV for bz-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Development Framework
 
 ## Integration Points
 
-This document outlines how HMS-DEV is integrated with bz_Health systems in Belize.
+This document outlines how HMS-DEV is integrated with bz-health systems in Belize.

@@ -1,4 +1,4 @@
-# HMS-GOV for mz_Health
+# HMS-GOV for mz-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Governance Framework
 
 ## Integration Points
 
-This document outlines how HMS-GOV is integrated with mz_Health systems in Mozambique.
+This document outlines how HMS-GOV is integrated with mz-health systems in Mozambique.

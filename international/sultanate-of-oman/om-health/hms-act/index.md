@@ -1,4 +1,4 @@
-# HMS-ACT for om_Health
+# HMS-ACT for om-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Agent Collaboration Tools
 
 ## Integration Points
 
-This document outlines how HMS-ACT is integrated with om_Health systems in Sultanate of Oman.
+This document outlines how HMS-ACT is integrated with om-health systems in Sultanate of Oman.

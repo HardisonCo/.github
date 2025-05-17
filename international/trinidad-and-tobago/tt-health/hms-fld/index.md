@@ -1,4 +1,4 @@
-# HMS-FLD for tt_Health
+# HMS-FLD for tt-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Field Data Collection
 
 ## Integration Points
 
-This document outlines how HMS-FLD is integrated with tt_Health systems in Trinidad and Tobago.
+This document outlines how HMS-FLD is integrated with tt-health systems in Trinidad and Tobago.

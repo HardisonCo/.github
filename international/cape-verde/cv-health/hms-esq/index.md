@@ -1,4 +1,4 @@
-# HMS-ESQ for cv_Health
+# HMS-ESQ for cv-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Enhanced System Quality
 
 ## Integration Points
 
-This document outlines how HMS-ESQ is integrated with cv_Health systems in Cape Verde.
+This document outlines how HMS-ESQ is integrated with cv-health systems in Cape Verde.

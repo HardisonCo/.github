@@ -1,4 +1,4 @@
-# HMS-SME for is_Health
+# HMS-SME for is-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Subject Matter Expertise
 
 ## Integration Points
 
-This document outlines how HMS-SME is integrated with is_Health systems in Iceland.
+This document outlines how HMS-SME is integrated with is-health systems in Iceland.

@@ -1,4 +1,4 @@
-# HMS-ABC for hn_Health
+# HMS-ABC for hn-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Adaptive Business Capabilities
 
 ## Integration Points
 
-This document outlines how HMS-ABC is integrated with hn_Health systems in Honduras.
+This document outlines how HMS-ABC is integrated with hn-health systems in Honduras.

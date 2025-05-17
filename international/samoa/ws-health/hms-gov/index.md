@@ -1,4 +1,4 @@
-# HMS-GOV for ws_Health
+# HMS-GOV for ws-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Governance Framework
 
 ## Integration Points
 
-This document outlines how HMS-GOV is integrated with ws_Health systems in Samoa.
+This document outlines how HMS-GOV is integrated with ws-health systems in Samoa.

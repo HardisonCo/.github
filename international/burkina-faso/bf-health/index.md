@@ -1,4 +1,4 @@
-# bf_Health - Burkina Faso Health Agency
+# bf-health - Burkina Faso Health Agency
 
 ## Ministère de la Santé, de l'Hygiène Publique et de la Lutte contre le SIDA
 

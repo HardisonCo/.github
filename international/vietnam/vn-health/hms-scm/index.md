@@ -1,4 +1,4 @@
-# HMS-SCM for vn_Health
+# HMS-SCM for vn-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Supply Chain Management
 
 ## Integration Points
 
-This document outlines how HMS-SCM is integrated with vn_Health systems in Vietnam.
+This document outlines how HMS-SCM is integrated with vn-health systems in Vietnam.

@@ -1,4 +1,4 @@
-# HMS-ABC for vn_Health
+# HMS-ABC for vn-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Adaptive Business Capabilities
 
 ## Integration Points
 
-This document outlines how HMS-ABC is integrated with vn_Health systems in Vietnam.
+This document outlines how HMS-ABC is integrated with vn-health systems in Vietnam.

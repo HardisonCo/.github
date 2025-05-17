@@ -1,4 +1,4 @@
-# HMS-ETL for sy_Health
+# HMS-ETL for sy-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Extract, Transform, Load
 
 ## Integration Points
 
-This document outlines how HMS-ETL is integrated with sy_Health systems in Syrian Arab Republic.
+This document outlines how HMS-ETL is integrated with sy-health systems in Syrian Arab Republic.

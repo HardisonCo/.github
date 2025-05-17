@@ -1,4 +1,4 @@
-# HMS-ESR for ar_Health
+# HMS-ESR for ar-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Economic System Representation
 
 ## Integration Points
 
-This document outlines how HMS-ESR is integrated with ar_Health systems in Argentina.
+This document outlines how HMS-ESR is integrated with ar-health systems in Argentina.

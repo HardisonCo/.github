@@ -1,4 +1,4 @@
-# HMS-EMR for gh_Health
+# HMS-EMR for gh-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Electronic Medical Records
 
 ## Integration Points
 
-This document outlines how HMS-EMR is integrated with gh_Health systems in Ghana.
+This document outlines how HMS-EMR is integrated with gh-health systems in Ghana.

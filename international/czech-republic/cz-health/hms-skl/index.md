@@ -1,4 +1,4 @@
-# HMS-SKL for cz_Health
+# HMS-SKL for cz-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Skills Management
 
 ## Integration Points
 
-This document outlines how HMS-SKL is integrated with cz_Health systems in Czech Republic.
+This document outlines how HMS-SKL is integrated with cz-health systems in Czech Republic.

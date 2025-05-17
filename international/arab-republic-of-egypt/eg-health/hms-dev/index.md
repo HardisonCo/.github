@@ -1,4 +1,4 @@
-# HMS-DEV for eg_Health
+# HMS-DEV for eg-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Development Framework
 
 ## Integration Points
 
-This document outlines how HMS-DEV is integrated with eg_Health systems in Arab Republic of Egypt.
+This document outlines how HMS-DEV is integrated with eg-health systems in Arab Republic of Egypt.

@@ -1,4 +1,4 @@
-# HMS-ABC for bn_Health
+# HMS-ABC for bn-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Adaptive Business Capabilities
 
 ## Integration Points
 
-This document outlines how HMS-ABC is integrated with bn_Health systems in Brunei.
+This document outlines how HMS-ABC is integrated with bn-health systems in Brunei.

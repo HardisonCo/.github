@@ -1,4 +1,4 @@
-# HMS-SME for bz_Health
+# HMS-SME for bz-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Subject Matter Expertise
 
 ## Integration Points
 
-This document outlines how HMS-SME is integrated with bz_Health systems in Belize.
+This document outlines how HMS-SME is integrated with bz-health systems in Belize.

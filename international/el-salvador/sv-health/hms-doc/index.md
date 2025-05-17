@@ -1,4 +1,4 @@
-# HMS-DOC for sv_Health
+# HMS-DOC for sv-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Documentation System
 
 ## Integration Points
 
-This document outlines how HMS-DOC is integrated with sv_Health systems in El Salvador.
+This document outlines how HMS-DOC is integrated with sv-health systems in El Salvador.

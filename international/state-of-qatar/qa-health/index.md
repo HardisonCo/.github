@@ -1,4 +1,4 @@
-# qa_Health - State of Qatar Health Agency
+# qa-health - State of Qatar Health Agency
 
 ## Ministry of Public Health
 

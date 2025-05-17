@@ -1,4 +1,4 @@
-# HMS-ACH for bi_Health
+# HMS-ACH for bi-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Automated Clearing House
 
 ## Integration Points
 
-This document outlines how HMS-ACH is integrated with bi_Health systems in Burundi.
+This document outlines how HMS-ACH is integrated with bi-health systems in Burundi.

@@ -1,4 +1,4 @@
-# HMS-MKT for tj_Health
+# HMS-MKT for tj-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Market Analytics
 
 ## Integration Points
 
-This document outlines how HMS-MKT is integrated with tj_Health systems in Tajikistan.
+This document outlines how HMS-MKT is integrated with tj-health systems in Tajikistan.

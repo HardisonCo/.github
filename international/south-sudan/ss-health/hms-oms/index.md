@@ -1,4 +1,4 @@
-# HMS-OMS for ss_Health
+# HMS-OMS for ss-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Order Management System
 
 ## Integration Points
 
-This document outlines how HMS-OMS is integrated with ss_Health systems in South Sudan.
+This document outlines how HMS-OMS is integrated with ss-health systems in South Sudan.

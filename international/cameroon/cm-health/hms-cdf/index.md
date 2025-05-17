@@ -1,4 +1,4 @@
-# HMS-CDF for cm_Health
+# HMS-CDF for cm-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Collaborative Decision Framework
 
 ## Integration Points
 
-This document outlines how HMS-CDF is integrated with cm_Health systems in Cameroon.
+This document outlines how HMS-CDF is integrated with cm-health systems in Cameroon.

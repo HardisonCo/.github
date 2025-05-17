@@ -1,4 +1,4 @@
-# bb_Health - Barbados Health Agency
+# bb-health - Barbados Health Agency
 
 ## Ministry of Health and Wellness
 

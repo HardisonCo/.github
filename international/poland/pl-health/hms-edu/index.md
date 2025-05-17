@@ -1,4 +1,4 @@
-# HMS-EDU for pl_Health
+# HMS-EDU for pl-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Education System
 
 ## Integration Points
 
-This document outlines how HMS-EDU is integrated with pl_Health systems in Poland.
+This document outlines how HMS-EDU is integrated with pl-health systems in Poland.

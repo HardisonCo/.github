@@ -1,4 +1,4 @@
-# HMS-NFO for fj_Health
+# HMS-NFO for fj-health
 
 ## Description
 
@@ -6,4 +6,4 @@ National Financial Organizations
 
 ## Integration Points
 
-This document outlines how HMS-NFO is integrated with fj_Health systems in Fiji.
+This document outlines how HMS-NFO is integrated with fj-health systems in Fiji.

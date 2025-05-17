@@ -1,4 +1,4 @@
-# HMS-ESR for mg_Health
+# HMS-ESR for mg-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Economic System Representation
 
 ## Integration Points
 
-This document outlines how HMS-ESR is integrated with mg_Health systems in Madagascar.
+This document outlines how HMS-ESR is integrated with mg-health systems in Madagascar.

@@ -1,4 +1,4 @@
-# HMS-EMR for ar_Health
+# HMS-EMR for ar-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Electronic Medical Records
 
 ## Integration Points
 
-This document outlines how HMS-EMR is integrated with ar_Health systems in Argentina.
+This document outlines how HMS-EMR is integrated with ar-health systems in Argentina.

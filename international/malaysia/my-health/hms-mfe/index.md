@@ -1,4 +1,4 @@
-# HMS-MFE for my_Health
+# HMS-MFE for my-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Micro Frontend Engine
 
 ## Integration Points
 
-This document outlines how HMS-MFE is integrated with my_Health systems in Malaysia.
+This document outlines how HMS-MFE is integrated with my-health systems in Malaysia.

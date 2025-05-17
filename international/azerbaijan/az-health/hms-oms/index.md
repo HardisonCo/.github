@@ -1,4 +1,4 @@
-# HMS-OMS for az_Health
+# HMS-OMS for az-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Order Management System
 
 ## Integration Points
 
-This document outlines how HMS-OMS is integrated with az_Health systems in Azerbaijan.
+This document outlines how HMS-OMS is integrated with az-health systems in Azerbaijan.

@@ -1,4 +1,4 @@
-# HMS-API for fj_Health
+# HMS-API for fj-health
 
 ## Description
 
@@ -6,4 +6,4 @@ API Services
 
 ## Integration Points
 
-This document outlines how HMS-API is integrated with fj_Health systems in Fiji.
+This document outlines how HMS-API is integrated with fj-health systems in Fiji.

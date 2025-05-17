@@ -1,4 +1,4 @@
-# HMS-API for sl_Health
+# HMS-API for sl-health
 
 ## Description
 
@@ -6,4 +6,4 @@ API Services
 
 ## Integration Points
 
-This document outlines how HMS-API is integrated with sl_Health systems in Sierra Leone.
+This document outlines how HMS-API is integrated with sl-health systems in Sierra Leone.

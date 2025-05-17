@@ -1,4 +1,4 @@
-# ng_Health - Nigeria Health Agency
+# ng-health - Nigeria Health Agency
 
 ## Federal Ministry of Health
 

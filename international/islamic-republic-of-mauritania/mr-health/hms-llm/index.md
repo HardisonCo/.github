@@ -1,4 +1,4 @@
-# HMS-LLM for mr_Health
+# HMS-LLM for mr-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Large Language Model Operations Platform
 
 ## Integration Points
 
-This document outlines how HMS-LLM is integrated with mr_Health systems in Islamic Republic of Mauritania.
+This document outlines how HMS-LLM is integrated with mr-health systems in Islamic Republic of Mauritania.

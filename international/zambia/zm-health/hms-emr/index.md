@@ -1,4 +1,4 @@
-# HMS-EMR for zm_Health
+# HMS-EMR for zm-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Electronic Medical Records
 
 ## Integration Points
 
-This document outlines how HMS-EMR is integrated with zm_Health systems in Zambia.
+This document outlines how HMS-EMR is integrated with zm-health systems in Zambia.

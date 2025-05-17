@@ -1,4 +1,4 @@
-# HMS-EDU for ws_Health
+# HMS-EDU for ws-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Education System
 
 ## Integration Points
 
-This document outlines how HMS-EDU is integrated with ws_Health systems in Samoa.
+This document outlines how HMS-EDU is integrated with ws-health systems in Samoa.

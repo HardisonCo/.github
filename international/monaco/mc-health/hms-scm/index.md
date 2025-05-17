@@ -1,4 +1,4 @@
-# HMS-SCM for mc_Health
+# HMS-SCM for mc-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Supply Chain Management
 
 ## Integration Points
 
-This document outlines how HMS-SCM is integrated with mc_Health systems in Monaco.
+This document outlines how HMS-SCM is integrated with mc-health systems in Monaco.

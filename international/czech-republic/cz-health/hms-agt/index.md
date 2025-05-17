@@ -1,4 +1,4 @@
-# HMS-AGT for cz_Health
+# HMS-AGT for cz-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Agent Tooling
 
 ## Integration Points
 
-This document outlines how HMS-AGT is integrated with cz_Health systems in Czech Republic.
+This document outlines how HMS-AGT is integrated with cz-health systems in Czech Republic.

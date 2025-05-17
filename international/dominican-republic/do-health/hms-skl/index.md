@@ -1,4 +1,4 @@
-# HMS-SKL for do_Health
+# HMS-SKL for do-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Skills Management
 
 ## Integration Points
 
-This document outlines how HMS-SKL is integrated with do_Health systems in Dominican Republic.
+This document outlines how HMS-SKL is integrated with do-health systems in Dominican Republic.

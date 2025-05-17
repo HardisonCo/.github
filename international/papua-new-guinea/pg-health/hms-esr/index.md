@@ -1,4 +1,4 @@
-# HMS-ESR for pg_Health
+# HMS-ESR for pg-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Economic System Representation
 
 ## Integration Points
 
-This document outlines how HMS-ESR is integrated with pg_Health systems in Papua New Guinea.
+This document outlines how HMS-ESR is integrated with pg-health systems in Papua New Guinea.

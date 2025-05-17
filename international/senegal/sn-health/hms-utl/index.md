@@ -1,4 +1,4 @@
-# HMS-UTL for sn_Health
+# HMS-UTL for sn-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Utilities
 
 ## Integration Points
 
-This document outlines how HMS-UTL is integrated with sn_Health systems in Senegal.
+This document outlines how HMS-UTL is integrated with sn-health systems in Senegal.

@@ -1,4 +1,4 @@
-# HMS-SKL for kg_Health
+# HMS-SKL for kg-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Skills Management
 
 ## Integration Points
 
-This document outlines how HMS-SKL is integrated with kg_Health systems in Kyrgyzstan.
+This document outlines how HMS-SKL is integrated with kg-health systems in Kyrgyzstan.

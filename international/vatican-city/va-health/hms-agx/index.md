@@ -1,4 +1,4 @@
-# HMS-AGX for va_Health
+# HMS-AGX for va-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Advanced Graph Experience
 
 ## Integration Points
 
-This document outlines how HMS-AGX is integrated with va_Health systems in Vatican City.
+This document outlines how HMS-AGX is integrated with va-health systems in Vatican City.

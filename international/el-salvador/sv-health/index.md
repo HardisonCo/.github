@@ -1,4 +1,4 @@
-# sv_Health - El Salvador Health Agency
+# sv-health - El Salvador Health Agency
 
 ## Ministerio de Salud de la República de El Salvador
 

@@ -1,4 +1,4 @@
-# HMS-AGT for lk_Health
+# HMS-AGT for lk-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Agent Tooling
 
 ## Integration Points
 
-This document outlines how HMS-AGT is integrated with lk_Health systems in Sri Lanka.
+This document outlines how HMS-AGT is integrated with lk-health systems in Sri Lanka.

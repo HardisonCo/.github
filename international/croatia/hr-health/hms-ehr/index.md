@@ -1,4 +1,4 @@
-# HMS-EHR for hr_Health
+# HMS-EHR for hr-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Electronic Health Records
 
 ## Integration Points
 
-This document outlines how HMS-EHR is integrated with hr_Health systems in Croatia.
+This document outlines how HMS-EHR is integrated with hr-health systems in Croatia.

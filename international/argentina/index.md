@@ -2,7 +2,7 @@
 
 ## Agencies
 
-- [ar_Health](ar_Health/index.md) - Ministerio de Salud de la Nación
+- [ar-health](ar-health/index.md) - Ministerio de Salud de la Nación
 
 ## HMS Implementation Status
 

@@ -1,4 +1,4 @@
-# HMS-MCP for ee_Health
+# HMS-MCP for ee-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Model-Compute-Publish
 
 ## Integration Points
 
-This document outlines how HMS-MCP is integrated with ee_Health systems in Estonia.
+This document outlines how HMS-MCP is integrated with ee-health systems in Estonia.

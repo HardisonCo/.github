@@ -1,4 +1,4 @@
-# HMS-ESR for gh_Health
+# HMS-ESR for gh-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Economic System Representation
 
 ## Integration Points
 
-This document outlines how HMS-ESR is integrated with gh_Health systems in Ghana.
+This document outlines how HMS-ESR is integrated with gh-health systems in Ghana.

@@ -1,4 +1,4 @@
-# HMS-OMS for bh_Health
+# HMS-OMS for bh-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Order Management System
 
 ## Integration Points
 
-This document outlines how HMS-OMS is integrated with bh_Health systems in Bahrain.
+This document outlines how HMS-OMS is integrated with bh-health systems in Bahrain.

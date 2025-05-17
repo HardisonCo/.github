@@ -1,4 +1,4 @@
-# HMS-LLM for gh_Health
+# HMS-LLM for gh-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Large Language Model Operations Platform
 
 ## Integration Points
 
-This document outlines how HMS-LLM is integrated with gh_Health systems in Ghana.
+This document outlines how HMS-LLM is integrated with gh-health systems in Ghana.

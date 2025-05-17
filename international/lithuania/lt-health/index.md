@@ -1,4 +1,4 @@
-# lt_Health - Lithuania Health Agency
+# lt-health - Lithuania Health Agency
 
 ## Ministry of Health of the Republic of Lithuania
 

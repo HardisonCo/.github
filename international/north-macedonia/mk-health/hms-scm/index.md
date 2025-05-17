@@ -1,4 +1,4 @@
-# HMS-SCM for mk_Health
+# HMS-SCM for mk-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Supply Chain Management
 
 ## Integration Points
 
-This document outlines how HMS-SCM is integrated with mk_Health systems in North Macedonia.
+This document outlines how HMS-SCM is integrated with mk-health systems in North Macedonia.

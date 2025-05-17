@@ -1,4 +1,4 @@
-# HMS-MCP for ru_Health
+# HMS-MCP for ru-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Model-Compute-Publish
 
 ## Integration Points
 
-This document outlines how HMS-MCP is integrated with ru_Health systems in Russian Federation.
+This document outlines how HMS-MCP is integrated with ru-health systems in Russian Federation.

@@ -1,4 +1,4 @@
-# HMS-EDU for sn_Health
+# HMS-EDU for sn-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Education System
 
 ## Integration Points
 
-This document outlines how HMS-EDU is integrated with sn_Health systems in Senegal.
+This document outlines how HMS-EDU is integrated with sn-health systems in Senegal.

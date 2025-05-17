@@ -1,4 +1,4 @@
-# HMS-FLD for hu_Health
+# HMS-FLD for hu-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Field Data Collection
 
 ## Integration Points
 
-This document outlines how HMS-FLD is integrated with hu_Health systems in Hungary.
+This document outlines how HMS-FLD is integrated with hu-health systems in Hungary.

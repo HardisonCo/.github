@@ -1,4 +1,4 @@
-# HMS-AGT for kg_Health
+# HMS-AGT for kg-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Agent Tooling
 
 ## Integration Points
 
-This document outlines how HMS-AGT is integrated with kg_Health systems in Kyrgyzstan.
+This document outlines how HMS-AGT is integrated with kg-health systems in Kyrgyzstan.

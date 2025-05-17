@@ -1,4 +1,4 @@
-# HMS-RED for gn_Health
+# HMS-RED for gn-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Reactive Data Engine
 
 ## Integration Points
 
-This document outlines how HMS-RED is integrated with gn_Health systems in Guinea.
+This document outlines how HMS-RED is integrated with gn-health systems in Guinea.

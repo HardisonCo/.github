@@ -1,4 +1,4 @@
-# HMS-MFE for ec_Health
+# HMS-MFE for ec-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Micro Frontend Engine
 
 ## Integration Points
 
-This document outlines how HMS-MFE is integrated with ec_Health systems in Ecuador.
+This document outlines how HMS-MFE is integrated with ec-health systems in Ecuador.

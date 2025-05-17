@@ -1,4 +1,4 @@
-# HMS-UHC for ch_Health
+# HMS-UHC for ch-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Universal Healthcare Components
 
 ## Integration Points
 
-This document outlines how HMS-UHC is integrated with ch_Health systems in Switzerland.
+This document outlines how HMS-UHC is integrated with ch-health systems in Switzerland.

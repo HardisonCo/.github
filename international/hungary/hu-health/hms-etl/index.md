@@ -1,4 +1,4 @@
-# HMS-ETL for hu_Health
+# HMS-ETL for hu-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Extract, Transform, Load
 
 ## Integration Points
 
-This document outlines how HMS-ETL is integrated with hu_Health systems in Hungary.
+This document outlines how HMS-ETL is integrated with hu-health systems in Hungary.

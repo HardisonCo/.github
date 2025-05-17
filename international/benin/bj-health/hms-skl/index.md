@@ -1,4 +1,4 @@
-# HMS-SKL for bj_Health
+# HMS-SKL for bj-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Skills Management
 
 ## Integration Points
 
-This document outlines how HMS-SKL is integrated with bj_Health systems in Benin.
+This document outlines how HMS-SKL is integrated with bj-health systems in Benin.

@@ -1,4 +1,4 @@
-# HMS-UHC for gd_Health
+# HMS-UHC for gd-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Universal Healthcare Components
 
 ## Integration Points
 
-This document outlines how HMS-UHC is integrated with gd_Health systems in Grenada.
+This document outlines how HMS-UHC is integrated with gd-health systems in Grenada.

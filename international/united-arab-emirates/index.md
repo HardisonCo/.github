@@ -2,7 +2,7 @@
 
 ## Agencies
 
-- [ae_Health](ae_Health/index.md) - Ministry of Health and Prevention
+- [ae-health](ae-health/index.md) - Ministry of Health and Prevention
 
 ## HMS Implementation Status
 

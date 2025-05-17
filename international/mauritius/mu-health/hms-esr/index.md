@@ -1,4 +1,4 @@
-# HMS-ESR for mu_Health
+# HMS-ESR for mu-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Economic System Representation
 
 ## Integration Points
 
-This document outlines how HMS-ESR is integrated with mu_Health systems in Mauritius.
+This document outlines how HMS-ESR is integrated with mu-health systems in Mauritius.

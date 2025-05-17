@@ -2,7 +2,7 @@
 
 ## Agencies
 
-- [sv_Health](sv_Health/index.md) - Ministerio de Salud de la República de El Salvador
+- [sv-health](sv-health/index.md) - Ministerio de Salud de la República de El Salvador
 
 ## HMS Implementation Status
 

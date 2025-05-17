@@ -1,4 +1,4 @@
-# HMS-SKL for zw_Health
+# HMS-SKL for zw-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Skills Management
 
 ## Integration Points
 
-This document outlines how HMS-SKL is integrated with zw_Health systems in Zimbabwe.
+This document outlines how HMS-SKL is integrated with zw-health systems in Zimbabwe.

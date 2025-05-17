@@ -1,4 +1,4 @@
-# HMS-RED for ec_Health
+# HMS-RED for ec-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Reactive Data Engine
 
 ## Integration Points
 
-This document outlines how HMS-RED is integrated with ec_Health systems in Ecuador.
+This document outlines how HMS-RED is integrated with ec-health systems in Ecuador.

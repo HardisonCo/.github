@@ -2,7 +2,7 @@
 
 ## Agencies
 
-- [hn_Health](hn_Health/index.md) - Secretaría de Salud de Honduras
+- [hn-health](hn-health/index.md) - Secretaría de Salud de Honduras
 
 ## HMS Implementation Status
 

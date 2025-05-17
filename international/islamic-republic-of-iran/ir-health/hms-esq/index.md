@@ -1,4 +1,4 @@
-# HMS-ESQ for ir_Health
+# HMS-ESQ for ir-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Enhanced System Quality
 
 ## Integration Points
 
-This document outlines how HMS-ESQ is integrated with ir_Health systems in Islamic Republic of Iran.
+This document outlines how HMS-ESQ is integrated with ir-health systems in Islamic Republic of Iran.

@@ -1,4 +1,4 @@
-# HMS-SCM for sn_Health
+# HMS-SCM for sn-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Supply Chain Management
 
 ## Integration Points
 
-This document outlines how HMS-SCM is integrated with sn_Health systems in Senegal.
+This document outlines how HMS-SCM is integrated with sn-health systems in Senegal.

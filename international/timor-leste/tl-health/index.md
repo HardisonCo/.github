@@ -1,4 +1,4 @@
-# tl_Health - Timor-Leste Health Agency
+# tl-health - Timor-Leste Health Agency
 
 ## Ministry of Health
 

@@ -1,4 +1,4 @@
-# HMS-SYS for cv_Health
+# HMS-SYS for cv-health
 
 ## Description
 
@@ -6,4 +6,4 @@ System Core
 
 ## Integration Points
 
-This document outlines how HMS-SYS is integrated with cv_Health systems in Cape Verde.
+This document outlines how HMS-SYS is integrated with cv-health systems in Cape Verde.

@@ -1,4 +1,4 @@
-# HMS-GOV for mg_Health
+# HMS-GOV for mg-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Governance Framework
 
 ## Integration Points
 
-This document outlines how HMS-GOV is integrated with mg_Health systems in Madagascar.
+This document outlines how HMS-GOV is integrated with mg-health systems in Madagascar.

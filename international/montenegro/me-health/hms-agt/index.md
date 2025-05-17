@@ -1,4 +1,4 @@
-# HMS-AGT for me_Health
+# HMS-AGT for me-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Agent Tooling
 
 ## Integration Points
 
-This document outlines how HMS-AGT is integrated with me_Health systems in Montenegro.
+This document outlines how HMS-AGT is integrated with me-health systems in Montenegro.

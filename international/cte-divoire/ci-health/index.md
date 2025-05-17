@@ -1,4 +1,4 @@
-# ci_Health - Côte d'Ivoire Health Agency
+# ci-health - Côte d'Ivoire Health Agency
 
 ## Ministry of Health and Public Hygiene
 

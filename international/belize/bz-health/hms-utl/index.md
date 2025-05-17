@@ -1,4 +1,4 @@
-# HMS-UTL for bz_Health
+# HMS-UTL for bz-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Utilities
 
 ## Integration Points
 
-This document outlines how HMS-UTL is integrated with bz_Health systems in Belize.
+This document outlines how HMS-UTL is integrated with bz-health systems in Belize.

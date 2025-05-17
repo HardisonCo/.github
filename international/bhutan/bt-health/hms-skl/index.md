@@ -1,4 +1,4 @@
-# HMS-SKL for bt_Health
+# HMS-SKL for bt-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Skills Management
 
 ## Integration Points
 
-This document outlines how HMS-SKL is integrated with bt_Health systems in Bhutan.
+This document outlines how HMS-SKL is integrated with bt-health systems in Bhutan.

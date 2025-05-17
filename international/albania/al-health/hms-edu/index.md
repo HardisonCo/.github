@@ -1,4 +1,4 @@
-# HMS-EDU for al_Health
+# HMS-EDU for al-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Education System
 
 ## Integration Points
 
-This document outlines how HMS-EDU is integrated with al_Health systems in Albania.
+This document outlines how HMS-EDU is integrated with al-health systems in Albania.

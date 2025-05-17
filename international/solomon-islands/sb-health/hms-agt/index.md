@@ -1,4 +1,4 @@
-# HMS-AGT for sb_Health
+# HMS-AGT for sb-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Agent Tooling
 
 ## Integration Points
 
-This document outlines how HMS-AGT is integrated with sb_Health systems in Solomon Islands.
+This document outlines how HMS-AGT is integrated with sb-health systems in Solomon Islands.

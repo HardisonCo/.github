@@ -1,4 +1,4 @@
-# HMS-GOV for ve_Health
+# HMS-GOV for ve-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Governance Framework
 
 ## Integration Points
 
-This document outlines how HMS-GOV is integrated with ve_Health systems in Bolivarian Republic of Venezuela.
+This document outlines how HMS-GOV is integrated with ve-health systems in Bolivarian Republic of Venezuela.

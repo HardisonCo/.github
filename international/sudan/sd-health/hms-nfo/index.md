@@ -1,4 +1,4 @@
-# HMS-NFO for sd_Health
+# HMS-NFO for sd-health
 
 ## Description
 
@@ -6,4 +6,4 @@ National Financial Organizations
 
 ## Integration Points
 
-This document outlines how HMS-NFO is integrated with sd_Health systems in Sudan.
+This document outlines how HMS-NFO is integrated with sd-health systems in Sudan.

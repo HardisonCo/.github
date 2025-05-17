@@ -1,4 +1,4 @@
-# HMS-MFE for ng_Health
+# HMS-MFE for ng-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Micro Frontend Engine
 
 ## Integration Points
 
-This document outlines how HMS-MFE is integrated with ng_Health systems in Nigeria.
+This document outlines how HMS-MFE is integrated with ng-health systems in Nigeria.

@@ -1,4 +1,4 @@
-# zw_Health - Zimbabwe Health Agency
+# zw-health - Zimbabwe Health Agency
 
 ## Ministry of Health and Child Care
 

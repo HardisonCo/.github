@@ -1,4 +1,4 @@
-# HMS-AGT for ng_Health
+# HMS-AGT for ng-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Agent Tooling
 
 ## Integration Points
 
-This document outlines how HMS-AGT is integrated with ng_Health systems in Nigeria.
+This document outlines how HMS-AGT is integrated with ng-health systems in Nigeria.

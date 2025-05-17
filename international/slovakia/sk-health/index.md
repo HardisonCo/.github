@@ -1,4 +1,4 @@
-# sk_Health - Slovakia Health Agency
+# sk-health - Slovakia Health Agency
 
 ## Ministry of Health of the Slovak Republic
 

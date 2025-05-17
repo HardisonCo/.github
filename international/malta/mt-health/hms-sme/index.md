@@ -1,4 +1,4 @@
-# HMS-SME for mt_Health
+# HMS-SME for mt-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Subject Matter Expertise
 
 ## Integration Points
 
-This document outlines how HMS-SME is integrated with mt_Health systems in Malta.
+This document outlines how HMS-SME is integrated with mt-health systems in Malta.

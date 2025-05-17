@@ -1,4 +1,4 @@
-# HMS-A2A for tl_Health
+# HMS-A2A for tl-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Agent-to-Agent Communication System
 
 ## Integration Points
 
-This document outlines how HMS-A2A is integrated with tl_Health systems in Timor-Leste.
+This document outlines how HMS-A2A is integrated with tl-health systems in Timor-Leste.

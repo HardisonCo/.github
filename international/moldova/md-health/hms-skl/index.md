@@ -1,4 +1,4 @@
-# HMS-SKL for md_Health
+# HMS-SKL for md-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Skills Management
 
 ## Integration Points
 
-This document outlines how HMS-SKL is integrated with md_Health systems in Moldova.
+This document outlines how HMS-SKL is integrated with md-health systems in Moldova.

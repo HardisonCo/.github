@@ -1,4 +1,4 @@
-# HMS-ESR for tl_Health
+# HMS-ESR for tl-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Economic System Representation
 
 ## Integration Points
 
-This document outlines how HMS-ESR is integrated with tl_Health systems in Timor-Leste.
+This document outlines how HMS-ESR is integrated with tl-health systems in Timor-Leste.

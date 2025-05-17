@@ -1,4 +1,4 @@
-# HMS-SKL for to_Health
+# HMS-SKL for to-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Skills Management
 
 ## Integration Points
 
-This document outlines how HMS-SKL is integrated with to_Health systems in Tonga.
+This document outlines how HMS-SKL is integrated with to-health systems in Tonga.

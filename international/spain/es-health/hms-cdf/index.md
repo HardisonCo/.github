@@ -1,4 +1,4 @@
-# HMS-CDF for es_Health
+# HMS-CDF for es-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Collaborative Decision Framework
 
 ## Integration Points
 
-This document outlines how HMS-CDF is integrated with es_Health systems in Spain.
+This document outlines how HMS-CDF is integrated with es-health systems in Spain.

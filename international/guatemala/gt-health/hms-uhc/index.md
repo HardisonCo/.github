@@ -1,4 +1,4 @@
-# HMS-UHC for gt_Health
+# HMS-UHC for gt-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Universal Healthcare Components
 
 ## Integration Points
 
-This document outlines how HMS-UHC is integrated with gt_Health systems in Guatemala.
+This document outlines how HMS-UHC is integrated with gt-health systems in Guatemala.

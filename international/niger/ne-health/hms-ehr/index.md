@@ -1,4 +1,4 @@
-# HMS-EHR for ne_Health
+# HMS-EHR for ne-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Electronic Health Records
 
 ## Integration Points
 
-This document outlines how HMS-EHR is integrated with ne_Health systems in Niger.
+This document outlines how HMS-EHR is integrated with ne-health systems in Niger.

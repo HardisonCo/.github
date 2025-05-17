@@ -1,4 +1,4 @@
-# HMS-MKT for gr_Health
+# HMS-MKT for gr-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Market Analytics
 
 ## Integration Points
 
-This document outlines how HMS-MKT is integrated with gr_Health systems in Hellenic Republic.
+This document outlines how HMS-MKT is integrated with gr-health systems in Hellenic Republic.

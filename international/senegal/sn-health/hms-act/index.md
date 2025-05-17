@@ -1,4 +1,4 @@
-# HMS-ACT for sn_Health
+# HMS-ACT for sn-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Agent Collaboration Tools
 
 ## Integration Points
 
-This document outlines how HMS-ACT is integrated with sn_Health systems in Senegal.
+This document outlines how HMS-ACT is integrated with sn-health systems in Senegal.

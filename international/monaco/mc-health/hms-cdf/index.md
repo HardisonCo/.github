@@ -1,4 +1,4 @@
-# HMS-CDF for mc_Health
+# HMS-CDF for mc-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Collaborative Decision Framework
 
 ## Integration Points
 
-This document outlines how HMS-CDF is integrated with mc_Health systems in Monaco.
+This document outlines how HMS-CDF is integrated with mc-health systems in Monaco.

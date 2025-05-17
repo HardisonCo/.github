@@ -1,4 +1,4 @@
-# HMS-A2A for pt_Health
+# HMS-A2A for pt-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Agent-to-Agent Communication System
 
 ## Integration Points
 
-This document outlines how HMS-A2A is integrated with pt_Health systems in Portugal.
+This document outlines how HMS-A2A is integrated with pt-health systems in Portugal.

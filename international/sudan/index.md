@@ -2,7 +2,7 @@
 
 ## Agencies
 
-- [sd_Health](sd_Health/index.md) - Ministry of Health of Sudan
+- [sd-health](sd-health/index.md) - Ministry of Health of Sudan
 
 ## HMS Implementation Status
 

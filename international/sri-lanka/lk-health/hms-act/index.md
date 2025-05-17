@@ -1,4 +1,4 @@
-# HMS-ACT for lk_Health
+# HMS-ACT for lk-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Agent Collaboration Tools
 
 ## Integration Points
 
-This document outlines how HMS-ACT is integrated with lk_Health systems in Sri Lanka.
+This document outlines how HMS-ACT is integrated with lk-health systems in Sri Lanka.

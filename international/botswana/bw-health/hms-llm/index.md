@@ -1,4 +1,4 @@
-# HMS-LLM for bw_Health
+# HMS-LLM for bw-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Large Language Model Operations Platform
 
 ## Integration Points
 
-This document outlines how HMS-LLM is integrated with bw_Health systems in Botswana.
+This document outlines how HMS-LLM is integrated with bw-health systems in Botswana.

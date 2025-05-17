@@ -1,4 +1,4 @@
-# HMS-EMR for sd_Health
+# HMS-EMR for sd-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Electronic Medical Records
 
 ## Integration Points
 
-This document outlines how HMS-EMR is integrated with sd_Health systems in Sudan.
+This document outlines how HMS-EMR is integrated with sd-health systems in Sudan.

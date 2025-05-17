@@ -1,4 +1,4 @@
-# HMS-ESR for cv_Health
+# HMS-ESR for cv-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Economic System Representation
 
 ## Integration Points
 
-This document outlines how HMS-ESR is integrated with cv_Health systems in Cape Verde.
+This document outlines how HMS-ESR is integrated with cv-health systems in Cape Verde.

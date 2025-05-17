@@ -2,7 +2,7 @@
 
 ## Agencies
 
-- [vc_Health](vc_Health/index.md) - Ministry of Health and Wellness
+- [vc-health](vc-health/index.md) - Ministry of Health and Wellness
 
 ## HMS Implementation Status
 

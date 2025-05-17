@@ -1,4 +1,4 @@
-# HMS-ACT for ug_Health
+# HMS-ACT for ug-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Agent Collaboration Tools
 
 ## Integration Points
 
-This document outlines how HMS-ACT is integrated with ug_Health systems in Uganda.
+This document outlines how HMS-ACT is integrated with ug-health systems in Uganda.

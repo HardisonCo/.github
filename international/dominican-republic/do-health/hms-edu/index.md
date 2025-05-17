@@ -1,4 +1,4 @@
-# HMS-EDU for do_Health
+# HMS-EDU for do-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Education System
 
 ## Integration Points
 
-This document outlines how HMS-EDU is integrated with do_Health systems in Dominican Republic.
+This document outlines how HMS-EDU is integrated with do-health systems in Dominican Republic.

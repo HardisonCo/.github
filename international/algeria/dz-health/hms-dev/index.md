@@ -1,4 +1,4 @@
-# HMS-DEV for dz_Health
+# HMS-DEV for dz-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Development Framework
 
 ## Integration Points
 
-This document outlines how HMS-DEV is integrated with dz_Health systems in Algeria.
+This document outlines how HMS-DEV is integrated with dz-health systems in Algeria.

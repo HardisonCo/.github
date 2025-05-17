@@ -1,4 +1,4 @@
-# HMS-EHR for gt_Health
+# HMS-EHR for gt-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Electronic Health Records
 
 ## Integration Points
 
-This document outlines how HMS-EHR is integrated with gt_Health systems in Guatemala.
+This document outlines how HMS-EHR is integrated with gt-health systems in Guatemala.

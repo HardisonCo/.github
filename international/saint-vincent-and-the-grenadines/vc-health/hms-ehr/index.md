@@ -1,4 +1,4 @@
-# HMS-EHR for vc_Health
+# HMS-EHR for vc-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Electronic Health Records
 
 ## Integration Points
 
-This document outlines how HMS-EHR is integrated with vc_Health systems in Saint Vincent and the Grenadines.
+This document outlines how HMS-EHR is integrated with vc-health systems in Saint Vincent and the Grenadines.

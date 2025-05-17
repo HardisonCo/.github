@@ -1,4 +1,4 @@
-# HMS-API for az_Health
+# HMS-API for az-health
 
 ## Description
 
@@ -6,4 +6,4 @@ API Services
 
 ## Integration Points
 
-This document outlines how HMS-API is integrated with az_Health systems in Azerbaijan.
+This document outlines how HMS-API is integrated with az-health systems in Azerbaijan.

@@ -1,4 +1,4 @@
-# HMS-LLM for tn_Health
+# HMS-LLM for tn-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Large Language Model Operations Platform
 
 ## Integration Points
 
-This document outlines how HMS-LLM is integrated with tn_Health systems in Tunisia.
+This document outlines how HMS-LLM is integrated with tn-health systems in Tunisia.

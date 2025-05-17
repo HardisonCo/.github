@@ -1,4 +1,4 @@
-# HMS-DEV for hu_Health
+# HMS-DEV for hu-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Development Framework
 
 ## Integration Points
 
-This document outlines how HMS-DEV is integrated with hu_Health systems in Hungary.
+This document outlines how HMS-DEV is integrated with hu-health systems in Hungary.

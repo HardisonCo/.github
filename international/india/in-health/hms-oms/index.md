@@ -1,4 +1,4 @@
-# HMS-OMS for in_Health
+# HMS-OMS for in-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Order Management System
 
 ## Integration Points
 
-This document outlines how HMS-OMS is integrated with in_Health systems in India.
+This document outlines how HMS-OMS is integrated with in-health systems in India.

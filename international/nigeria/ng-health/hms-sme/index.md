@@ -1,4 +1,4 @@
-# HMS-SME for ng_Health
+# HMS-SME for ng-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Subject Matter Expertise
 
 ## Integration Points
 
-This document outlines how HMS-SME is integrated with ng_Health systems in Nigeria.
+This document outlines how HMS-SME is integrated with ng-health systems in Nigeria.

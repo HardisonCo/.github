@@ -1,4 +1,4 @@
-# HMS-ESQ for gy_Health
+# HMS-ESQ for gy-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Enhanced System Quality
 
 ## Integration Points
 
-This document outlines how HMS-ESQ is integrated with gy_Health systems in Cooperative Republic of Guyana.
+This document outlines how HMS-ESQ is integrated with gy-health systems in Cooperative Republic of Guyana.

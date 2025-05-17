@@ -1,4 +1,4 @@
-# HMS-MKT for sa_Health
+# HMS-MKT for sa-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Market Analytics
 
 ## Integration Points
 
-This document outlines how HMS-MKT is integrated with sa_Health systems in Saudi Arabia.
+This document outlines how HMS-MKT is integrated with sa-health systems in Saudi Arabia.

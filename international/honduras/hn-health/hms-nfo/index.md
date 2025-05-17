@@ -1,4 +1,4 @@
-# HMS-NFO for hn_Health
+# HMS-NFO for hn-health
 
 ## Description
 
@@ -6,4 +6,4 @@ National Financial Organizations
 
 ## Integration Points
 
-This document outlines how HMS-NFO is integrated with hn_Health systems in Honduras.
+This document outlines how HMS-NFO is integrated with hn-health systems in Honduras.

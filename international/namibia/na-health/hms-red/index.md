@@ -1,4 +1,4 @@
-# HMS-RED for na_Health
+# HMS-RED for na-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Reactive Data Engine
 
 ## Integration Points
 
-This document outlines how HMS-RED is integrated with na_Health systems in Namibia.
+This document outlines how HMS-RED is integrated with na-health systems in Namibia.

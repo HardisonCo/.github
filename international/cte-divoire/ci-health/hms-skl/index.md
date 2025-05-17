@@ -1,4 +1,4 @@
-# HMS-SKL for ci_Health
+# HMS-SKL for ci-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Skills Management
 
 ## Integration Points
 
-This document outlines how HMS-SKL is integrated with ci_Health systems in Côte d'Ivoire.
+This document outlines how HMS-SKL is integrated with ci-health systems in Côte d'Ivoire.

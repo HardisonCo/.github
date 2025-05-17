@@ -1,4 +1,4 @@
-# sl_Health - Sierra Leone Health Agency
+# sl-health - Sierra Leone Health Agency
 
 ## Ministry of Health and Sanitation
 

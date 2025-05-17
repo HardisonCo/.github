@@ -1,4 +1,4 @@
-# HMS-ESQ for dj_Health
+# HMS-ESQ for dj-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Enhanced System Quality
 
 ## Integration Points
 
-This document outlines how HMS-ESQ is integrated with dj_Health systems in Djibouti.
+This document outlines how HMS-ESQ is integrated with dj-health systems in Djibouti.

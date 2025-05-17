@@ -1,4 +1,4 @@
-# HMS-ACH for az_Health
+# HMS-ACH for az-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Automated Clearing House
 
 ## Integration Points
 
-This document outlines how HMS-ACH is integrated with az_Health systems in Azerbaijan.
+This document outlines how HMS-ACH is integrated with az-health systems in Azerbaijan.

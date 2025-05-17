@@ -1,4 +1,4 @@
-# HMS-UHC for mv_Health
+# HMS-UHC for mv-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Universal Healthcare Components
 
 ## Integration Points
 
-This document outlines how HMS-UHC is integrated with mv_Health systems in Maldives.
+This document outlines how HMS-UHC is integrated with mv-health systems in Maldives.

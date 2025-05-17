@@ -1,4 +1,4 @@
-# HMS-GOV for uz_Health
+# HMS-GOV for uz-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Governance Framework
 
 ## Integration Points
 
-This document outlines how HMS-GOV is integrated with uz_Health systems in Uzbekistan.
+This document outlines how HMS-GOV is integrated with uz-health systems in Uzbekistan.

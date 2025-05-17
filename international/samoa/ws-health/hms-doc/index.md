@@ -1,4 +1,4 @@
-# HMS-DOC for ws_Health
+# HMS-DOC for ws-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Documentation System
 
 ## Integration Points
 
-This document outlines how HMS-DOC is integrated with ws_Health systems in Samoa.
+This document outlines how HMS-DOC is integrated with ws-health systems in Samoa.

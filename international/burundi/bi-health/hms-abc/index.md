@@ -1,4 +1,4 @@
-# HMS-ABC for bi_Health
+# HMS-ABC for bi-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Adaptive Business Capabilities
 
 ## Integration Points
 
-This document outlines how HMS-ABC is integrated with bi_Health systems in Burundi.
+This document outlines how HMS-ABC is integrated with bi-health systems in Burundi.

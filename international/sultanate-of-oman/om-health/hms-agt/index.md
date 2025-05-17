@@ -1,4 +1,4 @@
-# HMS-AGT for om_Health
+# HMS-AGT for om-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Agent Tooling
 
 ## Integration Points
 
-This document outlines how HMS-AGT is integrated with om_Health systems in Sultanate of Oman.
+This document outlines how HMS-AGT is integrated with om-health systems in Sultanate of Oman.

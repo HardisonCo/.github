@@ -1,4 +1,4 @@
-# HMS-EMR for bi_Health
+# HMS-EMR for bi-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Electronic Medical Records
 
 ## Integration Points
 
-This document outlines how HMS-EMR is integrated with bi_Health systems in Burundi.
+This document outlines how HMS-EMR is integrated with bi-health systems in Burundi.

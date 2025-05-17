@@ -1,4 +1,4 @@
-# HMS-EDU for kg_Health
+# HMS-EDU for kg-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Education System
 
 ## Integration Points
 
-This document outlines how HMS-EDU is integrated with kg_Health systems in Kyrgyzstan.
+This document outlines how HMS-EDU is integrated with kg-health systems in Kyrgyzstan.

@@ -1,4 +1,4 @@
-# HMS-FLD for ch_Health
+# HMS-FLD for ch-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Field Data Collection
 
 ## Integration Points
 
-This document outlines how HMS-FLD is integrated with ch_Health systems in Switzerland.
+This document outlines how HMS-FLD is integrated with ch-health systems in Switzerland.

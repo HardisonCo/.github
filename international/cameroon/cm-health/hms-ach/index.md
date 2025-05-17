@@ -1,4 +1,4 @@
-# HMS-ACH for cm_Health
+# HMS-ACH for cm-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Automated Clearing House
 
 ## Integration Points
 
-This document outlines how HMS-ACH is integrated with cm_Health systems in Cameroon.
+This document outlines how HMS-ACH is integrated with cm-health systems in Cameroon.

@@ -2,7 +2,7 @@
 
 ## Agencies
 
-- [ci_Health](ci_Health/index.md) - Ministry of Health and Public Hygiene
+- [ci-health](ci-health/index.md) - Ministry of Health and Public Hygiene
 
 ## HMS Implementation Status
 

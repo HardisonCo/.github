@@ -1,4 +1,4 @@
-# HMS-FLD for de_Health
+# HMS-FLD for de-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Field Data Collection
 
 ## Integration Points
 
-This document outlines how HMS-FLD is integrated with de_Health systems in Germany.
+This document outlines how HMS-FLD is integrated with de-health systems in Germany.

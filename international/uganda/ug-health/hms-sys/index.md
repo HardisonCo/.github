@@ -1,4 +1,4 @@
-# HMS-SYS for ug_Health
+# HMS-SYS for ug-health
 
 ## Description
 
@@ -6,4 +6,4 @@ System Core
 
 ## Integration Points
 
-This document outlines how HMS-SYS is integrated with ug_Health systems in Uganda.
+This document outlines how HMS-SYS is integrated with ug-health systems in Uganda.

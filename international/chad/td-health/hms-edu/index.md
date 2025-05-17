@@ -1,4 +1,4 @@
-# HMS-EDU for td_Health
+# HMS-EDU for td-health
 
 ## Description
 
@@ -6,4 +6,4 @@ Education System
 
 ## Integration Points
 
-This document outlines how HMS-EDU is integrated with td_Health systems in Chad.
+This document outlines how HMS-EDU is integrated with td-health systems in Chad.
