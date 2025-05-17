@@ -1,0 +1,80 @@
+{
+  "component": "HMS-A2A",
+  "generated_at": "2025-05-01T12:24:06.684176",
+  "operational_status": "operational",
+  "repository": {
+    "last_commit": "fbee6fd58b71fdcb5dcab3eda93b176c8a0a1998",
+    "description": "[![Language: Python](https://img.shields.io/badge/language-Python-blue.svg)](https://www.python.org/)\n[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)",
+    "tech_stack": {
+      "languages": [
+        "Python"
+      ],
+      "frameworks": [
+        "LangChain",
+        "FastAPI"
+      ],
+      "databases": [
+        "PostgreSQL"
+      ],
+      "key_libraries": [
+        "PyTorch",
+        "Transformers",
+        "Redis"
+      ]
+    },
+    "integration_points": [
+      "HMS-MCP",
+      "HMS-DEV",
+      "HMS-DOC",
+      "HMS-CDF"
+    ],
+    "architecture": {
+      "pattern": "layered",
+      "key_dirs": [
+        "data"
+      ],
+      "entry_points": []
+    }
+  },
+  "status": {
+    "last_start": "2025-05-01T12:24:06.683638",
+    "start_attempts": 2,
+    "start_successes": 1,
+    "start_failures": 1,
+    "last_test_run": "2025-05-01T12:24:06.683898",
+    "test_runs": 1,
+    "test_passes": 1,
+    "test_failures": 0,
+    "last_test_results": {
+      "passed": 48,
+      "failed": 0,
+      "skipped": 2,
+      "duration": 4.150493876168934
+    }
+  },
+  "issues": [
+    {
+      "id": "6891c2f0-3dac-4653-a826-27d691ea58dc",
+      "type": "start_failure",
+      "component": "HMS-A2A",
+      "timestamp": "2025-05-01T12:23:50.822531",
+      "details": {
+        "output": "ERROR: Port 3048 already in use"
+      },
+      "status": "open"
+    }
+  ],
+  "work_items": [
+    {
+      "type": "enhancement",
+      "priority": "low",
+      "description": "Add integration tests for HMS-A2A with HMS-MCP, HMS-DEV, HMS-DOC, HMS-CDF",
+      "assigned_to": "HMS-AGT-A2A",
+      "suggested_actions": [
+        "Develop integration tests for HMS-A2A with its integration points",
+        "Set up test fixtures for integration testing",
+        "Add CI configuration for integration tests"
+      ]
+    }
+  ]
+}

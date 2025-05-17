@@ -1,0 +1,66 @@
+{
+  "component": "HMS-EMR",
+  "generated_at": "2025-05-01T12:24:06.707216",
+  "operational_status": "operational",
+  "repository": {
+    "last_commit": "",
+    "description": "<a href=\"https://github.com/fastenhealth/fasten-onprem\">\n  <img width=\"400\" alt=\"fasten_view\" src=\"frontend/src/assets/banner/banner.png\">\n  </a>\n</p>",
+    "tech_stack": {
+      "languages": [
+        "Go"
+      ],
+      "frameworks": [
+        "Fiber"
+      ],
+      "databases": [
+        "PostgreSQL",
+        "TimeScale"
+      ],
+      "key_libraries": [
+        "GORM",
+        "Go-kit",
+        "Tygo"
+      ]
+    },
+    "integration_points": [
+      "HMS-EHR",
+      "HMS-API",
+      "HMS-UHC"
+    ],
+    "architecture": {
+      "pattern": "unknown",
+      "key_dirs": [],
+      "entry_points": []
+    }
+  },
+  "status": {
+    "last_start": "2025-05-01T12:24:06.706936",
+    "start_attempts": 1,
+    "start_successes": 1,
+    "start_failures": 0,
+    "last_test_run": "2025-05-01T12:24:06.707031",
+    "test_runs": 1,
+    "test_passes": 1,
+    "test_failures": 0,
+    "last_test_results": {
+      "passed": 43,
+      "failed": 0,
+      "skipped": 2,
+      "duration": 9.07112671160965
+    }
+  },
+  "issues": [],
+  "work_items": [
+    {
+      "type": "enhancement",
+      "priority": "low",
+      "description": "Add integration tests for HMS-EMR with HMS-EHR, HMS-API, HMS-UHC",
+      "assigned_to": "HMS-AGT-EMR",
+      "suggested_actions": [
+        "Develop integration tests for HMS-EMR with its integration points",
+        "Set up test fixtures for integration testing",
+        "Add CI configuration for integration tests"
+      ]
+    }
+  ]
+}

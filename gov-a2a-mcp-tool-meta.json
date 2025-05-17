@@ -1,0 +1,2300 @@
+[
+    {
+      "description": "Mapping of US Federal Agencies to relevant A2A Agent types and the conceptual MCP Tools required to fulfill agency missions, designed according to A2A/MCP standards.",
+      "agencyMappings": [
+        {
+          "agencyLabel": "ADF",
+          "agencyName": "United States African Development Foundation (USADF)",
+          "agencyMission": "Supports African-led development by providing seed capital and technical support to community enterprises, focusing on underserved and marginalized populations in Africa.",
+          "relevantAgentTypes": [
+            "financial-agent",
+            "non-profit-organizations-agent",
+            "project-management-agent",
+            "sustainable-development-agent",
+            "agriculture-agent",
+            "research-services-agent"
+          ],
+          "neededMCPTools": [
+            {
+              "toolName": "grant-proposal-evaluator",
+              "description": "Evaluates grant proposals from African enterprises based on criteria like community impact, sustainability, and financial viability.",
+              "relevantAgentDomains": ["financial-agent", "non-profit-organizations-agent", "sustainable-development-agent"],
+              "potentialStandards": ["USADF_GRANT_POLICY", "IMPACT_INVESTING_METRICS", "FINANCIAL_VIABILITY_ASSESSMENT"],
+              "potentialHITLConditions": ["High-value grants", "Proposals in high-risk regions", "Novel development approaches", "Potential compliance flags"]
+            },
+            {
+              "toolName": "community-enterprise-monitor",
+              "description": "Tracks progress, financial health, and social impact metrics (jobs, income) of funded enterprises.",
+              "relevantAgentDomains": ["project-management-agent", "research-services-agent", "financial-agent"],
+              "potentialStandards": ["USADF_REPORTING_REQS", "SOCIAL_IMPACT_MEASUREMENT", "DEVELOPMENT_ECONOMICS_KPI"],
+              "potentialHITLConditions": ["Significant deviations from plan", "Negative impact reports", "Data inconsistencies"]
+            },
+            {
+              "toolName": "technical-assistance-matcher",
+              "description": "Identifies and matches technical support needs of grantees with available resources or consultants.",
+              "relevantAgentDomains": ["project-management-agent", "sustainable-development-agent", "agriculture-agent"],
+              "potentialStandards": ["CAPACITY_BUILDING_FRAMEWORKS", "SKILLS_GAP_ANALYSIS"],
+              "potentialHITLConditions": ["Requests for highly specialized expertise", "Persistent lack of progress despite support"]
+            }
+          ]
+        },
+        {
+          "agencyLabel": "CIA",
+          "agencyName": "Central Intelligence Agency",
+          "agencyMission": "Employs advanced analytics and machine learning to gather intelligence and safeguard national security interests.",
+          "relevantAgentTypes": [
+            "data-science-agent",
+            "linguistic-analysis-agent",
+            "geospatial-sciences-agent",
+            "cybersecurity-agent",
+            "research-services-agent",
+            "political-services-agent"
+          ],
+          "neededMCPTools": [
+            {
+              "toolName": "intelligence-data-analyzer",
+              "description": "Processes, analyzes, and correlates diverse data streams (SIGINT, HUMINT, OSINT, GEOINT) to identify patterns, threats, and opportunities.",
+              "relevantAgentDomains": ["data-science-agent", "research-services-agent", "political-services-agent"],
+              "potentialStandards": ["ICD_203", "ANALYTIC_TRADEGRAFT", "CLASSIFICATION_GUIDELINES", "STATISTICAL_INFERENCE"],
+              "potentialHITLConditions": ["High-confidence threat detection", "Detection of significant anomalies", "Analysis requiring subjective interpretation or ethical review", "Cross-domain data fusion conflicts"]
+            },
+            {
+              "toolName": "threat-actor-profiler",
+              "description": "Builds profiles of individuals, groups, or state actors based on collected intelligence, predicting potential actions.",
+              "relevantAgentDomains": ["research-services-agent", "political-services-agent", "data-science-agent"],
+              "potentialStandards": ["INTELLIGENCE_ANALYSIS_METHODOLOGIES", "BEHAVIORAL_MODELING", "PRIVACY_ACT_CONSIDERATIONS"],
+              "potentialHITLConditions": ["Profiles involving US persons", "Predictions of imminent high-impact actions", "Analyses based on low-confidence data"]
+            },
+            {
+              "toolName": "geospatial-intelligence-mapper",
+              "description": "Analyzes satellite imagery and other geospatial data to monitor activities, identify locations, and assess infrastructure.",
+              "relevantAgentDomains": ["geospatial-sciences-agent", "data-science-agent"],
+              "potentialStandards": ["NGA_STANDARDS", "IMAGERY_ANALYSIS_PROTOCOLS", "GIS_DATA_INTEGRITY"],
+              "potentialHITLConditions": ["Identification of critical infrastructure", "Detection of significant military movements", "Analysis of denied areas"]
+            },
+            {
+              "toolName": "foreign-language-processor",
+              "description": "Translates, transcribes, and analyzes foreign language communications or documents for intelligence value.",
+              "relevantAgentDomains": ["linguistic-analysis-agent", "data-science-agent"],
+              "potentialStandards": ["ILR_LANGUAGE_PROFICIENCY", "TRANSLATION_ACCURACY_METRICS", "CULTURAL_CONTEXT_ANALYSIS"],
+              "potentialHITLConditions": ["Ambiguous language requiring human interpretation", "Analysis of high-priority communications", "Detection of coded language"]
+            }
+          ]
+        },
+        {
+          "agencyLabel": "CFTC",
+          "agencyName": "Commodity Futures Trading Commission",
+          "agencyMission": "Regulates commodity futures and options markets, protecting participants from fraud and market manipulation.",
+          "relevantAgentTypes": [
+            "financial-agent",
+            "regulatory-compliance-agent",
+            "data-science-agent",
+            "legal-agent",
+            "economics-agent" /* Assuming an implicit economics agent */
+          ],
+          "neededMCPTools": [
+            {
+              "toolName": "market-surveillance-analyzer",
+              "description": "Monitors trading activity in futures and options markets to detect potential manipulation, fraud, or rule violations.",
+              "relevantAgentDomains": ["data-science-agent", "financial-agent", "regulatory-compliance-agent"],
+              "potentialStandards": ["CFTC_REGULATIONS", "DODD-FRANK_ACT", "MARKET_SURVEILLANCE_PROTOCOLS", "STATISTICAL_ANOMALY_DETECTION"],
+              "potentialHITLConditions": ["Detection of potential manipulative trading patterns (e.g., spoofing, wash trading)", "Alerts involving large market participants", "Systemic risk indicators"]
+            },
+            {
+              "toolName": "derivatives-registration-validator",
+              "description": "Processes and validates registration filings for market intermediaries (FCMs, CPOs, CTAs).",
+              "relevantAgentDomains": ["regulatory-compliance-agent", "legal-agent"],
+              "potentialStandards": ["NFA_RULES", "CFTC_REGISTRATION_REQS", "BACKGROUND_CHECK_PROCEDURES"],
+              "potentialHITLConditions": ["Applicants with prior disciplinary history", "Complex ownership structures", "Incomplete or potentially misleading disclosures"]
+            },
+            {
+              "toolName": "swap-data-reporter",
+              "description": "Collects, validates, and analyzes data reported to Swap Data Repositories (SDRs) for systemic risk monitoring.",
+              "relevantAgentDomains": ["data-science-agent", "regulatory-compliance-agent", "economics-agent"],
+              "potentialStandards": ["CFTC_SWAP_REPORTING_RULES", "DATA_QUALITY_STANDARDS", "SYSTEMIC_RISK_MODELING"],
+              "potentialHITLConditions": ["Large reporting errors or gaps", "Concentration risk alerts", "Anomalous swaps activity"]
+            },
+            {
+              "toolName": "enforcement-case-builder",
+              "description": "Compiles evidence, analyzes data, and prepares documentation for enforcement actions against market violators.",
+              "relevantAgentDomains": ["legal-agent", "regulatory-compliance-agent", "data-science-agent"],
+              "potentialStandards": ["ADMINISTRATIVE_PROCEDURE_ACT", "CFTC_ENFORCEMENT_MANUAL", "EVIDENCE_HANDLING"],
+              "potentialHITLConditions": ["Cases involving novel legal theories", "High-profile or systemic violations", "Insufficient evidence requiring investigative judgment"]
+            }
+          ]
+        },
+        {
+            "agencyLabel": "CFPB",
+            "agencyName": "Consumer Financial Protection Bureau",
+            "agencyMission": "Promotes fairness and transparency in financial markets, using data analytics to protect consumers from abusive practices.",
+            "relevantAgentTypes": [
+                "regulatory-compliance-agent",
+                "data-science-agent",
+                "legal-agent",
+                "financial-agent",
+                "customer-service-agent", /* For complaint intake */
+                "economics-agent"
+            ],
+            "neededMCPTools": [
+                {
+                    "toolName": "consumer-complaint-analyzer",
+                    "description": "Analyzes consumer complaint data to identify patterns of potential unfair, deceptive, or abusive acts or practices (UDAAP).",
+                    "relevantAgentDomains": ["data-science-agent", "regulatory-compliance-agent", "customer-service-agent"],
+                    "potentialStandards": ["UDAAP_STANDARDS", "FAIR_LENDING_LAWS", "NLP_ANALYSIS", "PRIVACY_ACT"],
+                    "potentialHITLConditions": ["High volume of complaints about specific product/company", "Patterns suggesting discrimination", "Emerging potentially abusive practices not yet codified"]
+                },
+                {
+                    "toolName": "financial-product-disclosure-reviewer",
+                    "description": "Reviews financial product disclosures (e.g., mortgages, credit cards) for clarity, transparency, and compliance with regulations like TILA and RESPA.",
+                    "relevantAgentDomains": ["regulatory-compliance-agent", "legal-agent"],
+                    "potentialStandards": ["TILA", "RESPA", "REG_Z", "PLAIN_LANGUAGE_GUIDELINES"],
+                    "potentialHITLConditions": ["Complex or potentially misleading disclosures", "Novel product structures", "Disclosures targeting vulnerable populations"]
+                },
+                {
+                    "toolName": "market-monitoring-risk-assessor",
+                    "description": "Monitors consumer financial markets using economic data and analytics to identify emerging risks to consumers.",
+                    "relevantAgentDomains": ["economics-agent", "data-science-agent", "financial-agent"],
+                    "potentialStandards": ["ECONOMIC_MODELING", "FINANCIAL_STABILITY_METRICS", "CONSUMER_BEHAVIOR_ANALYSIS"],
+                    "potentialHITLConditions": ["Rapid growth in high-risk lending products", "Indicators of potential market bubbles", "Evidence of widespread consumer misunderstanding of a product"]
+                },
+                {
+                    "toolName": "supervision-examination-planner",
+                    "description": "Uses risk-based analysis to prioritize and plan supervisory examinations of financial institutions.",
+                    "relevantAgentDomains": ["regulatory-compliance-agent", "data-science-agent"],
+                    "potentialStandards": ["CFPB_SUPERVISION_MANUAL", "RISK_BASED_SUPERVISION", "FAIR_LENDING_EXAM_PROCEDURES"],
+                    "potentialHITLConditions": ["Institutions with high complaint volumes or prior violations", "Examinations involving complex or systemic issues"]
+                }
+            ]
+        },
+        {
+            "agencyLabel": "CPSC",
+            "agencyName": "Consumer Product Safety Commission",
+            "agencyMission": "Enforces the Consumer Product Safety Act, ensuring that consumer products are safe for their intended use.",
+            "relevantAgentTypes": [
+                "regulatory-compliance-agent",
+                "engineering-services-agent", /* Product safety focus */
+                "data-science-agent", /* Analyzing hazard data */
+                "legal-agent", /* Enforcement actions */
+                "public-health-agent" /* Injury data */
+            ],
+            "neededMCPTools": [
+                {
+                    "toolName": "product-hazard-analyzer",
+                    "description": "Analyzes incident reports, injury data (NEISS), and testing results to identify emerging product hazards.",
+                    "relevantAgentDomains": ["data-science-agent", "public-health-agent", "regulatory-compliance-agent"],
+                    "potentialStandards": ["CPSA", "FHSA", "NEISS_CODING_MANUAL", "RISK_ASSESSMENT_METHODOLOGIES"],
+                    "potentialHITLConditions": ["Patterns indicating severe injury risk", "Hazards affecting vulnerable populations (children)", "Incidents involving novel products or technologies"]
+                },
+                {
+                    "toolName": "product-safety-standard-evaluator",
+                    "description": "Evaluates the effectiveness of existing mandatory or voluntary product safety standards and identifies needs for updates or new standards.",
+                    "relevantAgentDomains": ["engineering-services-agent", "regulatory-compliance-agent"],
+                    "potentialStandards": ["ASTM_STANDARDS", "ISO_PRODUCT_SAFETY", "CPSC_RULEMAKING_PROCEDURES"],
+                    "potentialHITLConditions": ["Standards failing to prevent known hazards", "Technological changes rendering standards obsolete", "Cost-benefit analysis requiring judgment"]
+                },
+                {
+                    "toolName": "recall-effectiveness-monitor",
+                    "description": "Tracks consumer response rates and effectiveness of product recalls, suggesting improvements to recall strategies.",
+                    "relevantAgentDomains": ["data-science-agent", "regulatory-compliance-agent", "public-relations-agent"], /* For communication aspect */
+                    "potentialStandards": ["CPSC_RECALL_HANDBOOK", "CONSUMER_RESPONSE_MODELING"],
+                    "potentialHITLConditions": ["Recalls with very low consumer response", "Recalled products continuing to cause injuries", "Difficult-to-reach consumer groups"]
+                },
+                {
+                    "toolName": "import-surveillance-screener",
+                    "description": "Screens import data in collaboration with CBP to identify potentially hazardous products before they enter the US market.",
+                    "relevantAgentDomains": ["regulatory-compliance-agent", "data-science-agent", "international-trade-agent"],
+                    "potentialStandards": ["CBP_IMPORT_RULES", "CPSC_IMPORT_SAFETY_REQS", "RISK_PROFILING"],
+                    "potentialHITLConditions": ["Shipments from high-risk manufacturers/countries", "Products matching known hazard profiles", "Targeting requiring significant resource allocation"]
+                }
+            ]
+        },
+        {
+            "agencyLabel": "DNFSB",
+            "agencyName": "Defense Nuclear Facilities Safety Board",
+            "agencyMission": "Provides oversight of public health and safety at defense nuclear facilities, employing advanced analytics to mitigate risks.",
+            "relevantAgentTypes": [
+                "nuclear-energy-agent", /* Safety focus */
+                "engineering-services-agent", /* Various disciplines */
+                "regulatory-compliance-agent",
+                "data-science-agent",
+                "health-physics-agent", /* Assuming implicit agent */
+                "scientific-research-agent" /* Materials, physics */
+            ],
+            "neededMCPTools": [
+                {
+                    "toolName": "nuclear-safety-assessment-analyzer",
+                    "description": "Reviews safety analysis reports (SARs), procedures, and operational data from DOE defense nuclear facilities to identify safety vulnerabilities.",
+                    "relevantAgentDomains": ["nuclear-energy-agent", "engineering-services-agent", "regulatory-compliance-agent", "data-science-agent"],
+                    "potentialStandards": ["DOE_NUCLEAR_SAFETY_ORDERS", "NRC_REGULATIONS" /* Comparative */, "PROBABILISTIC_RISK_ASSESSMENT", "SYSTEMS_ENGINEERING"],
+                    "potentialHITLConditions": ["Findings challenging DOE's safety basis", "Identification of potentially inadequate safety margins", "Analysis of complex, high-consequence scenarios"]
+                },
+                {
+                    "toolName": "facility-event-trend-evaluator",
+                    "description": "Analyzes operational events, near misses, and component failures at defense nuclear facilities to identify systemic safety issues or precursor events.",
+                    "relevantAgentDomains": ["data-science-agent", "nuclear-energy-agent", "engineering-services-agent"],
+                    "potentialStandards": ["EVENT_REPORTING_CRITERIA", "ROOT_CAUSE_ANALYSIS", "RELIABILITY_ENGINEERING"],
+                    "potentialHITLConditions": ["Recurring event patterns", "Events with potential common-cause failures", "Anomalous event rates"]
+                },
+                {
+                    "toolName": "safety-recommendation-tracker",
+                    "description": "Tracks the status and effectiveness of safety recommendations issued by the Board to the Department of Energy.",
+                    "relevantAgentDomains": ["regulatory-compliance-agent", "project-management-agent"],
+                    "potentialStandards": ["DNFSB_RECOMMENDATION_PROCESS", "EFFECTIVENESS_REVIEW"],
+                    "potentialHITLConditions": ["DOE disagreement with recommendations", "Lack of timely implementation", "Recommendations proving ineffective"]
+                },
+                {
+                    "toolName": "technical-qualification-verifier",
+                    "description": "Reviews the technical qualifications and training programs for personnel operating defense nuclear facilities.",
+                    "relevantAgentDomains": ["engineering-services-agent", "nuclear-energy-agent", "human-resources-agent"], /* Training aspect */
+                    "potentialStandards": ["DOE_TRAINING_QUAL_ORDERS", "ANSI_TRAINING_STANDARDS"],
+                    "potentialHITLConditions": ["Identified gaps in critical skills", "Inadequate training for complex operations", "High staff turnover in safety-critical positions"]
+                }
+            ]
+        },
+        {
+            "agencyLabel": "EEOC",
+            "agencyName": "Equal Employment Opportunity Commission",
+            "agencyMission": "Uses data-driven tools to investigate and prevent workplace discrimination, advancing equal opportunities for all employees.",
+            "relevantAgentTypes": [
+                "legal-agent",
+                "regulatory-compliance-agent",
+                "data-science-agent",
+                "human-resources-agent",
+                "research-services-agent", /* For systemic studies */
+                "ethics-compliance-agent"
+            ],
+            "neededMCPTools": [
+                {
+                    "toolName": "discrimination-charge-investigator",
+                    "description": "Intakes, analyzes, and investigates charges of employment discrimination based on protected characteristics (race, sex, religion, age, disability, etc.).",
+                    "relevantAgentDomains": ["legal-agent", "regulatory-compliance-agent", "human-resources-agent"],
+                    "potentialStandards": ["TITLE_VII", "ADA", "ADEA", "EEOC_INVESTIGATIVE_PROCEDURES"],
+                    "potentialHITLConditions": ["Charges alleging systemic discrimination", "Cases involving novel legal issues", "Conflicting evidence requiring credibility assessments"]
+                },
+                {
+                    "toolName": "eeo-data-analyzer",
+                    "description": "Analyzes workforce demographic data (EEO-1 reports) and employment patterns to identify potential systemic discrimination.",
+                    "relevantAgentDomains": ["data-science-agent", "research-services-agent", "legal-agent"],
+                    "potentialStandards": ["STATISTICAL_DISPARITY_ANALYSIS", "UNIFORM_GUIDELINES_EMPLOYEE_SELECTION", "ADVERSE_IMPACT_ANALYSIS"],
+                    "potentialHITLConditions": ["Significant statistical disparities unexplained by neutral factors", "Patterns suggesting discriminatory impact of specific policies", "Analysis requiring complex statistical modeling"]
+                },
+                {
+                    "toolName": "mediation-conciliation-facilitator",
+                    "description": "Facilitates mediation and conciliation attempts between charging parties and employers to resolve discrimination charges.",
+                    "relevantAgentDomains": ["legal-agent", "human-resources-agent"],
+                    "potentialStandards": ["EEOC_MEDIATION_PROGRAM_GUIDELINES", "ALTERNATIVE_DISPUTE_RESOLUTION"],
+                    "potentialHITLConditions": ["Cases where conciliation fails, potentially leading to litigation", "Settlements involving significant policy changes or monetary relief"]
+                },
+                {
+                    "toolName": "reasonable-accommodation-assessor",
+                    "description": "Evaluates requests for reasonable accommodation under the ADA, considering essential job functions and undue hardship.",
+                    "relevantAgentDomains": ["legal-agent", "human-resources-agent", "accessibility-services-agent", "ergonomics-agent"],
+                    "potentialStandards": ["ADA_TITLE_I", "EEOC_RA_GUIDANCE", "JOB_ANALYSIS_TECHNIQUES"],
+                    "potentialHITLConditions": ["Complex accommodation requests", "Disputes over 'essential functions' or 'undue hardship'", "Cases involving interplay with FMLA or workers' comp"]
+                }
+            ]
+        },
+         {
+          "agencyLabel": "EXIM",
+          "agencyName": "Export-Import Bank of the United States",
+          "agencyMission": "Expands U.S. trade by providing export financing solutions that support jobs and economic growth.",
+          "relevantAgentTypes": [
+            "financial-agent",
+            "international-trade-agent",
+            "regulatory-compliance-agent",
+            "economics-agent",
+            "legal-agent" /* For financing agreements */
+          ],
+          "neededMCPTools": [
+            {
+              "toolName": "export-finance-underwriter",
+              "description": "Analyzes applications for export loans, loan guarantees, and credit insurance, assessing credit risk of foreign buyers and country risk.",
+              "relevantAgentDomains": ["financial-agent", "international-trade-agent", "economics-agent"],
+              "potentialStandards": ["EXIM_CREDIT_POLICIES", "OECD_EXPORT_CREDIT_ARRANGEMENT", "COUNTRY_RISK_ASSESSMENT", "FINANCIAL_STATEMENT_ANALYSIS"],
+              "potentialHITLConditions": ["Large transaction values", "Deals in high-risk countries or sectors", "Financing requiring congressional notification", "Applications involving potential environmental or social policy violations"]
+            },
+            {
+              "toolName": "us-content-verifier",
+              "description": "Verifies the US content of goods and services being exported to ensure eligibility for EXIM support.",
+              "relevantAgentDomains": ["regulatory-compliance-agent", "international-trade-agent"],
+              "potentialStandards": ["EXIM_CONTENT_POLICY", "RULES_OF_ORIGIN"],
+              "potentialHITLConditions": ["Complex supply chains making content calculation difficult", "Disputes over content classification", "Potential circumvention attempts"]
+            },
+            {
+              "toolName": "economic-impact-analyzer",
+              "description": "Assesses the potential impact of EXIM-supported transactions on U.S. employment and economic output.",
+              "relevantAgentDomains": ["economics-agent", "data-science-agent"],
+              "potentialStandards": ["ECONOMIC_IMPACT_MODELING", "INPUT_OUTPUT_ANALYSIS"],
+              "potentialHITLConditions": ["Transactions potentially harming competing US industries", "Analysis involving significant economic uncertainty"]
+            },
+            {
+              "toolName": "loan-portfolio-manager",
+              "description": "Monitors the performance of the existing loan and guarantee portfolio, managing risk and processing claims.",
+              "relevantAgentDomains": ["financial-agent", "regulatory-compliance-agent"],
+              "potentialStandards": ["PORTFOLIO_RISK_MANAGEMENT", "LOAN_LOSS_PROVISIONING", "CLAIMS_PROCESSING_PROCEDURES"],
+              "potentialHITLConditions": ["Rising defaults or claims in specific sectors/countries", "Need for loan restructuring", "Valuation of distressed assets"]
+            }
+          ]
+        },
+         {
+            "agencyLabel": "FCA",
+            "agencyName": "Farm Credit Administration",
+            "agencyMission": "Oversees the Farm Credit System, ensuring reliable credit for agriculture and rural communities.",
+            "relevantAgentTypes": [
+                "financial-agent", /* Banking supervision focus */
+                "regulatory-compliance-agent",
+                "agriculture-agent",
+                "economics-agent" /* Rural economics */
+            ],
+            "neededMCPTools": [
+                {
+                    "toolName": "fcs-institution-examiner",
+                    "description": "Conducts safety and soundness examinations of Farm Credit System banks and associations, assessing capital adequacy, asset quality, management, earnings, and liquidity (CAMEL ratings).",
+                    "relevantAgentDomains": ["financial-agent", "regulatory-compliance-agent", "agriculture-agent"],
+                    "potentialStandards": ["FCA_EXAMINATION_MANUAL", "BASEL_ACCORDS" /* Comparative */, "AGRICULTURAL_LENDING_STANDARDS", "CAMELS_RATING_SYSTEM"],
+                    "potentialHITLConditions": ["Institutions with deteriorating financial condition", "Violations of law or regulation", "Complex or high-risk loan portfolios", "Weak management or internal controls"]
+                },
+                {
+                    "toolName": "rural-credit-market-analyzer",
+                    "description": "Monitors credit conditions and trends in agriculture and rural communities to inform regulatory policy and risk assessment.",
+                    "relevantAgentDomains": ["economics-agent", "agriculture-agent", "data-science-agent"],
+                    "potentialStandards": ["AGRICULTURAL_ECONOMICS", "RURAL_DEVELOPMENT_METRICS", "CREDIT_RISK_MODELING"],
+                    "potentialHITLConditions": ["Emerging risks in specific agricultural sectors", "Signs of credit stress in rural areas", "Impact analysis of policy changes"]
+                },
+                {
+                    "toolName": "fcs-regulation-developer",
+                    "description": "Develops and updates regulations governing the Farm Credit System institutions.",
+                    "relevantAgentDomains": ["regulatory-compliance-agent", "legal-agent", "financial-agent"],
+                    "potentialStandards": ["ADMINISTRATIVE_PROCEDURE_ACT", "FCA_RULEMAKING_POLICY", "FINANCIAL_REGULATION_PRINCIPLES"],
+                    "potentialHITLConditions": ["Regulations with significant economic impact", "Rules involving complex legal or financial issues", "Regulations facing significant public comment or controversy"]
+                },
+                {
+                    "toolName": "borrower-rights-compliance-checker",
+                    "description": "Ensures Farm Credit System institutions comply with borrower rights regulations.",
+                    "relevantAgentDomains": ["regulatory-compliance-agent", "legal-agent"],
+                    "potentialStandards": ["FCA_BORROWER_RIGHTS_REGS", "CONSUMER_PROTECTION_LAWS"],
+                    "potentialHITLConditions": ["Patterns of borrower complaints", "Violations identified during examinations", "Complex disputes involving loan restructuring"]
+                }
+            ]
+        },
+        {
+            "agencyLabel": "FCC",
+            "agencyName": "Federal Communications Commission",
+            "agencyMission": "Regulates and promotes telecommunications services, fostering innovation and connectivity.",
+            "relevantAgentTypes": [
+                "telecommunications-agent",
+                "regulatory-compliance-agent",
+                "legal-agent",
+                "engineering-services-agent", /* RF, network */
+                "economics-agent", /* Market analysis */
+                "data-science-agent"
+            ],
+            "neededMCPTools": [
+                {
+                    "toolName": "spectrum-auction-manager",
+                    "description": "Designs and conducts auctions for licenses to use portions of the electromagnetic spectrum.",
+                    "relevantAgentDomains": ["economics-agent", "telecommunications-agent", "regulatory-compliance-agent", "legal-agent"],
+                    "potentialStandards": ["FCC_AUCTION_RULES", "GAME_THEORY_AUCTION_DESIGN", "SPECTRUM_ALLOCATION_POLICY"],
+                    "potentialHITLConditions": ["Auctions involving novel formats", "High-value spectrum bands", "Potential collusion or anti-competitive bidding behavior"]
+                },
+                {
+                    "toolName": "broadcast-license-processor",
+                    "description": "Processes applications for broadcast licenses (TV, radio), renewals, and transfers, ensuring compliance with ownership rules and public interest standards.",
+                    "relevantAgentDomains": ["regulatory-compliance-agent", "legal-agent", "media-agent"],
+                    "potentialStandards": ["COMMUNICATIONS_ACT", "FCC_BROADCAST_RULES", "PUBLIC_INTEREST_OBLIGATIONS"],
+                    "potentialHITLConditions": ["Contested license applications", "Applications raising significant policy issues (e.g., media ownership concentration)", "Compliance issues identified"]
+                },
+                {
+                    "toolName": "network-neutrality-compliance-monitor",
+                    "description": "Monitors ISP practices for compliance with network neutrality rules (blocking, throttling, paid prioritization), if applicable.",
+                    "relevantAgentDomains": ["regulatory-compliance-agent", "telecommunications-agent", "legal-agent", "data-science-agent"],
+                    "potentialStandards": ["FCC_NET_NEUTRALITY_ORDERS" /* Subject to change */, "NETWORK_PERFORMANCE_MEASUREMENT", "ANTITRUST_PRINCIPLES"],
+                    "potentialHITLConditions": ["Complaints alleging violations", "Data suggesting discriminatory traffic management", "Cases involving novel ISP practices"]
+                },
+                {
+                    "toolName": "universal-service-fund-allocator",
+                    "description": "Manages the allocation of Universal Service Fund (USF) support for broadband deployment in high-cost areas and support for schools, libraries, and rural health care.",
+                    "relevantAgentDomains": ["financial-agent", "telecommunications-agent", "regulatory-compliance-agent", "geospatial-sciences-agent"], /* Mapping deployment */
+                    "potentialStandards": ["FCC_USF_RULES", "BROADBAND_DEPLOYMENT_METRICS", "RURAL_UTILITY_SERVICE_REQS"],
+                    "potentialHITLConditions": ["Applications for large funding amounts", "Disputes over eligibility or funding levels", "Areas with competing deployment plans"]
+                },
+                {
+                    "toolName": "equipment-authorization-certifier",
+                    "description": "Oversees the process for authorizing radio frequency (RF) devices to ensure they comply with technical standards and do not cause harmful interference.",
+                    "relevantAgentDomains": ["engineering-services-agent" /* RF */, "regulatory-compliance-agent"],
+                    "potentialStandards": ["FCC_PART_15_RULES", "RF_EMISSION_TESTING_STANDARDS", "SAR_LIMITS"],
+                    "potentialHITLConditions": ["Devices using novel technologies", "Equipment operating near sensitive frequencies", "Compliance issues found during testing"]
+                }
+            ]
+        },
+        {
+          "agencyLabel": "FDIC",
+          "agencyName": "Federal Deposit Insurance Corporation",
+          "agencyMission": "Insures bank deposits, supervises financial institutions, and safeguards stability in the U.S. banking system.",
+          "relevantAgentTypes": [
+            "financial-agent", /* Banking supervision */
+            "regulatory-compliance-agent",
+            "economics-agent", /* Financial stability */
+            "legal-agent", /* Resolutions, enforcement */
+            "data-science-agent" /* Risk modeling */
+          ],
+          "neededMCPTools": [
+            {
+              "toolName": "bank-safety-soundness-examiner",
+              "description": "Conducts examinations of FDIC-supervised banks, assessing CAMELS ratings (Capital, Assets, Management, Earnings, Liquidity, Sensitivity).",
+              "relevantAgentDomains": ["financial-agent", "regulatory-compliance-agent"],
+              "potentialStandards": ["FDIC_EXAMINATION_MANUAL", "BASEL_III", "CAMELS_RATING_SYSTEM", "BANK_SECRECY_ACT"],
+              "potentialHITLConditions": ["Banks with low CAMELS ratings", "Rapid asset growth or change in risk profile", "Violations of law or unsafe/unsound practices identified", "Potential fraud detection"]
+            },
+            {
+              "toolName": "deposit-insurance-assessor",
+              "description": "Calculates deposit insurance assessments (premiums) for insured institutions based on risk profiles.",
+              "relevantAgentDomains": ["financial-agent", "data-science-agent", "economics-agent"],
+              "potentialStandards": ["FDIC_ASSESSMENT_REGULATIONS", "RISK_BASED_PRICING_MODELS"],
+              "potentialHITLConditions": ["Institutions disputing assessment calculations", "Changes to the risk-based pricing model", "Analysis of Deposit Insurance Fund (DIF) adequacy"]
+            },
+            {
+              "toolName": "failing-bank-resolver",
+              "description": "Manages the resolution process for failed banks, ensuring protection of insured depositors and minimizing disruption.",
+              "relevantAgentDomains": ["financial-agent", "legal-agent", "regulatory-compliance-agent"],
+              "potentialStandards": ["FEDERAL_DEPOSIT_INSURANCE_ACT", "FDIC_RESOLUTION_HANDBOOK", "ORDERLY_LIQUIDATION_AUTHORITY"],
+              "potentialHITLConditions": ["Failure of a large or complex institution", "Resolutions requiring use of the Orderly Liquidation Authority", "Cross-border resolution issues"]
+            },
+            {
+              "toolName": "financial-stability-monitor",
+              "description": "Monitors trends and risks in the banking sector and broader economy that could impact financial stability and the Deposit Insurance Fund.",
+              "relevantAgentDomains": ["economics-agent", "data-science-agent", "financial-agent"],
+              "potentialStandards": ["SYSTEMIC_RISK_INDICATORS", "MACROPRUDENTIAL_POLICY_FRAMEWORKS", "FINANCIAL_STRESS_TESTING"],
+              "potentialHITLConditions": ["Identification of emerging systemic risks", "Analysis requiring significant economic judgment", "Cross-agency coordination on stability threats"]
+            }
+          ]
+        },
+         {
+            "agencyLabel": "FEC",
+            "agencyName": "Federal Election Commission",
+            "agencyMission": "Oversees campaign finance laws, using analytics to detect violations and maintain transparency in federal elections.",
+            "relevantAgentTypes": [
+                "regulatory-compliance-agent",
+                "legal-agent",
+                "data-science-agent", /* Analyzing filings */
+                "accounting-agent" /* Campaign finance specifics */
+            ],
+            "neededMCPTools": [
+                {
+                    "toolName": "campaign-finance-report-analyzer",
+                    "description": "Processes and analyzes campaign finance disclosure reports filed by candidates, parties, and PACs to ensure compliance and transparency.",
+                    "relevantAgentDomains": ["data-science-agent", "regulatory-compliance-agent", "accounting-agent"],
+                    "potentialStandards": ["FECA", "BCRA", "FEC_REPORTING_GUIDELINES", "DATA_VALIDATION_RULES"],
+                    "potentialHITLConditions": ["Reports with significant discrepancies or omissions", "Patterns suggesting illegal contributions or coordination", "Analysis of complex or novel financing structures"]
+                },
+                {
+                    "toolName": "contribution-limit-enforcer",
+                    "description": "Monitors contributions to ensure compliance with federal limits and source restrictions.",
+                    "relevantAgentDomains": ["regulatory-compliance-agent", "data-science-agent"],
+                    "potentialStandards": ["FECA_CONTRIBUTION_LIMITS", "FOREIGN_NATIONAL_BAN"],
+                    "potentialHITLConditions": ["Evidence of excessive or prohibited contributions", "Attempts to disguise contribution sources", "Schemes involving multiple entities"]
+                },
+                {
+                    "toolName": "electioneering-communication-tracker",
+                    "description": "Tracks and analyzes disclosures related to electioneering communications and independent expenditures.",
+                    "relevantAgentDomains": ["regulatory-compliance-agent", "data-science-agent", "legal-agent"],
+                    "potentialStandards": ["BCRA_ELECTIONEERING_RULES", "INDEPENDENT_EXPENDITURE_DISCLOSURE"],
+                    "potentialHITLConditions": ["Failure to disclose funding sources", "Potential illegal coordination between campaigns and outside groups", "Analysis of 'dark money' flows"]
+                },
+                {
+                    "toolName": "fec-audit-compliance-reviewer",
+                    "description": "Conducts audits of political committees to ensure compliance with campaign finance laws and regulations.",
+                    "relevantAgentDomains": ["accounting-agent", "regulatory-compliance-agent"],
+                    "potentialStandards": ["FEC_AUDIT_PROCEDURES", "CAMPAIGN_FINANCE_ACCOUNTING"],
+                    "potentialHITLConditions": ["Audits revealing significant findings or material non-compliance", "Committees with poor record-keeping", "Audits requiring complex transaction tracing"]
+                }
+            ]
+        },
+        {
+          "agencyLabel": "FHFA",
+          "agencyName": "Federal Housing Finance Agency",
+          "agencyMission": "Regulates housing finance, overseeing Fannie Mae, Freddie Mac, and Federal Home Loan Banks.",
+          "relevantAgentTypes": [
+            "financial-agent", /* GSE supervision */
+            "regulatory-compliance-agent",
+            "economics-agent", /* Housing markets */
+            "data-science-agent", /* Mortgage risk modeling */
+            "legal-agent"
+          ],
+          "neededMCPTools": [
+            {
+              "toolName": "gse-capital-adequacy-assessor",
+              "description": "Assesses the capital adequacy of Fannie Mae and Freddie Mac based on regulatory capital frameworks and stress testing.",
+              "relevantAgentDomains": ["financial-agent", "regulatory-compliance-agent", "data-science-agent"],
+              "potentialStandards": ["FHFA_CAPITAL_FRAMEWORK", "DFAST_STRESS_TESTING" /* Comparative */, "MORTGAGE_RISK_MODELING"],
+              "potentialHITLConditions": ["Capital levels approaching minimum requirements", "Significant impacts under stress scenarios", "Disagreements over model assumptions or results"]
+            },
+            {
+              "toolName": "mortgage-market-risk-monitor",
+              "description": "Monitors risks in the primary and secondary mortgage markets, including underwriting standards, loan performance, and house price trends.",
+              "relevantAgentDomains": ["economics-agent", "financial-agent", "data-science-agent"],
+              "potentialStandards": ["HOUSING_MARKET_INDICATORS", "CREDIT_RISK_ANALYSIS", "MORTGAGE_BACKED_SECURITIES_ANALYSIS"],
+              "potentialHITLConditions": ["Signs of deteriorating underwriting standards", "Rapid house price appreciation/depreciation", "Emerging risks in specific loan types or geographic areas"]
+            },
+            {
+              "toolName": "fhlb-compliance-examiner",
+              "description": "Conducts examinations of the Federal Home Loan Banks (FHLBs) for safety, soundness, and compliance with affordable housing goals.",
+              "relevantAgentDomains": ["financial-agent", "regulatory-compliance-agent"],
+              "potentialStandards": ["FHLB_ACT", "FHFA_REGULATIONS", "AFFORDABLE_HOUSING_PROGRAM_RULES"],
+              "potentialHITLConditions": ["Weak risk management practices", "Failure to meet affordable housing goals", "Compliance violations"]
+            },
+            {
+              "toolName": "fair-lending-oversight-analyzer",
+              "description": "Oversees the fair lending practices of Fannie Mae, Freddie Mac, and the FHLBs.",
+              "relevantAgentDomains": ["regulatory-compliance-agent", "legal-agent", "data-science-agent"],
+              "potentialStandards": ["FAIR_HOUSING_ACT", "ECOA", "FHFA_FAIR_LENDING_OVERSIGHT"],
+              "potentialHITLConditions": ["Statistical analysis suggesting potential disparities", "Complaints alleging discriminatory practices", "Review of new automated underwriting models for bias"]
+            }
+          ]
+        },
+        {
+            "agencyLabel": "FLRA",
+            "agencyName": "Federal Labor Relations Authority",
+            "agencyMission": "Oversees federal labor-management relations, resolving disputes and ensuring collective bargaining rights.",
+            "relevantAgentTypes": [
+                "legal-agent", /* Adjudication */
+                "human-resources-agent", /* Labor relations focus */
+                "regulatory-compliance-agent"
+            ],
+            "neededMCPTools": [
+                {
+                    "toolName": "unfair-labor-practice-adjudicator",
+                    "description": "Receives, investigates, and adjudicates complaints alleging unfair labor practices (ULPs) under the Federal Service Labor-Management Relations Statute.",
+                    "relevantAgentDomains": ["legal-agent", "regulatory-compliance-agent"],
+                    "potentialStandards": ["5_USC_CHAPTER_71", "FLRA_REGULATIONS", "ADMINISTRATIVE_LAW_PRINCIPLES"],
+                    "potentialHITLConditions": ["Cases involving novel interpretations of the Statute", "ULPs with government-wide implications", "Cases requiring significant credibility determinations"]
+                },
+                {
+                    "toolName": "representation-petition-processor",
+                    "description": "Processes petitions for union representation elections, determines appropriate bargaining units, and oversees elections.",
+                    "relevantAgentDomains": ["human-resources-agent", "legal-agent", "regulatory-compliance-agent"],
+                    "potentialStandards": ["FLRA_REPRESENTATION_PROCEDURES", "BARGAINING_UNIT_DETERMINATION_CRITERIA"],
+                    "potentialHITLConditions": ["Disputes over bargaining unit composition", "Contested election results", "Petitions involving complex agency reorganizations"]
+                },
+                {
+                    "toolName": "negotiability-appeal-resolver",
+                    "description": "Resolves disputes over whether specific proposals are within the scope of mandatory bargaining under the Statute.",
+                    "relevantAgentDomains": ["legal-agent"],
+                    "potentialStandards": ["FLRA_NEGOTIABILITY_CASELAW", "MANAGEMENT_RIGHTS_ANALYSIS"],
+                    "potentialHITLConditions": ["Cases of first impression regarding negotiability", "Disputes impacting core agency missions"]
+                },
+                {
+                    "toolName": "arbitration-award-reviewer",
+                    "description": "Reviews appeals of arbitration awards issued under negotiated grievance procedures.",
+                    "relevantAgentDomains": ["legal-agent"],
+                    "potentialStandards": ["FLRA_ARBITRATION_REVIEW_STANDARDS", "FEDERAL_ARBITRATION_ACT" /* Comparative */],
+                    "potentialHITLConditions": ["Awards alleged to be contrary to law or regulation", "Cases challenging arbitrator's authority"]
+                }
+            ]
+        },
+         {
+            "agencyLabel": "FMC",
+            "agencyName": "Federal Maritime Commission",
+            "agencyMission": "Regulates international ocean transportation, promoting fair competition and integrity in maritime commerce.",
+            "relevantAgentTypes": [
+                "regulatory-compliance-agent",
+                "logistics-agent",
+                "international-trade-agent",
+                "legal-agent",
+                "economics-agent" /* Market competition */
+            ],
+            "neededMCPTools": [
+                {
+                    "toolName": "ocean-carrier-agreement-reviewer",
+                    "description": "Reviews agreements between ocean common carriers (e.g., vessel sharing agreements) for potential anti-competitive impacts.",
+                    "relevantAgentDomains": ["regulatory-compliance-agent", "legal-agent", "economics-agent"],
+                    "potentialStandards": ["SHIPPING_ACT", "FMC_AGREEMENT_REGULATIONS", "ANTITRUST_ANALYSIS"],
+                    "potentialHITLConditions": ["Agreements involving major carriers with significant market share", "Agreements potentially leading to reduced service or increased rates", "Novel forms of carrier cooperation"]
+                },
+                {
+                    "toolName": "detention-demurrage-complaint-handler",
+                    "description": "Investigates and adjudicates complaints regarding potentially unreasonable detention and demurrage charges assessed by carriers and terminals.",
+                    "relevantAgentDomains": ["regulatory-compliance-agent", "legal-agent", "logistics-agent"],
+                    "potentialStandards": ["FMC_DETENTION_DEMURRAGE_RULE", "SHIPPING_ACT_PROHIBITED_PRACTICES"],
+                    "potentialHITLConditions": ["Patterns of complaints against specific carriers/terminals", "Disputes involving significant financial amounts", "Cases raising systemic issues"]
+                },
+                {
+                    "toolName": "ocean-transportation-intermediary-licenser",
+                    "description": "Processes license applications for Ocean Transportation Intermediaries (OTIs - Freight Forwarders and NVOCCs) and ensures financial responsibility.",
+                    "relevantAgentDomains": ["regulatory-compliance-agent", "financial-agent"],
+                    "potentialStandards": ["FMC_OTI_LICENSING_REQS", "SURETY_BOND_REQUIREMENTS"],
+                    "potentialHITLConditions": ["Applicants with problematic histories", "Issues with proof of financial responsibility", "Complex corporate structures"]
+                },
+                {
+                    "toolName": "cruise-line-financial-responsibility-monitor",
+                    "description": "Ensures passenger vessel operators (cruise lines) maintain adequate financial responsibility to cover liability in case of non-performance or accidents.",
+                    "relevantAgentDomains": ["financial-agent", "regulatory-compliance-agent"],
+                    "potentialStandards": ["FMC_PASSENGER_VESSEL_FINANCIAL_REQS", "INSURANCE_REGULATIONS"],
+                    "potentialHITLConditions": ["Operators showing signs of financial distress", "Adequacy of coverage for large capacity vessels", "Novel insurance arrangements"]
+                }
+            ]
+        },
+        {
+          "agencyLabel": "FMCS",
+          "agencyName": "Federal Mediation & Conciliation Service",
+          "agencyMission": "Mediates labor disputes across federal agencies and private sectors, fostering cooperative labor-management relationships.",
+          "relevantAgentTypes": [
+            "human-resources-agent", /* Labor relations, mediation */
+            "legal-agent" /* Understanding labor law */
+          ],
+          "neededMCPTools": [
+            {
+              "toolName": "labor-mediation-facilitator",
+              "description": "Provides neutral third-party mediation services to assist labor and management in reaching collective bargaining agreements.",
+              "relevantAgentDomains": ["human-resources-agent"],
+              "potentialStandards": ["FMCS_MEDIATION_ETHICS", "INTEREST_BASED_BARGAINING", "LABOR_LAW_FRAMEWORK"],
+              "potentialHITLConditions": ["High-stakes negotiations with potential for major work stoppage", "Parties with highly adversarial relationship", "Mediation involving complex economic or technical issues"]
+            },
+            {
+              "toolName": "dispute-resolution-trainer",
+              "description": "Develops and delivers training programs on conflict resolution, collective bargaining, and relationship-building for labor and management.",
+              "relevantAgentDomains": ["human-resources-agent", "education-agent"], /* Training design */
+              "potentialStandards": ["ADULT_LEARNING_PRINCIPLES", "CONFLICT_RESOLUTION_MODELS", "LABOR_RELATIONS_BEST_PRACTICES"],
+              "potentialHITLConditions": ["Training for large organizations or complex industries", "Development of novel training curricula"]
+            },
+            {
+              "toolName": "arbitrator-panel-manager",
+              "description": "Maintains a roster of qualified private arbitrators and facilitates their selection by parties for grievance arbitration.",
+              "relevantAgentDomains": ["human-resources-agent", "legal-agent"],
+              "potentialStandards": ["FMCS_ARBITRATOR_ROSTER_CRITERIA", "ARBITRATION_ETHICS_CODES"],
+              "potentialHITLConditions": ["Challenges to arbitrator qualifications or neutrality", "Management of large, complex arbitration panels"]
+            }
+          ]
+        },
+        {
+          "agencyLabel": "FMSHRC",
+          "agencyName": "Federal Mine Safety and Health Review Commission",
+          "agencyMission": "Adjudicates disputes under the Mine Act, ensuring safe working conditions in the nation's mines.",
+          "relevantAgentTypes": [
+            "legal-agent", /* Adjudication */
+            "regulatory-compliance-agent", /* Mine safety focus */
+            "mining-agent", /* Technical understanding */
+            "health-physics-agent" /* Radiation if applicable */
+          ],
+          "neededMCPTools": [
+            {
+              "toolName": "mine-safety-case-adjudicator",
+              "description": "Adjudicates contested citations, penalties, and other orders issued by the Mine Safety and Health Administration (MSHA) under the Mine Act.",
+              "relevantAgentDomains": ["legal-agent", "regulatory-compliance-agent"],
+              "potentialStandards": ["MINE_ACT", "FMSHRC_PROCEDURAL_RULES", "ADMINISTRATIVE_LAW_JUDGE_STANDARDS"],
+              "potentialHITLConditions": ["Cases involving fatalities or serious accidents", "Challenges to major MSHA regulations or policies", "Cases with complex technical or engineering evidence"]
+            },
+            {
+              "toolName": "discrimination-complaint-resolver-mining",
+              "description": "Adjudicates complaints filed by miners alleging discrimination or retaliation for exercising rights under the Mine Act (e.g., reporting safety concerns).",
+              "relevantAgentDomains": ["legal-agent"],
+              "potentialStandards": ["MINE_ACT_SECTION_105C", "WHISTLEBLOWER_PROTECTION_LAW"],
+              "potentialHITLConditions": ["Cases requiring significant credibility determinations", "Allegations of widespread retaliation practices"]
+            },
+            {
+              "toolName": "temporary-reinstatement-evaluator",
+              "description": "Evaluates applications for temporary reinstatement of miners allegedly discharged for protected safety activities.",
+              "relevantAgentDomains": ["legal-agent"],
+              "potentialStandards": ["MINE_ACT_TEMPORARY_REINSTATEMENT_CRITERIA"],
+              "potentialHITLConditions": ["Cases with conflicting evidence regarding the reason for discharge", "Applications requiring expedited handling"]
+            }
+          ]
+        },
+        {
+          "agencyLabel": "FED",
+          "agencyName": "The Federal Reserve System",
+          "agencyMission": "Oversees monetary policy, regulates banks, and maintains financial stability through advanced data analytics.",
+          "relevantAgentTypes": [
+            "economics-agent", /* Monetary policy, macroeconomics */
+            "financial-agent", /* Bank supervision, payments */
+            "regulatory-compliance-agent",
+            "data-science-agent", /* Modeling, analytics */
+            "legal-agent" /* Regulations */
+          ],
+          "neededMCPTools": [
+            {
+              "toolName": "monetary-policy-analyzer",
+              "description": "Analyzes economic data (inflation, employment, GDP) and financial market conditions to inform monetary policy decisions (e.g., setting the federal funds rate).",
+              "relevantAgentDomains": ["economics-agent", "data-science-agent", "financial-agent"],
+              "potentialStandards": ["FEDERAL_RESERVE_ACT_MANDATE", "MACROECONOMIC_MODELING", "FINANCIAL_MARKET_ANALYSIS"],
+              "potentialHITLConditions": ["Periods of high economic uncertainty", "Decisions involving unconventional monetary policy tools", "Analysis requiring significant judgment about future economic path"]
+            },
+            {
+              "toolName": "bank-holding-company-supervisor",
+              "description": "Supervises and regulates bank holding companies and systemically important financial institutions (SIFIs) for safety and soundness.",
+              "relevantAgentDomains": ["financial-agent", "regulatory-compliance-agent", "legal-agent"],
+              "potentialStandards": ["BANK_HOLDING_COMPANY_ACT", "DODD-FRANK_ACT_TITLE_I", "FEDERAL_RESERVE_REGULATIONS_Y_QQ", "STRESS_TESTING_RULES"],
+              "potentialHITLConditions": ["Supervision of large, complex SIFIs", "Institutions facing financial distress", "Enforcement actions for violations"]
+            },
+            {
+              "toolName": "financial-stability-risk-assessor",
+              "description": "Identifies, monitors, and assesses potential risks to the U.S. financial system.",
+              "relevantAgentDomains": ["economics-agent", "financial-agent", "data-science-agent"],
+              "potentialStandards": ["SYSTEMIC_RISK_MONITORING_FRAMEWORKS", "MACROPRUDENTIAL_TOOLS", "FINANCIAL_NETWORK_ANALYSIS"],
+              "potentialHITLConditions": ["Identification of novel or rapidly growing systemic risks", "Analysis of potential contagion channels during crises", "Coordination with other domestic/international regulators (e.g., FSOC)"]
+            },
+            {
+              "toolName": "payment-system-operator",
+              "description": "Operates critical payment systems (e.g., Fedwire, ACH) ensuring efficiency and security of large-value and retail payments.",
+              "relevantAgentDomains": ["financial-agent", "cybersecurity-agent", "operations-manager-agent"], /* Assuming implicit agent */
+              "potentialStandards": ["FEDERAL_RESERVE_POLICY_PAYMENT_SYSTEM_RISK", "ISO_20022", "CYBERSECURITY_FRAMEWORKS"],
+              "potentialHITLConditions": ["Major system outages or disruptions", "Significant cybersecurity threats or incidents", "Implementation of major system upgrades (e.g., FedNow)"]
+            }
+          ]
+        },
+        {
+            "agencyLabel": "FTC",
+            "agencyName": "Federal Trade Commission",
+            "agencyMission": "Upholds consumer protection and maintains competitive markets.",
+            "relevantAgentTypes": [
+                "legal-agent", /* Antitrust, Consumer Protection */
+                "regulatory-compliance-agent",
+                "economics-agent", /* Market analysis, Competition */
+                "data-science-agent", /* Analyzing market data, fraud patterns */
+                "advertising-agent", /* Deceptive advertising analysis */
+                "cybersecurity-agent" /* Data security enforcement */
+            ],
+            "neededMCPTools": [
+                {
+                    "toolName": "merger-competitive-impact-analyzer",
+                    "description": "Analyzes proposed mergers and acquisitions for potential anti-competitive effects using economic models and market data.",
+                    "relevantAgentDomains": ["economics-agent", "legal-agent", "data-science-agent"],
+                    "potentialStandards": ["CLAYTON_ACT_SECTION_7", "HORIZONTAL_MERGER_GUIDELINES", "MARKET_DEFINITION_ANALYSIS", "ECONOMIC_MODELING_COMPETITION"],
+                    "potentialHITLConditions": ["Mergers involving large firms in concentrated markets", "Cases with conflicting economic evidence", "Mergers involving dynamic or rapidly evolving markets (e.g., tech)"]
+                },
+                {
+                    "toolName": "consumer-fraud-investigator",
+                    "description": "Investigates potentially unfair or deceptive acts or practices affecting consumers, including scams, misleading advertising, and privacy violations.",
+                    "relevantAgentDomains": ["legal-agent", "regulatory-compliance-agent", "data-science-agent", "advertising-agent"],
+                    "potentialStandards": ["FTC_ACT_SECTION_5", "TELEMARKETING_SALES_RULE", "COPPA", "PRIVACY_ACT", "DECEPTIVE_ADVERTISING_LAW"],
+                    "potentialHITLConditions": ["Large-scale consumer fraud schemes", "Practices targeting vulnerable populations", "Cases involving new technologies or marketing methods", "Privacy/data security breaches requiring technical expertise"]
+                },
+                {
+                    "toolName": "antitrust-conduct-evaluator",
+                    "description": "Investigates potentially anti-competitive conduct by dominant firms (monopolization, exclusionary practices).",
+                    "relevantAgentDomains": ["legal-agent", "economics-agent"],
+                    "potentialStandards": ["SHERMAN_ACT_SECTION_2", "FTC_ACT_SECTION_5", "ANTITRUST_LAW_MONOPOLIZATION"],
+                    "potentialHITLConditions": ["Cases against major corporations", "Conduct involving complex economic analysis", "Novel theories of competitive harm"]
+                },
+                {
+                    "toolName": "data-security-compliance-auditor",
+                    "description": "Investigates whether companies maintain reasonable data security practices to protect consumer information.",
+                    "relevantAgentDomains": ["cybersecurity-agent", "legal-agent", "regulatory-compliance-agent"],
+                    "potentialStandards": ["FTC_ACT_SECTION_5_UNFAIRNESS", "NIST_CYBERSECURITY_FRAMEWORK", "ISO_27001" /* As reference */, "FTC_DATA_SECURITY_GUIDANCE"],
+                    "potentialHITLConditions": ["Major data breaches", "Companies handling highly sensitive data", "Failure to implement basic security measures"]
+                }
+            ]
+        },
+        {
+            "agencyLabel": "GSA",
+            "agencyName": "General Services Administration",
+            "agencyMission": "Streamlines federal procurement and property management.",
+            "relevantAgentTypes": [
+                "procurement-agent", /* Assuming implicit agent */
+                "property-services-agent",
+                "logistics-agent", /* Fleet management */
+                "financial-agent", /* Billing, contracts */
+                "project-management-agent", /* Building projects */
+                "cybersecurity-agent" /* FedRAMP, IT services */
+            ],
+            "neededMCPTools": [
+                {
+                    "toolName": "federal-acquisition-contract-manager",
+                    "description": "Manages the process of procuring goods and services for federal agencies, including solicitation, award, and administration of contracts like GSA Schedules.",
+                    "relevantAgentDomains": ["procurement-agent", "legal-agent", "financial-agent"],
+                    "potentialStandards": ["FEDERAL_ACQUISITION_REGULATION_FAR", "GSA_SCHEDULE_CONTRACTING", "CONTRACT_LAW"],
+                    "potentialHITLConditions": ["High-value or complex procurements", "Contract disputes or protests", "Negotiations involving significant deviations from standard terms"]
+                },
+                {
+                    "toolName": "federal-property-asset-manager",
+                    "description": "Manages the portfolio of federally owned and leased real estate, including space utilization, maintenance, and disposal.",
+                    "relevantAgentDomains": ["property-services-agent", "project-management-agent", "financial-agent"],
+                    "potentialStandards": ["GSA_REAL_PROPERTY_MANAGEMENT_REGS", "FEDERAL_ASSET_MANAGEMENT_GUIDELINES", "BUILDING_OPERATIONS_STANDARDS"],
+                    "potentialHITLConditions": ["Major construction or renovation projects", "Disposal of high-value properties", "Decisions involving historical building preservation"]
+                },
+                {
+                    "toolName": "government-fleet-optimizer",
+                    "description": "Manages the federal vehicle fleet, including acquisition, leasing, maintenance, and fuel efficiency optimization.",
+                    "relevantAgentDomains": ["logistics-agent", "transportation-agent", "financial-agent"],
+                    "potentialStandards": ["FEDERAL_FLEET_MANAGEMENT_REGS", "VEHICLE_LIFECYCLE_COST_ANALYSIS", "FUEL_EFFICIENCY_STANDARDS"],
+                    "potentialHITLConditions": ["Large vehicle procurements", "Transition to electric vehicles", "Analysis of fleet utilization data"]
+                },
+                {
+                    "toolName": "shared-it-service-catalog-manager",
+                    "description": "Manages the provision of shared IT services and cloud solutions (e.g., login.gov, FedRAMP marketplace) to other federal agencies.",
+                    "relevantAgentDomains": ["it-consultant-agent", /* Assuming implicit agent */ "cybersecurity-agent", "procurement-agent"],
+                    "potentialStandards": ["FEDRAMP_SECURITY_CONTROLS", "FISMA", "ITIL_SERVICE_MANAGEMENT", "CLOUD_COMPUTING_STANDARDS"],
+                    "potentialHITLConditions": ["Authorization of new cloud service providers (FedRAMP)", "Major security incidents affecting shared services", "Development of new government-wide IT platforms"]
+                }
+            ]
+        },
+         {
+            "agencyLabel": "IAF",
+            "agencyName": "Inter-American Foundation",
+            "agencyMission": "Supports grassroots development projects in Latin America and the Caribbean, fostering citizen-led solutions to poverty.",
+            "relevantAgentTypes": [
+                 "non-profit-organizations-agent",
+                 "sustainable-development-agent",
+                 "financial-agent", /* Grant focus */
+                 "project-management-agent",
+                 "research-services-agent", /* Impact evaluation */
+                 "community-development-agent" /* Assuming implicit agent */
+            ],
+            "neededMCPTools": [
+                {
+                    "toolName": "grassroots-grant-assessor-latam",
+                    "description": "Evaluates grant proposals from community-based organizations in Latin America & Caribbean, focusing on local ownership, participation, and potential impact.",
+                    "relevantAgentDomains": ["non-profit-organizations-agent", "sustainable-development-agent", "financial-agent", "community-development-agent"],
+                    "potentialStandards": ["IAF_FUNDING_CRITERIA", "PARTICIPATORY_DEVELOPMENT_PRINCIPLES", "GRASSROOTS_M&E"],
+                    "potentialHITLConditions": ["Proposals from challenging or remote operating environments", "Grants requiring complex risk assessment", "Projects involving sensitive community dynamics"]
+                },
+                {
+                    "toolName": "community-project-monitor-latam",
+                    "description": "Monitors the progress and impact of funded grassroots projects, emphasizing community perspectives and adaptive management.",
+                    "relevantAgentDomains": ["project-management-agent", "research-services-agent", "community-development-agent"],
+                    "potentialStandards": ["IAF_MONITORING_FRAMEWORK", "QUALITATIVE_IMPACT_ASSESSMENT", "COMMUNITY_FEEDBACK_MECHANISMS"],
+                    "potentialHITLConditions": ["Projects facing significant implementation challenges", "Need for culturally sensitive evaluation", "Discrepancies between reported progress and observed reality"]
+                },
+                {
+                    "toolName": "local-partner-capacity-builder",
+                    "description": "Identifies capacity-building needs of grantee partners and facilitates access to relevant training or technical assistance.",
+                    "relevantAgentDomains": ["non-profit-organizations-agent", "sustainable-development-agent", "project-management-agent"],
+                    "potentialStandards": ["ORGANIZATIONAL_DEVELOPMENT_MODELS", "NGO_MANAGEMENT_BEST_PRACTICES"],
+                    "potentialHITLConditions": ["Partners facing significant organizational challenges", "Need for highly specialized technical support"]
+                }
+            ]
+        },
+        {
+            "agencyLabel": "MSPB",
+            "agencyName": "Merit Systems Protection Board",
+            "agencyMission": "Safeguards federal merit systems, using analytics to adjudicate appeals and uphold fair employment practices.",
+            "relevantAgentTypes": [
+                "legal-agent", /* Adjudication, Civil Service Law */
+                "human-resources-agent", /* Merit systems principles */
+                "regulatory-compliance-agent",
+                "research-services-agent" /* Merit system studies */
+            ],
+            "neededMCPTools": [
+                {
+                    "toolName": "personnel-action-appeal-adjudicator",
+                    "description": "Adjudicates appeals filed by federal employees concerning adverse personnel actions (e.g., removals, suspensions, demotions).",
+                    "relevantAgentDomains": ["legal-agent"],
+                    "potentialStandards": ["5_USC_CHAPTERS_75_77", "MSPB_REGULATIONS", "CIVIL_SERVICE_LAW_PRECEDENT", "ADMINISTRATIVE_DUE_PROCESS"],
+                    "potentialHITLConditions": ["Cases establishing new legal precedent", "Appeals involving complex procedural issues", "Cases requiring significant credibility determinations based on testimony"]
+                },
+                {
+                    "toolName": "whistleblower-retaliation-case-evaluator",
+                    "description": "Adjudicates appeals involving allegations of whistleblower retaliation (Individual Right of Action - IRA appeals).",
+                    "relevantAgentDomains": ["legal-agent"],
+                    "potentialStandards": ["WHISTLEBLOWER_PROTECTION_ACT_WPA", "MSPB_IRA_JURISPRUDENCE"],
+                    "potentialHITLConditions": ["Determining causal link between protected disclosure and personnel action", "Cases involving national security related disclosures"]
+                },
+                {
+                    "toolName": "prohibited-personnel-practice-investigator",
+                    "description": "Reviews allegations of prohibited personnel practices (PPPs) beyond retaliation, such as political coercion or nepotism.",
+                    "relevantAgentDomains": ["legal-agent", "human-resources-agent"],
+                    "potentialStandards": ["5_USC_2302_PPPs", "MERIT_SYSTEM_PRINCIPLES"],
+                    "potentialHITLConditions": ["Systemic PPP allegations affecting multiple employees", "Cases involving high-level officials"]
+                },
+                {
+                    "toolName": "merit-system-study-analyzer",
+                    "description": "Conducts studies on the health and integrity of the federal merit systems, identifying trends and recommending improvements.",
+                    "relevantAgentDomains": ["research-services-agent", "human-resources-agent", "data-science-agent"],
+                    "potentialStandards": ["PUBLIC_ADMINISTRATION_RESEARCH_METHODS", "CIVIL_SERVICE_REFORM_ACT_PRINCIPLES"],
+                    "potentialHITLConditions": ["Studies involving sensitive workforce issues", "Analyses requiring complex statistical modeling or qualitative research judgment"]
+                }
+            ]
+        },
+        {
+          "agencyLabel": "NASA",
+          "agencyName": "National Aeronautics and Space Administration",
+          "agencyMission": "Explores space and aeronautics, leveraging machine learning to advance scientific discoveries and future human exploration.",
+          "relevantAgentTypes": [
+            "scientific-research-agent", /* Astronomy, Physics, Earth Science, Biology etc. */
+            "engineering-services-agent", /* Aerospace, Mechanical, Electrical, Software, Robotics, Materials */
+            "project-management-agent",
+            "data-science-agent",
+            "aerodynamics-agent",
+            "robotics-agent",
+            "materials-science-agent",
+            "software-development-agent",
+            "cybersecurity-agent", /* Mission systems */
+            "legal-agent" /* Contracts, Space Law */
+          ],
+          "neededMCPTools": [
+            {
+              "toolName": "mission-design-simulator",
+              "description": "Simulates mission profiles, trajectories, propulsion systems, and operational constraints for space exploration and aeronautics projects.",
+              "relevantAgentDomains": ["engineering-services-agent", "aerodynamics-agent", "scientific-research-agent", "astronomy-agent"],
+              "potentialStandards": ["NASA_SYSTEMS_ENGINEERING_HANDBOOK", "ORBITAL_MECHANICS", "AEROSPACE_DESIGN_STANDARDS"],
+              "potentialHITLConditions": ["Simulations for human-rated missions", "Use of novel propulsion or trajectory designs", "Scenarios pushing performance envelopes or involving high risk"]
+            },
+            {
+              "toolName": "spacecraft-systems-integrator",
+              "description": "Manages the integration, testing, and verification of complex spacecraft subsystems (e.g., power, communications, guidance, payload).",
+              "relevantAgentDomains": ["engineering-services-agent", "project-management-agent", "software-development-agent"],
+              "potentialStandards": ["NASA_INTEGRATION_TESTING_STD", "INTERFACE_CONTROL_DOCUMENTS", "SYSTEM_VERIFICATION_VALIDATION"],
+              "potentialHITLConditions": ["Integration failures requiring root cause analysis", "Testing anomalies", "Waivers for unmet requirements"]
+            },
+            {
+              "toolName": "scientific-payload-data-processor",
+              "description": "Processes, calibrates, archives, and distributes scientific data collected from space missions and instruments.",
+              "relevantAgentDomains": ["data-science-agent", "scientific-research-agent"],
+              "potentialStandards": ["NASA_SCIENCE_DATA_POLICY", "FITS_DATA_FORMAT", "DATA_CALIBRATION_PIPELINES"],
+              "potentialHITLConditions": ["Detection of unexpected scientific phenomena", "Data quality issues requiring reprocessing", "Decisions on public data release timing/format"]
+            },
+            {
+              "toolName": "aeronautics-research-analyzer",
+              "description": "Analyzes data from wind tunnel tests, flight tests, and computational fluid dynamics (CFD) simulations for aeronautics research.",
+              "relevantAgentDomains": ["aerodynamics-agent", "data-science-agent", "engineering-services-agent"],
+              "potentialStandards": ["AIAA_STANDARDS", "CFD_VALIDATION_BEST_PRACTICES", "FLIGHT_TEST_SAFETY"],
+              "potentialHITLConditions": ["Experimental results deviating significantly from models", "Research involving potentially disruptive aviation technologies"]
+            },
+            {
+                "toolName": "space-technology-transfer-evaluator",
+                "description": "Evaluates NASA-developed technologies for potential commercial applications and facilitates licensing and transfer to the private sector.",
+                "relevantAgentDomains": ["technology-transfer-agent", /* Assuming implicit agent */ "legal-agent", "engineering-services-agent"],
+                "potentialStandards": ["FEDERAL_TECHNOLOGY_TRANSFER_ACT", "NASA_PATENT_POLICY", "COMMERCIALIZATION_ASSESSMENT"],
+                "potentialHITLConditions": ["Valuation of potentially high-value patents", "Negotiation of complex licensing agreements", "Determining appropriate uses for dual-use technologies"]
+            }
+          ]
+        },
+        {
+          "agencyLabel": "NARA",
+          "agencyName": "National Archives and Records Administration",
+          "agencyMission": "Preserves and provide access to the nation's historical records.",
+          "relevantAgentTypes": [
+            "library-science-agent", /* Archival focus */
+            "information-architecture-agent",
+            "curation-agent", /* Assuming implicit agent */
+            "historian-agent", /* Assuming implicit agent */
+            "regulatory-compliance-agent", /* Records schedules */
+            "digital-preservation-agent" /* Assuming implicit agent */
+          ],
+          "neededMCPTools": [
+            {
+              "toolName": "records-appraisal-processor",
+              "description": "Appraises federal government records to determine their long-term historical value and disposition (permanent retention or disposal).",
+              "relevantAgentDomains": ["library-science-agent", "historian-agent", "curation-agent"],
+              "potentialStandards": ["NARA_RECORDS_APPRAISAL_POLICY", "ARCHIVAL_THEORY_PRACTICE", "FEDERAL_RECORDS_ACT"],
+              "potentialHITLConditions": ["Appraisal of massive electronic record sets", "Records involving national security classification or privacy restrictions", "Disputes with agencies over record disposition"]
+            },
+            {
+              "toolName": "archival-description-cataloger",
+              "description": "Creates standardized descriptions (finding aids) for archival records to facilitate researcher access, using standards like DACS.",
+              "relevantAgentDomains": ["library-science-agent", "information-architecture-agent"],
+              "potentialStandards": ["DACS" /* Describing Archives: A Content Standard */, "EAD" /* Encoded Archival Description */, "METADATA_STANDARDS"],
+              "potentialHITLConditions": ["Description of complex or poorly organized record series", "Cataloging records in multiple formats or languages", "Balancing access needs with privacy/security restrictions"]
+            },
+            {
+              "toolName": "digital-preservation-manager",
+              "description": "Manages the long-term preservation of electronic records, including format migration, integrity checks, and storage.",
+              "relevantAgentDomains": ["digital-preservation-agent", "library-science-agent", "information-architecture-agent"],
+              "potentialStandards": ["ISO_14721_OAIS", "PREMIS_METADATA", "DIGITAL_FILE_FORMAT_SUSTAINABILITY"],
+              "potentialHITLConditions": ["Preservation of obsolete or complex file formats", "Large-scale data migration projects", "Recovery from data corruption or media failure"]
+            },
+            {
+              "toolName": "declassification-reviewer",
+              "description": "Reviews classified federal records for declassification in accordance with executive orders and statutes.",
+              "relevantAgentDomains": ["regulatory-compliance-agent", "historian-agent", "legal-agent"],
+              "potentialStandards": ["EXECUTIVE_ORDER_13526", "ATOMIC_ENERGY_ACT", "PRIVACY_ACT", "NARA_DECLASSIFICATION_GUIDELINES"],
+              "potentialHITLConditions": ["Review of highly sensitive national security information", "Records requiring coordination with multiple agencies", "Balancing transparency with legitimate security concerns"]
+            }
+          ]
+        },
+         {
+            "agencyLabel": "NCD",
+            "agencyName": "National Council on Disability",
+            "agencyMission": "Advises the government on disability policies, employing advanced data analytics to promote inclusive practices nationwide.",
+            "relevantAgentTypes": [
+                "accessibility-services-agent",
+                "policy-analyst-agent", /* Assuming implicit agent */
+                "research-services-agent",
+                "legal-agent", /* Disability law focus */
+                "data-science-agent",
+                "public-relations-agent" /* For reports/advocacy */
+            ],
+            "neededMCPTools": [
+                {
+                    "toolName": "disability-policy-impact-evaluator",
+                    "description": "Analyzes the impact of federal laws, policies, and programs on people with disabilities, identifying barriers and recommending improvements.",
+                    "relevantAgentDomains": ["policy-analyst-agent", "research-services-agent", "accessibility-services-agent", "legal-agent"],
+                    "potentialStandards": ["ADA", "REHABILITATION_ACT", "IDEA", "DISABILITY_RESEARCH_ETHICS", "POLICY_ANALYSIS_FRAMEWORKS"],
+                    "potentialHITLConditions": ["Analysis of complex or controversial policies", "Recommendations requiring significant legislative or regulatory change", "Evaluation involving sensitive personal data"]
+                },
+                {
+                    "toolName": "accessibility-compliance-assessor",
+                    "description": "Assesses federal agency compliance with disability rights laws and accessibility standards (e.g., Section 508).",
+                    "relevantAgentDomains": ["accessibility-services-agent", "regulatory-compliance-agent", "legal-agent"],
+                    "potentialStandards": ["SECTION_508", "WCAG", "ADA_ACCESSIBILITY_GUIDELINES_ADAAG"],
+                    "potentialHITLConditions": ["Assessments revealing widespread non-compliance", "Evaluations of emerging technologies and accessibility", "Disputes over interpretation of accessibility standards"]
+                },
+                {
+                    "toolName": "disability-data-synthesizer",
+                    "description": "Gathers, analyzes, and synthesizes data related to the experiences and outcomes of people with disabilities across various domains (employment, education, healthcare).",
+                    "relevantAgentDomains": ["data-science-agent", "research-services-agent"],
+                    "potentialStandards": ["DISABILITY_STATISTICS_METHODOLOGY", "SURVEY_RESEARCH_STANDARDS", "DATA_PRIVACY_ETHICS"],
+                    "potentialHITLConditions": ["Analysis of intersectional data (e.g., disability and race)", "Interpretation of data with significant limitations or gaps", "Findings indicating major disparities"]
+                },
+                {
+                    "toolName": "policy-recommendation-developer",
+                    "description": "Develops evidence-based policy recommendations for the President, Congress, and federal agencies to advance disability inclusion.",
+                    "relevantAgentDomains": ["policy-analyst-agent", "legal-agent", "accessibility-services-agent"],
+                    "potentialStandards": ["EVIDENCE_BASED_POLICYMAKING", "LEGISLATIVE_DRAFTING_PRINCIPLES"],
+                    "potentialHITLConditions": ["Recommendations on highly contentious issues", "Proposals with significant budgetary implications", "Development of recommendations requiring cross-disability consensus"]
+                }
+            ]
+        },
+        {
+          "agencyLabel": "NCUA",
+          "agencyName": "National Credit Union Administration",
+          "agencyMission": "Insures deposits and regulates federal credit unions, safeguarding the stability of the credit union system.",
+          "relevantAgentTypes": [
+            "financial-agent", /* Credit union supervision */
+            "regulatory-compliance-agent",
+            "economics-agent", /* Cooperative finance */
+            "legal-agent",
+            "data-science-agent" /* Risk modeling */
+          ],
+          "neededMCPTools": [
+            {
+              "toolName": "credit-union-examiner",
+              "description": "Conducts examinations of federally insured credit unions, assessing safety, soundness, and compliance using the CAMEL rating system.",
+              "relevantAgentDomains": ["financial-agent", "regulatory-compliance-agent"],
+              "potentialStandards": ["NCUA_EXAMINER_GUIDE", "FEDERAL_CREDIT_UNION_ACT", "CAMEL_RATING_SYSTEM", "CONSUMER_FINANCIAL_PROTECTION_REGS"],
+              "potentialHITLConditions": ["Credit unions with low CAMEL ratings or significant compliance issues", "Institutions experiencing rapid growth or high-risk lending", "Examinations involving potential fraud or insider abuse"]
+            },
+            {
+              "toolName": "share-insurance-fund-manager",
+              "description": "Manages the National Credit Union Share Insurance Fund (NCUSIF), including setting capitalization levels and managing investments.",
+              "relevantAgentDomains": ["financial-agent", "economics-agent", "data-science-agent"],
+              "potentialStandards": ["NCUSIF_STATUTORY_REQUIREMENTS", "ACTUARIAL_ANALYSIS", "PORTFOLIO_MANAGEMENT"],
+              "potentialHITLConditions": ["Periods of economic stress impacting the fund's adequacy", "Decisions on premium assessments or dividends", "Analysis of complex insurance risk models"]
+            },
+            {
+              "toolName": "credit-union-charter-processor",
+              "description": "Processes applications for new federal credit union charters and requests for field of membership expansions.",
+              "relevantAgentDomains": ["regulatory-compliance-agent", "legal-agent", "financial-agent"],
+              "potentialStandards": ["NCUA_CHARTERING_MANUAL", "FIELD_OF_MEMBERSHIP_RULES"],
+              "potentialHITLConditions": ["Applications for complex or controversial fields of membership", "Charter applications from groups with limited financial resources", "Contested expansion requests"]
+            },
+            {
+              "toolName": "credit-union-resolution-handler",
+              "description": "Manages the process for conserving or liquidating failing credit unions to protect insured members.",
+              "relevantAgentDomains": ["financial-agent", "legal-agent", "regulatory-compliance-agent"],
+              "potentialStandards": ["NCUA_CONSERVATION_LIQUIDATION_RULES", "FEDERAL_CREDIT_UNION_ACT"],
+              "potentialHITLConditions": ["Failure of a large or complex credit union", "Resolutions requiring significant Share Insurance Fund payouts", "Fraud contributing to failure"]
+            }
+          ]
+        },
+        {
+            "agencyLabel": "NEA",
+            "agencyName": "National Endowment for the Arts",
+            "agencyMission": "Fosters creativity and cultural enrichment by providing grants and partnerships supporting arts across the nation.",
+            "relevantAgentTypes": [
+                "arts-management-agent", /* Assuming implicit agent */
+                "financial-agent", /* Grant administration */
+                "project-management-agent",
+                "research-services-agent", /* Arts impact studies */
+                "non-profit-organizations-agent",
+                "public-relations-agent" /* Promoting arts */
+            ],
+            "neededMCPTools": [
+                {
+                    "toolName": "arts-grant-evaluator",
+                    "description": "Manages the peer review process for evaluating grant applications from artists and arts organizations based on artistic excellence and merit.",
+                    "relevantAgentDomains": ["arts-management-agent", "financial-agent"],
+                    "potentialStandards": ["NEA_GRANTMAKING_GUIDELINES", "ARTISTIC_EXCELLENCE_CRITERIA", "PEER_REVIEW_ETHICS"],
+                    "potentialHITLConditions": ["Applications involving controversial subject matter", "Grants for large, complex projects", "Evaluation of emerging or non-traditional art forms"]
+                },
+                {
+                    "toolName": "cultural-partnership-developer",
+                    "description": "Identifies and fosters partnerships between the NEA, other federal agencies, state/local arts agencies, and private foundations.",
+                    "relevantAgentDomains": ["arts-management-agent", "public-relations-agent", "non-profit-organizations-agent"],
+                    "potentialStandards": ["PARTNERSHIP_DEVELOPMENT_STRATEGIES", "INTERAGENCY_AGREEMENTS"],
+                    "potentialHITLConditions": ["Negotiating complex multi-partner initiatives", "Partnerships involving significant resource commitments"]
+                },
+                {
+                    "toolName": "arts-participation-researcher",
+                    "description": "Conducts or commissions research on arts participation, the economic impact of the arts, and trends in the cultural sector (e.g., Survey of Public Participation in the Arts).",
+                    "relevantAgentDomains": ["research-services-agent", "data-science-agent", "economics-agent"],
+                    "potentialStandards": ["SURVEY_RESEARCH_METHODOLOGY", "CULTURAL_ECONOMICS", "ARTS_IMPACT_ASSESSMENT"],
+                    "potentialHITLConditions": ["Design of large-scale national surveys", "Analysis requiring sophisticated statistical modeling", "Interpretation of complex cultural trends"]
+                },
+                {
+                    "toolName": "national-arts-initiative-manager",
+                    "description": "Manages national initiatives and special programs supported by the NEA (e.g., NEA Jazz Masters, National Heritage Fellowships, Creative Forces).",
+                    "relevantAgentDomains": ["arts-management-agent", "project-management-agent"],
+                    "potentialStandards": ["PROGRAM_MANAGEMENT_BEST_PRACTICES", "CULTURAL_PROGRAM_EVALUATION"],
+                    "potentialHITLConditions": ["Launch of major new initiatives", "Programs involving sensitive cultural heritage", "Evaluation of long-term program impact"]
+                }
+            ]
+        },
+        {
+          "agencyLabel": "NLRB",
+          "agencyName": "National Labor Relations Board",
+          "agencyMission": "Protects employees' rights, investigates unfair labor practices, and oversees union elections.",
+          "relevantAgentTypes": [
+            "legal-agent", /* Labor law adjudication/prosecution */
+            "human-resources-agent", /* Labor relations focus */
+            "regulatory-compliance-agent",
+            "investigator-agent" /* Assuming implicit ULP investigator */
+          ],
+          "neededMCPTools": [
+            {
+              "toolName": "ulp-charge-investigator-prosecutor",
+              "description": "Investigates charges of unfair labor practices (ULPs) filed against employers or unions; determines merit and prosecutes valid complaints before Administrative Law Judges.",
+              "relevantAgentDomains": ["legal-agent", "investigator-agent"],
+              "potentialStandards": ["NLRA_SECTIONS_8A_8B", "NLRB_CASEHANDLING_MANUAL_ULP", "FEDERAL_RULES_EVIDENCE" /* Adapted */],
+              "potentialHITLConditions": ["Cases involving novel or complex ULP allegations", "Charges with significant impact on bargaining or organizing", "Investigations requiring credibility determinations"]
+            },
+            {
+              "toolName": "representation-election-supervisor",
+              "description": "Processes petitions for union representation elections, determines appropriate bargaining units, conducts elections, and certifies results.",
+              "relevantAgentDomains": ["human-resources-agent", "legal-agent", "regulatory-compliance-agent"],
+              "potentialStandards": ["NLRA_SECTION_9", "NLRB_CASEHANDLING_MANUAL_REP", "BARGAINING_UNIT_PRINCIPLES", "ELECTION_INTEGRITY_RULES"],
+              "potentialHITLConditions": ["Heavily contested elections or objections", "Determination of complex bargaining units", "Cases involving potential election interference"]
+            },
+            {
+              "toolName": "nlrb-case-adjudicator",
+              "description": "Adjudicates ULP cases and representation disputes based on records developed by regional offices and ALJs, issuing binding decisions and orders.",
+              "relevantAgentDomains": ["legal-agent"],
+              "potentialStandards": ["NLRA", "ADMINISTRATIVE_PROCEDURE_ACT", "NLRB_RULES_REGULATIONS", "LABOR_LAW_PRECEDENT"],
+              "potentialHITLConditions": ["Cases overturning existing precedent", "Decisions involving major policy shifts", "Highly contentious cases with potential for court review"]
+            },
+            {
+              "toolName": "injunctive-relief-evaluator",
+              "description": "Evaluates requests and pursues temporary injunctive relief in federal court under NLRA Section 10(j) to address serious ULPs pending full adjudication.",
+              "relevantAgentDomains": ["legal-agent"],
+              "potentialStandards": ["NLRA_SECTION_10J_STANDARDS", "FEDERAL_COURT_INJUNCTION_RULES"],
+              "potentialHITLConditions": ["Situations requiring immediate intervention to protect employee rights or bargaining process", "Cases with high likelihood of irreparable harm"]
+            }
+          ]
+        },
+         {
+            "agencyLabel": "NMB",
+            "agencyName": "National Mediation Board",
+            "agencyMission": "Facilitates labor-management relations in the railroad and airline industries, promoting peaceful dispute resolution.",
+            "relevantAgentTypes": [
+                "human-resources-agent", /* Specialized labor mediation */
+                "legal-agent", /* Railway Labor Act focus */
+                "transportation-agent" /* Industry context */
+            ],
+            "neededMCPTools": [
+                {
+                    "toolName": "rla-mediator",
+                    "description": "Provides intensive mediation services for collective bargaining negotiations in the railroad and airline industries under the Railway Labor Act (RLA).",
+                    "relevantAgentDomains": ["human-resources-agent"],
+                    "potentialStandards": ["RAILWAY_LABOR_ACT", "NMB_MEDIATION_PROCEDURES", "TRANSPORTATION_LABOR_RELATIONS"],
+                    "potentialHITLConditions": ["Negotiations with high potential for strike/lockout impacting national transportation", "Mediation involving complex work rules or economic issues", "Multi-party negotiations"]
+                },
+                {
+                    "toolName": "rla-representation-investigator",
+                    "description": "Investigates representation disputes (determining craft or class) and conducts representation elections among railroad and airline employees.",
+                    "relevantAgentDomains": ["human-resources-agent", "legal-agent"],
+                    "potentialStandards": ["RLA_REPRESENTATION_RULES", "NMB_REPRESENTATION_MANUAL", "CRAFT_OR_CLASS_DETERMINATION"],
+                    "potentialHITLConditions": ["Disputes over the appropriate craft or class for voting", "Allegations of election interference", "Representation issues arising from mergers"]
+                },
+                {
+                    "toolName": "rla-arbitration-facilitator",
+                    "description": "Facilitates the establishment of arbitration boards (including Presidential Emergency Boards) to resolve major disputes that remain unsettled after mediation.",
+                    "relevantAgentDomains": ["human-resources-agent", "legal-agent"],
+                    "potentialStandards": ["RLA_ARBITRATION_PEB_PROVISIONS", "NEUTRAL_SELECTION_PROCESS"],
+                    "potentialHITLConditions": ["Impasse declared, requiring potential PEB creation", "Disputes over selection of neutral arbitrators"]
+                }
+            ]
+        },
+        {
+          "agencyLabel": "NSF",
+          "agencyName": "National Science Foundation",
+          "agencyMission": "Accelerates research breakthroughs and fosters innovation across scientific disciplines.",
+          "relevantAgentTypes": [
+            "scientific-research-agent", /* Broad across disciplines */
+            "project-management-agent", /* Grant management */
+            "financial-agent", /* Grant funding */
+            "education-agent", /* STEM education focus */
+            "data-science-agent", /* Research data */
+            "policy-analyst-agent" /* Science policy */
+          ],
+          "neededMCPTools": [
+            {
+              "toolName": "research-grant-proposal-reviewer",
+              "description": "Manages the peer review process for scientific research grant proposals, evaluating intellectual merit and broader impacts.",
+              "relevantAgentDomains": ["scientific-research-agent", "project-management-agent"],
+              "potentialStandards": ["NSF_MERIT_REVIEW_CRITERIA", "SCIENTIFIC_ETHICS", "BROADER_IMPACTS_FRAMEWORK"],
+              "potentialHITLConditions": ["Proposals for large research centers or infrastructure", "Interdisciplinary or high-risk/high-reward proposals", "Reviews involving potential conflicts of interest"]
+            },
+            {
+              "toolName": "stem-education-program-manager",
+              "description": "Develops, funds, and oversees programs aimed at improving science, technology, engineering, and mathematics (STEM) education at all levels.",
+              "relevantAgentDomains": ["education-agent", "scientific-research-agent", "project-management-agent"],
+              "potentialStandards": ["STEM_EDUCATION_BEST_PRACTICES", "NSF_EDUCATION_PROGRAM_GUIDELINES", "DIVERSITY_EQUITY_INCLUSION_STEM"],
+              "potentialHITLConditions": ["Development of large-scale educational initiatives", "Programs targeting underrepresented groups in STEM", "Evaluation of program effectiveness and impact"]
+            },
+            {
+              "toolName": "research-infrastructure-planner",
+              "description": "Plans, funds, and oversees the construction and operation of major research facilities and infrastructure (e.g., telescopes, supercomputers, research vessels).",
+              "relevantAgentDomains": ["project-management-agent", "engineering-services-agent", "scientific-research-agent"],
+              "potentialStandards": ["LARGE_FACILITIES_MANAGEMENT_GUIDELINES", "CONSTRUCTION_PROJECT_OVERSIGHT"],
+              "potentialHITLConditions": ["Planning for next-generation large facilities", "Oversight of projects experiencing cost/schedule overruns", "Decisions on decommissioning facilities"]
+            },
+            {
+              "toolName": "science-policy-analyst",
+              "description": "Analyzes data and trends in scientific research funding, workforce development, and research outcomes to inform NSF policy and national science policy.",
+              "relevantAgentDomains": ["policy-analyst-agent", "data-science-agent", "research-services-agent"],
+              "potentialStandards": ["SCIENCE_TECHNOLOGY_POLICY_ANALYSIS", "BIBLIOMETRICS", "R&D_STATISTICS"],
+              "potentialHITLConditions": ["Analysis supporting major strategic planning efforts", "Reports for Congress or the White House Office of Science and Technology Policy (OSTP)"]
+            }
+          ]
+        },
+         {
+            "agencyLabel": "NTSB",
+            "agencyName": "National Transportation Safety Board",
+            "agencyMission": "Investigates transportation accidents to improve safety standards across aviation, highways, railroads, marine, and pipelines.",
+            "relevantAgentTypes": [
+                "accident-investigator-agent", /* Specialized role, potentially composed */
+                "engineering-services-agent", /* Various modes */
+                "human-factors-agent", /* Assuming implicit agent */
+                "data-science-agent", /* Analyzing trends */
+                "materials-science-agent", /* Failure analysis */
+                "transportation-agent" /* Modal expertise */
+            ],
+            "neededMCPTools": [
+                {
+                    "toolName": "transportation-accident-investigator",
+                    "description": "Conducts on-scene and follow-up investigations of significant transportation accidents to determine probable cause.",
+                    "relevantAgentDomains": ["accident-investigator-agent", "engineering-services-agent", "human-factors-agent", "transportation-agent"],
+                    "potentialStandards": ["NTSB_INVESTIGATION_MANUALS", "ICAO_ANNEX_13" /* Aviation */, "MODAL_SPECIFIC_PROTOCOLS", "FORENSIC_ANALYSIS"],
+                    "potentialHITLConditions": ["Major accidents with high fatalities", "Accidents involving new technologies or complex systems", "Investigations requiring significant inter-agency coordination (e.g., with FBI for potential criminal acts)"]
+                },
+                {
+                    "toolName": "accident-data-recorder-analyzer",
+                    "description": "Recovers, decodes, and analyzes data from 'black boxes' (cockpit voice recorders, flight data recorders, event recorders) from accident vehicles.",
+                    "relevantAgentDomains": ["data-science-agent", "engineering-services-agent"],
+                    "potentialStandards": ["RECORDER_READOUT_PROTOCOLS", "DATA_ANALYSIS_VALIDATION", "SIGNAL_PROCESSING"],
+                    "potentialHITLConditions": ["Damaged or partially recovered recorders", "Analysis requiring interpretation of ambiguous data", "Decoding proprietary data formats"]
+                },
+                {
+                    "toolName": "safety-recommendation-developer",
+                    "description": "Develops safety recommendations based on accident investigation findings, targeting regulators, manufacturers, operators, and other stakeholders.",
+                    "relevantAgentDomains": ["accident-investigator-agent", "engineering-services-agent", "human-factors-agent", "policy-analyst-agent"],
+                    "potentialStandards": ["NTSB_RECOMMENDATION_CRITERIA", "SYSTEMS_SAFETY_PRINCIPLES"],
+                    "potentialHITLConditions": ["Recommendations with potentially large economic impacts", "Recommendations addressing systemic safety issues", "Developing recommendations for novel hazards"]
+                },
+                {
+                    "toolName": "accident-trend-safety-researcher",
+                    "description": "Analyzes accident databases and trends across transportation modes to identify recurring safety issues and conduct safety studies.",
+                    "relevantAgentDomains": ["data-science-agent", "research-services-agent", "transportation-agent"],
+                    "potentialStandards": ["TRANSPORTATION_SAFETY_STATISTICS", "RISK_ANALYSIS", "EPIDEMIOLOGY" /* Adapted */],
+                    "potentialHITLConditions": ["Identification of emerging safety trends", "Studies requiring complex statistical analysis", "Research crossing multiple transportation modes"]
+                }
+            ]
+        },
+        {
+          "agencyLabel": "NRC",
+          "agencyName": "Nuclear Regulatory Commission",
+          "agencyMission": "Enforces safety standards for nuclear power plants and materials, using real-time data and predictive analytics to prevent accidents.",
+          "relevantAgentTypes": [
+            "nuclear-energy-agent", /* Reactor safety, materials */
+            "regulatory-compliance-agent",
+            "engineering-services-agent", /* Various disciplines */
+            "health-physics-agent", /* Radiation protection */
+            "geospatial-sciences-agent", /* Site analysis */
+            "security-services-agent", /* Physical security */
+            "legal-agent" /* Enforcement, licensing */
+          ],
+          "neededMCPTools": [
+            {
+              "toolName": "nuclear-reactor-license-reviewer",
+              "description": "Reviews applications for constructing and operating nuclear power plants, assessing safety designs, environmental impacts, and emergency preparedness.",
+              "relevantAgentDomains": ["nuclear-energy-agent", "engineering-services-agent", "regulatory-compliance-agent", "legal-agent"],
+              "potentialStandards": ["10_CFR_PART_50_52", "NRC_REGULATORY_GUIDES_NUREGS", "NUCLEAR_SAFETY_DESIGN_CRITERIA", "NEPA"],
+              "potentialHITLConditions": ["Applications for new reactor designs (e.g., SMRs)", "License renewals involving aging management issues", "Contentious applications facing public opposition"]
+            },
+            {
+              "toolName": "nuclear-facility-inspector",
+              "description": "Conducts inspections of operating nuclear power plants and fuel cycle facilities to verify compliance with regulations and license conditions.",
+              "relevantAgentDomains": ["nuclear-energy-agent", "engineering-services-agent", "regulatory-compliance-agent", "health-physics-agent"],
+              "potentialStandards": ["NRC_INSPECTION_MANUAL", "PLANT_TECHNICAL_SPECIFICATIONS", "QUALITY_ASSURANCE_PROGRAMS"],
+              "potentialHITLConditions": ["Identification of significant safety violations", "Inspections following operational events or incidents", "Evaluation of complex technical issues"]
+            },
+            {
+              "toolName": "radioactive-materials-licenser",
+              "description": "Licenses the use of radioactive materials in medical, industrial, and academic applications, ensuring safe handling and security.",
+              "relevantAgentDomains": ["health-physics-agent", "regulatory-compliance-agent", "nuclear-medicine-agent"],
+              "potentialStandards": ["10_CFR_PART_20_30_SERIES", "RADIATION_PROTECTION_STANDARDS", "MATERIALS_SECURITY_REQUIREMENTS"],
+              "potentialHITLConditions": ["Licenses for high-activity sources", "Applications involving novel uses of materials", "Compliance issues identified during inspections"]
+            },
+            {
+              "toolName": "nuclear-event-analyzer",
+              "description": "Analyzes operational events and incidents at licensed facilities to understand root causes, assess safety significance, and identify generic implications.",
+              "relevantAgentDomains": ["nuclear-energy-agent", "engineering-services-agent", "data-science-agent"],
+              "potentialStandards": ["NRC_EVENT_REPORTING_REQS", "ROOT_CAUSE_ANALYSIS_METHODS", "PROBABILISTIC_RISK_ASSESSMENT"],
+              "potentialHITLConditions": ["Events with significant safety implications", "Incidents involving common-mode failures", "Analysis requiring complex system modeling"]
+            }
+          ]
+        },
+        {
+          "agencyLabel": "NWTRB",
+          "agencyName": "Nuclear Waste Technical Review Board",
+          "agencyMission": "Evaluates the technical soundness of nuclear waste disposal programs, ensuring public health and safety.",
+          "relevantAgentTypes": [
+            "nuclear-energy-agent", /* Waste focus */
+            "geospatial-sciences-agent", /* Geology, hydrology */
+            "materials-science-agent", /* Waste forms, barriers */
+            "engineering-services-agent", /* Repository design */
+            "scientific-research-agent",
+            "environmental-agent"
+          ],
+          "neededMCPTools": [
+            {
+              "toolName": "nuclear-waste-repository-design-evaluator",
+              "description": "Provides independent technical review of DOE's designs and scientific basis for proposed high-level nuclear waste repositories.",
+              "relevantAgentDomains": ["nuclear-energy-agent", "geospatial-sciences-agent", "engineering-services-agent", "materials-science-agent"],
+              "potentialStandards": ["NWPA", "EPA_40CFR191", "NRC_10CFR60_63", "GEOLOGIC_DISPOSAL_SCIENCE"],
+              "potentialHITLConditions": ["Evaluation of site characterization data", "Assessment of long-term performance models (thousands of years)", "Review involving significant scientific uncertainty or debate"]
+            },
+            {
+              "toolName": "spent-fuel-transport-safety-assessor",
+              "description": "Reviews the technical aspects of plans and systems for transporting spent nuclear fuel and high-level waste.",
+              "relevantAgentDomains": ["engineering-services-agent", "nuclear-energy-agent", "transportation-agent"],
+              "potentialStandards": ["NRC_TRANSPORT_REGS_10CFR71", "DOT_HAZMAT_REGS", "TRANSPORTATION_RISK_ASSESSMENT"],
+              "potentialHITLConditions": ["Review of new cask designs", "Analysis of transportation routes through populated areas", "Assessment of security measures"]
+            },
+            {
+              "toolName": "waste-form-materials-analyzer",
+              "description": "Evaluates the long-term stability and performance of different nuclear waste forms (e.g., vitrified glass, ceramic) and engineered barrier materials.",
+              "relevantAgentDomains": ["materials-science-agent", "nuclear-energy-agent", "scientific-research-agent"],
+              "potentialStandards": ["MATERIALS_DEGRADATION_MODELING", "GEOCHEMISTRY", "LONG_TERM_PERFORMANCE_ASSESSMENT"],
+              "potentialHITLConditions": ["Analysis of novel waste forms or barrier materials", "Modeling performance over extreme timescales", "Evaluation requiring complex experimental data interpretation"]
+            }
+          ]
+        },
+        {
+          "description": "Mapping of US Federal Agencies to relevant A2A Agent types and the conceptual MCP Tools required to fulfill agency missions, designed according to A2A/MCP standards. (Continued)",
+          "agencyMappings": [
+            {
+              "agencyLabel": "OSHRC",
+              "agencyName": "Occupational Safety and Health Review Commission",
+              "agencyMission": "Adjudicates disputes arising from OSHA enforcement, promoting safer workplaces nationwide.",
+              "relevantAgentTypes": [
+                "legal-agent",
+                "regulatory-compliance-agent",
+                "health-safety-agent",
+                "industrial-hygienist-agent",
+                "engineering-services-agent"
+              ],
+              "neededMCPTools": [
+                {
+                  "toolName": "osha-citation-contest-adjudicator",
+                  "description": "Adjudicates contests filed by employers challenging citations and penalties issued by the Occupational Safety and Health Administration (OSHA).",
+                  "relevantAgentDomains": ["legal-agent", "regulatory-compliance-agent"],
+                  "potentialStandards": ["OSH_ACT", "OSHRC_RULES_OF_PROCEDURE", "OSHA_STANDARDS_29CFR", "ADMINISTRATIVE_LAW_JUDGE_PRACTICE"],
+                  "potentialHITLConditions": ["Cases involving fatalities or catastrophic accidents", "Challenges to the validity of OSHA standards", "Cases with complex technical or scientific evidence regarding hazard exposure", "Significant penalty assessments"]
+                },
+                {
+                  "toolName": "hazard-abatement-verification-reviewer",
+                  "description": "Reviews evidence submitted regarding the abatement of cited hazards.",
+                  "relevantAgentDomains": ["regulatory-compliance-agent", "health-safety-agent", "engineering-services-agent"],
+                  "potentialStandards": ["OSHRC_PROCEDURAL_RULES_ABATEMENT", "OSHA_ABATEMENT_VERIFICATION_REGS"],
+                  "potentialHITLConditions": ["Disputes over adequacy of abatement measures", "Verification involving complex engineering controls", "Cases with recurring violations"]
+                },
+                {
+                  "toolName": "simplified-proceedings-case-manager",
+                  "description": "Manages cases designated for Simplified Proceedings, aiming for faster resolution of less complex contests.",
+                  "relevantAgentDomains": ["legal-agent", "administrative-services-agent"],
+                  "potentialStandards": ["OSHRC_RULES_SIMPLIFIED_PROCEEDINGS"],
+                  "potentialHITLConditions": ["Determining eligibility for simplified proceedings", "Facilitating settlement discussions"]
+                }
+              ]
+            },
+            {
+              "agencyLabel": "OGE",
+              "agencyName": "Office of Government Ethics",
+              "agencyMission": "Promotes ethical standards across the executive branch, using advanced tools to track disclosures and prevent conflicts of interest.",
+              "relevantAgentTypes": [
+                "ethics-compliance-agent",
+                "legal-agent",
+                "regulatory-compliance-agent",
+                "data-science-agent",
+                "auditing-agent"
+              ],
+              "neededMCPTools": [
+                {
+                  "toolName": "financial-disclosure-analyzer",
+                  "description": "Reviews public and confidential financial disclosure reports (e.g., OGE Form 278, OGE Form 450) to identify potential conflicts of interest.",
+                  "relevantAgentDomains": ["ethics-compliance-agent", "legal-agent", "data-science-agent"],
+                  "potentialStandards": ["ETHICS_IN_GOVERNMENT_ACT", "OGE_REGULATIONS_5CFR", "CONFLICT_OF_INTEREST_STATUTES_18USC", "FINANCIAL_DISCLOSURE_REQUIREMENTS"],
+                  "potentialHITLConditions": ["Filers with complex financial holdings", "Identification of potential criminal conflicts (18 USC 208)", "High-level political appointees (PAS)", "Novel financial instruments or arrangements"]
+                },
+                {
+                  "toolName": "ethics-agreement-compliance-monitor",
+                  "description": "Tracks compliance with ethics agreements (e.g., recusals, divestitures) made by government officials.",
+                  "relevantAgentDomains": ["ethics-compliance-agent", "auditing-agent"],
+                  "potentialStandards": ["OGE_ETHICS_AGREEMENT_GUIDANCE", "RECUSAL_RULES", "DIVESTITURE_REQUIREMENTS"],
+                  "potentialHITLConditions": ["Failure to comply with agreement terms", "Complex divestiture processes", "Monitoring officials with numerous or broad recusals"]
+                },
+                {
+                  "toolName": "ethics-guidance-advisor",
+                  "description": "Provides guidance and advisory opinions on the application of ethics laws and regulations to specific situations.",
+                  "relevantAgentDomains": ["ethics-compliance-agent", "legal-agent"],
+                  "potentialStandards": ["STANDARDS_OF_ETHICAL_CONDUCT_5CFR2635", "OGE_ADVISORY_OPINIONS", "GIFT_RULES"],
+                  "potentialHITLConditions": ["Requests involving novel ethical questions", "Guidance for high-ranking officials", "Situations with potential public scrutiny"]
+                },
+                {
+                  "toolName": "ethics-program-reviewer",
+                  "description": "Conducts reviews of agency ethics programs throughout the executive branch to ensure effectiveness and compliance.",
+                  "relevantAgentDomains": ["ethics-compliance-agent", "auditing-agent", "regulatory-compliance-agent"],
+                  "potentialStandards": ["OGE_PROGRAM_REVIEW_STANDARDS", "GOVERNMENT_ETHICS_PROGRAM_REQUIREMENTS"],
+                  "potentialHITLConditions": ["Agencies with identified weaknesses in their ethics programs", "Reviews requiring assessment of agency culture", "Systemic ethics issues identified"]
+                }
+              ]
+            },
+            {
+              "agencyLabel": "OPM",
+              "agencyName": "Office of Personnel Management",
+              "agencyMission": "Optimizes federal workforce management and enhances recruitment, retention, and human capital strategies.",
+              "relevantAgentTypes": [
+                "human-resources-agent",
+                "administrative-services-agent",
+                "data-science-agent",
+                "legal-agent", /* Civil service law */
+                "financial-agent", /* Benefits administration */
+                "cybersecurity-agent" /* Personnel data security */
+              ],
+              "neededMCPTools": [
+                {
+                  "toolName": "federal-job-classifier",
+                  "description": "Classifies federal positions according to standardized job classification systems and qualification standards.",
+                  "relevantAgentDomains": ["human-resources-agent"],
+                  "potentialStandards": ["OPM_CLASSIFICATION_STANDARDS", "GENERAL_SCHEDULE_GS_SYSTEM", "QUALIFICATION_STANDARDS_HANDBOOK"],
+                  "potentialHITLConditions": ["Classification of newly created or complex positions", "Appeals of classification decisions", "Positions requiring specialized expertise assessment"]
+                },
+                {
+                  "toolName": "federal-benefits-administrator",
+                  "description": "Manages enrollment, changes, and inquiries related to federal employee benefits programs (FEHB, FEGLI, FERS, TSP).",
+                  "relevantAgentDomains": ["human-resources-agent", "financial-agent", "customer-service-agent"],
+                  "potentialStandards": ["FEHB_LAW_REGS", "FEGLI_LAW_REGS", "FERS_LAW_REGS", "TSP_REGULATIONS"],
+                  "potentialHITLConditions": ["Complex benefit eligibility determinations", "Disputes over benefit coverage or payments", "Processing during major life events (retirement, disability)"]
+                },
+                {
+                  "toolName": "workforce-analytics-planner",
+                  "description": "Analyzes federal workforce data (demographics, skills gaps, turnover) to inform human capital strategy and policy.",
+                  "relevantAgentDomains": ["data-science-agent", "human-resources-agent"],
+                  "potentialStandards": ["FEDERAL_WORKFORCE_STATISTICS", "HUMAN_CAPITAL_ANALYTICS", "DIVERSITY_EQUITY_INCLUSION_ASSESSMENT"],
+                  "potentialHITLConditions": ["Identifying critical skills gaps", "Analyzing barriers to diversity and inclusion", "Predictive modeling of future workforce needs"]
+                },
+                {
+                  "toolName": "suitability-adjudicator-support",
+                  "description": "Supports the process of adjudicating suitability and security clearance determinations for federal employment.",
+                  "relevantAgentDomains": ["human-resources-agent", "legal-agent", "security-services-agent"],
+                  "potentialStandards": ["OPM_SUITABILITY_REGS_5CFR731", "SECURITY_CLEARANCE_ADJUDICATIVE_GUIDELINES_SEAD4", "DUE_PROCESS_STANDARDS"],
+                  "potentialHITLConditions": ["Cases involving significant derogatory information", "Appeals of unfavorable determinations", "Adjudications requiring complex mitigation analysis"]
+                }
+              ]
+            },
+            {
+              "agencyLabel": "OSC",
+              "agencyName": "Office of Special Counsel",
+              "agencyMission": "Investigates whistleblower disclosures and protects federal employees from prohibited personnel practices.",
+              "relevantAgentTypes": [
+                "legal-agent",
+                "investigator-agent", /* Assuming implicit agent */
+                "human-resources-agent",
+                "ethics-compliance-agent"
+              ],
+              "neededMCPTools": [
+                {
+                  "toolName": "whistleblower-disclosure-evaluator",
+                  "description": "Receives and evaluates disclosures from federal employees alleging waste, fraud, abuse, or mismanagement.",
+                  "relevantAgentDomains": ["legal-agent", "investigator-agent", "ethics-compliance-agent"],
+                  "potentialStandards": ["WHISTLEBLOWER_PROTECTION_ACT_WPA", "OSC_DISCLOSURE_PROCESSING_GUIDELINES"],
+                  "potentialHITLConditions": ["Disclosures requiring referral to agency heads or IG", "Allegations involving classified or sensitive information", "Determining if disclosure meets threshold for WPA protection"]
+                },
+                {
+                  "toolName": "ppp-retaliation-investigator",
+                  "description": "Investigates allegations that federal employees suffered prohibited personnel practices (PPPs), including retaliation for whistleblowing.",
+                  "relevantAgentDomains": ["legal-agent", "investigator-agent", "human-resources-agent"],
+                  "potentialStandards": ["5_USC_2302_PPPs", "WPA_RETALIATION_STANDARDS", "OSC_INVESTIGATIVE_PROCEDURES"],
+                  "potentialHITLConditions": ["Cases requiring complex analysis of motive and causation", "Systemic PPP allegations", "Seeking corrective action or disciplinary action through MSPB"]
+                },
+                {
+                  "toolName": "hatch-act-compliance-enforcer",
+                  "description": "Investigates allegations of improper political activity by federal, state, and local government employees subject to the Hatch Act.",
+                  "relevantAgentDomains": ["legal-agent", "investigator-agent", "regulatory-compliance-agent"],
+                  "potentialStandards": ["HATCH_ACT_5USC_7321", "OSC_HATCH_ACT_GUIDANCE"],
+                  "potentialHITLConditions": ["Cases involving high-level officials", "Novel questions about application of the Hatch Act (e.g., social media)", "Prosecuting violations before the MSPB"]
+                },
+                {
+                  "toolName": "userra-compliance-investigator",
+                  "description": "Investigates claims filed by federal employees alleging violations of the Uniformed Services Employment and Reemployment Rights Act (USERRA).",
+                  "relevantAgentDomains": ["legal-agent", "investigator-agent", "human-resources-agent"],
+                  "potentialStandards": ["USERRA_38USC_43", "OSC_USERRA_INVESTIGATION_PROCEDURES"],
+                  "potentialHITLConditions": ["Complex reemployment rights cases", "Allegations of discrimination based on military service"]
+                }
+              ]
+            },
+            {
+              "agencyLabel": "PeaceCorps",
+              "agencyName": "Peace Corps",
+              "agencyMission": "Matches volunteers to global development projects, fostering cross-cultural exchange and support.",
+              "relevantAgentTypes": [
+                "project-management-agent",
+                "administrative-services-agent",
+                "international-relations-agent", /* Implicit agent */
+                "education-agent",
+                "health-services-agent", /* Implicit agent */
+                "agriculture-agent",
+                "security-services-agent", /* Volunteer safety */
+                "human-resources-agent" /* Volunteer recruitment/placement */
+              ],
+              "neededMCPTools": [
+                {
+                  "toolName": "volunteer-placement-matcher",
+                  "description": "Matches volunteer applicants' skills, experience, and preferences with requests from host countries and specific project needs.",
+                  "relevantAgentDomains": ["human-resources-agent", "project-management-agent"],
+                  "potentialStandards": ["PEACE_CORPS_PROGRAMMING_STANDARDS", "SKILLS_ASSESSMENT", "HOST_COUNTRY_AGREEMENTS"],
+                  "potentialHITLConditions": ["Placement in high-risk or remote locations", "Matching highly specialized skills", "Addressing volunteer suitability concerns"]
+                },
+                {
+                  "toolName": "volunteer-safety-security-monitor",
+                  "description": "Monitors safety and security conditions in host countries, manages incident reports, and coordinates emergency actions for volunteers.",
+                  "relevantAgentDomains": ["security-services-agent", "administrative-services-agent", "international-relations-agent"],
+                  "potentialStandards": ["PEACE_CORPS_SAFETY_SECURITY_PROTOCOLS", "DOS_TRAVEL_ADVISORIES", "EMERGENCY_ACTION_PLANNING"],
+                  "potentialHITLConditions": ["Significant security incidents involving volunteers", "Need for evacuation or consolidation", "Rapidly deteriorating country conditions"]
+                },
+                {
+                  "toolName": "cross-cultural-training-developer",
+                  "description": "Develops and delivers pre-service and in-service training curricula on language, culture, technical skills, and health/safety for volunteers.",
+                  "relevantAgentDomains": ["education-agent", "international-relations-agent", "health-services-agent"],
+                  "potentialStandards": ["INTERCULTURAL_COMPETENCE_FRAMEWORKS", "ADULT_LEARNING_THEORY", "LANGUAGE_ACQUISITION_METHODS"],
+                  "potentialHITLConditions": ["Developing training for new countries or program sectors", "Adapting training for diverse volunteer cohorts", "Evaluating training effectiveness"]
+                },
+                {
+                  "toolName": "project-monitoring-reporting-system",
+                  "description": "Collects and analyzes reports from volunteers and staff on project activities, progress, challenges, and community impact.",
+                  "relevantAgentDomains": ["project-management-agent", "research-services-agent"],
+                  "potentialStandards": ["PEACE_CORPS_M&E_FRAMEWORK", "DEVELOPMENT_PROJECT_REPORTING"],
+                  "potentialHITLConditions": ["Identifying projects significantly off-track", "Analyzing qualitative data on community impact", "Aggregating data for agency-wide reporting"]
+                }
+              ]
+            },
+            {
+              "agencyLabel": "PBGC",
+              "agencyName": "Pension Benefit Guaranty Corporation",
+              "agencyMission": "Protects the retirement incomes of American workers by insuring defined-benefit pension plans nationwide.",
+              "relevantAgentTypes": [
+                "financial-agent", /* Actuarial, Investment, Insurance */
+                "legal-agent", /* ERISA, Bankruptcy */
+                "regulatory-compliance-agent",
+                "data-science-agent" /* Risk Modeling */
+              ],
+              "neededMCPTools": [
+                {
+                  "toolName": "pension-plan-risk-monitor",
+                  "description": "Monitors the funding status and financial health of insured single-employer and multiemployer defined benefit pension plans.",
+                  "relevantAgentDomains": ["financial-agent", "data-science-agent"],
+                  "potentialStandards": ["ERISA_FUNDING_RULES", "PBGC_REPORTABLE_EVENTS_REGS", "ACTUARIAL_STANDARDS_OF_PRACTICE", "FINANCIAL_RISK_MODELING"],
+                  "potentialHITLConditions": ["Plans showing significant underfunding", "Companies facing financial distress", "Identifying plans likely to terminate"]
+                },
+                {
+                  "toolName": "plan-termination-processor",
+                  "description": "Manages the process when an underfunded pension plan terminates, including becoming trustee, determining guaranteed benefits, and paying participants.",
+                  "relevantAgentDomains": ["financial-agent", "legal-agent", "regulatory-compliance-agent"],
+                  "potentialStandards": ["ERISA_TITLE_IV", "PBGC_BENEFIT_GUARANTEE_RULES", "PLAN_ASSET_VALUATION", "BANKRUPTCY_LAW"],
+                  "potentialHITLConditions": ["Termination of very large pension plans", "Complex asset recovery situations (bankruptcy)", "Disputes over benefit calculations"]
+                },
+                {
+                  "toolName": "pbgc-premium-calculator",
+                  "description": "Calculates the insurance premiums owed by defined benefit plan sponsors based on plan size, funding levels, and risk factors.",
+                  "relevantAgentDomains": ["financial-agent", "regulatory-compliance-agent"],
+                  "potentialStandards": ["PBGC_PREMIUM_REGULATIONS", "ACTUARIAL_CALCULATIONS"],
+                  "potentialHITLConditions": ["Calculating variable-rate premiums for complex plans", "Auditing premium filings", "Handling appeals of premium determinations"]
+                },
+                {
+                  "toolName": "multiemployer-plan-assistance-manager",
+                  "description": "Manages financial assistance programs for insolvent multiemployer pension plans.",
+                  "relevantAgentDomains": ["financial-agent", "legal-agent"],
+                  "potentialStandards": ["MPRA", "ARP_SPECIAL_FINANCIAL_ASSISTANCE", "MULTIEMPLOYER_PENSION_PLAN_REGULATIONS"],
+                  "potentialHITLConditions": ["Evaluating complex applications for financial assistance", "Monitoring plans receiving assistance", "Projecting long-term solvency of assisted plans"]
+                }
+              ]
+            },
+            {
+              "agencyLabel": "RRB",
+              "agencyName": "Railroad Retirement Board",
+              "agencyMission": "Administers retirement, survivor, and unemployment-sickness benefit programs for railroad workers and their families.",
+              "relevantAgentTypes": [
+                "benefits-administrator-agent", /* Specialized role, potentially composed */
+                "financial-agent",
+                "legal-agent", /* RRA, RUIA focus */
+                "administrative-services-agent",
+                "customer-service-agent"
+              ],
+              "neededMCPTools": [
+                {
+                  "toolName": "railroad-retirement-benefit-calculator",
+                  "description": "Calculates eligibility for and amounts of retirement, disability, and survivor annuities under the Railroad Retirement Act (RRA).",
+                  "relevantAgentDomains": ["benefits-administrator-agent", "financial-agent"],
+                  "potentialStandards": ["RAILROAD_RETIREMENT_ACT", "RRB_BENEFIT_FORMULAS", "COORDINATION_WITH_SOCIAL_SECURITY"],
+                  "potentialHITLConditions": ["Complex eligibility cases (e.g., vesting, disability onset)", "Calculations involving multiple tiers or divorced spouse benefits", "Appeals of benefit determinations"]
+                },
+                {
+                  "toolName": "railroad-unemployment-sickness-processor",
+                  "description": "Processes claims for unemployment and sickness benefits under the Railroad Unemployment Insurance Act (RUIA).",
+                  "relevantAgentDomains": ["benefits-administrator-agent", "administrative-services-agent"],
+                  "potentialStandards": ["RAILROAD_UNEMPLOYMENT_INSURANCE_ACT", "RRB_RUIA_REGULATIONS", "MEDICAL_CERTIFICATION_REQUIREMENTS"],
+                  "potentialHITLConditions": ["Claims involving disputes about availability for work or sickness duration", "Fraud detection in claims", "Coordination with state unemployment agencies"]
+                },
+                {
+                  "toolName": "railroad-service-record-manager",
+                  "description": "Maintains records of creditable railroad service and compensation used for benefit calculations.",
+                  "relevantAgentDomains": ["administrative-services-agent", "data-science-agent"],
+                  "potentialStandards": ["RRB_SERVICE_REPORTING_REQUIREMENTS", "DATA_ACCURACY_VALIDATION"],
+                  "potentialHITLConditions": ["Resolving discrepancies in reported service", "Handling records from defunct railroad companies"]
+                },
+                {
+                  "toolName": "rrb-financial-interchange-coordinator",
+                  "description": "Manages the financial interchange between the Railroad Retirement system and the Social Security system.",
+                  "relevantAgentDomains": ["financial-agent", "data-science-agent"],
+                  "potentialStandards": ["RRA_FINANCIAL_INTERCHANGE_PROVISIONS", "ACTUARIAL_PROJECTIONS"],
+                  "potentialHITLConditions": ["Calculation of large transfer amounts", "Auditing interchange calculations", "Modeling long-term financial flows"]
+                }
+              ]
+            },
+            {
+              "agencyLabel": "SEC",
+              "agencyName": "Securities and Exchange Commission",
+              "agencyMission": "Monitors financial markets and combats fraud, ensuring transparency and protecting investors.",
+              "relevantAgentTypes": [
+                "financial-agent", /* Securities analysis */
+                "legal-agent", /* Securities law, Enforcement */
+                "regulatory-compliance-agent",
+                "data-science-agent", /* Market surveillance */
+                "accounting-agent", /* Corporate filings */
+                "cybersecurity-agent" /* Market infra, EDGAR */
+              ],
+              "neededMCPTools": [
+                {
+                  "toolName": "corporate-filing-reviewer-edgar",
+                  "description": "Reviews corporate filings (10-K, 10-Q, 8-K, registration statements) submitted via EDGAR for compliance with disclosure requirements.",
+                  "relevantAgentDomains": ["financial-agent", "accounting-agent", "legal-agent", "regulatory-compliance-agent"],
+                  "potentialStandards": ["SECURITIES_ACT_1933", "SECURITIES_EXCHANGE_ACT_1934", "REGULATION_S-K", "GAAP/IFRS", "SEC_FILING_RULES"],
+                  "potentialHITLConditions": ["Review of IPO registration statements", "Filings involving complex transactions or accounting issues", "Identifying potentially misleading or incomplete disclosures"]
+                },
+                {
+                  "toolName": "market-surveillance-fraud-detector",
+                  "description": "Analyzes trading data across markets to detect potential insider trading, market manipulation, and other fraudulent activities.",
+                  "relevantAgentDomains": ["data-science-agent", "financial-agent", "regulatory-compliance-agent"],
+                  "potentialStandards": ["SEC_MARKET_SURVEILLANCE_PROTOCOLS", "INSIDER_TRADING_LAW", "MARKET_MANIPULATION_THEORIES", "ALGORITHMIC_TRADING_ANALYSIS"],
+                  "potentialHITLConditions": ["Detection of sophisticated manipulation schemes", "Analysis involving large datasets and complex algorithms", "Alerts requiring coordination with exchanges or FINRA"]
+                },
+                {
+                  "toolName": "investment-adviser-broker-examiner",
+                  "description": "Conducts examinations of registered investment advisers and broker-dealers for compliance with SEC regulations.",
+                  "relevantAgentDomains": ["regulatory-compliance-agent", "financial-agent", "legal-agent"],
+                  "potentialStandards": ["INVESTMENT_ADVISERS_ACT_1940", "SECURITIES_EXCHANGE_ACT_1934_BROKER_DEALER_REGS", "FINRA_RULES" /* Reference */, "SEC_EXAM_MODULES"],
+                  "potentialHITLConditions": ["Firms with custody of client assets", "Identifying potential breaches of fiduciary duty", "Examinations revealing significant compliance deficiencies or fraud"]
+                },
+                {
+                  "toolName": "sec-enforcement-litigation-support",
+                  "description": "Supports the investigation and litigation of securities law violations, including evidence gathering, analysis, and case preparation.",
+                  "relevantAgentDomains": ["legal-agent", "investigator-agent", "data-science-agent", "financial-agent"],
+                  "potentialStandards": ["SEC_ENFORCEMENT_MANUAL", "FEDERAL_RULES_CIVIL_PROCEDURE", "E-DISCOVERY_PROTOCOLS"],
+                  "potentialHITLConditions": ["Large, complex investigations (e.g., accounting fraud)", "Litigation against well-resourced defendants", "Cases involving novel areas of securities law"]
+                }
+              ]
+            },
+            {
+              "agencyLabel": "SSB",
+              "agencyName": "Selective Service Board",
+              "agencyMission": "Manages draft registration to ensure preparedness for national defense.",
+              "relevantAgentTypes": [
+                  "administrative-services-agent",
+                  "regulatory-compliance-agent",
+                  "data-management-agent", /* Implicit role */
+                  "legal-agent", /* MSSA law */
+                  "military-defense-agent" /* Coordination only if draft activated */
+              ],
+              "neededMCPTools": [
+                  {
+                      "toolName": "sss-registration-manager",
+                      "description": "Manages the registration database of individuals required to register under the Military Selective Service Act (MSSA).",
+                      "relevantAgentDomains": ["administrative-services-agent", "data-management-agent"],
+                      "potentialStandards": ["MILITARY_SELECTIVE_SERVICE_ACT", "SSS_REGISTRATION_REGULATIONS", "DATA_PRIVACY_ACT", "DATA_ACCURACY_STANDARDS"],
+                      "potentialHITLConditions": ["Resolving registration discrepancies", "Handling late registrations or failure-to-register cases", "Ensuring database security and integrity"]
+                  },
+                  {
+                      "toolName": "draft-mobilization-planner",
+                      "description": "Maintains readiness plans and systems for implementing a military draft if authorized by Congress and the President.",
+                      "relevantAgentDomains": ["administrative-services-agent", "logistics-agent", "military-defense-agent"],
+                      "potentialStandards": ["MSSA_MOBILIZATION_PLANS", "INTERAGENCY_COORDINATION_PROTOCOLS_DOD"],
+                      "potentialHITLConditions": ["Updating plans based on changing military needs", "Conducting readiness exercises", "Requires activation by external authority"]
+                  },
+                  {
+                      "toolName": "conscientious-objector-processor",
+                      "description": "Processes claims for classification as a conscientious objector in the event of a draft.",
+                      "relevantAgentDomains": ["legal-agent", "administrative-services-agent"],
+                      "potentialStandards": ["MSSA_CONSCIENTIOUS_OBJECTOR_PROVISIONS", "RELIGIOUS_FREEDOM_RESTORATION_ACT_RFRA", "CASE_LAW_ON_CO_STATUS"],
+                      "potentialHITLConditions": ["Evaluating sincerity of beliefs", "Handling appeals of classifications", "Requires activation by external authority"]
+                  },
+                  {
+                      "toolName": "sss-compliance-verifier",
+                      "description": "Verifies registration status for purposes related to federal benefits (student aid, employment, citizenship).",
+                      "relevantAgentDomains": ["administrative-services-agent", "regulatory-compliance-agent"],
+                      "potentialStandards": ["REQUIREMENTS_LINKED_TO_SSS_REGISTRATION"],
+                      "potentialHITLConditions": ["Disputes over registration status", "Requests requiring manual record searches"]
+                  }
+              ]
+            },
+            {
+              "agencyLabel": "SBA",
+              "agencyName": "Small Business Administration",
+              "agencyMission": "Supports America's small businesses through loans, counseling, and contracting assistance.",
+              "relevantAgentTypes": [
+                "financial-agent", /* Loan programs */
+                "business-services-agent",
+                "procurement-agent", /* Contracting assistance */
+                "legal-agent", /* Regulations, Contracts */
+                "marketing-agent", /* Outreach, Counseling support */
+                "disaster-recovery-agent" /* Implicit for disaster loans */
+              ],
+              "neededMCPTools": [
+                {
+                  "toolName": "sba-loan-processor",
+                  "description": "Processes applications for SBA loan programs (e.g., 7(a), 504), including eligibility checks and underwriting assistance for lending partners.",
+                  "relevantAgentDomains": ["financial-agent", "business-services-agent", "regulatory-compliance-agent"],
+                  "potentialStandards": ["SBA_LOAN_PROGRAM_SOPs", "CREDIT_UNDERWRITING_STANDARDS", "SMALL_BUSINESS_SIZE_STANDARDS"],
+                  "potentialHITLConditions": ["Loans requiring complex underwriting", "Applications from businesses in underserved markets", "Review of lender compliance"]
+                },
+                {
+                  "toolName": "sba-disaster-assistance-manager",
+                  "description": "Processes applications for low-interest disaster loans to businesses, homeowners, and renters in declared disaster areas.",
+                  "relevantAgentDomains": ["financial-agent", "disaster-recovery-agent", "property-services-agent"],
+                  "potentialStandards": ["SBA_DISASTER_LOAN_SOPs", "FEMA_DISASTER_DECLARATIONS", "DAMAGE_ASSESSMENT_VERIFICATION"],
+                  "potentialHITLConditions": ["High volume of applications after major disasters", "Verification of disaster-related losses", "Fraud detection in disaster loan applications"]
+                },
+                {
+                  "toolName": "small-business-contracting-certifier",
+                  "description": "Processes applications for small business certifications (e.g., 8(a) Business Development, WOSB, SDVOSB) for eligibility in federal contracting programs.",
+                  "relevantAgentDomains": ["regulatory-compliance-agent", "procurement-agent", "legal-agent"],
+                  "potentialStandards": ["SBA_CERTIFICATION_REGULATIONS_13CFR", "SMALL_BUSINESS_SIZE_STANDARDS", "FEDERAL_ACQUISITION_REGULATION_FAR_PART_19"],
+                  "potentialHITLConditions": ["Complex ownership and control determinations", "Appeals of certification denials", "Monitoring continued eligibility"]
+                },
+                {
+                  "toolName": "sba-counseling-resource-portal",
+                  "description": "Provides access to resources, training materials, and connections to SBA counseling partners (SCORE, SBDCs, WBCs).",
+                  "relevantAgentDomains": ["business-services-agent", "marketing-agent", "education-agent"],
+                  "potentialStandards": ["SMALL_BUSINESS_COUNSELING_BEST_PRACTICES", "ENTREPRENEURSHIP_TRAINING_CURRICULA"],
+                  "potentialHITLConditions": ["Matching businesses with specialized counseling needs", "Evaluating effectiveness of counseling partners"]
+                }
+              ]
+            },
+            {
+              "agencyLabel": "SSA",
+              "agencyName": "Social Security Administration",
+              "agencyMission": "Administers retirement, disability, and survivors' benefits.",
+              "relevantAgentTypes": [
+                "benefits-administrator-agent", /* Composed role */
+                "administrative-services-agent",
+                "customer-service-agent",
+                "financial-agent", /* Benefit calculations */
+                "legal-agent", /* Appeals, SSA Law */
+                "health-services-agent", /* Disability Determination Services (DDS) liaison */
+                "data-science-agent", /* Fraud detection, workload analysis */
+                "cybersecurity-agent" /* Protecting massive PII */
+              ],
+              "neededMCPTools": [
+                {
+                  "toolName": "ssa-benefit-application-processor",
+                  "description": "Processes applications for Social Security retirement, survivors, and disability (SSDI/SSI) benefits, determining eligibility and calculating benefit amounts.",
+                  "relevantAgentDomains": ["benefits-administrator-agent", "administrative-services-agent", "financial-agent"],
+                  "potentialStandards": ["SOCIAL_SECURITY_ACT", "SSA_PROGRAM_OPERATIONS_MANUAL_SYSTEM_POMS", "BENEFIT_CALCULATION_FORMULAS", "DISABILITY_LISTING_OF_IMPAIRMENTS"],
+                  "potentialHITLConditions": ["Complex disability claims requiring medical/vocational expertise (often involves DDS)", "Cases involving overpayments/underpayments", "Appeals of benefit denials", "Applications with conflicting information"]
+                },
+                {
+                  "toolName": "ssa-disability-determination-support",
+                  "description": "Supports the disability determination process conducted by state Disability Determination Services (DDS), including medical evidence review and vocational assessment.",
+                  "relevantAgentDomains": ["health-services-agent", "legal-agent", "benefits-administrator-agent"],
+                  "potentialStandards": ["SSA_DISABILITY_EVALUATION_UNDER_SSA_BLUE_BOOK", "MEDICAL_VOCATIONAL_GUIDELINES_GRID_RULES", "SEQUENTIAL_EVALUATION_PROCESS"],
+                  "potentialHITLConditions": ["Claims lacking sufficient medical evidence", "Cases requiring testimony from medical or vocational experts", "Review of Administrative Law Judge (ALJ) decisions on appeal"]
+                },
+                {
+                  "toolName": "ssa-earnings-record-manager",
+                  "description": "Maintains and corrects lifetime earnings records used to calculate Social Security benefits.",
+                  "relevantAgentDomains": ["administrative-services-agent", "data-management-agent"],
+                  "potentialStandards": ["SSA_EARNINGS_REPORTING_REQUIREMENTS", "DATA_ACCURACY_PROCEDURES"],
+                  "potentialHITLConditions": ["Resolving discrepancies between reported earnings and SSA records", "Correcting records due to identity theft or error", "Handling earnings from multiple types of employment"]
+                },
+                {
+                  "toolName": "ssa-program-integrity-analyzer",
+                  "description": "Analyzes data to detect and prevent fraud, waste, and abuse in Social Security programs, including identifying potentially fraudulent claims or improper payments.",
+                  "relevantAgentDomains": ["data-science-agent", "investigator-agent", "financial-agent"],
+                  "potentialStandards": ["SSA_FRAUD_PREVENTION_PROCEDURES", "PAYMENT_INTEGRITY_INFORMATION_ACT_PIIA", "PREDICTIVE_ANALYTICS_FRAUD_DETECTION"],
+                  "potentialHITLConditions": ["Investigating complex fraud rings", "Developing new fraud detection algorithms", "Cases requiring coordination with law enforcement (OIG)"]
+                }
+              ]
+            },
+            {
+              "agencyLabel": "SSAB",
+              "agencyName": "Social Security Advisory Board",
+              "agencyMission": "Advises the President and Congress on Social Security policy.",
+              "relevantAgentTypes": [
+                  "policy-analyst-agent",
+                  "economics-agent", /* Macroeconomics, Actuarial */
+                  "financial-agent", /* Actuarial */
+                  "research-services-agent",
+                  "legal-agent" /* Understanding SSA Law */
+              ],
+              "neededMCPTools": [
+                  {
+                      "toolName": "ssa-policy-simulation-modeler",
+                      "description": "Models the long-term financial, economic, and distributional effects of proposed changes to Social Security retirement, disability, and survivor programs.",
+                      "relevantAgentDomains": ["economics-agent", "financial-agent", "policy-analyst-agent", "data-science-agent"],
+                      "potentialStandards": ["ACTUARIAL_PROJECTION_STANDARDS", "MICROSIMULATION_MODELING", "ECONOMIC_IMPACT_ANALYSIS"],
+                      "potentialHITLConditions": ["Modeling novel or complex policy proposals", "Analysis involving significant uncertainty or assumption sensitivity", "Comparing distributional impacts across different demographic groups"]
+                  },
+                  {
+                      "toolName": "ssa-program-effectiveness-evaluator",
+                      "description": "Evaluates the effectiveness, efficiency, and equity of current Social Security programs and administrative operations.",
+                      "relevantAgentDomains": ["policy-analyst-agent", "research-services-agent", "economics-agent"],
+                      "potentialStandards": ["PROGRAM_EVALUATION_STANDARDS", "SOCIAL_INSURANCE_PRINCIPLES", "CUSTOMER_SERVICE_METRICS"],
+                      "potentialHITLConditions": ["Evaluating programs with conflicting goals", "Assessing impact on vulnerable populations", "Analysis based on qualitative research or stakeholder feedback"]
+                  },
+                  {
+                      "toolName": "comparative-social-insurance-analyzer",
+                      "description": "Analyzes social insurance systems in other countries to provide comparative context and potential lessons for U.S. Social Security policy.",
+                      "relevantAgentDomains": ["policy-analyst-agent", "economics-agent", "research-services-agent"],
+                      "potentialStandards": ["COMPARATIVE_POLICY_ANALYSIS", "INTERNATIONAL_SOCIAL_SECURITY_ASSOCIATION_ISSA_GUIDELINES"],
+                      "potentialHITLConditions": ["Drawing lessons from systems with very different structures", "Accounting for cultural and economic context differences"]
+                  }
+              ]
+            },
+            {
+              "agencyLabel": "TVA",
+              "agencyName": "Tennessee Valley Authority",
+              "agencyMission": "Provides electricity, manages river system, and promotes economic development in the Tennessee Valley.",
+              "relevantAgentTypes": [
+                "energy-services-agent",
+                "engineering-services-agent", /* Power, Civil, Environmental */
+                "environmental-agent",
+                "hydrology-agent",
+                "financial-agent", /* Corporate utility finance */
+                "project-management-agent",
+                "economics-agent" /* Regional development */
+              ],
+              "neededMCPTools": [
+                {
+                  "toolName": "power-system-operations-optimizer",
+                  "description": "Optimizes the dispatch of TVA's diverse power generation assets (hydro, nuclear, fossil, renewables) to meet load reliably and economically.",
+                  "relevantAgentDomains": ["energy-services-agent", "engineering-services-agent", "financial-agent", "data-science-agent"],
+                  "potentialStandards": ["NERC_RELIABILITY_STANDARDS", "POWER_GRID_OPERATIONS", "ECONOMIC_DISPATCH_ALGORITHMS", "RENEWABLE_INTEGRATION"],
+                  "potentialHITLConditions": ["Managing grid during extreme weather or high demand", "Integrating large amounts of variable renewable energy", "Optimizing hydro dispatch considering flood control/navigation needs"]
+                },
+                {
+                  "toolName": "integrated-river-management-simulator",
+                  "description": "Manages the Tennessee River reservoir system for multiple purposes: flood control, navigation, power generation, water quality, and recreation.",
+                  "relevantAgentDomains": ["hydrology-agent", "environmental-agent", "engineering-services-agent"],
+                  "potentialStandards": ["USACE_WATER_CONTROL_MANUALS" /* Reference */, "RESERVOIR_OPERATIONS_MODELING", "WATER_QUALITY_STANDARDS"],
+                  "potentialHITLConditions": ["Major flood events requiring difficult tradeoffs", "Drought conditions impacting multiple uses", "Balancing competing demands for water resources"]
+                },
+                {
+                  "toolName": "regional-economic-development-analyzer",
+                  "description": "Supports economic development activities in the TVA service region, including site selection assistance and infrastructure analysis.",
+                  "relevantAgentDomains": ["economics-agent", "business-services-agent", "geospatial-sciences-agent"],
+                  "potentialStandards": ["ECONOMIC_DEVELOPMENT_BEST_PRACTICES", "SITE_SELECTION_ANALYSIS", "REGIONAL_ECONOMIC_MODELING"],
+                  "potentialHITLConditions": ["Analysis for large industrial recruitment projects", "Developing strategies for distressed communities"]
+                },
+                {
+                  "toolName": "environmental-stewardship-monitor",
+                  "description": "Monitors and manages the environmental impacts of TVA operations, including air emissions, water quality, and natural resource management.",
+                  "relevantAgentDomains": ["environmental-agent", "regulatory-compliance-agent"],
+                  "potentialStandards": ["CLEAN_AIR_ACT", "CLEAN_WATER_ACT", "NEPA", "ENDANGERED_SPECIES_ACT", "EPA_REGULATIONS"],
+                  "potentialHITLConditions": ["Compliance with new environmental regulations", "Managing impacts on sensitive ecosystems", "Remediation of legacy environmental issues"]
+                }
+              ]
+            },
+            {
+              "agencyLabel": "USAID",
+              "agencyName": "U.S. Agency for International Development",
+              "agencyMission": "Drives global development efforts, targeting humanitarian aid, economic growth, and democracy initiatives.",
+              "relevantAgentTypes": [
+                "international-relations-agent",
+                "sustainable-development-agent",
+                "project-management-agent",
+                "financial-agent", /* Grants/Contracts */
+                "public-health-agent",
+                "education-agent",
+                "agriculture-agent",
+                "logistics-agent", /* Aid delivery */
+                "research-services-agent", /* M&E */
+                "democracy-governance-agent" /* Implicit */
+              ],
+              "neededMCPTools": [
+                {
+                  "toolName": "foreign-assistance-project-designer",
+                  "description": "Designs development projects and programs, including defining objectives, activities, budgets, and monitoring & evaluation (M&E) plans.",
+                  "relevantAgentDomains": ["sustainable-development-agent", "project-management-agent", "international-relations-agent"],
+                  "potentialStandards": ["USAID_ADS_SERIES_200_PROGRAM_CYCLE", "DEVELOPMENT_PROJECT_DESIGN_FRAMEWORKS", "RESULTS_BASED_MANAGEMENT"],
+                  "potentialHITLConditions": ["Projects in conflict or fragile states", "Large, complex multi-sectoral programs", "Designing innovative or experimental approaches"]
+                },
+                {
+                  "toolName": "humanitarian-response-coordinator",
+                  "description": "Assesses needs and coordinates the delivery of U.S. humanitarian assistance in response to natural disasters or complex emergencies.",
+                  "relevantAgentDomains": ["logistics-agent", "project-management-agent", "public-health-agent"],
+                  "potentialStandards": ["SPHERE_STANDARDS", "HUMANITARIAN_PRINCIPLES", "DISASTER_NEEDS_ASSESSMENT"],
+                  "potentialHITLConditions": ["Rapid response in large-scale disasters", "Operating in insecure environments", "Coordination with multiple international actors (UN, NGOs)"]
+                },
+                {
+                  "toolName": "democracy-rights-governance-evaluator",
+                  "description": "Supports and evaluates programs aimed at strengthening democratic institutions, human rights, and good governance in partner countries.",
+                  "relevantAgentDomains": ["democracy-governance-agent", "legal-agent", "research-services-agent"],
+                  "potentialStandards": ["DRG_ASSESSMENT_FRAMEWORKS", "ELECTION_MONITORING_STANDARDS", "ANTI_CORRUPTION_BEST_PRACTICES"],
+                  "potentialHITLConditions": ["Programs operating in politically sensitive environments", "Measuring impact of governance reforms", "Adapting programs to changing political contexts"]
+                },
+                {
+                  "toolName": "development-impact-monitor",
+                  "description": "Monitors, evaluates, and learns from USAID projects and programs to improve effectiveness and ensure accountability for results.",
+                  "relevantAgentDomains": ["research-services-agent", "data-science-agent", "project-management-agent"],
+                  "potentialStandards": ["USAID_EVALUATION_POLICY", "DEVELOPMENT_EFFECTIVENESS_PRINCIPLES", "QUANTITATIVE_QUALITATIVE_RESEARCH_METHODS"],
+                  "potentialHITLConditions": ["Conducting rigorous impact evaluations (e.g., RCTs)", "Evaluating long-term or systemic changes", "Synthesizing evidence across diverse portfolios"]
+                }
+              ]
+            },
+            {
+              "agencyLabel": "CCR",
+              "agencyName": "United States Commission on Civil Rights",
+              "agencyMission": "Investigates discrimination complaints and promote equal protection under the law.",
+              "relevantAgentTypes": [
+                "legal-agent", /* Civil Rights Law */
+                "research-services-agent",
+                "policy-analyst-agent",
+                "data-science-agent", /* Analyzing disparities */
+                "sociologist-agent" /* Implicit agent for context */
+              ],
+              "neededMCPTools": [
+                {
+                  "toolName": "civil-rights-investigation-reporter",
+                  "description": "Conducts investigations into allegations of discrimination based on race, color, religion, sex, national origin, disability, or age, and prepares reports.",
+                  "relevantAgentDomains": ["legal-agent", "research-services-agent", "investigator-agent"],
+                  "potentialStandards": ["CIVIL_RIGHTS_ACTS", "CCR_INVESTIGATIVE_PROCEDURES", "EQUAL_PROTECTION_LAW"],
+                  "potentialHITLConditions": ["Investigations involving systemic issues", "Cases requiring analysis of complex data or testimony", "Formulating findings and recommendations on controversial topics"]
+                },
+                {
+                  "toolName": "civil-rights-policy-evaluator",
+                  "description": "Evaluates the effectiveness of federal civil rights laws and enforcement efforts by federal agencies.",
+                  "relevantAgentDomains": ["policy-analyst-agent", "legal-agent", "research-services-agent"],
+                  "potentialStandards": ["POLICY_EVALUATION_METHODS", "CIVIL_RIGHTS_ENFORCEMENT_METRICS"],
+                  "potentialHITLConditions": ["Evaluating enforcement in novel areas (e.g., AI bias)", "Assessing impact across multiple agencies", "Making recommendations for legislative or regulatory changes"]
+                },
+                {
+                  "toolName": "public-hearing-facilitator-civil-rights",
+                  "description": "Organizes and facilitates public hearings to gather information and testimony on civil rights issues.",
+                  "relevantAgentDomains": ["administrative-services-agent", "legal-agent", "public-relations-agent"],
+                  "potentialStandards": ["PUBLIC_HEARING_PROCEDURES", "TESTIMONY_ANALYSIS"],
+                  "potentialHITLConditions": ["Hearings on highly charged or politicized issues", "Managing diverse stakeholder testimonies", "Synthesizing complex hearing records"]
+                }
+              ]
+            },
+            {
+              "agencyLabel": "USITC",
+              "agencyName": "United States International Trade Commission",
+              "agencyMission": "Investigates the impact of dumped and subsidized imports on domestic industries, informing U.S. trade policy.",
+              "relevantAgentTypes": [
+                "international-trade-agent",
+                "economics-agent",
+                "legal-agent", /* Trade Law */
+                "regulatory-compliance-agent",
+                "data-science-agent",
+                "research-services-agent"
+              ],
+              "neededMCPTools": [
+                {
+                  "toolName": "trade-remedy-investigator-ad-cvd",
+                  "description": "Conducts antidumping (AD) and countervailing duty (CVD) investigations, determining whether dumped or subsidized imports injure a U.S. industry.",
+                  "relevantAgentDomains": ["economics-agent", "legal-agent", "international-trade-agent", "data-science-agent"],
+                  "potentialStandards": ["TARIFF_ACT_1930_TITLE_VII", "WTO_AGREEMENT_AD_SCM", "USITC_AD_CVD_HANDBOOK", "ECONOMIC_INJURY_ANALYSIS"],
+                  "potentialHITLConditions": ["Investigations involving complex products or global supply chains", "Cases with significant economic stakes for domestic industries", "Analysis requiring sophisticated econometric modeling"]
+                },
+                {
+                  "toolName": "global-safeguard-investigator",
+                  "description": "Conducts global safeguard investigations (Section 201) to determine if increased imports are a substantial cause of serious injury to a domestic industry.",
+                  "relevantAgentDomains": ["economics-agent", "legal-agent", "international-trade-agent"],
+                  "potentialStandards": ["TRADE_ACT_1974_SECTION_201", "WTO_AGREEMENT_SAFEGUARDS", "SERIOUS_INJURY_ANALYSIS"],
+                  "potentialHITLConditions": ["High-profile cases with broad economic impact", "Determining appropriate remedy recommendations (tariffs, quotas)"]
+                },
+                {
+                  "toolName": "ipr-infringement-investigator-337",
+                  "description": "Investigates allegations of unfair competition involving imported goods that infringe U.S. intellectual property rights (Section 337 investigations).",
+                  "relevantAgentDomains": ["legal-agent", /* IP Law */ "international-trade-agent", "patent-trademark-agent" /* Implicit */ ],
+                  "potentialStandards": ["TARIFF_ACT_1930_SECTION_337", "INTELLECTUAL_PROPERTY_LAW", "USITC_SECTION_337_RULES"],
+                  "potentialHITLConditions": ["Cases involving complex patent or trademark issues", "Investigations requiring technical expertise", "Determining appropriate exclusion orders or cease and desist orders"]
+                },
+                {
+                  "toolName": "trade-economic-impact-researcher",
+                  "description": "Conducts research and analysis on international trade patterns, U.S. industry competitiveness, and the economic effects of trade policies.",
+                  "relevantAgentDomains": ["economics-agent", "research-services-agent", "international-trade-agent", "data-science-agent"],
+                  "potentialStandards": ["INTERNATIONAL_TRADE_THEORY", "ECONOMETRIC_ANALYSIS", "COMPUTABLE_GENERAL_EQUILIBRIUM_CGE_MODELING"],
+                  "potentialHITLConditions": ["Analysis of proposed trade agreements", "Studies on complex global value chains", "Research requiring access to confidential business information"]
+                }
+              ]
+            },
+            {
+              "agencyLabel": "USPS",
+              "agencyName": "United States Postal Service",
+              "agencyMission": "Provides universal mail service, optimizing logistics and customer service.",
+              "relevantAgentTypes": [
+                "logistics-agent",
+                "operations-management-agent",
+                "transportation-agent",
+                "data-science-agent",
+                "customer-service-agent",
+                "financial-agent", /* Pricing, Costing */
+                "administrative-services-agent",
+                "cybersecurity-agent" /* Protecting network/data */
+              ],
+              "neededMCPTools": [
+                {
+                  "toolName": "mail-processing-logistics-optimizer",
+                  "description": "Optimizes mail sorting, processing, and transportation networks for efficiency and cost-effectiveness.",
+                  "relevantAgentDomains": ["logistics-agent", "operations-management-agent", "data-science-agent"],
+                  "potentialStandards": ["USPS_OPERATIONAL_STANDARDS", "LOGISTICS_NETWORK_OPTIMIZATION", "INDUSTRIAL_ENGINEERING_PRINCIPLES"],
+                  "potentialHITLConditions": ["Major network redesigns", "Integrating new sorting technologies", "Balancing cost savings with service performance standards"]
+                },
+                {
+                  "toolName": "delivery-route-efficiency-analyzer",
+                  "description": "Analyzes and optimizes mail delivery routes based on volume, geography, traffic patterns, and carrier workload.",
+                  "relevantAgentDomains": ["logistics-agent", "transportation-agent", "geospatial-sciences-agent", "data-science-agent"],
+                  "potentialStandards": ["ROUTE_OPTIMIZATION_ALGORITHMS", "USPS_DELIVERY_OPERATIONS_MANUAL", "GIS_MAPPING_TOOLS"],
+                  "potentialHITLConditions": ["Adjusting routes due to population shifts", "Implementing new delivery vehicles or methods", "Addressing carrier safety concerns on routes"]
+                },
+                {
+                  "toolName": "postal-pricing-costing-modeler",
+                  "description": "Develops pricing structures for mail and package services and analyzes the costs associated with providing universal service.",
+                  "relevantAgentDomains": ["financial-agent", "economics-agent", "regulatory-compliance-agent"], /* PRC oversight */
+                  "potentialStandards": ["POSTAL_ACCOUNTABILITY_ENHANCEMENT_ACT_PAEA", "PRC_REGULATIONS", "COST_ACCOUNTING_STANDARDS"],
+                  "potentialHITLConditions": ["Major postage rate change proposals", "Analysis submitted to the Postal Regulatory Commission (PRC)", "Allocating institutional costs"]
+                },
+                {
+                  "toolName": "customer-service-performance-tracker",
+                  "description": "Monitors customer service performance across channels (retail, online, call center) and analyzes complaint data to identify areas for improvement.",
+                  "relevantAgentDomains": ["customer-service-agent", "data-science-agent", "operations-management-agent"],
+                  "potentialStandards": ["USPS_CUSTOMER_SERVICE_STANDARDS", "SERVICE_PERFORMANCE_MEASUREMENT"],
+                  "potentialHITLConditions": ["Identifying root causes of service failures", "Implementing new customer service technologies", "Addressing widespread customer complaints"]
+                }
+              ]
+            },
+            {
+              "agencyLabel": "USTDA",
+              "agencyName": "United States Trade and Development Agency",
+              "agencyMission": "Advances economic growth in developing countries through project preparation and partnerships that create U.S. jobs and export opportunities.",
+              "relevantAgentTypes": [
+                "international-trade-agent",
+                "project-management-agent",
+                "engineering-services-agent", /* Infrastructure focus */
+                "financial-agent", /* Feasibility studies */
+                "sustainable-development-agent",
+                "energy-services-agent",
+                "telecommunications-agent"
+              ],
+              "neededMCPTools": [
+                {
+                  "toolName": "project-feasibility-grant-evaluator",
+                  "description": "Evaluates grant proposals for feasibility studies and technical assistance for infrastructure projects in developing countries, assessing potential for U.S. exports.",
+                  "relevantAgentDomains": ["international-trade-agent", "financial-agent", "engineering-services-agent", "project-management-agent"],
+                  "potentialStandards": ["USTDA_GRANT_CRITERIA", "PROJECT_FEASIBILITY_ANALYSIS", "EXPORT_POTENTIAL_ASSESSMENT", "DEVELOPMENT_IMPACT_METRICS"],
+                  "potentialHITLConditions": ["Grants for very large or complex infrastructure projects", "Projects in politically or economically risky environments", "Assessing potential for specific US technologies/services"]
+                },
+                {
+                  "toolName": "us-export-opportunity-matcher",
+                  "description": "Identifies potential U.S. export opportunities arising from USTDA-funded project preparation activities.",
+                  "relevantAgentDomains": ["international-trade-agent", "business-services-agent"],
+                  "potentialStandards": ["EXPORT_MARKET_ANALYSIS", "US_INDUSTRY_CAPABILITIES_DATABASE"],
+                  "potentialHITLConditions": ["Matching opportunities in niche technology sectors", "Connecting SMEs with large international projects"]
+                },
+                {
+                  "toolName": "reverse-trade-mission-planner",
+                  "description": "Plans and organizes reverse trade missions, bringing foreign project sponsors to the U.S. to connect with American companies.",
+                  "relevantAgentDomains": ["international-trade-agent", "event-planning-agent", "project-management-agent"],
+                  "potentialStandards": ["TRADE_MISSION_BEST_PRACTICES", "BUSINESS_MATCHMAKING_PROTOCOLS"],
+                  "potentialHITLConditions": ["Organizing missions for high-level foreign delegations", "Tailoring agendas to specific project needs and US company capabilities"]
+                },
+                {
+                  "toolName": "project-pipeline-tracker",
+                  "description": "Tracks infrastructure projects from initial USTDA support through financing and implementation, monitoring outcomes and U.S. export results.",
+                  "relevantAgentDomains": ["project-management-agent", "international-trade-agent", "data-science-agent"],
+                  "potentialStandards": ["PROJECT_LIFECYCLE_MANAGEMENT", "RESULTS_MONITORING_FRAMEWORK"],
+                  "potentialHITLConditions": ["Tracking long-term project outcomes", "Verifying U.S. export data associated with projects"]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "description": "Mapping of US Federal Agencies to relevant A2A Agent types and the conceptual MCP Tools required to fulfill agency missions, designed according to A2A/MCP standards.",
+          "agencyMappings": [
+            {
+              "agencyLabel": "ED",
+              "agencyName": "Department of Education",
+              "agencyMission": "Promote student achievement and preparation for global competitiveness by fostering educational excellence and ensuring equal access.",
+              "relevantAgentTypes": [
+                "education-agent",
+                "policy-analyst-agent",
+                "regulatory-compliance-agent",
+                "legal-agent",
+                "financial-agent",
+                "data-science-agent",
+                "research-services-agent",
+                "accessibility-services-agent",
+                "curriculum-development-agent"
+              ],
+              "neededMCPTools": [
+                {
+                  "toolName": "federal-student-aid-processor",
+                  "description": "Processes FAFSA applications, calculates eligibility for Pell Grants and federal student loans, and manages disbursement through educational institutions.",
+                  "relevantAgentDomains": ["financial-agent", "education-agent", "regulatory-compliance-agent"],
+                  "potentialStandards": ["HIGHER_EDUCATION_ACT_TITLE_IV", "FAFSA_REGULATIONS", "FEDERAL_STUDENT_LOAN_RULES"],
+                  "potentialHITLConditions": ["Complex dependency override cases", "Verification involving conflicting financial data", "Appeals of aid eligibility", "Identification of potential fraud rings"]
+                },
+                {
+                  "toolName": "k12-esea-grant-manager",
+                  "description": "Manages grants under the Elementary and Secondary Education Act (ESEA), such as Title I grants for disadvantaged students, ensuring state/district compliance.",
+                  "relevantAgentDomains": ["education-agent", "financial-agent", "regulatory-compliance-agent", "project-management-agent"],
+                  "potentialStandards": ["ESEA_AS_AMENDED_BY_ESSA", "TITLE_I_REGULATIONS", "EDGAR_GRANT_RULES"],
+                  "potentialHITLConditions": ["Review of state accountability plans", "Audits revealing significant non-compliance or misuse of funds", "Waiver requests from states/districts"]
+                },
+                {
+                  "toolName": "idea-compliance-monitor",
+                  "description": "Monitors state compliance with the Individuals with Disabilities Education Act (IDEA), ensuring provision of Free Appropriate Public Education (FAPE).",
+                  "relevantAgentDomains": ["education-agent", "accessibility-services-agent", "legal-agent", "regulatory-compliance-agent"],
+                  "potentialStandards": ["IDEA_PART_B_PART_C", "SECTION_504", "FAPE_REQUIREMENTS"],
+                  "potentialHITLConditions": ["State performance plan evaluations", "Investigation of systemic non-compliance complaints", "Disputes over special education service provision"]
+                },
+                {
+                  "toolName": "ocr-civil-rights-investigator-ed",
+                  "description": "Investigates complaints of discrimination based on race, color, national origin, sex, disability, or age in educational institutions receiving federal funds.",
+                  "relevantAgentDomains": ["legal-agent", "regulatory-compliance-agent", "education-agent", "accessibility-services-agent"],
+                  "potentialStandards": ["TITLE_VI", "TITLE_IX", "SECTION_504", "ADA_TITLE_II", "AGE_DISCRIMINATION_ACT", "OCR_CASE_PROCESSING_MANUAL"],
+                  "potentialHITLConditions": ["Systemic discrimination investigations", "Cases involving harassment or sexual violence", "Compliance reviews requiring significant policy changes by institutions"]
+                },
+                {
+                  "toolName": "education-data-collector-analyzer-nces",
+                  "description": "Collects, analyzes, and disseminates national education data through the National Center for Education Statistics (NCES), including assessments like NAEP.",
+                  "relevantAgentDomains": ["data-science-agent", "research-services-agent", "education-agent"],
+                  "potentialStandards": ["NCES_STATISTICAL_STANDARDS", "NAEP_FRAMEWORKS", "IPEDS_DATA_COLLECTION", "DATA_PRIVACY_FERPA"],
+                  "potentialHITLConditions": ["Design of new national data collections or assessments", "Interpretation of complex statistical findings and trends", "Ensuring data quality and confidentiality"]
+                }
+              ]
+            },
+            {
+              "agencyLabel": "HHS",
+              "agencyName": "Department of Health and Human Services",
+              "agencyMission": "Enhance the health and well-being of all Americans by providing effective health and human services and fostering advances in medicine, public health, and social services.",
+              "relevantAgentTypes": [
+                "healthcare-agent",
+                "public-health-agent",
+                "medical-research-agent",
+                "regulatory-compliance-agent",
+                "financial-agent",
+                "data-science-agent",
+                "epidemiology-agent",
+                "pharmaceutical-industry-agent", /* FDA focus */
+                "biomedical-engineering-agent", /* FDA focus */
+                "social-work-agent",
+                "legal-agent",
+                "bioinformatics-agent" /* NIH focus */
+              ],
+              "neededMCPTools": [
+                {
+                  "toolName": "medicare-medicaid-payment-manager-cms",
+                  "description": "Manages Medicare & Medicaid payment policies, processes claims, oversees program integrity, and sets reimbursement rates.",
+                  "relevantAgentDomains": ["financial-agent", "healthcare-agent", "regulatory-compliance-agent", "data-science-agent"],
+                  "potentialStandards": ["SOCIAL_SECURITY_ACT_TITLE_XVIII_XIX", "CMS_REGULATIONS_42CFR", "HIPAA_TRANSACTIONS", "FRAUD_WASTE_ABUSE_PREVENTION"],
+                  "potentialHITLConditions": ["Implementation of major payment system reforms", "Large-scale fraud investigations", "National or local coverage determinations for new services/technologies", "Value-based purchasing program adjustments"]
+                },
+                {
+                  "toolName": "drug-device-approval-reviewer-fda",
+                  "description": "Reviews clinical trial data and manufacturing information to assess the safety and efficacy of new drugs and medical devices prior to marketing approval.",
+                  "relevantAgentDomains": ["pharmaceutical-industry-agent", "medical-research-agent", "biomedical-engineering-agent", "regulatory-compliance-agent", "toxicology-agent"],
+                  "potentialStandards": ["FOOD_DRUG_COSMETIC_ACT", "FDA_REGULATIONS_21CFR", "GOOD_CLINICAL_PRACTICE_GCP", "GOOD_MANUFACTURING_PRACTICE_GMP"],
+                  "potentialHITLConditions": ["Review of products with novel mechanisms of action", "Applications with borderline safety/efficacy profiles", "Post-market safety issues requiring regulatory action (e.g., recalls, warnings)", "Accelerated approvals or emergency use authorizations"]
+                },
+                {
+                  "toolName": "public-health-surveillance-system-cdc",
+                  "description": "Collects, analyzes, and interprets public health data (e.g., infectious diseases, chronic conditions, environmental hazards) to monitor population health and guide interventions.",
+                  "relevantAgentDomains": ["public-health-agent", "epidemiology-agent", "data-science-agent", "bioinformatics-agent"],
+                  "potentialStandards": ["NATIONAL_NOTIFIABLE_DISEASES_SURVEILLANCE_SYSTEM_NNDSS", "PUBLIC_HEALTH_DATA_STANDARDS", "EPIDEMIOLOGICAL_STUDY_DESIGN"],
+                  "potentialHITLConditions": ["Detection and investigation of disease outbreaks", "Analysis of novel pathogens or health threats", "Issuing guidance during public health emergencies", "Evaluating impact of large-scale interventions"]
+                },
+                {
+                  "toolName": "biomedical-research-grant-evaluator-nih",
+                  "description": "Manages the peer review process for biomedical research grant applications, making funding recommendations based on scientific merit and program relevance.",
+                  "relevantAgentDomains": ["medical-research-agent", "scientific-research-agent", "bioinformatics-agent", "financial-agent", "project-management-agent"],
+                  "potentialStandards": ["NIH_PEER_REVIEW_GUIDELINES", "RESEARCH_ETHICS_REGULATIONS_HUMAN_ANIMAL", "GRANT_FUNDING_POLICIES"],
+                  "potentialHITLConditions": ["Review of high-risk/high-reward research proposals", "Funding decisions for large grants or centers", "Management of conflicts of interest in peer review", "Investigation of research misconduct allegations"]
+                },
+                {
+                  "toolName": "human-services-program-manager-acf-samhsa",
+                  "description": "Oversees and evaluates federal programs supporting vulnerable populations, including child welfare (ACF), mental health, and substance abuse treatment (SAMHSA).",
+                  "relevantAgentDomains": ["social-work-agent", "public-health-agent", "project-management-agent", "financial-agent"],
+                  "potentialStandards": ["HEAD_START_ACT", "CAPTA", "SAMHSA_BLOCK_GRANT_REQUIREMENTS", "PROGRAM_EVALUATION_STANDARDS"],
+                  "potentialHITLConditions": ["Allocation of block grant funding", "Evaluation of program effectiveness in diverse communities", "Response to crises affecting served populations (e.g., opioid epidemic)"]
+                }
+              ]
+            },
+            {
+              "agencyLabel": "DOE",
+              "agencyName": "Department of Energy",
+              "agencyMission": "Ensures America’s security and prosperity by addressing its energy, environmental, and nuclear challenges through transformative science and technology solutions.",
+              "relevantAgentTypes": [
+                "energy-services-agent",
+                "nuclear-energy-agent",
+                "environmental-agent",
+                "environmental-remediation-agent",
+                "scientific-research-agent", /* Physics, Materials, Chemistry etc. */
+                "engineering-services-agent", /* Various disciplines */
+                "project-management-agent",
+                "national-security-agent", /* NNSA focus - assuming implicit */
+                "cybersecurity-agent", /* Grid, Labs, SCADA */
+                "regulatory-compliance-agent",
+                "financial-agent" /* Loan Programs Office, Grants */
+              ],
+              "neededMCPTools": [
+                {
+                  "toolName": "energy-research-development-manager",
+                  "description": "Manages DOE research, development, and demonstration (RD&D) programs across various energy sectors (renewables, fossil, nuclear, grid, efficiency).",
+                  "relevantAgentDomains": ["energy-services-agent", "scientific-research-agent", "engineering-services-agent", "project-management-agent", "financial-agent"],
+                  "potentialStandards": ["DOE_GRANT_FUNDING_REGS", "TECHNOLOGY_READINESS_ASSESSMENT", "ENERGY_POLICY_ACTS", "SCIENTIFIC_PEER_REVIEW"],
+                  "potentialHITLConditions": ["Selection of large-scale demonstration projects", "Prioritization across competing energy technologies", "Evaluation of high-risk, potentially transformative research"]
+                },
+                {
+                  "toolName": "nuclear-security-stockpile-manager-nnsa",
+                  "description": "Oversees the management and stewardship of the U.S. nuclear weapons stockpile, including non-proliferation and counterterrorism activities (NNSA).",
+                  "relevantAgentDomains": ["national-security-agent", "nuclear-energy-agent", "engineering-services-agent", "materials-science-agent", "scientific-research-agent"],
+                  "potentialStandards": ["ATOMIC_ENERGY_ACT", "NNSA_DIRECTIVES", "NUCLEAR_WEAPON_SAFETY_RULES", "ARMS_CONTROL_TREATY_VERIFICATION"],
+                  "potentialHITLConditions": ["Stockpile certification assessments", "Decisions regarding weapon life extension programs", "Management of nuclear materials security", "Response to nuclear proliferation threats"]
+                },
+                {
+                  "toolName": "environmental-remediation-planner-em",
+                  "description": "Manages the cleanup of hazardous and radioactive waste resulting from nuclear weapons production and energy research (Environmental Management - EM).",
+                  "relevantAgentDomains": ["environmental-remediation-agent", "nuclear-energy-agent", "project-management-agent", "regulatory-compliance-agent", "hydrology-agent", "geospatial-sciences-agent"],
+                  "potentialStandards": ["CERCLA_SUPERFUND", "RCRA", "DOE_ENVIRONMENTAL_ORDERS", "RADIOACTIVE_WASTE_MANAGEMENT_STANDARDS"],
+                  "potentialHITLConditions": ["Selection of remediation technologies for complex sites (e.g., Hanford, Savannah River)", "Long-term stewardship plans for cleaned sites", "Negotiating cleanup agreements with regulators (EPA, states)"]
+                },
+                {
+                  "toolName": "energy-infrastructure-security-coordinator",
+                  "description": "Coordinates efforts to protect critical energy infrastructure (electric grid, pipelines, LNG facilities) from physical and cybersecurity threats.",
+                  "relevantAgentDomains": ["cybersecurity-agent", "security-services-agent", "energy-services-agent", "engineering-services-agent"],
+                  "potentialStandards": ["NERC_CIP_STANDARDS", "NIST_CYBERSECURITY_FRAMEWORK", "DOE_ENERGY_SECTOR_SECURITY_PLANS", "TSA_PIPELINE_SECURITY_DIRECTIVES"],
+                  "potentialHITLConditions": ["Response to major cyber or physical attacks on energy infrastructure", "Developing standards for emerging threats (e.g., supply chain security)", "Coordination between government and private sector asset owners"]
+                },
+                {
+                  "toolName": "national-lab-strategic-oversight",
+                  "description": "Provides strategic oversight and management of DOE's National Laboratory complex, ensuring alignment with national missions and scientific excellence.",
+                  "relevantAgentDomains": ["scientific-research-agent", "project-management-agent", "administrative-services-agent", "policy-analyst-agent"],
+                  "potentialStandards": ["DOE_LABORATORY_MANAGEMENT_CONTRACTS_M&O", "RESEARCH_PERFORMANCE_METRICS", "SAFETY_SECURITY_OVERSIGHT"],
+                  "potentialHITLConditions": ["Approval of major new research facilities or initiatives", "Review of laboratory performance assessments", "Addressing significant operational, safety, or security issues at labs"]
+                }
+              ]
+            },
+      ]

@@ -1,0 +1,9 @@
+# HMS-MKT for SSS
+
+## Description
+
+Market Analytics
+
+## Integration Points
+
+This document outlines how HMS-MKT is integrated with SSS systems.

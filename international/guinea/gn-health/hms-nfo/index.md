@@ -1,0 +1,9 @@
+# HMS-NFO for gn_Health
+
+## Description
+
+National Financial Organizations
+
+## Integration Points
+
+This document outlines how HMS-NFO is integrated with gn_Health systems in Guinea.

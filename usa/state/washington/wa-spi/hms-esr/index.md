@@ -1,0 +1,9 @@
+# HMS-ESR for WA_SPI
+
+## Description
+
+Economic System Representation
+
+## Integration Points
+
+This document outlines how HMS-ESR is integrated with WA_SPI systems in Washington.

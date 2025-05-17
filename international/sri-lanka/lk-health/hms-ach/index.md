@@ -1,0 +1,9 @@
+# HMS-ACH for lk_Health
+
+## Description
+
+Automated Clearing House
+
+## Integration Points
+
+This document outlines how HMS-ACH is integrated with lk_Health systems in Sri Lanka.

@@ -1,0 +1,30 @@
+{
+  "component": "HMS-FLD",
+  "version": "1.0",
+  "created_at": "2025-05-01T12:24:06.711136",
+  "last_updated": "2025-05-01T12:24:06.711268",
+  "start": {
+    "last_attempt": "2025-05-01T12:24:06.711139",
+    "last_success": "2025-05-01T12:24:06.711141",
+    "attempts": 1,
+    "successes": 1,
+    "failures": 0,
+    "status": "running"
+  },
+  "tests": {
+    "last_run": "2025-05-01T12:24:06.711264",
+    "last_success": "2025-05-01T12:24:06.711264",
+    "total_runs": 1,
+    "total_passed": 1,
+    "total_failed": 0,
+    "status": "passing",
+    "last_results": {
+      "passed": 27,
+      "failed": 0,
+      "skipped": 0,
+      "duration": 6.612824448279905
+    }
+  },
+  "issues": [],
+  "operational_status": "operational"
+}

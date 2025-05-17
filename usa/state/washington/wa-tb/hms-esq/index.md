@@ -1,0 +1,9 @@
+# HMS-ESQ for WA_TB
+
+## Description
+
+Enhanced System Quality
+
+## Integration Points
+
+This document outlines how HMS-ESQ is integrated with WA_TB systems in Washington.

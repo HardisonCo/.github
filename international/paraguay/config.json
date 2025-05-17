@@ -1,0 +1,70 @@
+{
+  "system": {
+    "name": "Paraguay Healthcare System",
+    "country": "Paraguay",
+    "code": "py",
+    "language": ["Spanish", "Guaraní"],
+    "currency": "PYG",
+    "population": 7359000,
+    "region": "South America",
+    "type": "Mixed (public/private/social security)",
+    "coverage": "Approximately 60-70% through public sector"
+  },
+  "organizations": [
+    {
+      "name": "Ministerio de Salud Pública y Bienestar Social (MSPBS)",
+      "type": "government",
+      "role": "Public healthcare administration",
+      "coverage": "60-70% of population",
+      "url": "https://www.mspbs.gov.py/"
+    },
+    {
+      "name": "Instituto de Previsión Social (IPS)",
+      "type": "social_security",
+      "role": "Healthcare for formal sector workers and dependents",
+      "coverage": "20% of population",
+      "url": "https://portal.ips.gov.py/"
+    },
+    {
+      "name": "Private Healthcare Providers",
+      "type": "private",
+      "role": "Private healthcare services",
+      "coverage": "10-20% of population",
+      "url": ""
+    }
+  ],
+  "challenges": [
+    "Urban-rural healthcare disparities",
+    "Limited healthcare infrastructure in remote areas",
+    "Workforce shortages in specialized care",
+    "Fragmented health information systems",
+    "High out-of-pocket expenses",
+    "Limited resources for healthcare technology"
+  ],
+  "priorities": [
+    "Universal healthcare access",
+    "Primary care strengthening",
+    "Health information system modernization",
+    "Healthcare workforce development",
+    "Maternal and child health improvement",
+    "Infectious disease control"
+  ],
+  "hms_integration": {
+    "priority_components": [
+      "HMS-NFO",
+      "HMS-EHR",
+      "HMS-MCP",
+      "HMS-CUR",
+      "HMS-DEV"
+    ],
+    "implementation_phases": 4,
+    "timeline_years": 3,
+    "regional_focus": [
+      "Asunción",
+      "Central Department",
+      "Alto Paraná",
+      "Itapúa",
+      "Chaco Region"
+    ]
+  }
+}

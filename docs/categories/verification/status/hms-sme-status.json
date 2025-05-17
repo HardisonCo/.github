@@ -1,0 +1,30 @@
+{
+  "component": "HMS-SME",
+  "version": "1.0",
+  "created_at": "2025-05-01T12:24:06.728820",
+  "last_updated": "2025-05-01T12:24:06.729123",
+  "start": {
+    "last_attempt": "2025-05-01T12:24:06.728823",
+    "last_success": "2025-05-01T12:24:06.728824",
+    "attempts": 1,
+    "successes": 1,
+    "failures": 0,
+    "status": "running"
+  },
+  "tests": {
+    "last_run": "2025-05-01T12:24:06.729119",
+    "last_success": "2025-05-01T12:24:06.729119",
+    "total_runs": 1,
+    "total_passed": 1,
+    "total_failed": 0,
+    "status": "passing",
+    "last_results": {
+      "passed": 47,
+      "failed": 0,
+      "skipped": 1,
+      "duration": 1.4182633862617662
+    }
+  },
+  "issues": [],
+  "operational_status": "operational"
+}

@@ -1,0 +1,103 @@
+{
+  "component": "HMS-MKT",
+  "generated_at": "2025-05-01T12:24:06.721392",
+  "operational_status": "degraded",
+  "repository": {
+    "last_commit": "",
+    "description": "## Build Setup\n1) clone ```develop```\n2) npm install",
+    "tech_stack": {
+      "languages": [
+        "JavaScript",
+        "TypeScript"
+      ],
+      "frameworks": [
+        "Nuxt.js"
+      ],
+      "databases": [],
+      "key_libraries": [
+        "Jest",
+        "ESLint",
+        "Vitest"
+      ]
+    },
+    "integration_points": [
+      "HMS-API",
+      "HMS-NFO",
+      "HMS-DOC"
+    ],
+    "architecture": {
+      "pattern": "layered",
+      "key_dirs": [
+        "components",
+        "data",
+        "store"
+      ],
+      "entry_points": []
+    }
+  },
+  "status": {
+    "last_start": "2025-05-01T12:24:06.720811",
+    "start_attempts": 1,
+    "start_successes": 1,
+    "start_failures": 0,
+    "last_test_run": "2025-05-01T12:24:06.720908",
+    "test_runs": 1,
+    "test_passes": 0,
+    "test_failures": 1,
+    "last_test_results": {
+      "passed": 38,
+      "failed": 2,
+      "skipped": 4,
+      "duration": 6.79404048567039,
+      "failure_details": [
+        "Test failure in hms-mkt/tests/test_core.py",
+        "Test failure in hms-mkt/tests/test_core.py"
+      ]
+    }
+  },
+  "issues": [
+    {
+      "id": "10095b88-a681-43da-8254-c9cc3405ff55",
+      "type": "test_failure",
+      "component": "HMS-MKT",
+      "timestamp": "2025-05-01T12:24:06.720908",
+      "details": {
+        "results": {
+          "passed": 38,
+          "failed": 2,
+          "skipped": 4,
+          "duration": 6.79404048567039,
+          "failure_details": [
+            "Test failure in hms-mkt/tests/test_core.py",
+            "Test failure in hms-mkt/tests/test_core.py"
+          ]
+        }
+      },
+      "status": "open"
+    }
+  ],
+  "work_items": [
+    {
+      "type": "test_failure",
+      "priority": "medium",
+      "description": "Fix failing tests for HMS-MKT",
+      "assigned_to": "HMS-AGT-MKT",
+      "suggested_actions": [
+        "Review failing tests",
+        "Check for recent code changes",
+        "Verify test environment"
+      ]
+    },
+    {
+      "type": "enhancement",
+      "priority": "low",
+      "description": "Add integration tests for HMS-MKT with HMS-API, HMS-NFO, HMS-DOC",
+      "assigned_to": "HMS-AGT-MKT",
+      "suggested_actions": [
+        "Develop integration tests for HMS-MKT with its integration points",
+        "Set up test fixtures for integration testing",
+        "Add CI configuration for integration tests"
+      ]
+    }
+  ]
+}

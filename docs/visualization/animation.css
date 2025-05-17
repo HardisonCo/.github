@@ -1,0 +1,78 @@
+/* src/visualization/animation.css */
+/* Shared HMS Visualization Animation Styles */
+
+/* Base Transitions */
+.node, .edgePath {
+  transition: opacity 0.5s ease, filter 0.5s ease, transform 0.5s ease, stroke-width 0.5s ease;
+}
+
+/* State Classes */
+.highlighted {
+  filter: drop-shadow(0 0 6px var(--hms-highlight-color, #ff9900));
+  opacity: 1 !important;
+}
+
+.faded {
+  opacity: 0.3;
+  filter: grayscale(80%);
+}
+
+.hidden {
+  opacity: 0;
+  pointer-events: none;
+}
+
+/* Keyframe Animations */
+@keyframes hmsPulse {
+  0%, 100% { transform: scale(1); opacity: 1; }
+  50% { transform: scale(1.05); opacity: 0.8; }
+}
+
+@keyframes hmsFadeIn {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+
+@keyframes hmsFlow {
+  to { stroke-dashoffset: 1000; } /* Adjust based on typical path lengths */
+}
+
+@keyframes hmsSlideFadeIn {
+  from { transform: translateY(15px); opacity: 0; }
+  to { transform: translateY(0); opacity: 1; }
+}
+
+/* Utility Classes */
+.hms-pulse {
+  animation: hmsPulse 1.5s ease-in-out infinite;
+}
+
+.hms-fade-in {
+  opacity: 0;
+  animation: hmsFadeIn 0.8s ease-in-out forwards;
+}
+
+.hms-flow-path {
+  stroke-dasharray: 10 10; /* Dashed line */
+  stroke-dashoffset: 0;
+  animation: hmsFlow 30s linear infinite;
+}
+
+.hms-slide-fade-in {
+  animation: hmsSlideFadeIn 0.5s cubic-bezier(0.4, 0.0, 0.2, 1) forwards;
+}
+
+/* Specific Highlight Styles (can be overridden by themes) */
+:root {
+  --hms-highlight-color: #ff9900; /* Default highlight */
+}
+
+/* Accessibility */
+@media (prefers-reduced-motion: reduce) {
+  .hms-pulse, .hms-flow-path, .hms-slide-fade-in {
+    animation: none !important;
+  }
+  .node, .edgePath {
+    transition: opacity 0.3s ease, filter 0.3s ease; /* Faster, simpler transitions */
+  }
+} 

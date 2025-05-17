@@ -1,0 +1,9 @@
+# HMS-RED for AR_AT
+
+## Description
+
+Reactive Data Engine
+
+## Integration Points
+
+This document outlines how HMS-RED is integrated with AR_AT systems in Arkansas.

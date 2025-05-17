@@ -1,0 +1,58 @@
+{
+  "component": "HMS-ESQ",
+  "generated_at": "2025-05-01T12:24:06.708154",
+  "operational_status": "operational",
+  "repository": {
+    "last_commit": "",
+    "description": "",
+    "tech_stack": {
+      "languages": [
+        "Python",
+        "JavaScript"
+      ],
+      "frameworks": [],
+      "databases": [],
+      "key_libraries": []
+    },
+    "integration_points": [
+      "HMS-DEV",
+      "HMS-SYS",
+      "HMS-DOC"
+    ],
+    "architecture": {
+      "pattern": "unknown",
+      "key_dirs": [],
+      "entry_points": []
+    }
+  },
+  "status": {
+    "last_start": "2025-05-01T12:24:06.707859",
+    "start_attempts": 1,
+    "start_successes": 1,
+    "start_failures": 0,
+    "last_test_run": "2025-05-01T12:24:06.707982",
+    "test_runs": 1,
+    "test_passes": 1,
+    "test_failures": 0,
+    "last_test_results": {
+      "passed": 35,
+      "failed": 0,
+      "skipped": 2,
+      "duration": 8.182865969897808
+    }
+  },
+  "issues": [],
+  "work_items": [
+    {
+      "type": "enhancement",
+      "priority": "low",
+      "description": "Add integration tests for HMS-ESQ with HMS-DEV, HMS-SYS, HMS-DOC",
+      "assigned_to": "HMS-AGT-ESQ",
+      "suggested_actions": [
+        "Develop integration tests for HMS-ESQ with its integration points",
+        "Set up test fixtures for integration testing",
+        "Add CI configuration for integration tests"
+      ]
+    }
+  ]
+}

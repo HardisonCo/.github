@@ -1,0 +1,9 @@
+# HMS-MCP for do_Health
+
+## Description
+
+Model-Compute-Publish
+
+## Integration Points
+
+This document outlines how HMS-MCP is integrated with do_Health systems in Dominican Republic.

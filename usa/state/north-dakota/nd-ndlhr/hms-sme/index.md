@@ -1,0 +1,9 @@
+# HMS-SME for ND_NDLHR
+
+## Description
+
+Subject Matter Expertise
+
+## Integration Points
+
+This document outlines how HMS-SME is integrated with ND_NDLHR systems in North Dakota.

@@ -1,0 +1,163 @@
+# Chapter 5: Tenancy & Subproject Context
+
+Welcome back! In [Chapter 4: Backend API (HMS-API)](04_backend_api__hms_api__.md), we saw how HMS-API routes requests to programs, protocols, and modules. Now, we’ll learn how to partition your system by **Tenant** and **Subproject** so each agency or office keeps its own branding, policies, and data.
+
+---
+
+## 5.1 Motivation & Central Use Case
+
+Imagine a statewide “No Poverty” initiative. The **State Agency** (tenant) oversees the program, but each **County Office** (subproject) has:
+
+- Its own logo and color scheme  
+- Local eligibility rules and fee schedules  
+- Data stored separately for audit and privacy  
+
+By grouping users and data under tenants and subprojects, you can safely run one codebase for all offices while keeping everything isolated.
+
+---
+
+## 5.2 Key Concepts
+
+1. **Tenant**  
+   - Top‐level partition (e.g., `state-health-dept`)  
+   - Holds global settings: branding, master policies  
+
+2. **Subproject**  
+   - Child partition under a tenant (e.g., `county-abc-office`)  
+   - Can override or extend tenant settings  
+   - Data isolation per region or agency  
+
+3. **Context Injection**  
+   - On each API call, HMS-API resolves current `tenantId` and `subprojectId`  
+   - Downstream services read these IDs to apply correct policies and database schemas  
+
+---
+
+## 5.3 Defining Tenants & Subprojects
+
+Below is a minimal example in JavaScript. We’ll set up one tenant (the State Agency) and two county offices.
+
+### 1. Define and initialize a Tenant
+
+```js
+import { Tenant } from 'hms-cdf/core/tenancy';
+
+const stateAgency = new Tenant({
+  id: 'state-no-poverty',
+  name: 'State No Poverty Agency',
+  branding: { logoUrl: '/logos/state.png' }
+});
+stateAgency.initialize();
+```
+Explanation:  
+- We create a `Tenant` with an `id`, `name`, and `branding`.  
+- Calling `initialize()` saves it and wires up tenant resolution middleware.
+
+### 2. Define and initialize Subprojects
+
+```js
+import { Subproject } from 'hms-cdf/core/subproject';
+
+// County ABC office
+const countyABC = new Subproject({
+  id: 'county-abc',
+  tenantId: 'state-no-poverty',
+  name: 'County ABC Office',
+  branding: { logoUrl: '/logos/abc.png' }
+});
+countyABC.initialize();
+```
+Explanation:  
+- `tenantId` links this subproject to the state agency.  
+- You can supply region-specific overrides like a local `logoUrl`.
+
+---
+
+## 5.4 Runtime Flow & Data Isolation
+
+When a client app calls your API, HMS-API automatically figures out which tenant and subproject apply:
+
+```mermaid
+sequenceDiagram
+  participant Client
+  participant HMSAPI
+  participant TenantSvc as TenantService
+  participant SubprojSvc as SubprojectService
+  participant Database
+
+  Client->>HMSAPI: GET /api/programs/status  
+    Note right of Client: headers:  
+    x-tenant: state-no-poverty  
+    x-subproject: county-abc
+  HMSAPI->>TenantSvc: resolve('state-no-poverty')
+  TenantSvc-->>HMSAPI: tenant config
+  HMSAPI->>SubprojSvc: resolve('county-abc')
+  SubprojSvc-->>HMSAPI: subproject config
+  HMSAPI->>Database: query programs where tenant/subproject match
+  Database-->>HMSAPI: data rows
+  HMSAPI-->>Client: filtered JSON
+```
+
+1. **Client** includes `x-tenant` and `x-subproject` headers.  
+2. **HMS-API** uses the Tenant and Subproject services to load configs.  
+3. Queries run in the correct context—so County ABC only sees its own data.
+
+---
+
+## 5.5 Under the Hood
+
+### 5.5.1 Tenant Implementation (`core/tenancy.ts`)
+
+```ts
+// core/tenancy.ts
+export class Tenant {
+  constructor(private config: TenantConfig) {}
+  initialize() {
+    Database.save('tenants', this.config)
+    ApiRouter.use((req, res, next) => {
+      const id = req.headers['x-tenant']
+      if (id === this.config.id) req.tenant = this.config
+      next()
+    })
+  }
+}
+```
+Explanation:  
+- We persist the tenant config.  
+- Middleware reads `x-tenant` header and attaches the matching config to `req.tenant`.
+
+### 5.5.2 Subproject Implementation (`core/subproject.ts`)
+
+```ts
+// core/subproject.ts
+export class Subproject {
+  constructor(private config: SubprojectConfig) {}
+  initialize() {
+    Database.save('subprojects', this.config)
+    ApiRouter.use((req, res, next) => {
+      const id = req.headers['x-subproject']
+      if (id === this.config.id) req.subproject = this.config
+      next()
+    })
+  }
+}
+```
+Explanation:  
+- Similar pattern: persist, then middleware picks up `x-subproject` header.  
+- Downstream services can read `req.subproject` to apply overrides or isolate data.
+
+---
+
+## 5.6 Recap & Next Steps
+
+You’ve learned how to:
+
+- Define **Tenant** and **Subproject** models to partition your system.  
+- Wire up middleware so each request carries the right context.  
+- Keep data and branding separate for state and local offices.
+
+Next, we’ll look at synchronizing with outside systems in [Chapter 6: External System Sync](06_external_system_sync_.md).
+
+---
+
+Generated by [AI Codebase Knowledge Builder](https://github.com/The-Pocket/Tutorial-Codebase-Knowledge)

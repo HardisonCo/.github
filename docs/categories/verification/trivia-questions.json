@@ -1,0 +1,155 @@
+[
+  {
+    "id": "q1",
+    "question": "What does HMS stand for in the context of our project?",
+    "type": "multiple_choice",
+    "options": [
+      "Holistic Management System",
+      "Hierarchical Microservice Structure",
+      "Host Modular System",
+      "Hybrid Module Schema"
+    ],
+    "correct_answer": 0,
+    "explanation": "HMS stands for Holistic Management System, which describes our integrated approach to system design."
+  },
+  {
+    "id": "q2",
+    "question": "Which component is responsible for agent-to-agent communication in the HMS ecosystem?",
+    "type": "multiple_choice",
+    "options": [
+      "HMS-DEV",
+      "HMS-DOC",
+      "HMS-A2A",
+      "HMS-MCP"
+    ],
+    "correct_answer": 2,
+    "explanation": "HMS-A2A (Agent-to-Agent) is the component that enables collaborative communication between intelligent agents."
+  },
+  {
+    "id": "q3",
+    "question": "What is the Chain of Recursive Thoughts (CoRT) used for in HMS?",
+    "type": "multiple_choice",
+    "options": [
+      "To validate API requests",
+      "For complex reasoning and decision making",
+      "To optimize database queries",
+      "For UI component rendering"
+    ],
+    "correct_answer": 1,
+    "explanation": "CoRT is used for complex reasoning and decision making, especially in the supervisor system."
+  },
+  {
+    "id": "q4",
+    "question": "Which workflow pattern does HMS use for agent development?",
+    "type": "multiple_choice",
+    "options": [
+      "Waterfall",
+      "Kanban",
+      "Pomodoro",
+      "Scrum"
+    ],
+    "correct_answer": 2,
+    "explanation": "HMS uses a Pomodoro-style workflow (25 min focus → 5 min break) for agent development."
+  },
+  {
+    "id": "q5",
+    "question": "The HMS-DEV tool marketplace includes verification mechanisms for tools.",
+    "type": "true_false",
+    "correct_answer": true,
+    "explanation": "True. The tool marketplace includes verification mechanisms to ensure tool quality and security."
+  },
+  {
+    "id": "q6",
+    "question": "Sub-agents must pass a certification process before they can commit to protected branches.",
+    "type": "true_false",
+    "correct_answer": true,
+    "explanation": "True. Sub-agents must pass the trivia & onboarding quiz before committing to protected branches."
+  },
+  {
+    "id": "q7",
+    "question": "What is the primary principle of the HMS verification approach?",
+    "type": "multiple_choice",
+    "options": [
+      "Multiple LLMs debating to reach consensus",
+      "Human approval for all decisions",
+      "Verification is harder than generation",
+      "Random sampling of outputs"
+    ],
+    "correct_answer": 2,
+    "explanation": "The primary principle is 'Verification is harder than generation', which emphasizes sound verification mechanisms over multi-LLM debates."
+  },
+  {
+    "id": "q8",
+    "question": "What command would you use to create a new component agent?",
+    "type": "token_input",
+    "correct_answer": "./flow-tools create-agent",
+    "explanation": "The command './flow-tools create-agent' is used to create a new component agent in the HMS ecosystem."
+  },
+  {
+    "id": "q9",
+    "question": "How many phases are in the standard HMS development process?",
+    "type": "token_input",
+    "correct_answer": "10",
+    "explanation": "The HMS development process has 10 phases: Plan, Build, Launch, Run, Track, Analyze, Plan Improvements, Build Improvements, Release, and Verify."
+  },
+  {
+    "id": "q10",
+    "question": "What file format is used for component profiles in HMS?",
+    "type": "token_input",
+    "correct_answer": "yaml",
+    "explanation": "Component profiles in HMS are stored in YAML format, specifically in agent_profile.yaml files."
+  },
+  {
+    "id": "q11",
+    "question": "Which HMS component is responsible for documentation generation?",
+    "type": "multiple_choice",
+    "options": [
+      "HMS-DEV",
+      "HMS-DOC",
+      "HMS-A2A",
+      "HMS-MCP"
+    ],
+    "correct_answer": 1,
+    "explanation": "HMS-DOC is responsible for comprehensive documentation generation and management across the HMS ecosystem."
+  },
+  {
+    "id": "q12",
+    "question": "What is the purpose of the Background Supervisor in the HMS agent architecture?",
+    "type": "multiple_choice",
+    "options": [
+      "To monitor system performance",
+      "To review agent journals and provide improvement suggestions",
+      "To handle authentication and authorization",
+      "To deploy code to production"
+    ],
+    "correct_answer": 1,
+    "explanation": "The Background Supervisor monitors agent journals, analyzes decisions, and provides improvement suggestions using the Chain of Recursive Thoughts algorithm."
+  },
+  {
+    "id": "q13",
+    "question": "The HMS tool marketplace requires tools to have OpenAPI documentation.",
+    "type": "true_false",
+    "correct_answer": true,
+    "explanation": "True. Tools in the marketplace that have APIs must provide OpenAPI documentation to ensure proper integration."
+  },
+  {
+    "id": "q14",
+    "question": "What is the relationship between parent agents and sub-agents in the HMS system?",
+    "type": "multiple_choice",
+    "options": [
+      "Sub-agents manage parent agents",
+      "Parent agents and sub-agents work independently",
+      "Parent agents create and delegate tasks to sub-agents",
+      "Sub-agents are optional components"
+    ],
+    "correct_answer": 2,
+    "explanation": "Parent agents are responsible for their component and create sub-agents to handle specific tasks within that component."
+  },
+  {
+    "id": "q15",
+    "question": "Which file contains guidance for Claude Code when working with an HMS component?",
+    "type": "token_input",
+    "correct_answer": "CLAUDE.md",
+    "explanation": "CLAUDE.md provides guidance for Claude Code, including build/test commands, code style guidelines, and component-specific instructions."
+  }
+]

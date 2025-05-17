@@ -1,0 +1,41 @@
+{
+  "component": "HMS-A2A",
+  "version": "1.0",
+  "created_at": "2025-05-01T12:23:50.822504",
+  "last_updated": "2025-05-01T12:24:06.683906",
+  "start": {
+    "last_attempt": "2025-05-01T12:24:06.683631",
+    "last_success": "2025-05-01T12:24:06.683638",
+    "attempts": 2,
+    "successes": 1,
+    "failures": 1,
+    "status": "running"
+  },
+  "tests": {
+    "last_run": "2025-05-01T12:24:06.683898",
+    "last_success": "2025-05-01T12:24:06.683898",
+    "total_runs": 1,
+    "total_passed": 1,
+    "total_failed": 0,
+    "status": "passing",
+    "last_results": {
+      "passed": 48,
+      "failed": 0,
+      "skipped": 2,
+      "duration": 4.150493876168934
+    }
+  },
+  "issues": [
+    {
+      "id": "6891c2f0-3dac-4653-a826-27d691ea58dc",
+      "type": "start_failure",
+      "component": "HMS-A2A",
+      "timestamp": "2025-05-01T12:23:50.822531",
+      "details": {
+        "output": "ERROR: Port 3048 already in use"
+      },
+      "status": "open"
+    }
+  ],
+  "operational_status": "operational"
+}

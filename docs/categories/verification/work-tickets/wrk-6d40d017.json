@@ -1,0 +1,31 @@
+{
+  "id": "WRK-6d40d017",
+  "component": "HMS-MED",
+  "issue_id": "59d88c09-532b-47b0-b9c6-fbb59f4431ed",
+  "issue_type": "start_failure",
+  "created_at": "2025-05-01T12:24:06.718032",
+  "updated_at": "2025-05-01T12:24:06.718032",
+  "assigned_to": "HMS-DEV",
+  "status": "open",
+  "priority": "high",
+  "details": {
+    "component": "HMS-MED",
+    "issue": {
+      "id": "59d88c09-532b-47b0-b9c6-fbb59f4431ed",
+      "type": "start_failure",
+      "component": "HMS-MED",
+      "timestamp": "2025-05-01T12:24:06.718027",
+      "details": {
+        "output": "ERROR: Missing environment variable: HMS_MED_API_KEY"
+      },
+      "status": "open"
+    },
+    "description": "The HMS-MED component failed to start. This is affecting the operational status of the HMS ecosystem and should be resolved as soon as possible.",
+    "suggested_actions": [
+      "Check the HMS-MED logs for error messages",
+      "Verify all dependencies for HMS-MED are available and correctly configured",
+      "Check for recent changes that might have affected the component's ability to start",
+      "Verify environment variables and configuration files"
+    ]
+  }
+}

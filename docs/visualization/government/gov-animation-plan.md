@@ -1,0 +1,112 @@
+# HMS Government Agency Animation Plan
+
+## Executive Summary
+
+This implementation plan outlines a specific strategy for creating animated Mermaid diagrams focused on demonstrating how the Hardison Management Systems (HMS) platform helps government agencies achieve their mission-critical objectives. Building upon the general HMS Unified Animation Framework, this plan details government-specific visualization patterns, data integration from `fed.agents.js`, and deployment considerations for the government sector.
+
+## Strategic Analysis (Government Context)
+
+Federal agencies operate on distinct first principles identified via analysis (e.g., in `fed.agents.js`):
+
+1.  **Core Functions**: Each agency has a fundamental purpose (e.g., \"Banking system confidence maintenance\" for FDIC).
+2.  **Fundamental Principles**: Guiding principles for decision-making (e.g., \"Merit-based employment requires removal of irrelevant barriers\" for EEOC).
+3.  **Key Mechanisms**: Specific operational approaches (e.g., \"License spectrum bands for specific use cases\" for FCC).
+
+HMS provides value through its Multi-Agent System (MAS), Chain of Recursive Thoughts (CoRT), Verification-First Approach, and cross-industry knowledge, tailored to these government contexts.
+
+## Animation Framework Design (Government Focus)
+
+### Core Visualization Types
+
+1.  **Mission Impact Flows**: Visualizing how HMS helps agencies fulfill core missions.
+2.  **Process Optimization Sequences**: Demonstrating improvements to agency workflows.
+3.  **Compliance & Security Frameworks**: Illustrating adherence to government requirements (FedRAMP, FISMA, etc.).
+4.  **Interagency Collaboration Networks**: Showing HMS facilitating coordination.
+
+### Technical Architecture (Government Adaptation)
+
+```mermaid
+graph TB
+    subgraph \"Data Sources\"
+        A[Agency Profiles (fed.agents.js)] --> CL(Agency Config Layer)
+        B[Mission/Objectives Data] --> CL
+        C[Process/Workflow Data] --> CL
+    end
+    
+    CL --> Engine(Animation Core Engine)
+    
+    subgraph \"Animation Patterns (Government)\"
+        Engine --> P1[Mission Impact Flows]
+        Engine --> P2[Process Optimization]
+        Engine --> P3[Compliance Frameworks]
+        Engine --> P4[Interagency Collaboration]
+    end
+    
+    Engine --> RL(Rendering Layer - SVG/CSS/JS)
+    RL --> UI(User Interface - Portal/Docs)
+    
+    subgraph \"Integrations\"
+        Engine <--> HMS_GOV[HMS-GOV]
+        Engine <--> HMS_CDF[HMS-CDF]
+        Engine <--> IndustrySolutions[Vertical Solutions]
+    end
+```
+*(This adapts the general architecture for government-specific components and patterns)*
+
+## Implementation Plan (Government Focus)
+
+(Leverages the general framework timeline but details government-specific deliverables)
+
+1.  **Foundation (Weeks 1-3)**: Integrate `fed.agents.js` data processing; develop agency profile visualizations; create PoC for 3 diverse agencies (FDIC, NASA, USAID) showing mission impact.
+2.  **Agency-Specific Patterns (Weeks 4-6)**: Develop patterns for regulatory, service, intelligence, economic agencies; Map HMS components (HMS-GOV, HMS-CDF) visually; Build interagency collaboration network visuals.
+3.  **Advanced Features (Weeks 7-9)**: Implement CoRT/policy analysis animations; Create compliance/security framework visuals (FedRAMP, FISMA); Develop ROI/efficiency/budget impact patterns; Enhance UI controls for agency selection/scenarios.
+4.  **Production Readiness (Weeks 10-12)**: Generate documentation for all 43 agencies; Integrate with HMS-GOV admin interfaces; Create agency-specific showcases/demos; Final testing and accessibility compliance.
+
+## Government Agency Showcase Implementations
+
+(Includes case study examples for Financial, Intelligence/Security, Service Delivery agencies as detailed in the original `HMS-GOV-MERMAID-ANIMATION-PLAN.md`)
+
+### Example: Financial Regulatory Visualization (FDIC)
+
+-   **Sequence**: Core Mission -> Risk Analysis/Mitigation (using HMS-A2A, HMS-CDF) -> Stakeholder Interaction.
+-   **Configuration**: Utilizes `AgencyDataProcessor` and defines animation steps targeting FDIC functions and relevant HMS components (ACH, OMS, NFO, VER).
+
+## Technical Implementation Details (Government Specific)
+
+### CSS Theming
+
+-   Utilize agency-specific theme colors derived during data processing (e.g., `--regulatory-primary`).
+-   Create government-specific animation classes (e.g., `.agency-mission-highlight`, `.agency-process-flow`).
+
+### Agency Data Integration
+
+-   The `AgencyDataProcessor` (part of the unified framework) handles loading and normalizing data from `fed.agents.js`.
+-   Generates agency-specific animation configurations, including theme colors and relevant HMS component lists.
+
+### Animation Sequence Controller
+
+-   Uses the shared `AnimationController` from `src/visualization/controller.ts`.
+-   Configured with agency-specific steps generated by `MermaidDiagramGenerator`.
+
+## Government-Specific Integration Points
+
+-   **HMS-GOV**: Visualizing governance workflows, compliance checks, administrative processes.
+-   **HMS-CDF**: Animating policy analysis, legislative impact, regulatory framework development.
+-   **Agency Systems**: Showing integration with common government platforms (HR, Finance, Mission Systems).
+-   **Compliance**: Animating adherence to FedRAMP, FISMA, Section 508, Privacy requirements.
+
+## Deployment Strategy (Government)
+
+-   **Formats**: Interactive Web Component (for agency portals), Presentation Export, Documentation Integration (RFPs), Demo Mode.
+-   **Customization**: Agency branding, mission focus, specific system integration points, compliance highlights.
+
+## Conclusion
+
+This plan details the specific application of the HMS Unified Animation Framework to the government sector. By leveraging agency first principles data and tailoring visualizations, we can effectively communicate HMS value to federal agencies, showcasing how our platform addresses their unique missions and operational contexts.
+
+## Next Steps
+
+1.  Implement `AgencyDataProcessor` updates for robust `fed.agents.js` parsing.
+2.  Develop government-specific CSS themes and animation patterns.
+3.  Build out agency showcases within the portal (`HMS-GOV-COMPLETE-ANIMATION-FIXED.html`).
+4.  Integrate documentation generation (`scripts/generate-docs.ts`) into the government workflow. 

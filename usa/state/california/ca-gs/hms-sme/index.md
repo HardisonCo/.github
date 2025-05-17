@@ -1,0 +1,9 @@
+# HMS-SME for CA_GS
+
+## Description
+
+Subject Matter Expertise
+
+## Integration Points
+
+This document outlines how HMS-SME is integrated with CA_GS systems in California.

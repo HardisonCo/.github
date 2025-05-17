@@ -1,0 +1,70 @@
+{
+  "component": "HMS-SKL",
+  "generated_at": "2025-05-01T12:24:06.727781",
+  "operational_status": "operational",
+  "repository": {
+    "last_commit": "2d49c0bf93cdab503e52423b57cf1c4edbf20d21",
+    "description": "Welcome to the React Native mobile app for codify!\n\nThis is a `React Native CLI` project (not an `Expo` project), so when checking out the wonderful documentation be sure to select the correct \"path\" when such a choice matters :+1:",
+    "tech_stack": {
+      "languages": [
+        "TypeScript",
+        "JavaScript"
+      ],
+      "frameworks": [
+        "React Native"
+      ],
+      "databases": [],
+      "key_libraries": [
+        "Babel",
+        "Jest",
+        "Metro"
+      ]
+    },
+    "integration_points": [
+      "HMS-API",
+      "HMS-EDU",
+      "HMS-DOC"
+    ],
+    "architecture": {
+      "pattern": "mvc",
+      "key_dirs": [
+        "app/models",
+        "app/models",
+        "app/components"
+      ],
+      "entry_points": [
+        "index.js"
+      ]
+    }
+  },
+  "status": {
+    "last_start": "2025-05-01T12:24:06.727461",
+    "start_attempts": 1,
+    "start_successes": 1,
+    "start_failures": 0,
+    "last_test_run": "2025-05-01T12:24:06.727573",
+    "test_runs": 1,
+    "test_passes": 1,
+    "test_failures": 0,
+    "last_test_results": {
+      "passed": 16,
+      "failed": 0,
+      "skipped": 0,
+      "duration": 4.095722229839261
+    }
+  },
+  "issues": [],
+  "work_items": [
+    {
+      "type": "enhancement",
+      "priority": "low",
+      "description": "Add integration tests for HMS-SKL with HMS-API, HMS-EDU, HMS-DOC",
+      "assigned_to": "HMS-AGT-SKL",
+      "suggested_actions": [
+        "Develop integration tests for HMS-SKL with its integration points",
+        "Set up test fixtures for integration testing",
+        "Add CI configuration for integration tests"
+      ]
+    }
+  ]
+}

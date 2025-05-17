@@ -1,0 +1,30 @@
+{
+  "component": "HMS-ABC",
+  "version": "1.0",
+  "created_at": "2025-05-01T12:24:06.684586",
+  "last_updated": "2025-05-01T12:24:06.684734",
+  "start": {
+    "last_attempt": "2025-05-01T12:24:06.684589",
+    "last_success": "2025-05-01T12:24:06.684591",
+    "attempts": 1,
+    "successes": 1,
+    "failures": 0,
+    "status": "running"
+  },
+  "tests": {
+    "last_run": "2025-05-01T12:24:06.684730",
+    "last_success": "2025-05-01T12:24:06.684730",
+    "total_runs": 1,
+    "total_passed": 1,
+    "total_failed": 0,
+    "status": "passing",
+    "last_results": {
+      "passed": 50,
+      "failed": 0,
+      "skipped": 2,
+      "duration": 7.670610109547691
+    }
+  },
+  "issues": [],
+  "operational_status": "operational"
+}

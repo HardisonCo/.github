@@ -1,0 +1,57 @@
+{
+  "component": "HMS-MED",
+  "generated_at": "2025-05-01T12:24:06.719864",
+  "operational_status": "unknown",
+  "repository": {
+    "last_commit": "",
+    "description": "No description available",
+    "tech_stack": {
+      "languages": [],
+      "frameworks": [],
+      "databases": [],
+      "key_libraries": []
+    },
+    "integration_points": [],
+    "architecture": {
+      "pattern": "unknown",
+      "key_dirs": [],
+      "entry_points": []
+    }
+  },
+  "status": {
+    "last_start": null,
+    "start_attempts": 1,
+    "start_successes": 0,
+    "start_failures": 1,
+    "last_test_run": null,
+    "test_runs": 0,
+    "test_passes": 0,
+    "test_failures": 0,
+    "last_test_results": {}
+  },
+  "issues": [
+    {
+      "id": "59d88c09-532b-47b0-b9c6-fbb59f4431ed",
+      "type": "start_failure",
+      "component": "HMS-MED",
+      "timestamp": "2025-05-01T12:24:06.718027",
+      "details": {
+        "output": "ERROR: Missing environment variable: HMS_MED_API_KEY"
+      },
+      "status": "open"
+    }
+  ],
+  "work_items": [
+    {
+      "type": "start_failure",
+      "priority": "high",
+      "description": "Fix HMS-MED startup failure",
+      "assigned_to": "HMS-DEV",
+      "suggested_actions": [
+        "Check HMS-MED logs for error messages",
+        "Verify all dependencies for HMS-MED are available",
+        "Check environment variables and configuration"
+      ]
+    }
+  ]
+}

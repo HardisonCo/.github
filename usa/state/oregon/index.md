@@ -1,0 +1,77 @@
+# Oregon State Agencies
+
+## Agencies
+
+- [OR_A](OR_A/index.md) - Oregon Audits Division
+- [OR_C](OR_C/index.md) - Oregon Corporations Division
+- [OR_AS](OR_AS/index.md) - Oregon Department of Administrative Services
+- [OR_A](OR_A/index.md) - Oregon Department of Agriculture
+- [OR_A](OR_A/index.md) - Oregon State Archives
+- [OR_A](OR_A/index.md) - Oregon Arts Commission
+- [OR_A](OR_A/index.md) - Oregon Department of Aviation
+- [OR_B](OR_B/index.md) - Oregon State Bar
+- [OR_BD](OR_BD/index.md) - Oregon Business Development Department
+- [OR_CF](OR_CF/index.md) - Oregon State Capitol Foundation
+- [OR_CCWD](OR_CCWD/index.md) - Oregon Office of Community Colleges and Workforce Development
+- [OR_CBS](OR_CBS/index.md) - Oregon Department of Consumer and Business Services
+- [OR_CJ](OR_CJ/index.md) - Oregon Criminal Justice Commission
+- [OR_DA](OR_DA/index.md) - Oregon Office of Degree Authorization
+- [OR_ECD](OR_ECD/index.md) - Oregon Economic and Community Development Department
+- [OR_E](OR_E/index.md) - Oregon Department of Education
+- [OR_E](OR_E/index.md) - Oregon State Elections Division
+- [OR_E](OR_E/index.md) - Oregon Employment Department
+- [OR_E](OR_E/index.md) - Oregon Department of Energy
+- [OR_EQ](OR_EQ/index.md) - Oregon Department of Environmental Quality
+- [OR_F](OR_F/index.md) - Oregon State Fair
+- [OR_FW](OR_FW/index.md) - Oregon Department of Fish and Wildlife
+- [OR_FRI](OR_FRI/index.md) - Oregon Forest Resources Institute
+- [OR_F](OR_F/index.md) - Oregon Board of Forestry
+- [OR_F](OR_F/index.md) - Oregon Department of Forestry
+- [OR_GE](OR_GE/index.md) - Oregon State Board of Geologist Examiners
+- [OR_GMI](OR_GMI/index.md) - Oregon Department of Geology and Mineral Industries
+- [OR_GE](OR_GE/index.md) - Oregon Government Ethics Commission
+- [OR_H](OR_H/index.md) - Oregon Health Authority
+- [OR_HYCF](OR_HYCF/index.md) - Hillcrest Youth Correctional Facility
+- [OR_HCS](OR_HCS/index.md) - Oregon Housing and Community Services Department
+- [OR_HS](OR_HS/index.md) - Oregon Department of Human Services
+- [OR_J](OR_J/index.md) - Oregon Department of Justice
+- [OR_LI](OR_LI/index.md) - Oregon Bureau of Labor and Industries
+- [OR_LCD](OR_LCD/index.md) - Oregon Department of Land Conservation and Development
+- [OR_L](OR_L/index.md) - Oregon Department of State Lands
+- [OR_LO](OR_LO/index.md) - State Library of Oregon
+- [OR_LC](OR_LC/index.md) - Oregon Liquor and Cannabis Commission
+- [OR_M](OR_M/index.md) - Oregon Medical Board
+- [OR_M](OR_M/index.md) - Oregon Military Department
+- [OR_OSH](OR_OSH/index.md) - Oregon Occupational Safety and Health Division
+- [OR_CE](OR_CE/index.md) - Oregon Chief Education Office
+- [OR_EL](OR_EL/index.md) - Oregon Early Learning Division
+- [OR_E](OR_E/index.md) - Oregon Emergency Board
+- [OR_HEC](OR_HEC/index.md) - Oregon Higher Education Coordinating Commission
+- [OR_EM](OR_EM/index.md) - Oregon Office of Emergency Management
+- [OR_UC](OR_UC/index.md) - Oregon Office of University Coordination
+- [OR_PSR](OR_PSR/index.md) - Oregon Psychiatric Security Review Board
+- [OR_E](OR_E/index.md) - Oregon State Board of Education
+- [OR_TSP](OR_TSP/index.md) - Oregon Teachers Standards and Practices Commission
+- [OR_WE](OR_WE/index.md) - Oregon Watershed Enhancement Board
+- [OR_YD](OR_YD/index.md) - Oregon Youth Development Division
+- [OR_PR](OR_PR/index.md) - Oregon Parks and Recreation Department
+- [OR_PRIS](OR_PRIS/index.md) - Oregon Performance Reporting Information System
+- [OR_PERS](OR_PERS/index.md) - Oregon Public Employees Retirement System
+- [OR_PL](OR_PL/index.md) - Oregon PHL/DEQ Laboratories
+- [OR_PSST](OR_PSST/index.md) - Oregon Department of Public Safety Standards and Training
+- [OR_PU](OR_PU/index.md) - Oregon Public Utility Commission
+- [OR_R](OR_R/index.md) - Oregon Department of Revenue
+- [OR_SAC](OR_SAC/index.md) - Oregon Office of Student Access and Completion
+- [OR_S](OR_S/index.md) - Oregon Sustainability Board
+- [OR_T](OR_T/index.md) - Oregon Tourism Commission
+- [OR_T](OR_T/index.md) - Oregon Department of Transportation
+- [OR_VA](OR_VA/index.md) - Oregon Department of Veterans' Affairs
+- [OR_WR](OR_WR/index.md) - Oregon Water Resources Department
+- [OR_W](OR_W/index.md) - Oregon Wine Board
+- [OR_Y](OR_Y/index.md) - Oregon Youth Authority
+
+## HMS Implementation Status
+
+- Implementation Complete: 0
+- Implementation In Progress: 0
+- Implementation Planned: 0

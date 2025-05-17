@@ -1,0 +1,71 @@
+{
+  "component": "HMS-ABC",
+  "generated_at": "2025-05-01T12:24:06.684913",
+  "operational_status": "operational",
+  "repository": {
+    "last_commit": "",
+    "description": "<div align=\"center\">\n\n**AI Health Assistant | Powered by Your Data** -- ABC accountibility based coverage pays out based on compliance level",
+    "tech_stack": {
+      "languages": [
+        "TypeScript",
+        "JavaScript"
+      ],
+      "frameworks": [
+        "Next.js",
+        "React"
+      ],
+      "databases": [
+        "MongoDB"
+      ],
+      "key_libraries": [
+        "Tailwind CSS",
+        "shadcn/ui"
+      ]
+    },
+    "integration_points": [
+      "HMS-API",
+      "HMS-MFE",
+      "HMS-DOC"
+    ],
+    "architecture": {
+      "pattern": "component_based",
+      "key_dirs": [
+        "src/components",
+        "src/hooks",
+        "src/actions",
+        "src/data"
+      ],
+      "entry_points": []
+    }
+  },
+  "status": {
+    "last_start": "2025-05-01T12:24:06.684591",
+    "start_attempts": 1,
+    "start_successes": 1,
+    "start_failures": 0,
+    "last_test_run": "2025-05-01T12:24:06.684730",
+    "test_runs": 1,
+    "test_passes": 1,
+    "test_failures": 0,
+    "last_test_results": {
+      "passed": 50,
+      "failed": 0,
+      "skipped": 2,
+      "duration": 7.670610109547691
+    }
+  },
+  "issues": [],
+  "work_items": [
+    {
+      "type": "enhancement",
+      "priority": "low",
+      "description": "Add integration tests for HMS-ABC with HMS-API, HMS-MFE, HMS-DOC",
+      "assigned_to": "HMS-AGT-ABC",
+      "suggested_actions": [
+        "Develop integration tests for HMS-ABC with its integration points",
+        "Set up test fixtures for integration testing",
+        "Add CI configuration for integration tests"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "component": "HMS-EDU",
+  "version": "1.0",
+  "created_at": "2025-05-01T12:24:06.702611",
+  "last_updated": "2025-05-01T12:24:06.702866",
+  "start": {
+    "last_attempt": "2025-05-01T12:24:06.702613",
+    "last_success": "2025-05-01T12:24:06.702614",
+    "attempts": 1,
+    "successes": 1,
+    "failures": 0,
+    "status": "running"
+  },
+  "tests": {
+    "last_run": "2025-05-01T12:24:06.702720",
+    "last_success": null,
+    "total_runs": 1,
+    "total_passed": 0,
+    "total_failed": 1,
+    "status": "failing",
+    "last_results": {
+      "passed": 45,
+      "failed": 3,
+      "skipped": 2,
+      "duration": 1.7827489086766661,
+      "failure_details": [
+        "Test failure in hms-edu/tests/test_core.py",
+        "Test failure in hms-edu/tests/test_api.py",
+        "Test failure in hms-edu/tests/test_integration.py"
+      ]
+    }
+  },
+  "issues": [
+    {
+      "id": "28cba517-320f-4529-ad7d-5b834a38c04b",
+      "type": "test_failure",
+      "component": "HMS-EDU",
+      "timestamp": "2025-05-01T12:24:06.702720",
+      "details": {
+        "results": {
+          "passed": 45,
+          "failed": 3,
+          "skipped": 2,
+          "duration": 1.7827489086766661,
+          "failure_details": [
+            "Test failure in hms-edu/tests/test_core.py",
+            "Test failure in hms-edu/tests/test_api.py",
+            "Test failure in hms-edu/tests/test_integration.py"
+          ]
+        }
+      },
+      "status": "open"
+    }
+  ],
+  "operational_status": "degraded"
+}

@@ -1,0 +1,37 @@
+module_id,relative_path,language,loc,imports,kind
+lean4_economic_foundations.EconomicFoundations,core/lean4_economic_foundations/EconomicFoundations.lean,Lean,10,EconomicFoundations,IO
+lean4_economic_foundations.lakefile,core/lean4_economic_foundations/lakefile.lean,Lean,4,Lake,IO
+lean4_economic_foundations.deepseek_integration_example,core/lean4_economic_foundations/deepseek_integration_example.py,Python,102,"genetic_theorem_prover, json, os, re, sys, typing",IO
+lean4_economic_foundations.main,core/lean4_economic_foundations/main.lean,Lean,10,EconomicFoundations,Service
+lean4_economic_foundations.EconomicFoundations.DeepSeekExamples,core/lean4_economic_foundations/EconomicFoundations/DeepSeekExamples.lean,Lean,79,"EconomicFoundations, Mathlib",IO
+lean4_economic_foundations.EconomicFoundations.Basic,core/lean4_economic_foundations/EconomicFoundations/Basic.lean,Lean,136,Mathlib,IO
+lean4_economic_foundations.EconomicFoundations.MoneyballTheorems,core/lean4_economic_foundations/EconomicFoundations/MoneyballTheorems.lean,Lean,90,"EconomicFoundations, Mathlib",IO
+lean4_economic_foundations.EconomicFoundations.MarketEquilibrium,core/lean4_economic_foundations/EconomicFoundations/MarketEquilibrium.lean,Lean,80,"EconomicFoundations, Mathlib",IO
+lean4_economic_foundations.EconomicFoundations.UtilityTheory,core/lean4_economic_foundations/EconomicFoundations/UtilityTheory.lean,Lean,83,"EconomicFoundations, Mathlib",IO
+graph.react_agent,core/graph/react_agent.py,Python,105,"dotenv, graph, langchain_core, langchain_google_genai, langgraph, os, pathlib, sys, typing",Service
+graph.specialized_agent_tool,core/graph/specialized_agent_tool.py,Python,127,"langchain_core, pydantic, specialized_agents, typing, uuid",Service
+graph.__init__,core/graph/__init__.py,Python,5,,Pure
+graph.cort_react_agent,core/graph/cort_react_agent.py,Python,250,"common, dotenv, graph, langchain_core, langchain_google_genai, langgraph, os, pathlib, sys, typing",Service
+graph.cli,core/graph/cli.py,Python,126,"argparse, dotenv, graph, os, pathlib, sys",IO
+graph.a2a_tools,core/graph/a2a_tools.py,Python,96,"httpx, json, langchain_core, pydantic, typing, uuid",Pure
+graph.a2a_mcp_tool,core/graph/a2a_mcp_tool.py,Python,55,"asyncio, common, json, langchain_core, os, pydantic, typing, uuid",Pure
+genetic_theorem_prover.python_ffi_bridge,core/genetic_theorem_prover/python_ffi_bridge.py,Python,316,"deepseek_config, deepseek_prover, json, lean_theorem_extractor, logging, os, sys, tempfile, traceback, typing",Pure
+genetic_theorem_prover.repository.theorem_repository,core/genetic_theorem_prover/repository/theorem_repository.py,Python,584,"dataclasses, enum, json, networkx, os, pickle, time, typing, uuid",Pure
+genetic_theorem_prover.repository.repository_analyzer,core/genetic_theorem_prover/repository/repository_analyzer.py,Python,675,"collections, community, dataclasses, datetime, enum, json, logging, matplotlib, networkx, numpy, os, theorem_repository, time, typing",Pure
+genetic_theorem_prover.core.cort_integration,core/genetic_theorem_prover/core/cort_integration.py,Python,758,"agents, asyncio, core, dataclasses, graph, importlib, inspect, json, logging, os, random, subprocess, sys, time, typing, uuid",IO
+genetic_theorem_prover.core.theorem_decomposer,core/genetic_theorem_prover/core/theorem_decomposer.py,Python,352,"agents, core, dataclasses, json, networkx, re, repository, typing, uuid",Pure
+genetic_theorem_prover.core.deepseek_prover,core/genetic_theorem_prover/core/deepseek_prover.py,Python,473,"dataclasses, enum, json, logging, os, re, requests, shutil, subprocess, tempfile, time, typing, uuid",Pure
+genetic_theorem_prover.core.base_agent,core/genetic_theorem_prover/core/base_agent.py,Python,318,"dataclasses, enum, json, numpy, random, time, typing, uuid",Service
+genetic_theorem_prover.core.lean_theorem_extractor,core/genetic_theorem_prover/core/lean_theorem_extractor.py,Python,264,"dataclasses, logging, os, re, typing",Pure
+genetic_theorem_prover.core.deepseek_config,core/genetic_theorem_prover/core/deepseek_config.py,Python,239,"dataclasses, enum, json, logging, os, random, typing",Pure
+genetic_theorem_prover.agents.specialized_agents,core/genetic_theorem_prover/agents/specialized_agents.py,Python,676,"core, dataclasses, json, numpy, random, time, typing, uuid",Service
+genetic_theorem_prover.utils.theorem_exporter,core/genetic_theorem_prover/utils/theorem_exporter.py,Python,483,"argparse, ast, dataclasses, importlib, inspect, json, logging, os, re, sys, typing, uuid",Pure
+genetic_theorem_prover.evolution.population_manager,core/genetic_theorem_prover/evolution/population_manager.py,Python,320,"core, dataclasses, json, matplotlib, numpy, os, pathlib, pickle, random, time, typing, uuid",IO
+genetic_theorem_prover.evaluation.metrics,core/genetic_theorem_prover/evaluation/metrics.py,Python,455,"dataclasses, matplotlib, networkx, numpy, os, typing",IO
+genetic_theorem_prover.evaluation.benchmark,core/genetic_theorem_prover/evaluation/benchmark.py,Python,596,"core, dataclasses, datetime, evolution, json, matplotlib, metrics, numpy, os, time, typing",IO
+genetic_theorem_prover.evaluation.__init__,core/genetic_theorem_prover/evaluation/__init__.py,Python,34,"benchmark, metrics, visualization",IO
+genetic_theorem_prover.evaluation.visualization,core/genetic_theorem_prover/evaluation/visualization.py,Python,428,"benchmark, datetime, json, matplotlib, metrics, networkx, numpy, os, pandas, seaborn, typing",IO
+genetic_theorem_prover.evaluation.examples.analyze_results,core/genetic_theorem_prover/evaluation/examples/analyze_results.py,Python,383,,IO
+genetic_theorem_prover.evaluation.examples.custom_benchmark,core/genetic_theorem_prover/evaluation/examples/custom_benchmark.py,Python,267,"argparse, genetic_theorem_prover, json, os, pathlib, sys",IO
+genetic_theorem_prover.evaluation.examples.run_benchmarks,core/genetic_theorem_prover/evaluation/examples/run_benchmarks.py,Python,226,"argparse, genetic_theorem_prover, json, matplotlib, os, pathlib, sys",IO
+prover-orchestrator.src.main,core/prover-orchestrator/src/main.rs,Rust,129,"anyhow, clap, serde",Service

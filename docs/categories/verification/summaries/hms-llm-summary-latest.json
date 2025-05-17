@@ -1,0 +1,114 @@
+{
+  "component": "HMS-LLM",
+  "generated_at": "2025-05-01T12:24:06.714226",
+  "operational_status": "degraded",
+  "repository": {
+    "last_commit": "dc8742f89646a0e96fce7e2682297bc8654ebee7",
+    "description": "<a href=\"https://agenta.ai?utm_source=github&utm_medium=referral&utm_campaign=readme\">\n      <picture >\n        <source width=\"275\" media=\"(prefers-color-scheme: dark)\" srcset=\"https://github.com/Agenta-AI/agenta/assets/4510758/cdddf5ad-2352-4920-b1d9-ae7f8d9d7735\"  >\n        <source width=\"275\" media=\"(prefers-color-scheme: light)\" srcset=\"https://github.com/Agenta-AI/agenta/assets/4510758/ab75cbac-b807-496f-aab3-57463a33f726\"  >",
+    "tech_stack": {
+      "languages": [
+        "Python",
+        "TypeScript"
+      ],
+      "frameworks": [
+        "FastAPI",
+        "Next.js",
+        "PyTorch"
+      ],
+      "databases": [
+        "PostgreSQL",
+        "Redis",
+        "ChromaDB"
+      ],
+      "key_libraries": [
+        "OpenTelemetry",
+        "LangChain",
+        "Transformers",
+        "Open API"
+      ]
+    },
+    "integration_points": [
+      "HMS-A2A",
+      "HMS-MCP",
+      "HMS-DEV",
+      "HMS-DOC"
+    ],
+    "architecture": {
+      "pattern": "microservices",
+      "key_dirs": [
+        "api",
+        "services"
+      ],
+      "entry_points": []
+    }
+  },
+  "status": {
+    "last_start": "2025-05-01T12:24:06.713704",
+    "start_attempts": 2,
+    "start_successes": 2,
+    "start_failures": 0,
+    "last_test_run": "2025-05-01T12:24:06.713901",
+    "test_runs": 2,
+    "test_passes": 1,
+    "test_failures": 1,
+    "last_test_results": {
+      "passed": 22,
+      "failed": 4,
+      "skipped": 1,
+      "duration": 8.17494977439636,
+      "failure_details": [
+        "Test failure in hms-llm/tests/test_api.py",
+        "Test failure in hms-llm/tests/test_api.py",
+        "Test failure in hms-llm/tests/test_integration.py",
+        "Test failure in hms-llm/tests/test_integration.py"
+      ]
+    }
+  },
+  "issues": [
+    {
+      "id": "0e97adaa-c414-4603-9e09-23578bddd5f4",
+      "type": "test_failure",
+      "component": "HMS-LLM",
+      "timestamp": "2025-05-01T12:24:06.713901",
+      "details": {
+        "results": {
+          "passed": 22,
+          "failed": 4,
+          "skipped": 1,
+          "duration": 8.17494977439636,
+          "failure_details": [
+            "Test failure in hms-llm/tests/test_api.py",
+            "Test failure in hms-llm/tests/test_api.py",
+            "Test failure in hms-llm/tests/test_integration.py",
+            "Test failure in hms-llm/tests/test_integration.py"
+          ]
+        }
+      },
+      "status": "open"
+    }
+  ],
+  "work_items": [
+    {
+      "type": "test_failure",
+      "priority": "medium",
+      "description": "Fix failing tests for HMS-LLM",
+      "assigned_to": "HMS-AGT-LLM",
+      "suggested_actions": [
+        "Review failing tests",
+        "Check for recent code changes",
+        "Verify test environment"
+      ]
+    },
+    {
+      "type": "enhancement",
+      "priority": "low",
+      "description": "Add integration tests for HMS-LLM with HMS-A2A, HMS-MCP, HMS-DEV, HMS-DOC",
+      "assigned_to": "HMS-AGT-LLM",
+      "suggested_actions": [
+        "Develop integration tests for HMS-LLM with its integration points",
+        "Set up test fixtures for integration testing",
+        "Add CI configuration for integration tests"
+      ]
+    }
+  ]
+}

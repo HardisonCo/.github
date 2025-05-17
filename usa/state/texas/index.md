@@ -1,0 +1,94 @@
+# Texas State Agencies
+
+## Agencies
+
+- [TX_AH](TX_AH/index.md) - Texas State Office of Administrative Hearings
+- [TX_ADS](TX_ADS/index.md) - Texas Department of Aging and Disability Services
+- [TX_A](TX_A/index.md) - Texas Department of Agriculture
+- [TX_AAE](TX_AAE/index.md) - Texas A&M AgriLife Extension Service
+- [TX_AAR](TX_AAR/index.md) - Texas A&M AgriLife Research
+- [TX_AA](TX_AA/index.md) - Texas A&M AgriLife
+- [TX_ANR](TX_ANR/index.md) - Angelina & Neches River Authority
+- [TX_AH](TX_AH/index.md) - Texas Animal Health Commission
+- [TX_ARS](TX_ARS/index.md) - Texas Department of Assistive and Rehabilitative Services
+- [TX_AG](TX_AG/index.md) - Texas Attorney General
+- [TX_EP](TX_EP/index.md) - Texas State Board of Examiners of Psychologists
+- [TX_BR](TX_BR/index.md) - Brazos River Authority
+- [TX_BSLC](TX_BSLC/index.md) - Brenham State Supported Living Center
+- [TX_CJP](TX_CJP/index.md) - Criminal Justice Policy Council
+- [TX_T](TX_T/index.md) - Texas Department of Transportation
+- [TX_E](TX_E/index.md) - Texas Education Agency
+- [TX_ERST](TX_ERST/index.md) - Employees Retirement System of Texas
+- [TX_AEES](TX_AEES/index.md) - Texas A&M Engineering Experiment Station
+- [TX_AEE](TX_AEE/index.md) - Texas A&M Engineering Extension Service
+- [TX_EQ](TX_EQ/index.md) - Texas Commission on Environmental Quality
+- [TX_E](TX_E/index.md) - Texas Ethics Commission
+- [TX_EN](TX_EN/index.md) - Endeavors (non-profit)
+- [TX_FPS](TX_FPS/index.md) - Texas Department of Family and Protective Services
+- [TX_FS](TX_FS/index.md) - Texas Forensic Science Commission
+- [TX_AF](TX_AF/index.md) - Texas A&M Forest Service
+- [TX_HHS](TX_HHS/index.md) - Texas Health and Human Services Commission
+- [TX_HEC](TX_HEC/index.md) - Texas Higher Education Coordinating Board
+- [TX_RTHL](TX_RTHL/index.md) - Recorded Texas Historic Landmark
+- [TX_H](TX_H/index.md) - Texas Historical Commission
+- [TX_HCA](TX_HCA/index.md) - Texas Department of Housing and Community Affairs
+- [TX_I](TX_I/index.md) - Texas Department of Insurance
+- [TX_JJ](TX_JJ/index.md) - Texas Juvenile Justice Department
+- [TX_LR](TX_LR/index.md) - Lavaca-Navidad River Authority
+- [TX_L](TX_L/index.md) - Texas Legislature
+- [TX_LA](TX_LA/index.md) - Texas State Library and Archives Commission
+- [TX_LCR](TX_LCR/index.md) - Lower Colorado River Authority
+- [TX_M](TX_M/index.md) - Texas Military Department
+- [TX_PW](TX_PW/index.md) - Texas Parks and Wildlife Department
+- [TX_PUT](TX_PUT/index.md) - Public Utility Commission of Texas
+- [TX_RT](TX_RT/index.md) - Railroad Commission of Texas
+- [TX_RE](TX_RE/index.md) - Texas Real Estate Commission
+- [TX_SAR](TX_SAR/index.md) - San Antonio River Authority
+- [TX_SBVI](TX_SBVI/index.md) - Texas School for the Blind and Visually Impaired
+- [TX_SD](TX_SD/index.md) - Texas School for the Deaf
+- [TX_ST](TX_ST/index.md) - Secretary of State of Texas
+- [TX_BT](TX_BT/index.md) - State Bar of Texas
+- [TX_FT](TX_FT/index.md) - State Fair of Texas
+- [TX_HS](TX_HS/index.md) - Texas Department of State Health Services
+- [TX_SA](TX_SA/index.md) - Sunset Advisory Commission
+- [TX_TRST](TX_TRST/index.md) - Teacher Retirement System of Texas
+- [TX_A](TX_A/index.md) - Texas Aeronautics Commission
+- [TX_AE](TX_AE/index.md) - Texas Board of Architectural Examiners
+- [TX_PELS](TX_PELS/index.md) - Texas Board of Professional Engineers and Land Surveyors
+- [TX_ADA](TX_ADA/index.md) - Texas Commission on Alcohol and Drug Abuse
+- [TX_FP](TX_FP/index.md) - Texas Commission on Fire Protection
+- [TX_JS](TX_JS/index.md) - Texas Commission on Jail Standards
+- [TX_CDRS](TX_CDRS/index.md) - Texas County & District Retirement System
+- [TX_IR](TX_IR/index.md) - Texas Department of Information Resources
+- [TX_LR](TX_LR/index.md) - Texas Department of Licensing and Regulation
+- [TX_MV](TX_MV/index.md) - Texas Department of Motor Vehicles
+- [TX_PS](TX_PS/index.md) - Texas Department of Public Safety
+- [TX_RA](TX_RA/index.md) - Texas Department of Rural Affairs
+- [TX_EM](TX_EM/index.md) - Texas Division of Emergency Management
+- [TX_F](TX_F/index.md) - Texas Facilities Commission
+- [TX_F](TX_F/index.md) - Texas Film Commission
+- [TX_GL](TX_GL/index.md) - Texas General Land Office
+- [TX_JP](TX_JP/index.md) - Texas Juvenile Probation Commission
+- [TX_L](TX_L/index.md) - Texas Lottery
+- [TX_M](TX_M/index.md) - Texas Medical Board
+- [TX_M](TX_M/index.md) - Texas Music Office
+- [TX_CCC](TX_CCC/index.md) - Texas Office of Consumer Credit Commissioner
+- [TX_RC](TX_RC/index.md) - Texas Residential Construction Commission
+- [TX_S](TX_S/index.md) - Texas Space Commission
+- [TX_AHC](TX_AHC/index.md) - Texas State Affordable Housing Corporation
+- [TX_DE](TX_DE/index.md) - Texas State Board of Dental Examiners
+- [TX_P](TX_P/index.md) - Texas State Preservation Board
+- [TX_S](TX_S/index.md) - Texas State Securities Board
+- [TX_SWC](TX_SWC/index.md) - Texas State Soil and Water Conservation Board
+- [TX_W](TX_W/index.md) - Texas Workforce Commission
+- [TX_ATI](TX_ATI/index.md) - Texas A&M Transportation Institute
+- [TX_TR](TX_TR/index.md) - Trinity River Authority
+- [TX_UCR](TX_UCR/index.md) - Upper Colorado River Authority
+- [TX_UGR](TX_UGR/index.md) - Upper Guadalupe River Authority
+- [TX_Y](TX_Y/index.md) - Texas Youth Commission
+
+## HMS Implementation Status
+
+- Implementation Complete: 0
+- Implementation In Progress: 0
+- Implementation Planned: 0

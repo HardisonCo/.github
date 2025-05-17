@@ -1,0 +1,30 @@
+{
+  "component": "HMS-MFE",
+  "version": "1.0",
+  "created_at": "2025-05-01T12:24:06.720210",
+  "last_updated": "2025-05-01T12:24:06.720321",
+  "start": {
+    "last_attempt": "2025-05-01T12:24:06.720212",
+    "last_success": "2025-05-01T12:24:06.720213",
+    "attempts": 1,
+    "successes": 1,
+    "failures": 0,
+    "status": "running"
+  },
+  "tests": {
+    "last_run": "2025-05-01T12:24:06.720318",
+    "last_success": "2025-05-01T12:24:06.720318",
+    "total_runs": 1,
+    "total_passed": 1,
+    "total_failed": 0,
+    "status": "passing",
+    "last_results": {
+      "passed": 42,
+      "failed": 0,
+      "skipped": 0,
+      "duration": 6.560347353817462
+    }
+  },
+  "issues": [],
+  "operational_status": "operational"
+}

@@ -1,0 +1,54 @@
+{
+  "component": "HMS-MKT",
+  "version": "1.0",
+  "created_at": "2025-05-01T12:24:06.720808",
+  "last_updated": "2025-05-01T12:24:06.721039",
+  "start": {
+    "last_attempt": "2025-05-01T12:24:06.720810",
+    "last_success": "2025-05-01T12:24:06.720811",
+    "attempts": 1,
+    "successes": 1,
+    "failures": 0,
+    "status": "running"
+  },
+  "tests": {
+    "last_run": "2025-05-01T12:24:06.720908",
+    "last_success": null,
+    "total_runs": 1,
+    "total_passed": 0,
+    "total_failed": 1,
+    "status": "failing",
+    "last_results": {
+      "passed": 38,
+      "failed": 2,
+      "skipped": 4,
+      "duration": 6.79404048567039,
+      "failure_details": [
+        "Test failure in hms-mkt/tests/test_core.py",
+        "Test failure in hms-mkt/tests/test_core.py"
+      ]
+    }
+  },
+  "issues": [
+    {
+      "id": "10095b88-a681-43da-8254-c9cc3405ff55",
+      "type": "test_failure",
+      "component": "HMS-MKT",
+      "timestamp": "2025-05-01T12:24:06.720908",
+      "details": {
+        "results": {
+          "passed": 38,
+          "failed": 2,
+          "skipped": 4,
+          "duration": 6.79404048567039,
+          "failure_details": [
+            "Test failure in hms-mkt/tests/test_core.py",
+            "Test failure in hms-mkt/tests/test_core.py"
+          ]
+        }
+      },
+      "status": "open"
+    }
+  ],
+  "operational_status": "degraded"
+}

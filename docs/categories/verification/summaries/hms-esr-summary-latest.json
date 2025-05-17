@@ -1,0 +1,74 @@
+{
+  "component": "HMS-ESR",
+  "generated_at": "2025-05-01T12:24:06.709119",
+  "operational_status": "unknown",
+  "repository": {
+    "last_commit": "4dde24d4dc6481c1b3a508abc1f8399a88f7202f",
+    "description": "Engineering Support Request (ESR) Helper is a tool to streamline and automate the management and resolution of engineering support requests.\n\n## Installation",
+    "tech_stack": {
+      "languages": [
+        "Ruby"
+      ],
+      "frameworks": [
+        "Ruby on Rails"
+      ],
+      "databases": [
+        "PostgreSQL",
+        "Redis"
+      ],
+      "key_libraries": [
+        "Sidekiq",
+        "RSpec",
+        "Rails helpers"
+      ]
+    },
+    "integration_points": [
+      "HMS-CUR",
+      "HMS-NFO",
+      "HMS-DOC"
+    ],
+    "architecture": {
+      "pattern": "layered",
+      "key_dirs": [
+        "data"
+      ],
+      "entry_points": []
+    }
+  },
+  "status": {
+    "last_start": null,
+    "start_attempts": 1,
+    "start_successes": 0,
+    "start_failures": 1,
+    "last_test_run": null,
+    "test_runs": 0,
+    "test_passes": 0,
+    "test_failures": 0,
+    "last_test_results": {}
+  },
+  "issues": [
+    {
+      "id": "5dc9b205-671e-4376-910d-1946786ad688",
+      "type": "start_failure",
+      "component": "HMS-ESR",
+      "timestamp": "2025-05-01T12:24:06.708703",
+      "details": {
+        "output": "ERROR: Configuration file not found: hms-esr/config/production.json"
+      },
+      "status": "open"
+    }
+  ],
+  "work_items": [
+    {
+      "type": "start_failure",
+      "priority": "high",
+      "description": "Fix HMS-ESR startup failure",
+      "assigned_to": "HMS-DEV",
+      "suggested_actions": [
+        "Check HMS-ESR logs for error messages",
+        "Verify all dependencies for HMS-ESR are available",
+        "Check environment variables and configuration"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+# HMS-AGX for PA_GC
+
+## Description
+
+Advanced Graph Experience
+
+## Integration Points
+
+This document outlines how HMS-AGX is integrated with PA_GC systems in Pennsylvania.

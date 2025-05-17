@@ -1,0 +1,71 @@
+{
+  "component": "HMS-CDF",
+  "generated_at": "2025-05-01T12:24:06.697227",
+  "operational_status": "operational",
+  "repository": {
+    "last_commit": "bb04d0293d8610869772f2605e46fee2c392a35d",
+    "description": "[![Language: Rust](https://img.shields.io/badge/language-Rust-orange.svg)](https://www.rust-lang.org/)\n[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)",
+    "tech_stack": {
+      "languages": [
+        "Rust",
+        "Python"
+      ],
+      "frameworks": [
+        "Actix-web",
+        "Yao"
+      ],
+      "databases": [
+        "PostgreSQL"
+      ],
+      "key_libraries": [
+        "Tokio",
+        "Serde",
+        "RocksDB"
+      ]
+    },
+    "integration_points": [
+      "HMS-A2A",
+      "HMS-GOV",
+      "HMS-DOC"
+    ],
+    "architecture": {
+      "pattern": "mvc",
+      "key_dirs": [
+        "src/models",
+        "src/models",
+        "src/services"
+      ],
+      "entry_points": []
+    }
+  },
+  "status": {
+    "last_start": "2025-05-01T12:24:06.696703",
+    "start_attempts": 1,
+    "start_successes": 1,
+    "start_failures": 0,
+    "last_test_run": "2025-05-01T12:24:06.697037",
+    "test_runs": 1,
+    "test_passes": 1,
+    "test_failures": 0,
+    "last_test_results": {
+      "passed": 34,
+      "failed": 0,
+      "skipped": 2,
+      "duration": 4.016215615666235
+    }
+  },
+  "issues": [],
+  "work_items": [
+    {
+      "type": "enhancement",
+      "priority": "low",
+      "description": "Add integration tests for HMS-CDF with HMS-A2A, HMS-GOV, HMS-DOC",
+      "assigned_to": "HMS-AGT-CDF",
+      "suggested_actions": [
+        "Develop integration tests for HMS-CDF with its integration points",
+        "Set up test fixtures for integration testing",
+        "Add CI configuration for integration tests"
+      ]
+    }
+  ]
+}

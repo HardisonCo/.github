@@ -1,0 +1,9 @@
+# HMS-ACH for TN_TD
+
+## Description
+
+Automated Clearing House
+
+## Integration Points
+
+This document outlines how HMS-ACH is integrated with TN_TD systems in Tennessee.

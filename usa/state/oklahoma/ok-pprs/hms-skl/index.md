@@ -1,0 +1,9 @@
+# HMS-SKL for OK_PPRS
+
+## Description
+
+Skills Management
+
+## Integration Points
+
+This document outlines how HMS-SKL is integrated with OK_PPRS systems in Oklahoma.

@@ -1,0 +1,36 @@
+{
+  "component": "HMS-AGX",
+  "version": "1.0",
+  "created_at": "2025-05-01T12:24:06.688412",
+  "last_updated": "2025-05-01T12:24:06.688618",
+  "start": {
+    "last_attempt": "2025-05-01T12:24:06.688415",
+    "last_success": null,
+    "attempts": 1,
+    "successes": 0,
+    "failures": 1,
+    "status": "failed"
+  },
+  "tests": {
+    "last_run": null,
+    "last_success": null,
+    "total_runs": 0,
+    "total_passed": 0,
+    "total_failed": 0,
+    "status": "unknown",
+    "last_results": {}
+  },
+  "issues": [
+    {
+      "id": "4654bd6f-6d39-4430-a290-aa2a70d7b82b",
+      "type": "start_failure",
+      "component": "HMS-AGX",
+      "timestamp": "2025-05-01T12:24:06.688431",
+      "details": {
+        "output": "ERROR: Port 5359 already in use"
+      },
+      "status": "open"
+    }
+  ],
+  "operational_status": "unknown"
+}

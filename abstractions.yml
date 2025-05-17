@@ -1,0 +1,481 @@
+abstractions:
+- description: 'A key concept from chapter1: HMS Three-Layer Architecture'
+  name: Three-Layer Architecture
+  source: chapter1
+  type: concept
+- description: 'A key concept from chapter1: HMS Three-Layer Architecture'
+  name: Governance Layer
+  source: chapter1
+  type: concept
+- description: 'A key concept from chapter1: HMS Three-Layer Architecture'
+  name: Management Layer
+  source: chapter1
+  type: concept
+- description: 'A key concept from chapter1: HMS Three-Layer Architecture'
+  name: Interface Layer
+  source: chapter1
+  type: concept
+- description: 'A key concept from chapter1: HMS Three-Layer Architecture'
+  name: Separation of Concerns
+  source: chapter1
+  type: concept
+- description: 'A key concept from chapter2: Human-in-the-Loop Decision Making'
+  name: HITL Decision Making
+  source: chapter2
+  type: concept
+- description: 'A key concept from chapter2: Human-in-the-Loop Decision Making'
+  name: Ethical AI
+  source: chapter2
+  type: concept
+- description: 'A key concept from chapter2: Human-in-the-Loop Decision Making'
+  name: Decision Frameworks
+  source: chapter2
+  type: concept
+- description: 'A key concept from chapter2: Human-in-the-Loop Decision Making'
+  name: Human Oversight
+  source: chapter2
+  type: concept
+- description: 'A key concept from chapter2: Human-in-the-Loop Decision Making'
+  name: Augmented Intelligence
+  source: chapter2
+  type: concept
+- description: 'A key concept from chapter3: Collaboration Interface & Agent Dial
+    Tone'
+  name: Agent Dial Tone
+  source: chapter3
+  type: concept
+- description: 'A key concept from chapter3: Collaboration Interface & Agent Dial
+    Tone'
+  name: Collaboration Interface
+  source: chapter3
+  type: concept
+- description: 'A key concept from chapter3: Collaboration Interface & Agent Dial
+    Tone'
+  name: Agent Communication
+  source: chapter3
+  type: concept
+- description: 'A key concept from chapter3: Collaboration Interface & Agent Dial
+    Tone'
+  name: Protocol Design
+  source: chapter3
+  type: concept
+- description: 'A key concept from chapter3: Collaboration Interface & Agent Dial
+    Tone'
+  name: User Experience
+  source: chapter3
+  type: concept
+- description: 'A key concept from chapter4: AI Representative Agents'
+  name: Representative Agents
+  source: chapter4
+  type: concept
+- description: 'A key concept from chapter4: AI Representative Agents'
+  name: Agent Autonomy
+  source: chapter4
+  type: concept
+- description: 'A key concept from chapter4: AI Representative Agents'
+  name: Stakeholder Representation
+  source: chapter4
+  type: concept
+- description: 'A key concept from chapter4: AI Representative Agents'
+  name: Agency Models
+  source: chapter4
+  type: concept
+- description: 'A key concept from chapter4: AI Representative Agents'
+  name: Delegation Patterns
+  source: chapter4
+  type: concept
+- description: 'A key concept from chapter5: Backend API: The Heart of Communication'
+  name: API Design
+  source: chapter5
+  type: concept
+- description: 'A key concept from chapter5: Backend API: The Heart of Communication'
+  name: Communication Hub
+  source: chapter5
+  type: concept
+- description: 'A key concept from chapter5: Backend API: The Heart of Communication'
+  name: Service Architecture
+  source: chapter5
+  type: concept
+- description: 'A key concept from chapter5: Backend API: The Heart of Communication'
+  name: REST/GraphQL Integration
+  source: chapter5
+  type: concept
+- description: 'A key concept from chapter5: Backend API: The Heart of Communication'
+  name: API Security
+  source: chapter5
+  type: concept
+- description: 'A key concept from chapter6: Real-time Synchronization & Event Broadcasting'
+  name: Event Broadcasting
+  source: chapter6
+  type: concept
+- description: 'A key concept from chapter6: Real-time Synchronization & Event Broadcasting'
+  name: Real-time Synchronization
+  source: chapter6
+  type: concept
+- description: 'A key concept from chapter6: Real-time Synchronization & Event Broadcasting'
+  name: Event-Driven Architecture
+  source: chapter6
+  type: concept
+- description: 'A key concept from chapter6: Real-time Synchronization & Event Broadcasting'
+  name: Pub/Sub Patterns
+  source: chapter6
+  type: concept
+- description: 'A key concept from chapter6: Real-time Synchronization & Event Broadcasting'
+  name: State Management
+  source: chapter6
+  type: concept
+- description: 'A key concept from chapter7: Policy Deployment & Management'
+  name: Policy Management
+  source: chapter7
+  type: concept
+- description: 'A key concept from chapter7: Policy Deployment & Management'
+  name: Governance Framework
+  source: chapter7
+  type: concept
+- description: 'A key concept from chapter7: Policy Deployment & Management'
+  name: Compliance Mechanisms
+  source: chapter7
+  type: concept
+- description: 'A key concept from chapter7: Policy Deployment & Management'
+  name: Policy Deployment
+  source: chapter7
+  type: concept
+- description: 'A key concept from chapter7: Policy Deployment & Management'
+  name: Enforcement Strategies
+  source: chapter7
+  type: concept
+- description: 'A key concept from chapter8: Verification Mechanisms & CI/CD Integration'
+  name: Verification Mechanisms
+  source: chapter8
+  type: concept
+- description: 'A key concept from chapter8: Verification Mechanisms & CI/CD Integration'
+  name: CI/CD Integration
+  source: chapter8
+  type: concept
+- description: 'A key concept from chapter8: Verification Mechanisms & CI/CD Integration'
+  name: Automated Testing
+  source: chapter8
+  type: concept
+- description: 'A key concept from chapter8: Verification Mechanisms & CI/CD Integration'
+  name: Quality Assurance
+  source: chapter8
+  type: concept
+- description: 'A key concept from chapter8: Verification Mechanisms & CI/CD Integration'
+  name: Deployment Pipeline
+  source: chapter8
+  type: concept
+- description: 'A key concept from chapter9: Supervisor Framework & Orchestration'
+  name: Supervisor Framework
+  source: chapter9
+  type: concept
+- description: 'A key concept from chapter9: Supervisor Framework & Orchestration'
+  name: System Orchestration
+  source: chapter9
+  type: concept
+- description: 'A key concept from chapter9: Supervisor Framework & Orchestration'
+  name: Resource Coordination
+  source: chapter9
+  type: concept
+- description: 'A key concept from chapter9: Supervisor Framework & Orchestration'
+  name: Meta-Management
+  source: chapter9
+  type: concept
+- description: 'A key concept from chapter9: Supervisor Framework & Orchestration'
+  name: Control Systems
+  source: chapter9
+  type: concept
+- description: 'A key concept from chapter10: Genetic Algorithms & Self-Healing Systems'
+  name: Genetic Algorithms
+  source: chapter10
+  type: concept
+- description: 'A key concept from chapter10: Genetic Algorithms & Self-Healing Systems'
+  name: Self-Healing
+  source: chapter10
+  type: concept
+- description: 'A key concept from chapter10: Genetic Algorithms & Self-Healing Systems'
+  name: Evolutionary Computing
+  source: chapter10
+  type: concept
+- description: 'A key concept from chapter10: Genetic Algorithms & Self-Healing Systems'
+  name: Automated Recovery
+  source: chapter10
+  type: concept
+- description: 'A key concept from chapter10: Genetic Algorithms & Self-Healing Systems'
+  name: System Resilience
+  source: chapter10
+  type: concept
+- description: 'A key concept from chapter11: Chain of Recursive Thought (CoRT) Analysis'
+  name: Recursive Thought
+  source: chapter11
+  type: concept
+- description: 'A key concept from chapter11: Chain of Recursive Thought (CoRT) Analysis'
+  name: Problem Decomposition
+  source: chapter11
+  type: concept
+- description: 'A key concept from chapter11: Chain of Recursive Thought (CoRT) Analysis'
+  name: Analytical Methods
+  source: chapter11
+  type: concept
+- description: 'A key concept from chapter11: Chain of Recursive Thought (CoRT) Analysis'
+  name: Decision Trees
+  source: chapter11
+  type: concept
+- description: 'A key concept from chapter11: Chain of Recursive Thought (CoRT) Analysis'
+  name: Systematic Analysis
+  source: chapter11
+  type: concept
+- description: 'A key concept from chapter12: Theorem Proving & Formal Verification'
+  name: Theorem Proving
+  source: chapter12
+  type: concept
+- description: 'A key concept from chapter12: Theorem Proving & Formal Verification'
+  name: Formal Verification
+  source: chapter12
+  type: concept
+- description: 'A key concept from chapter12: Theorem Proving & Formal Verification'
+  name: Lean Integration
+  source: chapter12
+  type: concept
+- description: 'A key concept from chapter12: Theorem Proving & Formal Verification'
+  name: Mathematical Proofs
+  source: chapter12
+  type: concept
+- description: 'A key concept from chapter12: Theorem Proving & Formal Verification'
+  name: Correctness Guarantees
+  source: chapter12
+  type: concept
+- description: 'A key concept from chapter13: Clinical Trial Integration & Adaptive
+    Frameworks'
+  name: Clinical Trials
+  source: chapter13
+  type: concept
+- description: 'A key concept from chapter13: Clinical Trial Integration & Adaptive
+    Frameworks'
+  name: Adaptive Frameworks
+  source: chapter13
+  type: concept
+- description: 'A key concept from chapter13: Clinical Trial Integration & Adaptive
+    Frameworks'
+  name: Data Integration
+  source: chapter13
+  type: concept
+- description: 'A key concept from chapter13: Clinical Trial Integration & Adaptive
+    Frameworks'
+  name: Medical Research
+  source: chapter13
+  type: concept
+- description: 'A key concept from chapter13: Clinical Trial Integration & Adaptive
+    Frameworks'
+  name: Evidence-Based Medicine
+  source: chapter13
+  type: concept
+- description: 'A key concept from chapter14: Health Policy & Governance Systems'
+  name: Health Policy
+  source: chapter14
+  type: concept
+- description: 'A key concept from chapter14: Health Policy & Governance Systems'
+  name: Governance Systems
+  source: chapter14
+  type: concept
+- description: 'A key concept from chapter14: Health Policy & Governance Systems'
+  name: Regulatory Compliance
+  source: chapter14
+  type: concept
+- description: 'A key concept from chapter14: Health Policy & Governance Systems'
+  name: Policy Analysis
+  source: chapter14
+  type: concept
+- description: 'A key concept from chapter14: Health Policy & Governance Systems'
+  name: CDF Implementation
+  source: chapter14
+  type: concept
+- description: 'A key concept from chapter15: Disease-Specific Applications: Crohn''s
+    Treatment System'
+  name: Disease Management
+  source: chapter15
+  type: concept
+- description: 'A key concept from chapter15: Disease-Specific Applications: Crohn''s
+    Treatment System'
+  name: Crohn's Treatment
+  source: chapter15
+  type: concept
+- description: 'A key concept from chapter15: Disease-Specific Applications: Crohn''s
+    Treatment System'
+  name: Specialized Applications
+  source: chapter15
+  type: concept
+- description: 'A key concept from chapter15: Disease-Specific Applications: Crohn''s
+    Treatment System'
+  name: Treatment Protocols
+  source: chapter15
+  type: concept
+- description: 'A key concept from chapter15: Disease-Specific Applications: Crohn''s
+    Treatment System'
+  name: Patient Management
+  source: chapter15
+  type: concept
+- description: 'A key concept from chapter16: Agency Integration: APHIS Bird Flu Implementation'
+  name: Agency Integration
+  source: chapter16
+  type: concept
+- description: 'A key concept from chapter16: Agency Integration: APHIS Bird Flu Implementation'
+  name: Bird Flu Monitoring
+  source: chapter16
+  type: concept
+- description: 'A key concept from chapter16: Agency Integration: APHIS Bird Flu Implementation'
+  name: Epidemic Response
+  source: chapter16
+  type: concept
+- description: 'A key concept from chapter16: Agency Integration: APHIS Bird Flu Implementation'
+  name: Cross-Agency Collaboration
+  source: chapter16
+  type: concept
+- description: 'A key concept from chapter16: Agency Integration: APHIS Bird Flu Implementation'
+  name: Public Health
+  source: chapter16
+  type: concept
+- description: 'A key concept from chapter17: Working with Codex CLI'
+  name: Codex CLI
+  source: chapter17
+  type: concept
+- description: 'A key concept from chapter17: Working with Codex CLI'
+  name: Command Line Tools
+  source: chapter17
+  type: concept
+- description: 'A key concept from chapter17: Working with Codex CLI'
+  name: Developer Workflow
+  source: chapter17
+  type: concept
+- description: 'A key concept from chapter17: Working with Codex CLI'
+  name: Automation
+  source: chapter17
+  type: concept
+- description: 'A key concept from chapter17: Working with Codex CLI'
+  name: Productivity
+  source: chapter17
+  type: concept
+- description: 'A key concept from chapter18: Testing Strategies & Quality Assurance'
+  name: Testing Strategies
+  source: chapter18
+  type: concept
+- description: 'A key concept from chapter18: Testing Strategies & Quality Assurance'
+  name: Quality Assurance
+  source: chapter18
+  type: concept
+- description: 'A key concept from chapter18: Testing Strategies & Quality Assurance'
+  name: Test Automation
+  source: chapter18
+  type: concept
+- description: 'A key concept from chapter18: Testing Strategies & Quality Assurance'
+  name: TDD/BDD
+  source: chapter18
+  type: concept
+- description: 'A key concept from chapter18: Testing Strategies & Quality Assurance'
+  name: Test Coverage
+  source: chapter18
+  type: concept
+- description: 'A key concept from chapter19: Deployment & Operations'
+  name: Deployment
+  source: chapter19
+  type: concept
+- description: 'A key concept from chapter19: Deployment & Operations'
+  name: Operations
+  source: chapter19
+  type: concept
+- description: 'A key concept from chapter19: Deployment & Operations'
+  name: Monitoring
+  source: chapter19
+  type: concept
+- description: 'A key concept from chapter19: Deployment & Operations'
+  name: Scaling
+  source: chapter19
+  type: concept
+- description: 'A key concept from chapter19: Deployment & Operations'
+  name: Production Management
+  source: chapter19
+  type: concept
+- description: 'A key concept from chapter20: Economic Analysis & Moneyball Trade
+    Systems'
+  name: Economic Analysis
+  source: chapter20
+  type: concept
+- description: 'A key concept from chapter20: Economic Analysis & Moneyball Trade
+    Systems'
+  name: Moneyball Approach
+  source: chapter20
+  type: concept
+- description: 'A key concept from chapter20: Economic Analysis & Moneyball Trade
+    Systems'
+  name: Resource Optimization
+  source: chapter20
+  type: concept
+- description: 'A key concept from chapter20: Economic Analysis & Moneyball Trade
+    Systems'
+  name: Trade Systems
+  source: chapter20
+  type: concept
+- description: 'A key concept from chapter20: Economic Analysis & Moneyball Trade
+    Systems'
+  name: Value Metrics
+  source: chapter20
+  type: concept
+- description: 'A key concept from chapter21: Multi-Agent Systems & Coordination'
+  name: Multi-Agent Systems
+  source: chapter21
+  type: concept
+- description: 'A key concept from chapter21: Multi-Agent Systems & Coordination'
+  name: Agent Coordination
+  source: chapter21
+  type: concept
+- description: 'A key concept from chapter21: Multi-Agent Systems & Coordination'
+  name: Emergent Behavior
+  source: chapter21
+  type: concept
+- description: 'A key concept from chapter21: Multi-Agent Systems & Coordination'
+  name: Distributed Problem Solving
+  source: chapter21
+  type: concept
+- description: 'A key concept from chapter21: Multi-Agent Systems & Coordination'
+  name: Swarm Intelligence
+  source: chapter21
+  type: concept
+- description: 'A key concept from chapter22: Cross-Language Integration & FFI'
+  name: Cross-Language Integration
+  source: chapter22
+  type: concept
+- description: 'A key concept from chapter22: Cross-Language Integration & FFI'
+  name: FFI
+  source: chapter22
+  type: concept
+- description: 'A key concept from chapter22: Cross-Language Integration & FFI'
+  name: Interoperability
+  source: chapter22
+  type: concept
+- description: 'A key concept from chapter22: Cross-Language Integration & FFI'
+  name: Polyglot Systems
+  source: chapter22
+  type: concept
+- description: 'A key concept from chapter22: Cross-Language Integration & FFI'
+  name: Language Bridges
+  source: chapter22
+  type: concept
+- description: 'A key concept from chapter23: Future Directions & Advanced Research'
+  name: Future Research
+  source: chapter23
+  type: concept
+- description: 'A key concept from chapter23: Future Directions & Advanced Research'
+  name: Emerging Technologies
+  source: chapter23
+  type: concept
+- description: 'A key concept from chapter23: Future Directions & Advanced Research'
+  name: System Evolution
+  source: chapter23
+  type: concept
+- description: 'A key concept from chapter23: Future Directions & Advanced Research'
+  name: Innovation Roadmap
+  source: chapter23
+  type: concept
+- description: 'A key concept from chapter23: Future Directions & Advanced Research'
+  name: Advanced Applications
+  source: chapter23
+  type: concept

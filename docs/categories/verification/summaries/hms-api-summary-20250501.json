@@ -1,0 +1,90 @@
+{
+  "component": "HMS-API",
+  "generated_at": "2025-05-01T12:24:06.695689",
+  "operational_status": "unknown",
+  "repository": {
+    "last_commit": "418d533be75ec1f2958bb89d3a6438c2f43a094f",
+    "description": "## Build Setup",
+    "tech_stack": {
+      "languages": [
+        "PHP",
+        "JavaScript"
+      ],
+      "frameworks": [
+        "Laravel",
+        "Vue.js"
+      ],
+      "databases": [
+        "MySQL",
+        "Redis"
+      ],
+      "key_libraries": [
+        "Sanctum",
+        "Guzzle",
+        "PHPUnit"
+      ]
+    },
+    "integration_points": [
+      "HMS-DOC",
+      "HMS-DEV",
+      "HMS-SYS"
+    ],
+    "architecture": {
+      "pattern": "mvc",
+      "key_dirs": [
+        "app/Models",
+        "app/Models",
+        "app/Services"
+      ],
+      "entry_points": [
+        "index.php"
+      ]
+    }
+  },
+  "status": {
+    "last_start": null,
+    "start_attempts": 2,
+    "start_successes": 0,
+    "start_failures": 2,
+    "last_test_run": null,
+    "test_runs": 0,
+    "test_passes": 0,
+    "test_failures": 0,
+    "last_test_results": {}
+  },
+  "issues": [
+    {
+      "id": "60d84a6d-07af-407f-96d8-ad1ee815e518",
+      "type": "start_failure",
+      "component": "HMS-API",
+      "timestamp": "2025-05-01T12:04:40.103647",
+      "details": {
+        "output": "ERROR: Missing environment variable: HMS_API_API_KEY"
+      },
+      "status": "open"
+    },
+    {
+      "id": "a83245aa-bb7e-4089-b6c4-35b107d1a6c5",
+      "type": "start_failure",
+      "component": "HMS-API",
+      "timestamp": "2025-05-01T12:24:06.689482",
+      "details": {
+        "output": "ERROR: Missing environment variable: HMS_API_API_KEY"
+      },
+      "status": "open"
+    }
+  ],
+  "work_items": [
+    {
+      "type": "start_failure",
+      "priority": "high",
+      "description": "Fix HMS-API startup failure",
+      "assigned_to": "HMS-DEV",
+      "suggested_actions": [
+        "Check HMS-API logs for error messages",
+        "Verify all dependencies for HMS-API are available",
+        "Check environment variables and configuration"
+      ]
+    }
+  ]
+}

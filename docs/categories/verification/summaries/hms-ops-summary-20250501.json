@@ -1,0 +1,60 @@
+{
+  "component": "HMS-OPS",
+  "generated_at": "2025-05-01T12:24:06.724477",
+  "operational_status": "operational",
+  "repository": {
+    "last_commit": "",
+    "description": "HMS-OPS is a comprehensive toolkit for managing deployments of CodifyHQ projects using either:\n1. Laravel Forge API for production deployments\n2. Direct AWS CLI for QA, test, and production environments",
+    "tech_stack": {
+      "languages": [
+        "PHP",
+        "Bash"
+      ],
+      "frameworks": [],
+      "databases": [],
+      "key_libraries": [
+        "Forge API"
+      ]
+    },
+    "integration_points": [
+      "HMS-DEV",
+      "HMS-SYS",
+      "HMS-DOC"
+    ],
+    "architecture": {
+      "pattern": "unknown",
+      "key_dirs": [],
+      "entry_points": []
+    }
+  },
+  "status": {
+    "last_start": "2025-05-01T12:24:06.724223",
+    "start_attempts": 1,
+    "start_successes": 1,
+    "start_failures": 0,
+    "last_test_run": "2025-05-01T12:24:06.724335",
+    "test_runs": 1,
+    "test_passes": 1,
+    "test_failures": 0,
+    "last_test_results": {
+      "passed": 35,
+      "failed": 0,
+      "skipped": 4,
+      "duration": 9.56720592826617
+    }
+  },
+  "issues": [],
+  "work_items": [
+    {
+      "type": "enhancement",
+      "priority": "low",
+      "description": "Add integration tests for HMS-OPS with HMS-DEV, HMS-SYS, HMS-DOC",
+      "assigned_to": "HMS-AGT-OPS",
+      "suggested_actions": [
+        "Develop integration tests for HMS-OPS with its integration points",
+        "Set up test fixtures for integration testing",
+        "Add CI configuration for integration tests"
+      ]
+    }
+  ]
+}

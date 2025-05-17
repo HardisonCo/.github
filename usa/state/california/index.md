@@ -1,0 +1,125 @@
+# California State Agencies
+
+## Agencies
+
+- [CA_ARM](CA_ARM/index.md) - California Affiliated Risk Management Authority
+- [CA_A](CA_A/index.md) - California Department of Aging
+- [CA_ALR](CA_ALR/index.md) - California Agricultural Labor Relations Board
+- [CA_AR](CA_AR/index.md) - California Air Resources Board
+- [CA_ADP](CA_ADP/index.md) - California Department of Alcohol and Drug Programs
+- [CA_A](CA_A/index.md) - California State Athletic Commission
+- [CA_A](CA_A/index.md) - California State Auditor
+- [CA_E](CA_E/index.md) - California State Board of Equalization
+- [CA_VC](CA_VC/index.md) - Board of State Viticultural Commissioners
+- [CA_BW](CA_BW/index.md) - California Division of Boating and Waterways
+- [CA_BS](CA_BS/index.md) - California Building Standards Commission
+- [CA_PPE](CA_PPE/index.md) - California Bureau for Private Postsecondary Education
+- [CA_AR](CA_AR/index.md) - California Bureau of Automotive Repair
+- [CA_FPI](CA_FPI/index.md) - California Department of Financial Protection and Innovation
+- [CA_BCSH](CA_BCSH/index.md) - California Business, Consumer Services and Housing Agency
+- [CA_CBP](CA_CBP/index.md) - CALFED Bay-Delta Program
+- [CA_A](CA_A/index.md) - California Acupuncture Board
+- [CA_ABCA](CA_ABCA/index.md) - California Alcoholic Beverage Control Appeals Board
+- [CA_A](CA_A/index.md) - California Board of Accountancy
+- [CA_PC](CA_PC/index.md) - California Board of Pilot Commissioners
+- [CA_MC](CA_MC/index.md) - California Bureau of Marijuana Control
+- [CA_NM](CA_NM/index.md) - California Bureau of Naturopathic Medicine
+- [CA_CC](CA_CC/index.md) - California Cadet Corps
+- [CA_CC](CA_CC/index.md) - California Coastal Conservancy
+- [CA_ED](CA_ED/index.md) - California Commission for Economic Development
+- [CA_APIA](CA_APIA/index.md) - California Commission on Asian and Pacific Islander Affairs
+- [CA_CC](CA_CC/index.md) - California Department of Cannabis Control
+- [CA_CSD](CA_CSD/index.md) - California Department of Community Services and Development
+- [CA_IR](CA_IR/index.md) - California Department of Industrial Relations
+- [CA_MHC](CA_MHC/index.md) - California Department of Managed Health Care
+- [CA_RE](CA_RE/index.md) - California Department of Real Estate
+- [CA_DI](CA_DI/index.md) - California Office of Data and Innovation
+- [CA_PP](CA_PP/index.md) - California Privacy Protection Agency
+- [CA_UIA](CA_UIA/index.md) - California Unemployment Insurance Appeals Board
+- [CA_C](CA_C/index.md) - CaliforniaVolunteers
+- [CA_C](CA_C/index.md) - CalPERS
+- [CA_C](CA_C/index.md) - CalSTRS
+- [CA_C](CA_C/index.md) - California Coastal Commission
+- [CA_CRC](CA_CRC/index.md) - Colorado River Board of California
+- [CA_C](CA_C/index.md) - California Department of Conservation
+- [CA_CC](CA_CC/index.md) - California Conservation Corps
+- [CA_CA](CA_CA/index.md) - California Department of Consumer Affairs
+- [CA_CL](CA_CL/index.md) - California Contractors State License Board
+- [CA_DS](CA_DS/index.md) - Delta Stewardship Council
+- [CA_DS](CA_DS/index.md) - California Department of Developmental Services
+- [CA_E](CA_E/index.md) - California Department of Education
+- [CA_EMS](CA_EMS/index.md) - California Emergency Medical Services Authority
+- [CA_ED](CA_ED/index.md) - Employment Development Department
+- [CA_E](CA_E/index.md) - California Energy Commission
+- [CA_EP](CA_EP/index.md) - California Environmental Protection Agency
+- [CA_HWSSL](CA_HWSSL/index.md) - Hazardous Waste and Substances Sites List
+- [CA_CR](CA_CR/index.md) - California Civil Rights Department
+- [CA_FPP](CA_FPP/index.md) - California Fair Political Practices Commission
+- [CA_F](CA_F/index.md) - California Film Commission
+- [CA_F](CA_F/index.md) - California Department of Finance
+- [CA_FISC](CA_FISC/index.md) - Financial Information System for California
+- [CA_FW](CA_FW/index.md) - California Department of Fish and Wildlife
+- [CA_FA](CA_FA/index.md) - California Department of Food and Agriculture
+- [CA_FFP](CA_FFP/index.md) - California Department of Forestry and Fire Protection
+- [CA_FT](CA_FT/index.md) - California Franchise Tax Board
+- [CA_GS](CA_GS/index.md) - California Department of General Services
+- [CA_GS](CA_GS/index.md) - California Geological Survey
+- [CA_GO](CA_GO/index.md) - California Government Operations Agency
+- [CA_HHS](CA_HHS/index.md) - California Health and Human Services Agency
+- [CA_HCS](CA_HCS/index.md) - California Department of Health Care Services
+- [CA_HR](CA_HR/index.md) - California High-Speed Rail Authority
+- [CA_HR](CA_HR/index.md) - California Department of Human Resources
+- [CA_IRM](CA_IRM/index.md) - California Institute for Regenerative Medicine
+- [CA_I](CA_I/index.md) - California Department of Insurance
+- [CA_J](CA_J/index.md) - California Department of Justice
+- [CA_JJ](CA_JJ/index.md) - California Division of Juvenile Justice
+- [CA_LWD](CA_LWD/index.md) - California Labor and Workforce Development Agency
+- [CA_LR](CA_LR/index.md) - California Law Revision Commission
+- [CA_LH](CA_LH/index.md) - Little Hoover Commission
+- [CA_MRMIP](CA_MRMIP/index.md) - California Major Risk Medical Insurance Program
+- [CA_MRMI](CA_MRMI/index.md) - California Managed Risk Medical Insurance Board
+- [CA_MC](CA_MC/index.md) - Medical Board of California
+- [CA_M](CA_M/index.md) - California Military Department
+- [CA_MV](CA_MV/index.md) - California Department of Motor Vehicles
+- [CA_NG](CA_NG/index.md) - California National Guard
+- [CA_NR](CA_NR/index.md) - California Natural Resources Agency
+- [CA_OSH](CA_OSH/index.md) - California Division of Occupational Safety and Health
+- [CA_AL](CA_AL/index.md) - California Office of Administrative Law
+- [CA_EHHA](CA_EHHA/index.md) - California Office of Environmental Health Hazard Assessment
+- [CA_P](CA_P/index.md) - California State Parks
+- [CA_P](CA_P/index.md) - California State Personnel Board
+- [CA_GPR](CA_GPR/index.md) - California Governor's Office of Planning and Research
+- [CA_PE](CA_PE/index.md) - California Postsecondary Education Commission
+- [CA_PI](CA_PI/index.md) - California Prison Industry Authority
+- [CA_PH](CA_PH/index.md) - California Department of Public Health
+- [CA_PU](CA_PU/index.md) - California Public Utilities Commission
+- [CA_REA](CA_REA/index.md) - California Bureau of Real Estate Appraisers
+- [CA_RHR](CA_RHR/index.md) - California Register of Historical Resources
+- [CA_R](CA_R/index.md) - California Department of Rehabilitation
+- [CA_RRR](CA_RRR/index.md) - California Department of Resources Recycling and Recovery
+- [CA_SFBCD](CA_SFBCD/index.md) - San Francisco Bay Conservation and Development Commission
+- [CA_SFEP](CA_SFEP/index.md) - San Francisco Estuary Partnership
+- [CA_SGLLARMC](CA_SGLLARMC/index.md) - San Gabriel and Lower Los Angeles Rivers and Mountains Conservancy
+- [CA_SMMC](CA_SMMC/index.md) - Santa Monica Mountains Conservancy
+- [CA_SI](CA_SI/index.md) - Scholarshare Investment Board
+- [CA_SC](CA_SC/index.md) - California Science Center
+- [CA_SNC](CA_SNC/index.md) - Sierra Nevada Conservancy
+- [CA_SS](CA_SS/index.md) - California Department of Social Services
+- [CA_E](CA_E/index.md) - California State Board of Education
+- [CA_L](CA_L/index.md) - California State Lands Commission
+- [CA_L](CA_L/index.md) - California State Library
+- [CA_S](CA_S/index.md) - California Strawberry Commission
+- [CA_SI](CA_SI/index.md) - California Office of Systems Integration
+- [CA_TFA](CA_TFA/index.md) - California Department of Tax and Fee Administration
+- [CA_T](CA_T/index.md) - California Department of Technology
+- [CA_T](CA_T/index.md) - California Office of Tourism
+- [CA_TSC](CA_TSC/index.md) - California Department of Toxic Substances Control
+- [CA_VC](CA_VC/index.md) - California Victim Compensation Board
+- [CA_WR](CA_WR/index.md) - California Department of Water Resources
+- [CA_WRC](CA_WRC/index.md) - California State Water Resources Control Board
+
+## HMS Implementation Status
+
+- Implementation Complete: 0
+- Implementation In Progress: 0
+- Implementation Planned: 0

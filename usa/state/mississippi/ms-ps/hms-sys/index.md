@@ -1,0 +1,9 @@
+# HMS-SYS for MS_PS
+
+## Description
+
+System Core
+
+## Integration Points
+
+This document outlines how HMS-SYS is integrated with MS_PS systems in Mississippi.

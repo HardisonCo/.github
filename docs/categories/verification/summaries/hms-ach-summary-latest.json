@@ -1,0 +1,72 @@
+{
+  "component": "HMS-ACH",
+  "generated_at": "2025-05-01T12:24:06.685622",
+  "operational_status": "operational",
+  "repository": {
+    "last_commit": "f575c01b2dd92736a926fbd504b6468460c1f4c1",
+    "description": "HMS-ACH is the financial services backend system for the CodifyHQ platform, providing banking, payment processing, and financial transaction capabilities.\n\n## System Architecture",
+    "tech_stack": {
+      "languages": [
+        "Ruby"
+      ],
+      "frameworks": [
+        "Ruby on Rails"
+      ],
+      "databases": [
+        "PostgreSQL"
+      ],
+      "key_libraries": [
+        "Sidekiq",
+        "ActiveRecord"
+      ]
+    },
+    "integration_points": [
+      "HMS-CUR",
+      "HMS-API",
+      "HMS-DOC"
+    ],
+    "architecture": {
+      "pattern": "mvc",
+      "key_dirs": [
+        "app/models",
+        "app/models",
+        "app/controllers",
+        "app/views",
+        "app/services"
+      ],
+      "entry_points": [
+        "config.ru"
+      ]
+    }
+  },
+  "status": {
+    "last_start": "2025-05-01T12:24:06.685316",
+    "start_attempts": 1,
+    "start_successes": 1,
+    "start_failures": 0,
+    "last_test_run": "2025-05-01T12:24:06.685421",
+    "test_runs": 1,
+    "test_passes": 1,
+    "test_failures": 0,
+    "last_test_results": {
+      "passed": 47,
+      "failed": 0,
+      "skipped": 5,
+      "duration": 7.220643383254606
+    }
+  },
+  "issues": [],
+  "work_items": [
+    {
+      "type": "enhancement",
+      "priority": "low",
+      "description": "Add integration tests for HMS-ACH with HMS-CUR, HMS-API, HMS-DOC",
+      "assigned_to": "HMS-AGT-ACH",
+      "suggested_actions": [
+        "Develop integration tests for HMS-ACH with its integration points",
+        "Set up test fixtures for integration testing",
+        "Add CI configuration for integration tests"
+      ]
+    }
+  ]
+}

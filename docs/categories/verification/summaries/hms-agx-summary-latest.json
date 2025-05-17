@@ -1,0 +1,72 @@
+{
+  "component": "HMS-AGX",
+  "generated_at": "2025-05-01T12:24:06.688849",
+  "operational_status": "unknown",
+  "repository": {
+    "last_commit": "",
+    "description": "An AI-powered research assistant that performs iterative, deep research on any topic by combining search engines, web scraping, and large language models. AGX stands for \"Artificial General Experiences\" - generating knowledge graphs around experiences from the perspective of all parties (SMEs, users, etc.).\n\n> **NEW: Chain of Recursive Thoughts Integration**",
+    "tech_stack": {
+      "languages": [
+        "TypeScript"
+      ],
+      "frameworks": [
+        "Node.js",
+        "React"
+      ],
+      "databases": [
+        "Neo4j"
+      ],
+      "key_libraries": [
+        "D3.js",
+        "Cytoscape.js",
+        "Jest"
+      ]
+    },
+    "integration_points": [
+      "HMS-A2A",
+      "HMS-LLM",
+      "HMS-CDF"
+    ],
+    "architecture": {
+      "pattern": "unknown",
+      "key_dirs": [],
+      "entry_points": []
+    }
+  },
+  "status": {
+    "last_start": null,
+    "start_attempts": 1,
+    "start_successes": 0,
+    "start_failures": 1,
+    "last_test_run": null,
+    "test_runs": 0,
+    "test_passes": 0,
+    "test_failures": 0,
+    "last_test_results": {}
+  },
+  "issues": [
+    {
+      "id": "4654bd6f-6d39-4430-a290-aa2a70d7b82b",
+      "type": "start_failure",
+      "component": "HMS-AGX",
+      "timestamp": "2025-05-01T12:24:06.688431",
+      "details": {
+        "output": "ERROR: Port 5359 already in use"
+      },
+      "status": "open"
+    }
+  ],
+  "work_items": [
+    {
+      "type": "start_failure",
+      "priority": "high",
+      "description": "Fix HMS-AGX startup failure",
+      "assigned_to": "HMS-DEV",
+      "suggested_actions": [
+        "Check HMS-AGX logs for error messages",
+        "Verify all dependencies for HMS-AGX are available",
+        "Check environment variables and configuration"
+      ]
+    }
+  ]
+}

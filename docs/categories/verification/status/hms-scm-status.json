@@ -1,0 +1,30 @@
+{
+  "component": "HMS-SCM",
+  "version": "1.0",
+  "created_at": "2025-05-01T12:24:06.726267",
+  "last_updated": "2025-05-01T12:24:06.726520",
+  "start": {
+    "last_attempt": "2025-05-01T12:24:06.726270",
+    "last_success": "2025-05-01T12:24:06.726271",
+    "attempts": 1,
+    "successes": 1,
+    "failures": 0,
+    "status": "running"
+  },
+  "tests": {
+    "last_run": "2025-05-01T12:24:06.726517",
+    "last_success": "2025-05-01T12:24:06.726517",
+    "total_runs": 1,
+    "total_passed": 1,
+    "total_failed": 0,
+    "status": "passing",
+    "last_results": {
+      "passed": 14,
+      "failed": 0,
+      "skipped": 3,
+      "duration": 2.4360089987231666
+    }
+  },
+  "issues": [],
+  "operational_status": "operational"
+}

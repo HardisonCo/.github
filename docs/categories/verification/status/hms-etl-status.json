@@ -1,0 +1,30 @@
+{
+  "component": "HMS-ETL",
+  "version": "1.0",
+  "created_at": "2025-05-01T12:24:06.709668",
+  "last_updated": "2025-05-01T12:24:06.709881",
+  "start": {
+    "last_attempt": "2025-05-01T12:24:06.709671",
+    "last_success": "2025-05-01T12:24:06.709672",
+    "attempts": 1,
+    "successes": 1,
+    "failures": 0,
+    "status": "running"
+  },
+  "tests": {
+    "last_run": "2025-05-01T12:24:06.709874",
+    "last_success": "2025-05-01T12:24:06.709874",
+    "total_runs": 1,
+    "total_passed": 1,
+    "total_failed": 0,
+    "status": "passing",
+    "last_results": {
+      "passed": 15,
+      "failed": 0,
+      "skipped": 5,
+      "duration": 8.272267190189272
+    }
+  },
+  "issues": [],
+  "operational_status": "operational"
+}

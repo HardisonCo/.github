@@ -1,0 +1,72 @@
+{
+  "component": "HMS-DOC",
+  "generated_at": "2025-05-01T12:24:06.699481",
+  "operational_status": "operational",
+  "repository": {
+    "last_commit": "5b6495e7728728df4319dfc1443a49fd8b56f9a4",
+    "description": "![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)\n\n> *The HMS (Hardison Management Systems) provides an Expert-Led, Data-Driven, AI-Powered multi-party workflow automation platform for governments and private industry.*",
+    "tech_stack": {
+      "languages": [
+        "Python",
+        "Markdown"
+      ],
+      "frameworks": [
+        "Sphinx",
+        "MkDocs"
+      ],
+      "databases": [
+        "SQLite",
+        "JSON files"
+      ],
+      "key_libraries": [
+        "Jinja2",
+        "PyYAML",
+        "Chain of Recursive Thoughts"
+      ]
+    },
+    "integration_points": [
+      "HMS-DEV",
+      "HMS-A2A",
+      "HMS-SYS"
+    ],
+    "architecture": {
+      "pattern": "layered",
+      "key_dirs": [
+        "data"
+      ],
+      "entry_points": [
+        "main.py"
+      ]
+    }
+  },
+  "status": {
+    "last_start": "2025-05-01T12:24:06.699141",
+    "start_attempts": 1,
+    "start_successes": 1,
+    "start_failures": 0,
+    "last_test_run": "2025-05-01T12:24:06.699237",
+    "test_runs": 1,
+    "test_passes": 1,
+    "test_failures": 0,
+    "last_test_results": {
+      "passed": 14,
+      "failed": 0,
+      "skipped": 1,
+      "duration": 0.5882900163483644
+    }
+  },
+  "issues": [],
+  "work_items": [
+    {
+      "type": "enhancement",
+      "priority": "low",
+      "description": "Add integration tests for HMS-DOC with HMS-DEV, HMS-A2A, HMS-SYS",
+      "assigned_to": "HMS-AGT-DOC",
+      "suggested_actions": [
+        "Develop integration tests for HMS-DOC with its integration points",
+        "Set up test fixtures for integration testing",
+        "Add CI configuration for integration tests"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+# HMS-LLM for CO_HS
+
+## Description
+
+Large Language Model Operations Platform
+
+## Integration Points
+
+This document outlines how HMS-LLM is integrated with CO_HS systems in Colorado.

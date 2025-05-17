@@ -1,0 +1,62 @@
+{
+  "component": "HMS-SYS",
+  "generated_at": "2025-05-01T12:24:06.730969",
+  "operational_status": "operational",
+  "repository": {
+    "last_commit": "HEAD",
+    "description": "Core system infrastructure and services",
+    "tech_stack": {
+      "languages": [
+        "Go"
+      ],
+      "frameworks": [],
+      "databases": [],
+      "key_libraries": [
+        "Netlify",
+        "Sphinx"
+      ]
+    },
+    "integration_points": [
+      "HMS-DEV",
+      "HMS-OPS",
+      "HMS-DOC"
+    ],
+    "architecture": {
+      "pattern": "microservices",
+      "key_dirs": [
+        "api"
+      ],
+      "entry_points": []
+    }
+  },
+  "status": {
+    "last_start": "2025-05-01T12:24:06.730677",
+    "start_attempts": 1,
+    "start_successes": 1,
+    "start_failures": 0,
+    "last_test_run": "2025-05-01T12:24:06.730793",
+    "test_runs": 1,
+    "test_passes": 1,
+    "test_failures": 0,
+    "last_test_results": {
+      "passed": 21,
+      "failed": 0,
+      "skipped": 4,
+      "duration": 5.398192126317714
+    }
+  },
+  "issues": [],
+  "work_items": [
+    {
+      "type": "enhancement",
+      "priority": "low",
+      "description": "Add integration tests for HMS-SYS with HMS-DEV, HMS-OPS, HMS-DOC",
+      "assigned_to": "HMS-AGT-SYS",
+      "suggested_actions": [
+        "Develop integration tests for HMS-SYS with its integration points",
+        "Set up test fixtures for integration testing",
+        "Add CI configuration for integration tests"
+      ]
+    }
+  ]
+}

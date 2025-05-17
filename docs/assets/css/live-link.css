@@ -1,0 +1,20 @@
+.live-link-wrap {
+  position: absolute;
+  top: 6px;
+  right: 8px;
+  display: flex;
+  gap: 0.4em;
+}
+
+.live-link {
+  font-size: 0.75em;
+  background: #eeeeee;
+  padding: 2px 6px;
+  border-radius: 3px;
+  text-decoration: none;
+  color: #333;
+}
+
+.live-link:hover {
+  background: #dcdcdc;
+}

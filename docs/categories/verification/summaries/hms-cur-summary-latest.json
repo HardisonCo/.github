@@ -1,0 +1,74 @@
+{
+  "component": "HMS-CUR",
+  "generated_at": "2025-05-01T12:24:06.697961",
+  "operational_status": "operational",
+  "repository": {
+    "last_commit": "HEAD",
+    "description": "The React Native app project uses [infinitered/ignite](https://infinite.red/ignite) cli and boilerplate.\n\nCurrently includes:",
+    "tech_stack": {
+      "languages": [
+        "JavaScript",
+        "TypeScript"
+      ],
+      "frameworks": [
+        "React Native"
+      ],
+      "databases": [
+        "SQLite",
+        "Realm"
+      ],
+      "key_libraries": [
+        "Jest",
+        "React Navigation"
+      ]
+    },
+    "integration_points": [
+      "HMS-ACH",
+      "HMS-API",
+      "HMS-MFE"
+    ],
+    "architecture": {
+      "pattern": "component_based",
+      "key_dirs": [
+        "app/models",
+        "app/models",
+        "app/components",
+        "app/hooks",
+        "app/services"
+      ],
+      "entry_points": [
+        "index.js"
+      ]
+    }
+  },
+  "status": {
+    "last_start": "2025-05-01T12:24:06.697701",
+    "start_attempts": 1,
+    "start_successes": 1,
+    "start_failures": 0,
+    "last_test_run": "2025-05-01T12:24:06.697800",
+    "test_runs": 1,
+    "test_passes": 1,
+    "test_failures": 0,
+    "last_test_results": {
+      "passed": 13,
+      "failed": 0,
+      "skipped": 3,
+      "duration": 0.5255354667812704
+    }
+  },
+  "issues": [],
+  "work_items": [
+    {
+      "type": "enhancement",
+      "priority": "low",
+      "description": "Add integration tests for HMS-CUR with HMS-ACH, HMS-API, HMS-MFE",
+      "assigned_to": "HMS-AGT-CUR",
+      "suggested_actions": [
+        "Develop integration tests for HMS-CUR with its integration points",
+        "Set up test fixtures for integration testing",
+        "Add CI configuration for integration tests"
+      ]
+    }
+  ]
+}

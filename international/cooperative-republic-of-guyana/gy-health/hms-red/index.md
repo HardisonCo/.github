@@ -1,0 +1,9 @@
+# HMS-RED for gy_Health
+
+## Description
+
+Reactive Data Engine
+
+## Integration Points
+
+This document outlines how HMS-RED is integrated with gy_Health systems in Cooperative Republic of Guyana.

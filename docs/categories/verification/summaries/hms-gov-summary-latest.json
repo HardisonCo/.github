@@ -1,0 +1,69 @@
+{
+  "component": "HMS-GOV",
+  "generated_at": "2025-05-01T12:24:06.712801",
+  "operational_status": "operational",
+  "repository": {
+    "last_commit": "17e8177b4426f0552cc048454d6e1b7a9c5b0b09",
+    "description": "HMS-GOV is the administration and governance management interface for the CodifyHQ platform, built using Vue 3 and Nuxt.js.\n\n## System Architecture",
+    "tech_stack": {
+      "languages": [
+        "TypeScript",
+        "JavaScript"
+      ],
+      "frameworks": [
+        "Nuxt.js",
+        "Vue.js"
+      ],
+      "databases": [
+        "PostgreSQL"
+      ],
+      "key_libraries": [
+        "Vue Router",
+        "Vuex"
+      ]
+    },
+    "integration_points": [
+      "HMS-CDF",
+      "HMS-API",
+      "HMS-DOC"
+    ],
+    "architecture": {
+      "pattern": "layered",
+      "key_dirs": [
+        "components",
+        "data"
+      ],
+      "entry_points": []
+    }
+  },
+  "status": {
+    "last_start": "2025-05-01T12:24:06.712234",
+    "start_attempts": 1,
+    "start_successes": 1,
+    "start_failures": 0,
+    "last_test_run": "2025-05-01T12:24:06.712352",
+    "test_runs": 1,
+    "test_passes": 1,
+    "test_failures": 0,
+    "last_test_results": {
+      "passed": 28,
+      "failed": 0,
+      "skipped": 3,
+      "duration": 1.4362505957627312
+    }
+  },
+  "issues": [],
+  "work_items": [
+    {
+      "type": "enhancement",
+      "priority": "low",
+      "description": "Add integration tests for HMS-GOV with HMS-CDF, HMS-API, HMS-DOC",
+      "assigned_to": "HMS-AGT-GOV",
+      "suggested_actions": [
+        "Develop integration tests for HMS-GOV with its integration points",
+        "Set up test fixtures for integration testing",
+        "Add CI configuration for integration tests"
+      ]
+    }
+  ]
+}

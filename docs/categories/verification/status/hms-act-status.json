@@ -1,0 +1,30 @@
+{
+  "component": "HMS-ACT",
+  "version": "1.0",
+  "created_at": "2025-05-01T12:24:06.686054",
+  "last_updated": "2025-05-01T12:24:06.686207",
+  "start": {
+    "last_attempt": "2025-05-01T12:24:06.686056",
+    "last_success": "2025-05-01T12:24:06.686057",
+    "attempts": 1,
+    "successes": 1,
+    "failures": 0,
+    "status": "running"
+  },
+  "tests": {
+    "last_run": "2025-05-01T12:24:06.686204",
+    "last_success": "2025-05-01T12:24:06.686204",
+    "total_runs": 1,
+    "total_passed": 1,
+    "total_failed": 0,
+    "status": "passing",
+    "last_results": {
+      "passed": 27,
+      "failed": 0,
+      "skipped": 1,
+      "duration": 5.926121112134479
+    }
+  },
+  "issues": [],
+  "operational_status": "operational"
+}

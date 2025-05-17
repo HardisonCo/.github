@@ -1,0 +1,42 @@
+{
+  "id": "WRK-2c03cd04",
+  "component": "HMS-AGT",
+  "issue_id": "cd4f46d8-cc72-496e-9b21-b21df66019e1",
+  "issue_type": "test_failure",
+  "created_at": "2025-05-01T12:24:06.687060",
+  "updated_at": "2025-05-01T12:24:06.687060",
+  "assigned_to": "HMS-AGT-AGT",
+  "status": "open",
+  "priority": "medium",
+  "details": {
+    "component": "HMS-AGT",
+    "issue": {
+      "id": "cd4f46d8-cc72-496e-9b21-b21df66019e1",
+      "type": "test_failure",
+      "component": "HMS-AGT",
+      "timestamp": "2025-05-01T12:24:06.687022",
+      "details": {
+        "results": {
+          "passed": 16,
+          "failed": 3,
+          "skipped": 5,
+          "duration": 7.347064230655073,
+          "failure_details": [
+            "Test failure in hms-agt/tests/test_models.py",
+            "Test failure in hms-agt/tests/test_core.py",
+            "Test failure in hms-agt/tests/test_api.py"
+          ]
+        }
+      },
+      "status": "open"
+    },
+    "description": "Tests for HMS-AGT are failing (3/24 tests failed). This may indicate issues with recent changes or integration problems.",
+    "suggested_actions": [
+      "Review failing tests for HMS-AGT",
+      "Check for recent code changes that might have broken tests",
+      "Verify test environment and fixtures",
+      "Check for integration issues with dependent components",
+      "Run tests with verbose output to diagnose specific failures"
+    ]
+  }
+}

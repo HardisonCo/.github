@@ -1,0 +1,56 @@
+{
+  "component": "HMS-MCP",
+  "version": "1.0",
+  "created_at": "2025-05-01T12:24:06.716166",
+  "last_updated": "2025-05-01T12:24:06.716790",
+  "start": {
+    "last_attempt": "2025-05-01T12:24:06.716169",
+    "last_success": "2025-05-01T12:24:06.716171",
+    "attempts": 1,
+    "successes": 1,
+    "failures": 0,
+    "status": "running"
+  },
+  "tests": {
+    "last_run": "2025-05-01T12:24:06.716589",
+    "last_success": null,
+    "total_runs": 1,
+    "total_passed": 0,
+    "total_failed": 1,
+    "status": "failing",
+    "last_results": {
+      "passed": 49,
+      "failed": 3,
+      "skipped": 4,
+      "duration": 3.999619280446257,
+      "failure_details": [
+        "Test failure in hms-mcp/tests/test_api.py",
+        "Test failure in hms-mcp/tests/test_api.py",
+        "Test failure in hms-mcp/tests/test_core.py"
+      ]
+    }
+  },
+  "issues": [
+    {
+      "id": "a70f844b-d047-48e8-87a7-b9fa57a6588b",
+      "type": "test_failure",
+      "component": "HMS-MCP",
+      "timestamp": "2025-05-01T12:24:06.716589",
+      "details": {
+        "results": {
+          "passed": 49,
+          "failed": 3,
+          "skipped": 4,
+          "duration": 3.999619280446257,
+          "failure_details": [
+            "Test failure in hms-mcp/tests/test_api.py",
+            "Test failure in hms-mcp/tests/test_api.py",
+            "Test failure in hms-mcp/tests/test_core.py"
+          ]
+        }
+      },
+      "status": "open"
+    }
+  ],
+  "operational_status": "degraded"
+}

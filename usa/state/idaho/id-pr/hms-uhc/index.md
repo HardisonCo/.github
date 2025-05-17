@@ -1,0 +1,9 @@
+# HMS-UHC for ID_PR
+
+## Description
+
+Universal Healthcare Components
+
+## Integration Points
+
+This document outlines how HMS-UHC is integrated with ID_PR systems in Idaho.

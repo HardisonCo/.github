@@ -1,0 +1,240 @@
+{
+  "timestamp": "2025-05-01T12:24:06.733260",
+  "total_components": 37,
+  "operational": 26,
+  "degraded": 7,
+  "offline": 0,
+  "unknown": 4,
+  "component_status": {
+    "HMS-GOV": {
+      "status": "operational",
+      "last_start": "2025-05-01T12:24:06.712234",
+      "last_test": "2025-05-01T12:24:06.712352",
+      "open_issues": 0
+    },
+    "HMS-SME": {
+      "status": "operational",
+      "last_start": "2025-05-01T12:24:06.728824",
+      "last_test": "2025-05-01T12:24:06.729119",
+      "open_issues": 0
+    },
+    "HMS-MFE": {
+      "status": "operational",
+      "last_start": "2025-05-01T12:24:06.720213",
+      "last_test": "2025-05-01T12:24:06.720318",
+      "open_issues": 0
+    },
+    "HMS-CUR": {
+      "status": "operational",
+      "last_start": "2025-05-01T12:24:06.697701",
+      "last_test": "2025-05-01T12:24:06.697800",
+      "open_issues": 0
+    },
+    "HMS-MBL": {
+      "status": "operational",
+      "last_start": "2025-05-01T12:24:06.714805",
+      "last_test": "2025-05-01T12:24:06.715226",
+      "open_issues": 0
+    },
+    "HMS-ESR": {
+      "status": "unknown",
+      "last_start": null,
+      "last_test": null,
+      "open_issues": 1
+    },
+    "HMS-EDU": {
+      "status": "degraded",
+      "last_start": "2025-05-01T12:24:06.702614",
+      "last_test": null,
+      "open_issues": 1
+    },
+    "HMS-SCM": {
+      "status": "operational",
+      "last_start": "2025-05-01T12:24:06.726271",
+      "last_test": "2025-05-01T12:24:06.726517",
+      "open_issues": 0
+    },
+    "HMS-OPS": {
+      "status": "operational",
+      "last_start": "2025-05-01T12:24:06.724223",
+      "last_test": "2025-05-01T12:24:06.724335",
+      "open_issues": 0
+    },
+    "HMS-MKT": {
+      "status": "degraded",
+      "last_start": "2025-05-01T12:24:06.720811",
+      "last_test": null,
+      "open_issues": 1
+    },
+    "HMS-A2A": {
+      "status": "operational",
+      "last_start": "2025-05-01T12:24:06.683638",
+      "last_test": "2025-05-01T12:24:06.683898",
+      "open_issues": 1
+    },
+    "HMS-API": {
+      "status": "unknown",
+      "last_start": null,
+      "last_test": null,
+      "open_issues": 2
+    },
+    "HMS-SKL": {
+      "status": "operational",
+      "last_start": "2025-05-01T12:24:06.727461",
+      "last_test": "2025-05-01T12:24:06.727573",
+      "open_issues": 0
+    },
+    "HMS-MCP": {
+      "status": "degraded",
+      "last_start": "2025-05-01T12:24:06.716171",
+      "last_test": null,
+      "open_issues": 1
+    },
+    "HMS-NFO": {
+      "status": "operational",
+      "last_start": "2025-05-01T12:24:06.722093",
+      "last_test": "2025-05-01T12:24:06.722291",
+      "open_issues": 0
+    },
+    "HMS-ESQ": {
+      "status": "operational",
+      "last_start": "2025-05-01T12:24:06.707859",
+      "last_test": "2025-05-01T12:24:06.707982",
+      "open_issues": 0
+    },
+    "HMS-ABC": {
+      "status": "operational",
+      "last_start": "2025-05-01T12:24:06.684591",
+      "last_test": "2025-05-01T12:24:06.684730",
+      "open_issues": 0
+    },
+    "HMS-AGX": {
+      "status": "unknown",
+      "last_start": null,
+      "last_test": null,
+      "open_issues": 1
+    },
+    "HMS-DEV": {
+      "status": "operational",
+      "last_start": "2025-05-01T12:24:06.698571",
+      "last_test": "2025-05-01T12:24:06.698679",
+      "open_issues": 0
+    },
+    "HMS-EMR": {
+      "status": "operational",
+      "last_start": "2025-05-01T12:24:06.706936",
+      "last_test": "2025-05-01T12:24:06.707031",
+      "open_issues": 0
+    },
+    "HMS-FLD": {
+      "status": "operational",
+      "last_start": "2025-05-01T12:24:06.711141",
+      "last_test": "2025-05-01T12:24:06.711264",
+      "open_issues": 0
+    },
+    "HMS-ACH": {
+      "status": "operational",
+      "last_start": "2025-05-01T12:24:06.685316",
+      "last_test": "2025-05-01T12:24:06.685421",
+      "open_issues": 0
+    },
+    "HMS-SYS": {
+      "status": "operational",
+      "last_start": "2025-05-01T12:24:06.730677",
+      "last_test": "2025-05-01T12:24:06.730793",
+      "open_issues": 0
+    },
+    "HMS-UHC": {
+      "status": "degraded",
+      "last_start": "2025-05-01T12:24:06.731485",
+      "last_test": null,
+      "open_issues": 1
+    },
+    "HMS-EHR": {
+      "status": "operational",
+      "last_start": "2025-05-01T12:24:06.703407",
+      "last_test": "2025-05-01T12:24:06.704314",
+      "open_issues": 0
+    },
+    "HMS-DOC": {
+      "status": "operational",
+      "last_start": "2025-05-01T12:24:06.699141",
+      "last_test": "2025-05-01T12:24:06.699237",
+      "open_issues": 0
+    },
+    "HMS-ACT": {
+      "status": "operational",
+      "last_start": "2025-05-01T12:24:06.686057",
+      "last_test": "2025-05-01T12:24:06.686204",
+      "open_issues": 0
+    },
+    "HMS-AGT": {
+      "status": "degraded",
+      "last_start": "2025-05-01T12:24:06.686887",
+      "last_test": null,
+      "open_issues": 1
+    },
+    "HMS-DTA": {
+      "status": "operational",
+      "last_start": "2025-05-01T12:24:06.700317",
+      "last_test": "2025-05-01T12:24:06.701797",
+      "open_issues": 0
+    },
+    "HMS-MED": {
+      "status": "unknown",
+      "last_start": null,
+      "last_test": null,
+      "open_issues": 1
+    },
+    "HMS-CDF": {
+      "status": "operational",
+      "last_start": "2025-05-01T12:24:06.696703",
+      "last_test": "2025-05-01T12:24:06.697037",
+      "open_issues": 0
+    },
+    "HMS-RED": {
+      "status": "degraded",
+      "last_start": "2025-05-01T12:24:06.724836",
+      "last_test": null,
+      "open_issues": 1
+    },
+    "HMS-OMS": {
+      "status": "operational",
+      "last_start": "2025-05-01T12:24:06.723377",
+      "last_test": "2025-05-01T12:24:06.723546",
+      "open_issues": 0
+    },
+    "HMS-LLM": {
+      "status": "degraded",
+      "last_start": "2025-05-01T12:24:06.713704",
+      "last_test": "2025-05-01T12:10:59.411473",
+      "open_issues": 1
+    },
+    "HMS-SVC": {
+      "status": "operational",
+      "last_start": "2025-05-01T12:24:06.729919",
+      "last_test": "2025-05-01T12:24:06.730066",
+      "open_issues": 0
+    },
+    "HMS-UTL": {
+      "status": "operational",
+      "last_start": "2025-05-01T12:24:06.732468",
+      "last_test": "2025-05-01T12:24:06.732578",
+      "open_issues": 0
+    },
+    "HMS-ETL": {
+      "status": "operational",
+      "last_start": "2025-05-01T12:24:06.709672",
+      "last_test": "2025-05-01T12:24:06.709874",
+      "open_issues": 0
+    }
+  },
+  "open_issues": 13,
+  "recent_starts": 37,
+  "recent_test_runs": 33,
+  "system_health_score": 56.9,
+  "recommendations": [
+    "Investigate and fix issues with 7 degraded components",
+    "Address 13 open issues"
+  ]
+}

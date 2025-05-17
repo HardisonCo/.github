@@ -1,0 +1,100 @@
+{
+  "component": "HMS-MCP",
+  "generated_at": "2025-05-01T12:24:06.717266",
+  "operational_status": "degraded",
+  "repository": {
+    "last_commit": "",
+    "description": "<img src=\"https://github.com/user-attachments/assets/6f4e40c4-dc88-47b6-b965-5856b69416d2\" alt=\"Logo\" width=\"300\" />\n</p>\n\n<p align=\"center\">",
+    "tech_stack": {
+      "languages": [
+        "Python"
+      ],
+      "frameworks": [],
+      "databases": [
+        "PostgreSQL"
+      ],
+      "key_libraries": [
+        "PyTorch",
+        "Transformers",
+        "OpenAI"
+      ]
+    },
+    "integration_points": [
+      "HMS-A2A",
+      "HMS-LLM",
+      "HMS-DEV"
+    ],
+    "architecture": {
+      "pattern": "unknown",
+      "key_dirs": [],
+      "entry_points": []
+    }
+  },
+  "status": {
+    "last_start": "2025-05-01T12:24:06.716171",
+    "start_attempts": 1,
+    "start_successes": 1,
+    "start_failures": 0,
+    "last_test_run": "2025-05-01T12:24:06.716589",
+    "test_runs": 1,
+    "test_passes": 0,
+    "test_failures": 1,
+    "last_test_results": {
+      "passed": 49,
+      "failed": 3,
+      "skipped": 4,
+      "duration": 3.999619280446257,
+      "failure_details": [
+        "Test failure in hms-mcp/tests/test_api.py",
+        "Test failure in hms-mcp/tests/test_api.py",
+        "Test failure in hms-mcp/tests/test_core.py"
+      ]
+    }
+  },
+  "issues": [
+    {
+      "id": "a70f844b-d047-48e8-87a7-b9fa57a6588b",
+      "type": "test_failure",
+      "component": "HMS-MCP",
+      "timestamp": "2025-05-01T12:24:06.716589",
+      "details": {
+        "results": {
+          "passed": 49,
+          "failed": 3,
+          "skipped": 4,
+          "duration": 3.999619280446257,
+          "failure_details": [
+            "Test failure in hms-mcp/tests/test_api.py",
+            "Test failure in hms-mcp/tests/test_api.py",
+            "Test failure in hms-mcp/tests/test_core.py"
+          ]
+        }
+      },
+      "status": "open"
+    }
+  ],
+  "work_items": [
+    {
+      "type": "test_failure",
+      "priority": "medium",
+      "description": "Fix failing tests for HMS-MCP",
+      "assigned_to": "HMS-AGT-MCP",
+      "suggested_actions": [
+        "Review failing tests",
+        "Check for recent code changes",
+        "Verify test environment"
+      ]
+    },
+    {
+      "type": "enhancement",
+      "priority": "low",
+      "description": "Add integration tests for HMS-MCP with HMS-A2A, HMS-LLM, HMS-DEV",
+      "assigned_to": "HMS-AGT-MCP",
+      "suggested_actions": [
+        "Develop integration tests for HMS-MCP with its integration points",
+        "Set up test fixtures for integration testing",
+        "Add CI configuration for integration tests"
+      ]
+    }
+  ]
+}

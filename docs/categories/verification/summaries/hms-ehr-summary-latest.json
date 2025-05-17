@@ -1,0 +1,68 @@
+{
+  "component": "HMS-EHR",
+  "generated_at": "2025-05-01T12:24:06.704791",
+  "operational_status": "operational",
+  "repository": {
+    "last_commit": "ec44a8fbca3bb9421a0db34feca06f4c8a4d6b6f",
+    "description": "This repo is an implementation of a chatbot specifically focused on question answering over the [LangChain documentation](https://python.langchain.com/).\nBuilt with [LangChain](https://github.com/langchain-ai/langchain/), [LangGraph](https://github.com/langchain-ai/langgraph/), and [Next.js](https://nextjs.org).",
+    "tech_stack": {
+      "languages": [
+        "JavaScript",
+        "TypeScript"
+      ],
+      "frameworks": [
+        "Next.js",
+        "LangGraph"
+      ],
+      "databases": [
+        "MongoDB",
+        "PostgreSQL"
+      ],
+      "key_libraries": [
+        "Turborepo",
+        "Vite",
+        "FHIR.js"
+      ]
+    },
+    "integration_points": [
+      "HMS-API",
+      "HMS-UHC",
+      "HMS-EMR"
+    ],
+    "architecture": {
+      "pattern": "unknown",
+      "key_dirs": [],
+      "entry_points": []
+    }
+  },
+  "status": {
+    "last_start": "2025-05-01T12:24:06.703407",
+    "start_attempts": 1,
+    "start_successes": 1,
+    "start_failures": 0,
+    "last_test_run": "2025-05-01T12:24:06.704314",
+    "test_runs": 1,
+    "test_passes": 1,
+    "test_failures": 0,
+    "last_test_results": {
+      "passed": 49,
+      "failed": 0,
+      "skipped": 0,
+      "duration": 9.032797382203624
+    }
+  },
+  "issues": [],
+  "work_items": [
+    {
+      "type": "enhancement",
+      "priority": "low",
+      "description": "Add integration tests for HMS-EHR with HMS-API, HMS-UHC, HMS-EMR",
+      "assigned_to": "HMS-AGT-EHR",
+      "suggested_actions": [
+        "Develop integration tests for HMS-EHR with its integration points",
+        "Set up test fixtures for integration testing",
+        "Add CI configuration for integration tests"
+      ]
+    }
+  ]
+}

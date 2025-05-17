@@ -1,0 +1,31 @@
+{
+  "id": "WRK-b0b77ced",
+  "component": "HMS-AGX",
+  "issue_id": "4654bd6f-6d39-4430-a290-aa2a70d7b82b",
+  "issue_type": "start_failure",
+  "created_at": "2025-05-01T12:24:06.688437",
+  "updated_at": "2025-05-01T12:24:06.688437",
+  "assigned_to": "HMS-DEV",
+  "status": "open",
+  "priority": "high",
+  "details": {
+    "component": "HMS-AGX",
+    "issue": {
+      "id": "4654bd6f-6d39-4430-a290-aa2a70d7b82b",
+      "type": "start_failure",
+      "component": "HMS-AGX",
+      "timestamp": "2025-05-01T12:24:06.688431",
+      "details": {
+        "output": "ERROR: Port 5359 already in use"
+      },
+      "status": "open"
+    },
+    "description": "The HMS-AGX component failed to start. This is affecting the operational status of the HMS ecosystem and should be resolved as soon as possible.",
+    "suggested_actions": [
+      "Check the HMS-AGX logs for error messages",
+      "Verify all dependencies for HMS-AGX are available and correctly configured",
+      "Check for recent changes that might have affected the component's ability to start",
+      "Verify environment variables and configuration files"
+    ]
+  }
+}

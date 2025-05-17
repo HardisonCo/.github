@@ -1,0 +1,30 @@
+{
+  "component": "HMS-CDF",
+  "version": "1.0",
+  "created_at": "2025-05-01T12:24:06.696699",
+  "last_updated": "2025-05-01T12:24:06.697041",
+  "start": {
+    "last_attempt": "2025-05-01T12:24:06.696701",
+    "last_success": "2025-05-01T12:24:06.696703",
+    "attempts": 1,
+    "successes": 1,
+    "failures": 0,
+    "status": "running"
+  },
+  "tests": {
+    "last_run": "2025-05-01T12:24:06.697037",
+    "last_success": "2025-05-01T12:24:06.697037",
+    "total_runs": 1,
+    "total_passed": 1,
+    "total_failed": 0,
+    "status": "passing",
+    "last_results": {
+      "passed": 34,
+      "failed": 0,
+      "skipped": 2,
+      "duration": 4.016215615666235
+    }
+  },
+  "issues": [],
+  "operational_status": "operational"
+}

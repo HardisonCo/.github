@@ -1,0 +1,20 @@
+-| A     | A2   | Define a standard data structure for collecting files (path + contents)                                      |    1    | In progress: drafting a Rust struct & library |
++| A     | A2   | Define a standard data structure for collecting files (path + contents)                                      |    2    | Complete: Implemented FileData and FileCollection in file_collector.rs |
+-| A     | A3   | Implement a parallel retrieval system in Rust for large code bases                                          |    0    |                                               |
++| A     | A3   | Implement a parallel retrieval system in Rust for large code bases                                          |    2    | Complete: BatchFileCollector implemented with async concurrency |
+-| B     | B1   | Integrate IdentifyAbstractions into a Rust-based orchestrator                                               |    0    |                                               |
++| B     | B1   | Integrate IdentifyAbstractions into a Rust-based orchestrator                                               |    2    | Complete: AbstractionIdentifier integrated into CLI and config |
+-| B     | B2   | Integrate AnalyzeRelationships to produce summaries and relationships                                        |    0    |                                               |
++| B     | B2   | Integrate AnalyzeRelationships to produce summaries and relationships                                        |    2    | Complete: RelationshipAnalyzer integrated into CLI and config |
+-| B     | B3   | Store final abstractions in a local/remote data store (consider rkv or sled)                                 |    0    |                                               |
++| B     | B3   | Store final abstractions in a local/remote data store                                                        |    2    | Complete: Serde JSON and async file I/O persistence implemented |
+-| C     | C1   | Merge newly identified abstractions from each repo into a shared data model                                 |    0    |                                               |
++| C     | C1   | Merge newly identified abstractions from each repo into a shared data model                                 |    2    | Complete: ConceptRegistry merging logic implemented |
+-| C     | C2   | Track file references + relationships; evaluate concurrency approaches in Rust (tokio/rayon)                 |    0    |                                               |
++| C     | C2   | Track file references + relationships; evaluate concurrency approaches in Rust (tokio/rayon)                 |    2    | Complete: Tokio and futures used for parallel processing |
+-| C     | C3   | Implement version control policy to track concept dictionary changes                                         |    0    |                                               |
++| C     | C3   | Implement version control policy to track concept dictionary changes                                         |    2    | Complete: Registry includes version and timestamp tracking |
+-| D     | D1   | Parse concept registry for unimplemented/partially implemented functionalities                               |    0    |                                               |
++| D     | D1   | Parse concept registry for unimplemented/partially implemented functionalities                               |    2    | Complete: Gap detection algorithm implemented |
+-| E     | E2   | Ensure partial updates of concept dictionary instead of reprocessing entire code base                        |    1    | In progress: Basic incremental updates implemented in ConceptRegistry |
++| E     | E2   | Ensure partial updates of concept dictionary instead of reprocessing entire code base                        |    2    | Complete: Incremental updates in ConceptRegistry | 

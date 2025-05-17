@@ -1,0 +1,30 @@
+{
+  "component": "HMS-ESQ",
+  "version": "1.0",
+  "created_at": "2025-05-01T12:24:06.707855",
+  "last_updated": "2025-05-01T12:24:06.707985",
+  "start": {
+    "last_attempt": "2025-05-01T12:24:06.707858",
+    "last_success": "2025-05-01T12:24:06.707859",
+    "attempts": 1,
+    "successes": 1,
+    "failures": 0,
+    "status": "running"
+  },
+  "tests": {
+    "last_run": "2025-05-01T12:24:06.707982",
+    "last_success": "2025-05-01T12:24:06.707982",
+    "total_runs": 1,
+    "total_passed": 1,
+    "total_failed": 0,
+    "status": "passing",
+    "last_results": {
+      "passed": 35,
+      "failed": 0,
+      "skipped": 2,
+      "duration": 8.182865969897808
+    }
+  },
+  "issues": [],
+  "operational_status": "operational"
+}

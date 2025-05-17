@@ -1,0 +1,55 @@
+{
+  "component": "HMS-UTL",
+  "generated_at": "2025-05-01T12:24:06.732750",
+  "operational_status": "operational",
+  "repository": {
+    "last_commit": "",
+    "description": "Common utilities and shared functions",
+    "tech_stack": {
+      "languages": [],
+      "frameworks": [],
+      "databases": [],
+      "key_libraries": []
+    },
+    "integration_points": [
+      "HMS-DEV",
+      "HMS-SYS",
+      "HMS-DOC"
+    ],
+    "architecture": {
+      "pattern": "unknown",
+      "key_dirs": [],
+      "entry_points": []
+    }
+  },
+  "status": {
+    "last_start": "2025-05-01T12:24:06.732468",
+    "start_attempts": 1,
+    "start_successes": 1,
+    "start_failures": 0,
+    "last_test_run": "2025-05-01T12:24:06.732578",
+    "test_runs": 1,
+    "test_passes": 1,
+    "test_failures": 0,
+    "last_test_results": {
+      "passed": 46,
+      "failed": 0,
+      "skipped": 2,
+      "duration": 9.36149493580628
+    }
+  },
+  "issues": [],
+  "work_items": [
+    {
+      "type": "enhancement",
+      "priority": "low",
+      "description": "Add integration tests for HMS-UTL with HMS-DEV, HMS-SYS, HMS-DOC",
+      "assigned_to": "HMS-AGT-UTL",
+      "suggested_actions": [
+        "Develop integration tests for HMS-UTL with its integration points",
+        "Set up test fixtures for integration testing",
+        "Add CI configuration for integration tests"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+# HMS-ACT for PA_B
+
+## Description
+
+Agent Collaboration Tools
+
+## Integration Points
+
+This document outlines how HMS-ACT is integrated with PA_B systems in Pennsylvania.

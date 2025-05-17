@@ -1,0 +1,74 @@
+{
+  "component": "HMS-FLD",
+  "generated_at": "2025-05-01T12:24:06.711650",
+  "operational_status": "operational",
+  "repository": {
+    "last_commit": "HEAD",
+    "description": "<img src=\"https://flb-assets.s3.ap-southeast-1.amazonaws.com/static/fleetbase-logo-svg.svg\" width=\"380\" height=\"100\" />\n</p>\n<p align=\"center\">\nOpen source navigation and fleetbase order management for drivers/agents.",
+    "tech_stack": {
+      "languages": [
+        "JavaScript",
+        "Ruby"
+      ],
+      "frameworks": [
+        "React Native",
+        "Ruby on Rails"
+      ],
+      "databases": [
+        "SQLite",
+        "PostgreSQL"
+      ],
+      "key_libraries": [
+        "Babel",
+        "Jest",
+        "Tailwind"
+      ]
+    },
+    "integration_points": [
+      "HMS-ETL",
+      "HMS-API",
+      "HMS-DOC"
+    ],
+    "architecture": {
+      "pattern": "component_based",
+      "key_dirs": [
+        "src/components",
+        "src/hooks",
+        "src/services"
+      ],
+      "entry_points": [
+        "index.js"
+      ]
+    }
+  },
+  "status": {
+    "last_start": "2025-05-01T12:24:06.711141",
+    "start_attempts": 1,
+    "start_successes": 1,
+    "start_failures": 0,
+    "last_test_run": "2025-05-01T12:24:06.711264",
+    "test_runs": 1,
+    "test_passes": 1,
+    "test_failures": 0,
+    "last_test_results": {
+      "passed": 27,
+      "failed": 0,
+      "skipped": 0,
+      "duration": 6.612824448279905
+    }
+  },
+  "issues": [],
+  "work_items": [
+    {
+      "type": "enhancement",
+      "priority": "low",
+      "description": "Add integration tests for HMS-FLD with HMS-ETL, HMS-API, HMS-DOC",
+      "assigned_to": "HMS-AGT-FLD",
+      "suggested_actions": [
+        "Develop integration tests for HMS-FLD with its integration points",
+        "Set up test fixtures for integration testing",
+        "Add CI configuration for integration tests"
+      ]
+    }
+  ]
+}

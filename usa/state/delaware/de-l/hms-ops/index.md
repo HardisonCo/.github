@@ -1,0 +1,9 @@
+# HMS-OPS for DE_L
+
+## Description
+
+Operations Management
+
+## Integration Points
+
+This document outlines how HMS-OPS is integrated with DE_L systems in Delaware.

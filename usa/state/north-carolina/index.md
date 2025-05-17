@@ -1,0 +1,89 @@
+# North Carolina State Agencies
+
+## Agencies
+
+- [NC_NCA](NC_NCA/index.md) - North Carolina Department of Administration
+- [NC_NCAC](NC_NCAC/index.md) - North Carolina Department of Adult Correction
+- [NC_NCACS](NC_NCACS/index.md) - North Carolina Department of Agriculture and Consumer Services
+- [NC_NCABC](NC_NCABC/index.md) - North Carolina Alcoholic Beverage Control Commission
+- [NC_NCA](NC_NCA/index.md) - North Carolina Arboretum
+- [NC_ANC](NC_ANC/index.md) - State Archives of North Carolina
+- [NC_NCA](NC_NCA/index.md) - North Carolina Arts Council
+- [NC_NCB](NC_NCB/index.md) - North Carolina State Bar
+- [NC_NCBC](NC_NCBC/index.md) - North Carolina Biotechnology Center
+- [NC_CPF](NC_CPF/index.md) - Cherokee Preservation Foundation
+- [NC_NCWCAP](NC_NCWCAP/index.md) - North Carolina Wing Civil Air Patrol
+- [NC_NCC](NC_NCC/index.md) - North Carolina Department of Commerce
+- [NC_NCCCS](NC_NCCCS/index.md) - North Carolina Community College System
+- [NC_CFANC](NC_CFANC/index.md) - Consumer and Family Advisory Committee (North Carolina)
+- [NC_NCDE](NC_NCDE/index.md) - North Carolina State Board of Dental Examiners
+- [NC_NCE](NC_NCE/index.md) - North Carolina State Board of Education
+- [NC_NCE](NC_NCE/index.md) - North Carolina State Board of Elections
+- [NC_NCEQ](NC_NCEQ/index.md) - North Carolina Department of Environmental Quality
+- [NC_NCEM](NC_NCEM/index.md) - North Carolina Environmental Management Commission
+- [NC_NCEM](NC_NCEM/index.md) - North Carolina Executive Mansion
+- [NC_NCTF](NC_NCTF/index.md) - North Carolina Department of Transportation Ferry Division
+- [NC_NCF](NC_NCF/index.md) - North Carolina Film Office
+- [NC_NCF](NC_NCF/index.md) - North Carolina Forest Service
+- [NC_NCGA](NC_NCGA/index.md) - North Carolina General Assembly
+- [NC_NCGAP](NC_NCGAP/index.md) - North Carolina General Assembly Police
+- [NC_GT](NC_GT/index.md) - Global TransPark
+- [NC_GLF](NC_GLF/index.md) - Golden LEAF Foundation
+- [NC_GMS](NC_GMS/index.md) - Governor Morehead School
+- [NC_GNC](NC_GNC/index.md) - Governor of North Carolina
+- [NC_NCHHS](NC_NCHHS/index.md) - North Carolina Department of Health and Human Services
+- [NC_NCHP](NC_NCHP/index.md) - North Carolina State Highway Patrol
+- [NC_NCHR](NC_NCHR/index.md) - North Carolina House of Representatives
+- [NC_NCIA](NC_NCIA/index.md) - North Carolina Commission of Indian Affairs
+- [NC_NCIT](NC_NCIT/index.md) - North Carolina Department of Information Technology
+- [NC_NCII](NC_NCII/index.md) - North Carolina Innocence Inquiry Commission
+- [NC_NCCI](NC_NCCI/index.md) - North Carolina Commissioner of Insurance
+- [NC_NCJ](NC_NCJ/index.md) - North Carolina Department of Justice
+- [NC_NCJJDP](NC_NCJJDP/index.md) - North Carolina Department of Juvenile Justice and Delinquency Prevention
+- [NC_NCCL](NC_NCCL/index.md) - North Carolina Commissioner of Labor
+- [NC_NCLWF](NC_NCLWF/index.md) - North Carolina Land and Water Fund
+- [NC_NCLE](NC_NCLE/index.md) - North Carolina Board of Law Examiners
+- [NC_LNC](NC_LNC/index.md) - State Library of North Carolina
+- [NC_LGNC](NC_LGNC/index.md) - Lieutenant Governor of North Carolina
+- [NC_NCLG](NC_NCLG/index.md) - North Carolina Local Government Commission
+- [NC_NCL](NC_NCL/index.md) - North Carolina State Lottery Commission
+- [NC_NCIM](NC_NCIM/index.md) - North Carolina Institute of Medicine
+- [NC_NCMVA](NC_NCMVA/index.md) - North Carolina Department of Military and Veterans Affairs
+- [NC_NCMV](NC_NCMV/index.md) - North Carolina Division of Motor Vehicles
+- [NC_NCMA](NC_NCMA/index.md) - North Carolina Museum of Art
+- [NC_NCMH](NC_NCMH/index.md) - North Carolina Museum of History
+- [NC_NCMNS](NC_NCMNS/index.md) - North Carolina Museum of Natural Sciences
+- [NC_NCNG](NC_NCNG/index.md) - North Carolina National Guard
+- [NC_NCNCR](NC_NCNCR/index.md) - North Carolina Department of Natural and Cultural Resources
+- [NC_NCA](NC_NCA/index.md) - North Carolina Award
+- [NC_NCPRTF](NC_NCPRTF/index.md) - North Carolina Parks and Recreation Trust Fund
+- [NC_NCPL](NC_NCPL/index.md) - North Carolina Poet Laureate
+- [NC_NCP](NC_NCP/index.md) - North Carolina State Ports Authority
+- [NC_NCPI](NC_NCPI/index.md) - North Carolina Department of Public Instruction
+- [NC_NCPS](NC_NCPS/index.md) - North Carolina Department of Public Safety
+- [NC_NCR](NC_NCR/index.md) - North Carolina Railroad
+- [NC_NCR](NC_NCR/index.md) - North Carolina Department of Revenue
+- [NC_NCSEVI](NC_NCSEVI/index.md) - North Carolina Safety and Emission Vehicle Inspection
+- [NC_NCS](NC_NCS/index.md) - North Carolina Secretary of State
+- [NC_NCS](NC_NCS/index.md) - North Carolina Senate
+- [NC_SSE](NC_SSE/index.md) - Smart Start (education)
+- [NC_NCA](NC_NCA/index.md) - North Carolina State Auditor
+- [NC_NCI](NC_NCI/index.md) - North Carolina State Bureau of Investigation
+- [NC_NCS](NC_NCS/index.md) - North Carolina Symphony
+- [NC_NCCAT](NC_NCCAT/index.md) - North Carolina Center for the Advancement of Teaching
+- [NC_NCT](NC_NCT/index.md) - North Carolina Department of Transportation
+- [NC_NCT](NC_NCT/index.md) - North Carolina State Treasurer
+- [NC_TP](NC_TP/index.md) - Tryon Palace
+- [NC_UNC](NC_UNC/index.md) - University of North Carolina
+- [NC_UNCG](NC_UNCG/index.md) - University of North Carolina Board of Governors
+- [NC_UNCB](NC_UNCB/index.md) - USS North Carolina (BB-55)
+- [NC_NCU](NC_NCU/index.md) - North Carolina Utilities Commission
+- [NC_NCGWR](NC_NCGWR/index.md) - North Carolina Governor's Western Residence
+- [NC_NCWR](NC_NCWR/index.md) - North Carolina Wildlife Resources Commission
+- [NC_NCZ](NC_NCZ/index.md) - North Carolina Zoo
+
+## HMS Implementation Status
+
+- Implementation Complete: 0
+- Implementation In Progress: 0
+- Implementation Planned: 0

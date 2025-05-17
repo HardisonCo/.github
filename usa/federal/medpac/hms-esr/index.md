@@ -1,0 +1,9 @@
+# HMS-ESR for MedPAC
+
+## Description
+
+Economic System Representation
+
+## Integration Points
+
+This document outlines how HMS-ESR is integrated with MedPAC systems.

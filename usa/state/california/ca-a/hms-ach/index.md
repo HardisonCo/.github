@@ -1,0 +1,9 @@
+# HMS-ACH for CA_A
+
+## Description
+
+Automated Clearing House
+
+## Integration Points
+
+This document outlines how HMS-ACH is integrated with CA_A systems in California.

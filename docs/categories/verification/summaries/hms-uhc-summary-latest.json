@@ -1,0 +1,116 @@
+{
+  "component": "HMS-UHC",
+  "generated_at": "2025-05-01T12:24:06.732009",
+  "operational_status": "degraded",
+  "repository": {
+    "last_commit": "8834420a21613febef01c741c2772aa4087295c5",
+    "description": "# Enroll\n\nEnroll App is the web-facing, transactional component of the first built-to-purpose, open source eligibility and enrollment solution for Health Benefit Exchanges. Enroll powers the [DC Health Link](https://dchealthlink.com/) site for the [DC Health Benefit Exchange](http://hbx.dc.gov/), and is developed and managed by [IdeaCrew](http://www.ideacrew.com) and HBX.",
+    "tech_stack": {
+      "languages": [
+        "Ruby",
+        "JavaScript"
+      ],
+      "frameworks": [
+        "Ruby on Rails"
+      ],
+      "databases": [
+        "Redis"
+      ],
+      "key_libraries": [
+        "RuboCop",
+        "Babel",
+        "Bearer"
+      ]
+    },
+    "integration_points": [
+      "HMS-EHR",
+      "HMS-EMR",
+      "HMS-DOC"
+    ],
+    "architecture": {
+      "pattern": "mvc",
+      "key_dirs": [
+        "components",
+        "app/models",
+        "app/models",
+        "app/controllers",
+        "app/views",
+        "app/domain"
+      ],
+      "entry_points": [
+        "config.ru"
+      ]
+    }
+  },
+  "status": {
+    "last_start": "2025-05-01T12:24:06.731485",
+    "start_attempts": 1,
+    "start_successes": 1,
+    "start_failures": 0,
+    "last_test_run": "2025-05-01T12:24:06.731607",
+    "test_runs": 1,
+    "test_passes": 0,
+    "test_failures": 1,
+    "last_test_results": {
+      "passed": 36,
+      "failed": 5,
+      "skipped": 2,
+      "duration": 4.831775325580958,
+      "failure_details": [
+        "Test failure in hms-uhc/tests/test_core.py",
+        "Test failure in hms-uhc/tests/test_integration.py",
+        "Test failure in hms-uhc/tests/test_api.py",
+        "Test failure in hms-uhc/tests/test_core.py",
+        "Test failure in hms-uhc/tests/test_api.py"
+      ]
+    }
+  },
+  "issues": [
+    {
+      "id": "48635f67-0d8d-496f-9749-d8725265ebbd",
+      "type": "test_failure",
+      "component": "HMS-UHC",
+      "timestamp": "2025-05-01T12:24:06.731607",
+      "details": {
+        "results": {
+          "passed": 36,
+          "failed": 5,
+          "skipped": 2,
+          "duration": 4.831775325580958,
+          "failure_details": [
+            "Test failure in hms-uhc/tests/test_core.py",
+            "Test failure in hms-uhc/tests/test_integration.py",
+            "Test failure in hms-uhc/tests/test_api.py",
+            "Test failure in hms-uhc/tests/test_core.py",
+            "Test failure in hms-uhc/tests/test_api.py"
+          ]
+        }
+      },
+      "status": "open"
+    }
+  ],
+  "work_items": [
+    {
+      "type": "test_failure",
+      "priority": "medium",
+      "description": "Fix failing tests for HMS-UHC",
+      "assigned_to": "HMS-AGT-UHC",
+      "suggested_actions": [
+        "Review failing tests",
+        "Check for recent code changes",
+        "Verify test environment"
+      ]
+    },
+    {
+      "type": "enhancement",
+      "priority": "low",
+      "description": "Add integration tests for HMS-UHC with HMS-EHR, HMS-EMR, HMS-DOC",
+      "assigned_to": "HMS-AGT-UHC",
+      "suggested_actions": [
+        "Develop integration tests for HMS-UHC with its integration points",
+        "Set up test fixtures for integration testing",
+        "Add CI configuration for integration tests"
+      ]
+    }
+  ]
+}

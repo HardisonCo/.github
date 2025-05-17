@@ -1,0 +1,63 @@
+{
+  "component": "HMS-SCM",
+  "generated_at": "2025-05-01T12:24:06.726698",
+  "operational_status": "operational",
+  "repository": {
+    "last_commit": "HEAD",
+    "description": "<p align=\"center\" dir=\"auto\">\n      <a href=\"https://fleetbase.io\" rel=\"nofollow\">\n        <img src=\"https://user-images.githubusercontent.com/58805033/191936702-fed04b0f-7966-4041-96d0-95e27bf98248.png\" alt=\"Fleetbase logo\" width=\"500\" height=\"120\" style=\"max-width: 100%;\">\n      </a>",
+    "tech_stack": {
+      "languages": [
+        "Go"
+      ],
+      "frameworks": [
+        "Caddy"
+      ],
+      "databases": [
+        "Mermaid for ERD"
+      ],
+      "key_libraries": []
+    },
+    "integration_points": [
+      "HMS-OMS",
+      "HMS-API",
+      "HMS-DOC"
+    ],
+    "architecture": {
+      "pattern": "microservices",
+      "key_dirs": [
+        "api"
+      ],
+      "entry_points": []
+    }
+  },
+  "status": {
+    "last_start": "2025-05-01T12:24:06.726271",
+    "start_attempts": 1,
+    "start_successes": 1,
+    "start_failures": 0,
+    "last_test_run": "2025-05-01T12:24:06.726517",
+    "test_runs": 1,
+    "test_passes": 1,
+    "test_failures": 0,
+    "last_test_results": {
+      "passed": 14,
+      "failed": 0,
+      "skipped": 3,
+      "duration": 2.4360089987231666
+    }
+  },
+  "issues": [],
+  "work_items": [
+    {
+      "type": "enhancement",
+      "priority": "low",
+      "description": "Add integration tests for HMS-SCM with HMS-OMS, HMS-API, HMS-DOC",
+      "assigned_to": "HMS-AGT-SCM",
+      "suggested_actions": [
+        "Develop integration tests for HMS-SCM with its integration points",
+        "Set up test fixtures for integration testing",
+        "Add CI configuration for integration tests"
+      ]
+    }
+  ]
+}

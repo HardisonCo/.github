@@ -1,0 +1,67 @@
+{
+  "component": "HMS-ETL",
+  "generated_at": "2025-05-01T12:24:06.710185",
+  "operational_status": "operational",
+  "repository": {
+    "last_commit": "8c68a102f181f34a50cd7f995270546a4d56d7c9",
+    "description": "<!-- Note: Do not try adding the dark mode version here with the `picture` element, it will break formatting in PyPI -->\n  <a target=\"_blank\" href=\"https://dagster.io\" style=\"background:none\">\n    <img alt=\"dagster logo\" src=\"https://raw.githubusercontent.com/dagster-io/dagster/master/.github/dagster-readme-header.svg\" width=\"auto\" height=\"100%\">\n  </a>",
+    "tech_stack": {
+      "languages": [
+        "Python"
+      ],
+      "frameworks": [
+        "Apache Airflow",
+        "Dask"
+      ],
+      "databases": [
+        "PostgreSQL",
+        "DuckDB"
+      ],
+      "key_libraries": [
+        "Pandas",
+        "PyArrow",
+        "SQLAlchemy"
+      ]
+    },
+    "integration_points": [
+      "HMS-API",
+      "HMS-DOC",
+      "HMS-NFO"
+    ],
+    "architecture": {
+      "pattern": "unknown",
+      "key_dirs": [],
+      "entry_points": []
+    }
+  },
+  "status": {
+    "last_start": "2025-05-01T12:24:06.709672",
+    "start_attempts": 1,
+    "start_successes": 1,
+    "start_failures": 0,
+    "last_test_run": "2025-05-01T12:24:06.709874",
+    "test_runs": 1,
+    "test_passes": 1,
+    "test_failures": 0,
+    "last_test_results": {
+      "passed": 15,
+      "failed": 0,
+      "skipped": 5,
+      "duration": 8.272267190189272
+    }
+  },
+  "issues": [],
+  "work_items": [
+    {
+      "type": "enhancement",
+      "priority": "low",
+      "description": "Add integration tests for HMS-ETL with HMS-API, HMS-DOC, HMS-NFO",
+      "assigned_to": "HMS-AGT-ETL",
+      "suggested_actions": [
+        "Develop integration tests for HMS-ETL with its integration points",
+        "Set up test fixtures for integration testing",
+        "Add CI configuration for integration tests"
+      ]
+    }
+  ]
+}

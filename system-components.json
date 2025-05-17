@@ -1,0 +1,519 @@
+{
+  "version": "1.0.0",
+  "updated": "2025-04-30",
+  "indexFileTemplate": "hms-indices/{id}.index.json",
+  "components": [
+    {
+      "id": "HMS-A2A",
+      "name": "Agent-to-Agent",
+      "description": "Enables collaborative communication between intelligent agents",
+      "tech_stack": {
+        "languages": ["Python"],
+        "frameworks": ["LangChain", "FastAPI"],
+        "databases": ["PostgreSQL"],
+        "infrastructure": ["Docker", "Kubernetes"],
+        "key_libraries": ["PyTorch", "Transformers", "Redis"],
+        "patterns": ["Microservices", "Event-driven"]
+      },
+      "integration_points": [
+        "HMS-MCP", "HMS-DEV", "HMS-DOC", "HMS-CDF"
+      ]
+    },
+    {
+      "id": "HMS-ABC",
+      "name": "Adaptive Business Capabilities",
+      "description": "Provides flexible business capability modeling and implementation",
+      "tech_stack": {
+        "languages": ["TypeScript", "JavaScript"],
+        "frameworks": ["Next.js", "React"],
+        "databases": ["MongoDB"],
+        "infrastructure": ["Docker", "AWS"],
+        "key_libraries": ["Tailwind CSS", "shadcn/ui"],
+        "patterns": ["Microservices", "Serverless"]
+      },
+      "integration_points": [
+        "HMS-API", "HMS-MFE", "HMS-DOC"
+      ]
+    },
+    {
+      "id": "HMS-ACH",
+      "name": "Automated Clearing House",
+      "description": "Handles financial transaction processing and clearing",
+      "tech_stack": {
+        "languages": ["Ruby"],
+        "frameworks": ["Ruby on Rails"],
+        "databases": ["PostgreSQL"],
+        "infrastructure": ["Docker"],
+        "key_libraries": ["Sidekiq", "ActiveRecord"],
+        "patterns": ["MVC", "Background Jobs"]
+      },
+      "integration_points": [
+        "HMS-CUR", "HMS-API", "HMS-DOC"
+      ]
+    },
+    {
+      "id": "HMS-ACT",
+      "name": "Agent Collaboration Tools",
+      "description": "Toolkit for building agent collaboration systems",
+      "tech_stack": {
+        "languages": ["Python"],
+        "frameworks": ["FastAPI", "PyTorch"],
+        "databases": ["Chroma", "PostgreSQL"],
+        "infrastructure": ["Docker", "Makefile"],
+        "key_libraries": ["LangChain", "Transformers", "E2B"],
+        "patterns": ["RAG", "Multi-agent Systems"]
+      },
+      "integration_points": [
+        "HMS-A2A", "HMS-MCP", "HMS-LLM"
+      ]
+    },
+    {
+      "id": "HMS-AGT",
+      "name": "Agent Tooling",
+      "description": "Provides tools and utilities for agent functionality",
+      "tech_stack": {
+        "languages": ["Python", "TypeScript"],
+        "frameworks": ["LangChain", "FastAPI"],
+        "databases": ["SQLite", "Redis"],
+        "infrastructure": ["Docker", "Terraform"],
+        "key_libraries": ["LangGraph", "Transformers"],
+        "patterns": ["Tool-based agents", "Chain of Thought"]
+      },
+      "integration_points": [
+        "HMS-A2A", "HMS-DEV", "HMS-MCP", "HMS-LLM"
+      ]
+    },
+    {
+      "id": "HMS-AGX",
+      "name": "Advanced Graph Experience",
+      "description": "Graph-based reasoning and visualization for complex systems",
+      "tech_stack": {
+        "languages": ["TypeScript"],
+        "frameworks": ["Node.js", "React"],
+        "databases": ["Neo4j"],
+        "infrastructure": ["Docker"],
+        "key_libraries": ["D3.js", "Cytoscape.js", "Jest"],
+        "patterns": ["Graph-based reasoning", "Chain of Thought"]
+      },
+      "integration_points": [
+        "HMS-A2A", "HMS-LLM", "HMS-CDF"
+      ]
+    },
+    {
+      "id": "HMS-API",
+      "name": "API Services",
+      "description": "API management and integration layer",
+      "tech_stack": {
+        "languages": ["PHP", "JavaScript"],
+        "frameworks": ["Laravel", "Vue.js"],
+        "databases": ["MySQL", "Redis"],
+        "infrastructure": ["Docker", "Kubernetes"],
+        "key_libraries": ["Sanctum", "Guzzle", "PHPUnit"],
+        "patterns": ["MVC", "Repository pattern", "Service pattern"]
+      },
+      "integration_points": [
+        "HMS-DOC", "HMS-DEV", "HMS-SYS"
+      ]
+    },
+    {
+      "id": "HMS-CDF",
+      "name": "Collaborative Decision Framework",
+      "description": "Framework for policy formalization, debate, and implementation",
+      "tech_stack": {
+        "languages": ["Rust", "Python"],
+        "frameworks": ["Actix-web", "Yao"],
+        "databases": ["PostgreSQL"],
+        "infrastructure": ["Docker", "Makefile"],
+        "key_libraries": ["Tokio", "Serde", "RocksDB"],
+        "patterns": ["Actor model", "Chain of Recursive Thoughts"]
+      },
+      "integration_points": [
+        "HMS-A2A", "HMS-GOV", "HMS-DOC"
+      ]
+    },
+    {
+      "id": "HMS-CUR",
+      "name": "Currency Management",
+      "description": "Financial and currency management system",
+      "tech_stack": {
+        "languages": ["JavaScript", "TypeScript"],
+        "frameworks": ["React Native"],
+        "databases": ["SQLite", "Realm"],
+        "infrastructure": ["Docker", "iOS/Android"],
+        "key_libraries": ["Jest", "React Navigation"],
+        "patterns": ["Mobile-first", "Event sourcing"]
+      },
+      "integration_points": [
+        "HMS-ACH", "HMS-API", "HMS-MFE"
+      ]
+    },
+    {
+      "id": "HMS-DEV",
+      "name": "Development Framework",
+      "description": "Development tools and OSS marketplace",
+      "tech_stack": {
+        "languages": ["TypeScript", "JavaScript", "Rust"],
+        "frameworks": ["Node.js", "Vite", "React"],
+        "databases": ["SQLite", "Redis"],
+        "infrastructure": ["Docker", "Kubernetes", "PNPM"],
+        "key_libraries": ["Vitest", "Actix-web", "Tokio", "seatbelt"],
+        "patterns": ["Microservices", "CLI tools", "Sandbox execution"]
+      },
+      "integration_points": [
+        "HMS-A2A", "HMS-DOC", "HMS-MCP", "HMS-SYS"
+      ]
+    },
+    {
+      "id": "HMS-DOC",
+      "name": "Documentation System",
+      "description": "Documentation generation and management",
+      "tech_stack": {
+        "languages": ["Python", "Markdown"],
+        "frameworks": ["Sphinx", "MkDocs"],
+        "databases": ["SQLite", "JSON files"],
+        "infrastructure": ["Docker", "GitHub Actions"],
+        "key_libraries": ["Jinja2", "PyYAML", "Chain of Recursive Thoughts"],
+        "patterns": ["Static site generation", "Structured documentation"]
+      },
+      "integration_points": [
+        "HMS-DEV", "HMS-A2A", "HMS-SYS"
+      ]
+    },
+    {
+      "id": "HMS-EDU",
+      "name": "Education System",
+      "description": "Educational content and learning management",
+      "tech_stack": {
+        "languages": ["Ruby"],
+        "frameworks": ["Ruby on Rails", "Sinatra"],
+        "databases": ["PostgreSQL"],
+        "infrastructure": ["Docker", "Docker Compose"],
+        "key_libraries": ["ActiveRecord", "Puma", "Rack"],
+        "patterns": ["MVC", "RESTful APIs"]
+      },
+      "integration_points": [
+        "HMS-DOC", "HMS-API", "HMS-LLM"
+      ]
+    },
+    {
+      "id": "HMS-EHR",
+      "name": "Electronic Health Records",
+      "description": "Health record management and processing",
+      "tech_stack": {
+        "languages": ["JavaScript", "TypeScript"],
+        "frameworks": ["Next.js", "LangGraph"],
+        "databases": ["MongoDB", "PostgreSQL"],
+        "infrastructure": ["Docker", "Kubernetes"],
+        "key_libraries": ["Turborepo", "Vite", "FHIR.js"],
+        "patterns": ["Microservices", "FHIR standard"]
+      },
+      "integration_points": [
+        "HMS-API", "HMS-UHC", "HMS-EMR"
+      ]
+    },
+    {
+      "id": "HMS-EMR",
+      "name": "Electronic Medical Records",
+      "description": "Detailed medical record system with clinical focus",
+      "tech_stack": {
+        "languages": ["Go"],
+        "frameworks": ["Fiber"],
+        "databases": ["PostgreSQL", "TimeScale"],
+        "infrastructure": ["Docker", "Nix"],
+        "key_libraries": ["GORM", "Go-kit", "Tygo"],
+        "patterns": ["Clean architecture", "Domain-driven design"]
+      },
+      "integration_points": [
+        "HMS-EHR", "HMS-API", "HMS-UHC"
+      ]
+    },
+    {
+      "id": "HMS-ESQ",
+      "name": "Enhanced System Quality",
+      "description": "Quality assurance and system improvement",
+      "tech_stack": {
+        "languages": ["Python", "JavaScript"],
+        "frameworks": [],
+        "databases": [],
+        "infrastructure": [],
+        "key_libraries": [],
+        "patterns": ["Test automation", "Quality metrics"]
+      },
+      "integration_points": [
+        "HMS-DEV", "HMS-SYS", "HMS-DOC"
+      ]
+    },
+    {
+      "id": "HMS-ESR",
+      "name": "Economic System Representation",
+      "description": "Economic modeling and simulation",
+      "tech_stack": {
+        "languages": ["Ruby"],
+        "frameworks": ["Ruby on Rails"],
+        "databases": ["PostgreSQL", "Redis"],
+        "infrastructure": ["Docker", "Docker Compose"],
+        "key_libraries": ["Sidekiq", "RSpec", "Rails helpers"],
+        "patterns": ["MVC", "Background jobs", "Event-driven"]
+      },
+      "integration_points": [
+        "HMS-CUR", "HMS-NFO", "HMS-DOC"
+      ]
+    },
+    {
+      "id": "HMS-ETL",
+      "name": "Extract, Transform, Load",
+      "description": "Data pipeline and transformation system",
+      "tech_stack": {
+        "languages": ["Python"],
+        "frameworks": ["Apache Airflow", "Dask"],
+        "databases": ["PostgreSQL", "DuckDB"],
+        "infrastructure": ["Docker", "Azure Pipelines"],
+        "key_libraries": ["Pandas", "PyArrow", "SQLAlchemy"],
+        "patterns": ["Pipeline processing", "DAG workflows"]
+      },
+      "integration_points": [
+        "HMS-API", "HMS-DOC", "HMS-NFO"
+      ]
+    },
+    {
+      "id": "HMS-FLD",
+      "name": "Field Data Collection",
+      "description": "Mobile and field data collection tools",
+      "tech_stack": {
+        "languages": ["JavaScript", "Ruby"],
+        "frameworks": ["React Native", "Ruby on Rails"],
+        "databases": ["SQLite", "PostgreSQL"],
+        "infrastructure": ["iOS/Android"],
+        "key_libraries": ["Babel", "Jest", "Tailwind"],
+        "patterns": ["Mobile-first", "Offline-first"]
+      },
+      "integration_points": [
+        "HMS-ETL", "HMS-API", "HMS-DOC"
+      ]
+    },
+    {
+      "id": "HMS-GOV",
+      "name": "Governance Framework",
+      "description": "System governance and compliance management",
+      "tech_stack": {
+        "languages": ["TypeScript", "JavaScript"],
+        "frameworks": ["Nuxt.js", "Vue.js"],
+        "databases": ["PostgreSQL"],
+        "infrastructure": ["Docker"],
+        "key_libraries": ["Vue Router", "Vuex"],
+        "patterns": ["MVVM", "Component-based architecture"]
+      },
+      "integration_points": [
+        "HMS-CDF", "HMS-API", "HMS-DOC"
+      ]
+    },
+    {
+      "id": "HMS-LLM",
+      "name": "Large Language Model Operations Platform",
+      "description": "Comprehensive LLMOps platform for building, deploying, and monitoring LLM applications",
+      "tech_stack": {
+        "languages": ["Python", "TypeScript"],
+        "frameworks": ["FastAPI", "Next.js", "PyTorch"],
+        "databases": ["PostgreSQL", "Redis", "ChromaDB"],
+        "infrastructure": ["Docker", "Kubernetes"],
+        "key_libraries": ["OpenTelemetry", "LangChain", "Transformers", "Open API"],
+        "patterns": ["Microservices", "Event-driven", "Tracing"]
+      },
+      "integration_points": [
+        "HMS-A2A", "HMS-MCP", "HMS-DEV", "HMS-DOC"
+      ]
+    },
+    {
+      "id": "HMS-MCP",
+      "name": "Model-Compute-Publish",
+      "description": "Framework for model execution and result publishing",
+      "tech_stack": {
+        "languages": ["Python"],
+        "frameworks": [],
+        "databases": ["PostgreSQL"],
+        "infrastructure": ["Docker", "uv"],
+        "key_libraries": ["PyTorch", "Transformers", "OpenAI"],
+        "patterns": ["Pipeline processing", "Model registry"]
+      },
+      "integration_points": [
+        "HMS-A2A", "HMS-LLM", "HMS-DEV"
+      ]
+    },
+    {
+      "id": "HMS-MFE",
+      "name": "Micro Frontend Engine",
+      "description": "Micro frontend architecture and management",
+      "tech_stack": {
+        "languages": ["TypeScript"],
+        "frameworks": ["Vue.js", "Vite"],
+        "databases": [],
+        "infrastructure": ["Docker"],
+        "key_libraries": ["Bulma", "CSS Vars", "ESLint"],
+        "patterns": ["Micro frontends", "Module federation"]
+      },
+      "integration_points": [
+        "HMS-API", "HMS-ABC", "HMS-DOC"
+      ]
+    },
+    {
+      "id": "HMS-MKT",
+      "name": "Market Analytics",
+      "description": "Market analysis and business intelligence",
+      "tech_stack": {
+        "languages": ["JavaScript", "TypeScript"],
+        "frameworks": ["Nuxt.js"],
+        "databases": [],
+        "infrastructure": ["Docker", "Heroku"],
+        "key_libraries": ["Jest", "ESLint", "Vitest"],
+        "patterns": ["JAMstack", "Server-side rendering"]
+      },
+      "integration_points": [
+        "HMS-API", "HMS-NFO", "HMS-DOC"
+      ]
+    },
+    {
+      "id": "HMS-NFO",
+      "name": "National Financial Organizations",
+      "description": "Management system for financial organization data",
+      "tech_stack": {
+        "languages": ["Python", "HTML"],
+        "frameworks": [],
+        "databases": [],
+        "infrastructure": [],
+        "key_libraries": ["Transformers", "Data cleaning utils"],
+        "patterns": ["Data transformation", "ETL pipelines"]
+      },
+      "integration_points": [
+        "HMS-ETL", "HMS-ESR", "HMS-DOC"
+      ]
+    },
+    {
+      "id": "HMS-OMS",
+      "name": "Order Management System",
+      "description": "Order processing and management",
+      "tech_stack": {
+        "languages": ["Ruby", "TypeScript"],
+        "frameworks": ["Ruby on Rails"],
+        "databases": ["PostgreSQL", "Oracle"],
+        "infrastructure": ["Docker", "Docker Compose"],
+        "key_libraries": ["ActiveRecord", "ESLint", "Jest"],
+        "patterns": ["MVC", "Service-oriented architecture"]
+      },
+      "integration_points": [
+        "HMS-API", "HMS-SCM", "HMS-DOC"
+      ]
+    },
+    {
+      "id": "HMS-SYS",
+      "name": "System Core",
+      "description": "Core system infrastructure and services (Go). Includes legacy Operations Management tooling (`HMS-OPS`, `OPS-CLI` subdirs using PHP/Bash for scripting/automation).",
+      "tech_stack": {
+        "languages": ["Go"],
+        "frameworks": [],
+        "databases": [],
+        "infrastructure": ["Docker", "Kubernetes", "Kind"],
+        "key_libraries": ["Netlify", "Sphinx"],
+        "patterns": ["Microservices", "Service mesh"]
+      },
+      "integration_points": [
+        "HMS-DEV", "HMS-DOC"
+      ]
+    },
+    {
+      "id": "HMS-RED",
+      "name": "Reactive Data Engine",
+      "description": "Reactive data processing and event handling",
+      "tech_stack": {
+        "languages": ["TypeScript"],
+        "frameworks": ["Node.js", "Express"],
+        "databases": ["Drizzle"],
+        "infrastructure": ["Docker"],
+        "key_libraries": ["Jest", "ESLint", "Drizzle ORM"],
+        "patterns": ["Reactive programming", "Event sourcing"]
+      },
+      "integration_points": [
+        "HMS-ETL", "HMS-API", "HMS-DOC"
+      ]
+    },
+    {
+      "id": "HMS-SCM",
+      "name": "Supply Chain Management",
+      "description": "Supply chain visibility and management",
+      "tech_stack": {
+        "languages": ["Go"],
+        "frameworks": ["Caddy"],
+        "databases": ["Mermaid for ERD"],
+        "infrastructure": ["Docker", "Docker Bake"],
+        "key_libraries": [],
+        "patterns": ["Microservices", "Event-driven"]
+      },
+      "integration_points": [
+        "HMS-OMS", "HMS-API", "HMS-DOC"
+      ]
+    },
+    {
+      "id": "HMS-SKL",
+      "name": "Skills Management",
+      "description": "Skills tracking and development system",
+      "tech_stack": {
+        "languages": ["TypeScript", "JavaScript"],
+        "frameworks": ["React Native"],
+        "databases": [],
+        "infrastructure": ["Makefile"],
+        "key_libraries": ["Babel", "Jest", "Metro"],
+        "patterns": ["Mobile-first", "Component-based architecture"]
+      },
+      "integration_points": [
+        "HMS-API", "HMS-EDU", "HMS-DOC"
+      ]
+    },
+    {
+      "id": "HMS-SME",
+      "name": "Subject Matter Expertise",
+      "description": "Knowledge management and expert systems",
+      "tech_stack": {
+        "languages": ["Ruby"],
+        "frameworks": ["Sinatra"],
+        "databases": [],
+        "infrastructure": ["Docker", "Docker Compose"],
+        "key_libraries": ["Rake", "Puma", "Tmux"],
+        "patterns": ["Knowledge graphs", "Expert systems"]
+      },
+      "integration_points": [
+        "HMS-DOC", "HMS-LLM", "HMS-EDU"
+      ]
+    },
+    {
+      "id": "HMS-UHC",
+      "name": "Universal Healthcare Components",
+      "description": "Universal healthcare system components",
+      "tech_stack": {
+        "languages": ["Ruby", "JavaScript"],
+        "frameworks": ["Ruby on Rails"],
+        "databases": ["Redis"],
+        "infrastructure": ["Docker", "Jenkins"],
+        "key_libraries": ["RuboCop", "Babel", "Bearer"],
+        "patterns": ["MVC", "Service-oriented architecture"]
+      },
+      "integration_points": [
+        "HMS-EHR", "HMS-EMR", "HMS-DOC"
+      ]
+    },
+    {
+      "id": "HMS-UTL",
+      "name": "Utilities",
+      "description": "Common utilities and shared functions",
+      "tech_stack": {
+        "languages": [],
+        "frameworks": [],
+        "databases": [],
+        "infrastructure": [],
+        "key_libraries": [],
+        "patterns": ["Utility libraries", "Shared functionality"]
+      },
+      "integration_points": [
+        "HMS-DEV", "HMS-SYS", "HMS-DOC"
+      ]
+    }
+  ]
+}

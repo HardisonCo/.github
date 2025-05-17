@@ -1,0 +1,60 @@
+{
+  "component": "HMS-UHC",
+  "version": "1.0",
+  "created_at": "2025-05-01T12:24:06.731481",
+  "last_updated": "2025-05-01T12:24:06.731771",
+  "start": {
+    "last_attempt": "2025-05-01T12:24:06.731484",
+    "last_success": "2025-05-01T12:24:06.731485",
+    "attempts": 1,
+    "successes": 1,
+    "failures": 0,
+    "status": "running"
+  },
+  "tests": {
+    "last_run": "2025-05-01T12:24:06.731607",
+    "last_success": null,
+    "total_runs": 1,
+    "total_passed": 0,
+    "total_failed": 1,
+    "status": "failing",
+    "last_results": {
+      "passed": 36,
+      "failed": 5,
+      "skipped": 2,
+      "duration": 4.831775325580958,
+      "failure_details": [
+        "Test failure in hms-uhc/tests/test_core.py",
+        "Test failure in hms-uhc/tests/test_integration.py",
+        "Test failure in hms-uhc/tests/test_api.py",
+        "Test failure in hms-uhc/tests/test_core.py",
+        "Test failure in hms-uhc/tests/test_api.py"
+      ]
+    }
+  },
+  "issues": [
+    {
+      "id": "48635f67-0d8d-496f-9749-d8725265ebbd",
+      "type": "test_failure",
+      "component": "HMS-UHC",
+      "timestamp": "2025-05-01T12:24:06.731607",
+      "details": {
+        "results": {
+          "passed": 36,
+          "failed": 5,
+          "skipped": 2,
+          "duration": 4.831775325580958,
+          "failure_details": [
+            "Test failure in hms-uhc/tests/test_core.py",
+            "Test failure in hms-uhc/tests/test_integration.py",
+            "Test failure in hms-uhc/tests/test_api.py",
+            "Test failure in hms-uhc/tests/test_core.py",
+            "Test failure in hms-uhc/tests/test_api.py"
+          ]
+        }
+      },
+      "status": "open"
+    }
+  ],
+  "operational_status": "degraded"
+}

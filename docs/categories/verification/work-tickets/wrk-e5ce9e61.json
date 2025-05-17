@@ -1,0 +1,31 @@
+{
+  "id": "WRK-e5ce9e61",
+  "component": "HMS-A2A",
+  "issue_id": "6891c2f0-3dac-4653-a826-27d691ea58dc",
+  "issue_type": "start_failure",
+  "created_at": "2025-05-01T12:23:50.822537",
+  "updated_at": "2025-05-01T12:23:50.822537",
+  "assigned_to": "HMS-DEV",
+  "status": "open",
+  "priority": "high",
+  "details": {
+    "component": "HMS-A2A",
+    "issue": {
+      "id": "6891c2f0-3dac-4653-a826-27d691ea58dc",
+      "type": "start_failure",
+      "component": "HMS-A2A",
+      "timestamp": "2025-05-01T12:23:50.822531",
+      "details": {
+        "output": "ERROR: Port 3048 already in use"
+      },
+      "status": "open"
+    },
+    "description": "The HMS-A2A component failed to start. This is affecting the operational status of the HMS ecosystem and should be resolved as soon as possible.",
+    "suggested_actions": [
+      "Check the HMS-A2A logs for error messages",
+      "Verify all dependencies for HMS-A2A are available and correctly configured",
+      "Check for recent changes that might have affected the component's ability to start",
+      "Verify environment variables and configuration files"
+    ]
+  }
+}

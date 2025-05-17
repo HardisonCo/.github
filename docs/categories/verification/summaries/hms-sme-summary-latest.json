@@ -1,0 +1,72 @@
+{
+  "component": "HMS-SME",
+  "generated_at": "2025-05-01T12:24:06.729370",
+  "operational_status": "operational",
+  "repository": {
+    "last_commit": "a7939d5bea96861680d0a40c24252da21dd63865",
+    "description": "A comprehensive professional standards platform providing specialist expertise to professional agents across all industries. HMS-SME serves as the core standards compliance engine and expert knowledge system for the CodifyHQ ecosystem.\n\n## \ud83d\ude80 Overview",
+    "tech_stack": {
+      "languages": [
+        "Ruby"
+      ],
+      "frameworks": [
+        "Sinatra"
+      ],
+      "databases": [],
+      "key_libraries": [
+        "Rake",
+        "Puma",
+        "Tmux"
+      ]
+    },
+    "integration_points": [
+      "HMS-DOC",
+      "HMS-LLM",
+      "HMS-EDU"
+    ],
+    "architecture": {
+      "pattern": "mvc",
+      "key_dirs": [
+        "data",
+        "views",
+        "app/models",
+        "app/models",
+        "app/controllers",
+        "app/services"
+      ],
+      "entry_points": [
+        "config.ru"
+      ]
+    }
+  },
+  "status": {
+    "last_start": "2025-05-01T12:24:06.728824",
+    "start_attempts": 1,
+    "start_successes": 1,
+    "start_failures": 0,
+    "last_test_run": "2025-05-01T12:24:06.729119",
+    "test_runs": 1,
+    "test_passes": 1,
+    "test_failures": 0,
+    "last_test_results": {
+      "passed": 47,
+      "failed": 0,
+      "skipped": 1,
+      "duration": 1.4182633862617662
+    }
+  },
+  "issues": [],
+  "work_items": [
+    {
+      "type": "enhancement",
+      "priority": "low",
+      "description": "Add integration tests for HMS-SME with HMS-DOC, HMS-LLM, HMS-EDU",
+      "assigned_to": "HMS-AGT-SME",
+      "suggested_actions": [
+        "Develop integration tests for HMS-SME with its integration points",
+        "Set up test fixtures for integration testing",
+        "Add CI configuration for integration tests"
+      ]
+    }
+  ]
+}

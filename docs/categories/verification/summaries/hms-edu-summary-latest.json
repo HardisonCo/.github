@@ -1,0 +1,111 @@
+{
+  "component": "HMS-EDU",
+  "generated_at": "2025-05-01T12:24:06.703033",
+  "operational_status": "degraded",
+  "repository": {
+    "last_commit": "",
+    "description": "Educational content and learning management",
+    "tech_stack": {
+      "languages": [
+        "Ruby"
+      ],
+      "frameworks": [
+        "Ruby on Rails",
+        "Sinatra"
+      ],
+      "databases": [
+        "PostgreSQL"
+      ],
+      "key_libraries": [
+        "ActiveRecord",
+        "Puma",
+        "Rack"
+      ]
+    },
+    "integration_points": [
+      "HMS-DOC",
+      "HMS-API",
+      "HMS-LLM"
+    ],
+    "architecture": {
+      "pattern": "mvc",
+      "key_dirs": [
+        "views",
+        "app/models",
+        "app/models",
+        "app/controllers",
+        "app/services"
+      ],
+      "entry_points": [
+        "config.ru"
+      ]
+    }
+  },
+  "status": {
+    "last_start": "2025-05-01T12:24:06.702614",
+    "start_attempts": 1,
+    "start_successes": 1,
+    "start_failures": 0,
+    "last_test_run": "2025-05-01T12:24:06.702720",
+    "test_runs": 1,
+    "test_passes": 0,
+    "test_failures": 1,
+    "last_test_results": {
+      "passed": 45,
+      "failed": 3,
+      "skipped": 2,
+      "duration": 1.7827489086766661,
+      "failure_details": [
+        "Test failure in hms-edu/tests/test_core.py",
+        "Test failure in hms-edu/tests/test_api.py",
+        "Test failure in hms-edu/tests/test_integration.py"
+      ]
+    }
+  },
+  "issues": [
+    {
+      "id": "28cba517-320f-4529-ad7d-5b834a38c04b",
+      "type": "test_failure",
+      "component": "HMS-EDU",
+      "timestamp": "2025-05-01T12:24:06.702720",
+      "details": {
+        "results": {
+          "passed": 45,
+          "failed": 3,
+          "skipped": 2,
+          "duration": 1.7827489086766661,
+          "failure_details": [
+            "Test failure in hms-edu/tests/test_core.py",
+            "Test failure in hms-edu/tests/test_api.py",
+            "Test failure in hms-edu/tests/test_integration.py"
+          ]
+        }
+      },
+      "status": "open"
+    }
+  ],
+  "work_items": [
+    {
+      "type": "test_failure",
+      "priority": "medium",
+      "description": "Fix failing tests for HMS-EDU",
+      "assigned_to": "HMS-AGT-EDU",
+      "suggested_actions": [
+        "Review failing tests",
+        "Check for recent code changes",
+        "Verify test environment"
+      ]
+    },
+    {
+      "type": "enhancement",
+      "priority": "low",
+      "description": "Add integration tests for HMS-EDU with HMS-DOC, HMS-API, HMS-LLM",
+      "assigned_to": "HMS-AGT-EDU",
+      "suggested_actions": [
+        "Develop integration tests for HMS-EDU with its integration points",
+        "Set up test fixtures for integration testing",
+        "Add CI configuration for integration tests"
+      ]
+    }
+  ]
+}

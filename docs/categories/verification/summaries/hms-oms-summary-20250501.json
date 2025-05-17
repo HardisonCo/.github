@@ -1,0 +1,75 @@
+{
+  "component": "HMS-OMS",
+  "generated_at": "2025-05-01T12:24:06.723816",
+  "operational_status": "operational",
+  "repository": {
+    "last_commit": "8002fcd2d8c500c3acd01a56271d4cb434eb3c14",
+    "description": "*HOMS* is an open source web application for order and business process management.\n\nApplication consists of three parts:",
+    "tech_stack": {
+      "languages": [
+        "Ruby",
+        "TypeScript"
+      ],
+      "frameworks": [
+        "Ruby on Rails"
+      ],
+      "databases": [
+        "PostgreSQL",
+        "Oracle"
+      ],
+      "key_libraries": [
+        "ActiveRecord",
+        "ESLint",
+        "Jest"
+      ]
+    },
+    "integration_points": [
+      "HMS-API",
+      "HMS-SCM",
+      "HMS-DOC"
+    ],
+    "architecture": {
+      "pattern": "mvc",
+      "key_dirs": [
+        "app/models",
+        "app/models",
+        "app/controllers",
+        "app/views",
+        "app/services"
+      ],
+      "entry_points": [
+        "config.ru"
+      ]
+    }
+  },
+  "status": {
+    "last_start": "2025-05-01T12:24:06.723377",
+    "start_attempts": 1,
+    "start_successes": 1,
+    "start_failures": 0,
+    "last_test_run": "2025-05-01T12:24:06.723546",
+    "test_runs": 1,
+    "test_passes": 1,
+    "test_failures": 0,
+    "last_test_results": {
+      "passed": 25,
+      "failed": 0,
+      "skipped": 2,
+      "duration": 2.4504820749422507
+    }
+  },
+  "issues": [],
+  "work_items": [
+    {
+      "type": "enhancement",
+      "priority": "low",
+      "description": "Add integration tests for HMS-OMS with HMS-API, HMS-SCM, HMS-DOC",
+      "assigned_to": "HMS-AGT-OMS",
+      "suggested_actions": [
+        "Develop integration tests for HMS-OMS with its integration points",
+        "Set up test fixtures for integration testing",
+        "Add CI configuration for integration tests"
+      ]
+    }
+  ]
+}

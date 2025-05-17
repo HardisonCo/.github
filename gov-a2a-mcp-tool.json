@@ -1,0 +1,2059 @@
+{
+  "agencyAgentToolMapping": [
+    {
+      "agencyName": "United States African Development Foundation (USADF)",
+      "agencyLabel": "ADF",
+      "agencyMission": "Supports African-led development by providing seed capital and technical support to community enterprises, focusing on underserved and marginalized populations in Africa.",
+      "relevantAgents": [
+        "financial-agent",
+        "international-trade-agent",
+        "sustainable-development-agent",
+        "non-profit-organizations-agent",
+        "project-management-agent",
+        "research-services-agent.ts"
+      ],
+      "requiredMCPTools": [
+        "MCP Tool: Grant Application Review & Scoring",
+        "MCP Tool: Project Viability Assessment (Financial & Social Impact)",
+        "MCP Tool: Fund Disbursement & Tracking (Compliant)",
+        "MCP Tool: Technical Assistance Resource Matching",
+        "MCP Tool: Development Project Monitoring & Evaluation",
+        "MCP Tool: Community Enterprise Needs Analysis",
+        "MCP Tool: Risk Assessment (Geopolitical & Financial)",
+        "MCP Tool: Cross-Cultural Communication Support"
+      ]
+    },
+    {
+      "agencyName": "Central Intelligence Agency",
+      "agencyLabel": "CIA",
+      "agencyMission": "Employs advanced analytics and machine learning to gather intelligence and safeguard national security interests.",
+      "relevantAgents": [
+        "data-science-agent",
+        "cybersecurity-agent",
+        "cybersecurity-governance-agent",
+        "linguistic-analysis-agent",
+        "geospatial-sciences-agent",
+        "artificial-intelligence-agent",
+        "research-services-agent",
+        "ethics-compliance-agent",
+        "military-defense-agent.ts"
+      ],
+      "requiredMCPTools": [
+        "MCP Tool: Intelligence Data Fusion & Analysis",
+        "MCP Tool: Predictive Threat Modeling (ML-based)",
+        "MCP Tool: Geospatial Intelligence Analysis (Sat Imagery, Mapping)",
+        "MCP Tool: Natural Language Processing for Threat Detection",
+        "MCP Tool: Cybersecurity Threat Assessment & Response",
+        "MCP Tool: Secure Information Dissemination Protocol",
+        "MCP Tool: Counterintelligence Risk Analysis",
+        "MCP Tool: Ethical & Legal Compliance Check (Intelligence Ops)",
+        "MCP Tool: Anomaly Detection in Large Datasets"
+      ]
+    },
+    {
+      "agencyName": "Commodity Futures Trading Commission",
+      "agencyLabel": "CFTC",
+      "agencyMission": "Regulates commodity futures and options markets, protecting participants from fraud and market manipulation.",
+      "relevantAgents": [
+        "financial-agent",
+        "regulatory-compliance-agent",
+        "legal-agent",
+        "data-science-agent",
+        "cryptocurrency-defi-agent",
+        "ethics-compliance-agent.ts"
+      ],
+      "requiredMCPTools": [
+        "MCP Tool: Market Surveillance & Anomaly Detection",
+        "MCP Tool: Derivatives Contract Compliance Review",
+        "MCP Tool: Fraud Detection Algorithm (Trading Patterns)",
+        "MCP Tool: Regulatory Filing Analysis (CFTC Rules)",
+        "MCP Tool: Risk Exposure Calculation (Futures/Options)",
+        "MCP Tool: Enforcement Case Management Support",
+        "MCP Tool: Digital Asset Market Analysis (Crypto Derivatives)",
+        "MCP Tool: Clearinghouse Risk Assessment"
+      ]
+    },
+    {
+      "agencyName": "Consumer Financial Protection Bureau",
+      "agencyLabel": "CFPB",
+      "agencyMission": "Promotes fairness and transparency in financial markets, using data analytics to protect consumers from abusive practices.",
+      "relevantAgents": [
+        "financial-agent",
+        "personal-finance-agent",
+        "regulatory-compliance-agent",
+        "legal-agent",
+        "data-science-agent",
+        "customer-service-agent",
+        "ethics-compliance-agent.ts"
+      ],
+      "requiredMCPTools": [
+        "MCP Tool: Consumer Complaint Analysis & Pattern Recognition",
+        "MCP Tool: Financial Product Disclosure Compliance Check",
+        "MCP Tool: Unfair/Deceptive Practices Identification (UDAAP)",
+        "MCP Tool: Mortgage & Loan Servicing Audit",
+        "MCP Tool: Credit Reporting Accuracy Verification",
+        "MCP Tool: Regulatory Rulemaking Impact Analysis",
+        "MCP Tool: Enforcement Action Support (Evidence Gathering)",
+        "MCP Tool: Financial Literacy Resource Generation"
+      ]
+    },
+    {
+      "agencyName": "Consumer Product Safety Commission",
+      "agencyLabel": "CPSC",
+      "agencyMission": "Enforces the Consumer Product Safety Act, ensuring that consumer products are safe for their intended use.",
+      "relevantAgents": [
+        "regulatory-compliance-agent",
+        "engineering-services-agent",
+        "materials-science-agent",
+        "data-science-agent",
+        "legal-agent",
+        "public-health-agent",
+        "research-services-agent",
+        "toxicology-agent.ts"
+      ],
+      "requiredMCPTools": [
+        "MCP Tool: Product Hazard Analysis & Risk Assessment",
+        "MCP Tool: Injury Data Analysis (NEISS Database Query)",
+        "MCP Tool: Safety Standard Compliance Verification",
+        "MCP Tool: Recall Effectiveness Monitoring",
+        "MCP Tool: Chemical/Material Safety Evaluation",
+        "MCP Tool: Product Testing Protocol Generation",
+        "MCP Tool: Import Surveillance Risk Scoring",
+        "MCP Tool: Public Safety Alert Drafting"
+      ]
+    },
+    {
+      "agencyName": "Defense Nuclear Facilities Safety Board",
+      "agencyLabel": "DNFSB",
+      "agencyMission": "Provides oversight of public health and safety at defense nuclear facilities, employing advanced analytics to mitigate risks.",
+      "relevantAgents": [
+        "nuclear-energy-agent",
+        "engineering-services-agent",
+        "regulatory-compliance-agent",
+        "public-health-agent",
+        "materials-science-agent",
+        "data-science-agent",
+        "project-management-agent",
+        "environmental-agent.ts"
+      ],
+      "requiredMCPTools": [
+        "MCP Tool: Nuclear Facility Safety System Audit",
+        "MCP Tool: Probabilistic Risk Assessment (PRA) Analysis",
+        "MCP Tool: Radiation Safety Compliance Check",
+        "MCP Tool: Structural Integrity Analysis (Nuclear Facilities)",
+        "MCP Tool: Operational Procedure Safety Review",
+        "MCP Tool: Safety Culture Assessment Data Analysis",
+        "MCP Tool: Technical Safety Requirement Verification",
+        "MCP Tool: Independent Safety Recommendation Generation"
+      ]
+    },
+    {
+      "agencyName": "Equal Employment Opportunity Commission",
+      "agencyLabel": "EEOC",
+      "agencyMission": "Uses data-driven tools to investigate and prevent workplace discrimination, advancing equal opportunities for all employees.",
+      "relevantAgents": [
+        "legal-agent",
+        "human-resources-agent",
+        "regulatory-compliance-agent",
+        "data-science-agent",
+        "social-work-agent",
+        "ethics-compliance-agent",
+        "research-services-agent.ts"
+      ],
+      "requiredMCPTools": [
+        "MCP Tool: Discrimination Complaint Intake & Triage",
+        "MCP Tool: Workplace Demographics Statistical Analysis (EEO-1)",
+        "MCP Tool: Investigation Case Management Support",
+        "MCP Tool: Mediation & Conciliation Facilitation Aid",
+        "MCP Tool: Legal Precedent Research (Employment Law)",
+        "MCP Tool: Systemic Discrimination Pattern Identification",
+        "MCP Tool: Reasonable Accommodation Assessment Aid",
+        "MCP Tool: Compliance Training Material Generation"
+      ]
+    },
+    {
+      "agencyName": "Export-Import Bank of the United States",
+      "agencyLabel": "EXIM",
+      "agencyMission": "Expands U.S. trade by providing export financing solutions that support jobs and economic growth.",
+      "relevantAgents": [
+        "financial-agent",
+        "international-trade-agent",
+        "regulatory-compliance-agent",
+        "legal-agent",
+        "data-science-agent",
+        "economic-development-agent.ts" // Assuming this exists or is covered by financial/trade
+      ],
+      "requiredMCPTools": [
+        "MCP Tool: Export Loan Application Underwriting",
+        "MCP Tool: Political & Credit Risk Assessment (Foreign Markets)",
+        "MCP Tool: Loan Guarantee Structuring & Compliance",
+        "MCP Tool: U.S. Content Verification (for financing eligibility)",
+        "MCP Tool: Portfolio Risk Analysis & Management",
+        "MCP Tool: Competitor Financing Analysis (Foreign ECAs)",
+        "MCP Tool: Economic Impact Assessment (Jobs Supported)",
+        "MCP Tool: Trade Finance Documentation Review"
+      ]
+    },
+    {
+      "agencyName": "Farm Credit Administration",
+      "agencyLabel": "FCA",
+      "agencyMission": "Oversees the Farm Credit System, ensuring reliable credit for agriculture and rural communities.",
+      "relevantAgents": [
+        "financial-agent",
+        "agriculture-agent",
+        "regulatory-compliance-agent",
+        "legal-agent",
+        "data-science-agent.ts"
+      ],
+      "requiredMCPTools": [
+        "MCP Tool: Farm Credit Institution Examination & Rating",
+        "MCP Tool: Agricultural Loan Portfolio Risk Analysis",
+        "MCP Tool: Regulatory Capital Adequacy Check",
+        "MCP Tool: Compliance Audit (FCA Regulations)",
+        "MCP Tool: Rural Credit Market Condition Analysis",
+        "MCP Tool: Farm Credit System Stress Testing",
+        "MCP Tool: Cooperative Governance Review Aid",
+        "MCP Tool: Collateral Valuation Analysis (Agricultural Assets)"
+      ]
+    },
+    {
+      "agencyName": "Federal Communications Commission",
+      "agencyLabel": "FCC",
+      "agencyMission": "Utilizes data-driven insights and machine learning to regulate and promote telecommunications services, fostering innovation and connectivity.",
+      "relevantAgents": [
+        "telecommunications-agent",
+        "regulatory-compliance-agent",
+        "legal-agent",
+        "engineering-services-agent",
+        "data-science-agent",
+        "economics-agent.ts" // Assuming specialization
+      ],
+      "requiredMCPTools": [
+        "MCP Tool: Spectrum Allocation Analysis & Auction Support",
+        "MCP Tool: Broadcast License Application Review",
+        "MCP Tool: Network Neutrality Compliance Monitoring",
+        "MCP Tool: Universal Service Fund Allocation Analysis",
+        "MCP Tool: Telecom Merger Competitive Impact Assessment",
+        "MCP Tool: Equipment Authorization Compliance Check",
+        "MCP Tool: Consumer Complaint Analysis (Telecom Services)",
+        "MCP Tool: Broadband Deployment Data Mapping & Analysis"
+      ]
+    },
+    {
+      "agencyName": "Federal Deposit Insurance Corporation",
+      "agencyLabel": "FDIC",
+      "agencyMission": "Insures bank deposits, supervises financial institutions, and safeguards stability in the U.S. banking system.",
+      "relevantAgents": [
+        "financial-agent",
+        "regulatory-compliance-agent",
+        "legal-agent",
+        "data-science-agent",
+        "risk-management-agent.ts" // Assuming specialization
+      ],
+      "requiredMCPTools": [
+        "MCP Tool: Bank Examination & Risk Rating (CAMELS)",
+        "MCP Tool: Deposit Insurance Assessment Calculation",
+        "MCP Tool: Bank Failure Resolution Planning & Simulation",
+        "MCP Tool: Regulatory Capital Compliance Monitoring",
+        "MCP Tool: Financial Stability Risk Indicator Analysis",
+        "MCP Tool: Anti-Money Laundering (AML) Compliance Audit Aid",
+        "MCP Tool: Receivership Management Support Tool",
+        "MCP Tool: Consumer Protection Regulation Enforcement (Banking)"
+      ]
+    },
+    {
+      "agencyName": "Federal Election Commission",
+      "agencyLabel": "FEC",
+      "agencyMission": "Oversees campaign finance laws, using analytics to detect violations and maintain transparency in federal elections.",
+      "relevantAgents": [
+        "legal-agent",
+        "regulatory-compliance-agent",
+        "data-science-agent",
+        "political-services-agent",
+        "auditing-agent.ts" // Assuming specialization or covered by accounting
+      ],
+      "requiredMCPTools": [
+        "MCP Tool: Campaign Finance Report Analysis & Validation",
+        "MCP Tool: Contribution Limit Compliance Check",
+        "MCP Tool: Independent Expenditure Disclosure Review",
+        "MCP Tool: Audit Selection & Support Tool",
+        "MCP Tool: Enforcement Case Management & Prioritization",
+        "MCP Tool: Foreign Influence Detection Analysis",
+        "MCP Tool: Advisory Opinion Research & Drafting Aid",
+        "MCP Tool: Public Disclosure Database Query & Reporting"
+      ]
+    },
+    {
+      "agencyName": "Federal Housing Finance Agency",
+      "agencyLabel": "FHFA",
+      "agencyMission": "Regulates housing finance, overseeing Fannie Mae, Freddie Mac, and Federal Home Loan Banks.",
+      "relevantAgents": [
+        "financial-agent",
+        "real-estate-agent",
+        "regulatory-compliance-agent",
+        "legal-agent",
+        "data-science-agent",
+        "risk-management-agent.ts"
+      ],
+      "requiredMCPTools": [
+        "MCP Tool: GSE Examination & Capital Adequacy Monitoring",
+        "MCP Tool: Mortgage-Backed Security (MBS) Risk Analysis",
+        "MCP Tool: FHLBank System Oversight & Compliance Check",
+        "MCP Tool: Housing Market Condition Analysis",
+        "MCP Tool: Underwriting Standards Review & Impact Assessment",
+        "MCP Tool: Affordable Housing Goal Compliance Tracking",
+        "MCP Tool: Counterparty Risk Assessment (Mortgage Originators)",
+        "MCP Tool: Conservatorship Operations Support (if applicable)"
+      ]
+    },
+    {
+      "agencyName": "Federal Labor Relations Authority",
+      "agencyLabel": "FLRA",
+      "agencyMission": "Oversees federal labor-management relations, resolving disputes and ensuring collective bargaining rights.",
+      "relevantAgents": [
+        "legal-agent",
+        "human-resources-agent",
+        "regulatory-compliance-agent",
+        "mediation-arbitration-agent.ts" // Assuming specialization
+      ],
+      "requiredMCPTools": [
+        "MCP Tool: Unfair Labor Practice (ULP) Case Adjudication Support",
+        "MCP Tool: Bargaining Unit Determination Analysis",
+        "MCP Tool: Representation Election Management Aid",
+        "MCP Tool: Negotiability Appeal Resolution Support",
+        "MCP Tool: Collective Bargaining Agreement Compliance Check",
+        "MCP Tool: Arbitration Award Review Aid",
+        "MCP Tool: Federal Labor Law Precedent Research",
+        "MCP Tool: Impasse Resolution Facilitation Tool"
+      ]
+    },
+    {
+      "agencyName": "Federal Maritime Commission",
+      "agencyLabel": "FMC",
+      "agencyMission": "Regulates international ocean transportation, promoting fair competition and integrity in maritime commerce.",
+      "relevantAgents": [
+        "logistics-agent",
+        "supply-chain-agent",
+        "international-trade-agent",
+        "regulatory-compliance-agent",
+        "legal-agent",
+        "economics-agent.ts"
+      ],
+      "requiredMCPTools": [
+        "MCP Tool: Ocean Carrier Agreement Review (Antitrust Analysis)",
+        "MCP Tool: Ocean Transportation Intermediary (OTI) Licensing Check",
+        "MCP Tool: Shipping Act Violation Investigation Support",
+        "MCP Tool: Detention & Demurrage Complaint Analysis",
+        "MCP Tool: Tariff Filing Compliance Verification",
+        "MCP Tool: Port Congestion Data Analysis",
+        "MCP Tool: Controlled Carrier Monitoring",
+        "MCP Tool: Alternative Dispute Resolution Support (Shipping)"
+      ]
+    },
+    {
+      "agencyName": "Federal Mediation & Conciliation Service",
+      "agencyLabel": "FMCS",
+      "agencyMission": "Mediates labor disputes across federal agencies and private sectors, fostering cooperative labor-management relationships.",
+      "relevantAgents": [
+        "mediation-arbitration-agent",
+        "human-resources-agent",
+        "legal-agent",
+        "negotiation-support-agent.ts" // Assuming specialization
+      ],
+      "requiredMCPTools": [
+        "MCP Tool: Mediation Case Scheduling & Management",
+        "MCP Tool: Collective Bargaining Agreement Analysis (for disputes)",
+        "MCP Tool: Interest-Based Bargaining Facilitation Aid",
+        "MCP Tool: Relationship Development Initiative Planning Tool",
+        "MCP Tool: Arbitration Panel Selection Support",
+        "MCP Tool: Labor-Management Training Material Generation",
+        "MCP Tool: Dispute Trend Analysis",
+        "MCP Tool: Confidential Communication Channel for Mediation"
+      ]
+    },
+    {
+      "agencyName": "Federal Mine Safety and Health Review Commission",
+      "agencyLabel": "FMSHRC",
+      "agencyMission": "Adjudicates disputes under the Mine Act, ensuring safe working conditions in the nation's mines.",
+      "relevantAgents": [
+        "legal-agent",
+        "mining-agent",
+        "regulatory-compliance-agent",
+        "health-safety-agent.ts" // Assuming specialization
+      ],
+      "requiredMCPTools": [
+        "MCP Tool: Mine Safety Case Docketing & Management",
+        "MCP Tool: Adjudication Decision Drafting Support (based on precedent)",
+        "MCP Tool: Mine Act Regulation & Precedent Research",
+        "MCP Tool: Penalty Assessment Calculation Review",
+        "MCP Tool: Evidence Management System (Hearings)",
+        "MCP Tool: Discrimination Complaint Review (Mine Safety Context)",
+        "MCP Tool: Hearing Scheduling & Logistics Tool",
+        "MCP Tool: Settlement Agreement Compliance Check"
+      ]
+    },
+    {
+      "agencyName": "The Federal Reserve System",
+      "agencyLabel": "FED",
+      "agencyMission": "Oversees monetary policy, regulates banks, and maintains financial stability through advanced data analytics.",
+      "relevantAgents": [
+        "financial-agent",
+        "economics-agent",
+        "regulatory-compliance-agent",
+        "data-science-agent",
+        "risk-management-agent",
+        "legal-agent.ts"
+      ],
+      "requiredMCPTools": [
+        "MCP Tool: Monetary Policy Analysis & Simulation (e.g., Taylor Rule)",
+        "MCP Tool: Economic Indicator Forecasting (GDP, Inflation, Unemployment)",
+        "MCP Tool: Bank Supervision & Stress Testing Analysis (CCAR/DFAST)",
+        "MCP Tool: Financial Stability Monitoring Dashboard",
+        "MCP Tool: Payment System Risk Analysis",
+        "MCP Tool: Reserve Requirement Calculation & Monitoring",
+        "MCP Tool: Open Market Operations Support Tool",
+        "MCP Tool: Regulatory Rulemaking Economic Impact Analysis"
+      ]
+    },
+    {
+      "agencyName": "Federal Trade Commission",
+      "agencyLabel": "FTC",
+      "agencyMission": "Uses big data and predictive analytics to uphold consumer protection and maintain competitive markets.",
+      "relevantAgents": [
+        "legal-agent",
+        "regulatory-compliance-agent",
+        "economics-agent",
+        "data-science-agent",
+        "advertising-agent", // For deceptive practices
+        "cybersecurity-agent", // For data security/privacy issues
+        "ethics-compliance-agent.ts"
+      ],
+      "requiredMCPTools": [
+        "MCP Tool: Antitrust Merger Review & Market Concentration Analysis",
+        "MCP Tool: Consumer Fraud & Deceptive Advertising Detection",
+        "MCP Tool: Data Privacy & Security Compliance Audit",
+        "MCP Tool: Rulemaking Support (e.g., COPPA, CAN-SPAM)",
+        "MCP Tool: Investigation & Litigation Support System",
+        "MCP Tool: Economic Analysis of Competitive Effects",
+        "MCP Tool: Consumer Complaint Data Analysis & Reporting",
+        "MCP Tool: Consent Decree Compliance Monitoring"
+      ]
+    },
+    {
+      "agencyName": "General Services Administration",
+      "agencyLabel": "GSA",
+      "agencyMission": "Applies advanced analytics and automation to streamline federal procurement and property management.",
+      "relevantAgents": [
+        "procurement-agent", // Assuming specialization
+        "property-services-agent",
+        "logistics-agent",
+        "financial-agent",
+        "project-management-agent",
+        "data-science-agent",
+        "administrative-services-agent",
+        "sustainability-agent.ts" // For buildings/fleet
+      ],
+      "requiredMCPTools": [
+        "MCP Tool: Federal Procurement Contract Management (SAM/FPDS interface)",
+        "MCP Tool: Government-Wide Acquisition Contract (GWAC) Utilization Analysis",
+        "MCP Tool: Federal Building Operations & Maintenance Optimization",
+        "MCP Tool: Real Property Portfolio Analysis & Space Utilization",
+        "MCP Tool: Federal Fleet Management & Optimization",
+        "MCP Tool: Sustainable Procurement Compliance Tracking",
+        "MCP Tool: Shared Services Catalog & Pricing Analysis",
+        "MCP Tool: Vendor Performance & Risk Assessment"
+      ]
+    },
+    {
+      "agencyName": "Inter-American Foundation",
+      "agencyLabel": "IAF",
+      "agencyMission": "Supports grassroots development projects in Latin America and the Caribbean, fostering citizen-led solutions to poverty.",
+      "relevantAgents": [
+        "international-trade-agent", // Focus on development aspect
+        "sustainable-development-agent",
+        "non-profit-organizations-agent",
+        "financial-agent", // Grant management
+        "project-management-agent",
+        "research-services-agent",
+        "community-development-agent.ts" // Assuming specialization
+      ],
+      "requiredMCPTools": [
+        "MCP Tool: Grassroots Grant Proposal Evaluation",
+        "MCP Tool: Community Needs Assessment Data Aggregation",
+        "MCP Tool: Development Project Impact Monitoring (Social & Economic)",
+        "MCP Tool: Grant Financial Management & Reporting Tool",
+        "MCP Tool: Local Partner Capacity Building Resource Finder",
+        "MCP Tool: Cross-Cultural Collaboration Support",
+        "MCP Tool: Project Risk Assessment (Local Context)",
+        "MCP Tool: Network Weaver (Connecting Grantees)"
+      ]
+    },
+    {
+      "agencyName": "Merit Systems Protection Board",
+      "agencyLabel": "MSPB",
+      "agencyMission": "Safeguards federal merit systems, using analytics to adjudicate appeals and uphold fair employment practices.",
+      "relevantAgents": [
+        "legal-agent",
+        "human-resources-agent",
+        "regulatory-compliance-agent",
+        "data-science-agent",
+        "ethics-compliance-agent.ts"
+      ],
+      "requiredMCPTools": [
+        "MCP Tool: Federal Personnel Action Appeal Adjudication Support",
+        "MCP Tool: Whistleblower Retaliation Case Analysis",
+        "MCP Tool: Prohibited Personnel Practice Investigation Aid",
+        "MCP Tool: Merit System Principles Compliance Audit Tool",
+        "MCP Tool: Federal HR Law & Precedent Research Database",
+        "MCP Tool: Statistical Analysis of Personnel Actions (Disparity Detection)",
+        "MCP Tool: Case Docketing & Management System",
+        "MCP Tool: Decision Drafting Assistance (Based on Findings)"
+      ]
+    },
+    {
+      "agencyName": "National Aeronautics and Space Administration",
+      "agencyLabel": "NASA",
+      "agencyMission": "Explores space and aeronautics, leveraging machine learning to advance scientific discoveries and future human exploration.",
+      "relevantAgents": [
+        "aerospace-engineering-agent", // Assuming specialization
+        "astronomy-agent",
+        "robotics-agent",
+        "materials-science-agent",
+        "data-science-agent",
+        "artificial-intelligence-agent",
+        "project-management-agent",
+        "engineering-services-agent",
+        "scientific-research-agent",
+        "telecommunications-agent.ts" // Deep space network
+      ],
+      "requiredMCPTools": [
+        "MCP Tool: Mission Trajectory Optimization & Simulation",
+        "MCP Tool: Scientific Data Analysis (Telemetry, Imagery)",
+        "MCP Tool: Autonomous Rover Operation & Path Planning",
+        "MCP Tool: Spacecraft Systems Health Monitoring & Diagnostics",
+        "MCP Tool: Aeronautical Design & CFD Simulation",
+        "MCP Tool: Materials Science Analysis for Extreme Environments",
+        "MCP Tool: Grant Proposal Review Support (Scientific Merit)",
+        "MCP Tool: Deep Space Network Scheduling & Communication",
+        "MCP Tool: Risk Assessment for Space Missions"
+      ]
+    },
+    {
+      "agencyName": "National Archives and Records Administration",
+      "agencyLabel": "NARA",
+      "agencyMission": "Leverages digitization and data analytics to preserve and provide access to the nation's historical records.",
+      "relevantAgents": [
+        "library-science-agent",
+        "information-architecture-agent",
+        "data-science-agent",
+        "digital-preservation-agent", // Assuming specialization
+        "legal-agent", // Declassification, FOIA
+        "administrative-services-agent",
+        "cybersecurity-agent.ts" // Protecting digital archives
+      ],
+      "requiredMCPTools": [
+        "MCP Tool: Records Appraisal & Scheduling Guidance",
+        "MCP Tool: Digital Object Preservation & Format Migration",
+        "MCP Tool: Archival Description & Metadata Generation (EAD, Dublin Core)",
+        "MCP Tool: Optical Character Recognition (OCR) & Indexing Pipeline",
+        "MCP Tool: Declassification Review Support Tool",
+        "MCP Tool: Finding Aid Generation & Online Access Portal",
+        "MCP Tool: Digital Archive Security & Integrity Check",
+        "MCP Tool: FOIA Request Processing Support"
+      ]
+    },
+    {
+      "agencyName": "National Council on Disability",
+      "agencyLabel": "NCD",
+      "agencyMission": "Advises the government on disability policies, employing advanced data analytics to promote inclusive practices nationwide.",
+      "relevantAgents": [
+        "accessibility-services-agent",
+        "regulatory-compliance-agent",
+        "legal-agent",
+        "public-health-agent",
+        "social-work-agent",
+        "data-science-agent",
+        "research-services-agent.ts"
+      ],
+      "requiredMCPTools": [
+        "MCP Tool: Disability Policy Impact Analysis",
+        "MCP Tool: Accessibility Compliance Audit Tool (ADA, 508)",
+        "MCP Tool: Analysis of Disability Statistics & Trends",
+        "MCP Tool: Legislative Recommendation Drafting Support",
+        "MCP Tool: Public Comment Analysis on Disability Issues",
+        "MCP Tool: Best Practices Research (Inclusion & Accessibility)",
+        "MCP Tool: Interagency Collaboration Facilitator (Disability Policy)",
+        "MCP Tool: Report Generation on State of Disability"
+      ]
+    },
+    {
+      "agencyName": "National Credit Union Administration",
+      "agencyLabel": "NCUA",
+      "agencyMission": "Insures deposits and regulates federal credit unions, safeguarding the stability of the credit union system.",
+      "relevantAgents": [
+        "financial-agent",
+        "regulatory-compliance-agent",
+        "legal-agent",
+        "data-science-agent",
+        "risk-management-agent.ts"
+      ],
+      "requiredMCPTools": [
+        "MCP Tool: Credit Union Examination & Risk Rating (CAMEL)",
+        "MCP Tool: Share Insurance Fund Assessment Calculation",
+        "MCP Tool: Credit Union Failure Prediction Modeling",
+        "MCP Tool: Regulatory Compliance Monitoring (NCUA Rules)",
+        "MCP Tool: Field of Membership Application Review Aid",
+        "MCP Tool: Liquidity & Interest Rate Risk Analysis (Credit Unions)",
+        "MCP Tool: Troubled Credit Union Supervision Support",
+        "MCP Tool: Consumer Protection Compliance Check (Credit Unions)"
+      ]
+    },
+    {
+      "agencyName": "National Endowment for the Arts",
+      "agencyLabel": "NEA",
+      "agencyMission": "Fosters creativity and cultural enrichment by providing grants and partnerships supporting arts across the nation.",
+      "relevantAgents": [
+        "arts-management-agent", // Assuming specialization
+        "non-profit-organizations-agent",
+        "financial-agent", // Grant management
+        "project-management-agent",
+        "research-services-agent",
+        "education-agent", // Arts education aspect
+        "community-development-agent.ts"
+      ],
+      "requiredMCPTools": [
+        "MCP Tool: Arts Grant Application Review & Panel Support",
+        "MCP Tool: Peer Reviewer Matching & Management",
+        "MCP Tool: Grant Award Processing & Financial Tracking",
+        "MCP Tool: Arts Program Impact Assessment Tool",
+        "MCP Tool: National Arts Participation Data Analysis",
+        "MCP Tool: Cultural Asset Mapping Tool",
+        "MCP Tool: Partnership Development Support (Arts Orgs)",
+        "MCP Tool: Accessibility Compliance Check (Arts Funding)"
+      ]
+    },
+    {
+      "agencyName": "National Labor Relations Board",
+      "agencyLabel": "NLRB",
+      "agencyMission": "Protects employees' rights, investigates unfair labor practices, and oversees union elections.",
+      "relevantAgents": [
+        "legal-agent",
+        "human-resources-agent",
+        "regulatory-compliance-agent",
+        "mediation-arbitration-agent.ts"
+      ],
+      "requiredMCPTools": [
+        "MCP Tool: Unfair Labor Practice (ULP) Charge Investigation Support",
+        "MCP Tool: Representation Petition Processing & Election Management",
+        "MCP Tool: Administrative Law Judge Decision Support",
+        "MCP Tool: NLRA Case Law & Precedent Research",
+        "MCP Tool: Collective Bargaining Data Analysis",
+        "MCP Tool: Compliance Monitoring (Settlements, Board Orders)",
+        "MCP Tool: Case Docketing & Workflow Management",
+        "MCP Tool: Outreach & Education Material Generation (NLRA Rights)"
+      ]
+    },
+    {
+      "agencyName": "National Mediation Board",
+      "agencyLabel": "NMB",
+      "agencyMission": "Facilitates labor-management relations in the railroad and airline industries, promoting peaceful dispute resolution.",
+      "relevantAgents": [
+        "mediation-arbitration-agent",
+        "legal-agent",
+        "transportation-agent", // Domain context
+        "human-resources-agent.ts" // Domain context
+      ],
+      "requiredMCPTools": [
+        "MCP Tool: Rail & Airline Mediation Case Management",
+        "MCP Tool: Representation Investigation & Election Tool (RLA)",
+        "MCP Tool: Arbitration Scheduling & Panel Management (RLA)",
+        "MCP Tool: Collective Bargaining Agreement Database (Rail/Airline)",
+        "MCP Tool: Impasse Determination Analysis Aid",
+        "MCP Tool: Mediator Assignment & Support Tools",
+        "MCP Tool: RLA Precedent & Procedure Research",
+        "MCP Tool: Emergency Board Creation Support (Presidential)"
+      ]
+    },
+    {
+      "agencyName": "National Science Foundation",
+      "agencyLabel": "NSF",
+      "agencyMission": "Accelerates research breakthroughs and fosters innovation across scientific disciplines.",
+      "relevantAgents": [
+        "scientific-research-agent",
+        "data-science-agent",
+        "project-management-agent", // Grant management
+        "education-agent", // STEM education
+        "engineering-services-agent",
+        "various-science-domain-agents" // e.g., biology, physics, computer science
+      ],
+      "requiredMCPTools": [
+        "MCP Tool: Grant Proposal Peer Review Management",
+        "MCP Tool: Research Portfolio Analysis & Gap Identification",
+        "MCP Tool: Scientific Merit & Broader Impacts Assessment Aid",
+        "MCP Tool: Grant Award Financial Management & Reporting",
+        "MCP Tool: Research Infrastructure Needs Assessment",
+        "MCP Tool: STEM Education Program Evaluation",
+        "MCP Tool: Cross-Disciplinary Collaboration Opportunity Finder",
+        "MCP Tool: Intellectual Property & Data Management Plan Review"
+      ]
+    },
+    {
+      "agencyName": "National Transportation Safety Board",
+      "agencyLabel": "NTSB",
+      "agencyMission": "Investigates transportation accidents to improve safety standards across aviation, highways, railroads, marine, and pipelines.",
+      "relevantAgents": [
+        "transportation-agent",
+        "aviation-agent",
+        "railway-engineering-agent",
+        "marine-services-agent",
+        "pipeline-safety-agent", // Assuming specialization
+        "engineering-services-agent",
+        "materials-science-agent",
+        "human-factors-agent", // Assuming specialization or part of ergonomics/psychology
+        "data-science-agent.ts"
+      ],
+      "requiredMCPTools": [
+        "MCP Tool: Accident Investigation Data Collection & Management",
+        "MCP Tool: Causal Factor Analysis (Root Cause Analysis)",
+        "MCP Tool: Vehicle/Vessel Performance Data Recorder Analysis (Black Box)",
+        "MCP Tool: Materials Failure Analysis Support",
+        "MCP Tool: Human Performance & Error Analysis Tool",
+        "MCP Tool: Safety Recommendation Tracking & Effectiveness Analysis",
+        "MCP Tool: Accident Simulation & Reconstruction Aid",
+        "MCP Tool: Public Docket Management System"
+      ]
+    },
+    {
+      "agencyName": "Nuclear Regulatory Commission",
+      "agencyLabel": "NRC",
+      "agencyMission": "Enforces safety standards for nuclear power plants and materials, using real-time data and predictive analytics to prevent accidents.",
+      "relevantAgents": [
+        "nuclear-energy-agent",
+        "regulatory-compliance-agent",
+        "engineering-services-agent",
+        "materials-science-agent",
+        "public-health-agent",
+        "data-science-agent",
+        "security-services-agent", // Physical & cyber security of plants
+        "environmental-agent.ts"
+      ],
+      "requiredMCPTools": [
+        "MCP Tool: Nuclear Reactor Licensing Application Review",
+        "MCP Tool: Plant Inspection & Performance Indicator Analysis",
+        "MCP Tool: Radiation Protection Program Compliance Audit",
+        "MCP Tool: Nuclear Material Security Assessment",
+        "MCP Tool: Safety Culture Assessment Tool",
+        "MCP Tool: Probabilistic Risk Assessment (PRA) Review",
+        "MCP Tool: Enforcement Action Tracking & Management",
+        "MCP Tool: Emergency Preparedness Drill Evaluation Aid"
+      ]
+    },
+    {
+      "agencyName": "Nuclear Waste Technical Review Board",
+      "agencyLabel": "NWTRB",
+      "agencyMission": "Evaluates the technical soundness of nuclear waste disposal programs, ensuring public health and safety.",
+      "relevantAgents": [
+        "nuclear-energy-agent",
+        "geology-agent", // Assuming earth-sciences covers this
+        "materials-science-agent",
+        "engineering-services-agent",
+        "hydrology-agent",
+        "environmental-agent",
+        "scientific-research-agent.ts"
+      ],
+      "requiredMCPTools": [
+        "MCP Tool: Nuclear Waste Repository Site Suitability Analysis",
+        "MCP Tool: Waste Form & Container Performance Modeling",
+        "MCP Tool: Geological Disposal System Design Review",
+        "MCP Tool: Long-Term Performance Assessment Analysis",
+        "MCP Tool: Transportation Safety Assessment (Nuclear Waste)",
+        "MCP Tool: Independent Technical Review Report Generation",
+        "MCP Tool: DOE Program Document Evaluation Tool",
+        "MCP Tool: International Nuclear Waste Program Comparison"
+      ]
+    },
+    {
+      "agencyName": "Occupational Safety and Health Review Commission",
+      "agencyLabel": "OSHRC",
+      "agencyMission": "Adjudicates disputes arising from OSHA enforcement, promoting safer workplaces nationwide.",
+      "relevantAgents": [
+        "legal-agent",
+        "health-safety-agent",
+        "regulatory-compliance-agent",
+        "ergonomics-agent",
+        "industrial-hygiene-agent.ts" // Assuming specialization
+      ],
+      "requiredMCPTools": [
+        "MCP Tool: OSHA Citation Contest Adjudication Support",
+        "MCP Tool: Workplace Safety & Health Regulation Research",
+        "MCP Tool: Case Docketing & Management System (OSHRC)",
+        "MCP Tool: Evidence Review Tool (Inspection Reports, Witness Testimony)",
+        "MCP Tool: Penalty Calculation Review & Adjustment Aid",
+        "MCP Tool: Decision Drafting Assistance (OSHRC Precedent)",
+        "MCP Tool: Settlement Agreement Review & Approval Aid",
+        "MCP Tool: Hearing Scheduling & Management Tool"
+      ]
+    },
+    {
+      "agencyName": "Office of Government Ethics",
+      "agencyLabel": "OGE",
+      "agencyMission": "Promotes ethical standards across the executive branch, using advanced tools to track disclosures and prevent conflicts of interest.",
+      "relevantAgents": [
+        "ethics-compliance-agent",
+        "legal-agent",
+        "regulatory-compliance-agent",
+        "data-science-agent",
+        "auditing-agent.ts"
+      ],
+      "requiredMCPTools": [
+        "MCP Tool: Financial Disclosure Review & Conflict Identification (OGE Forms)",
+        "MCP Tool: Ethics Agreement Compliance Monitoring",
+        "MCP Tool: Government Ethics Regulation Database & Advisory Tool",
+        "MCP Tool: Recusal Determination Support Tool",
+        "MCP Tool: Ethics Training Content Generation & Tracking",
+        "MCP Tool: Agency Ethics Program Audit Tool",
+        "MCP Tool: Conflict of Interest Analysis (Statutes & Regs)",
+        "MCP Tool: Public Disclosure Portal Management"
+      ]
+    },
+    {
+      "agencyName": "Office of Personnel Management",
+      "agencyLabel": "OPM",
+      "agencyMission": "Employs predictive analytics and automation to optimize federal workforce management and enhance recruitment, retention, and human capital strategies.",
+      "relevantAgents": [
+        "human-resources-agent",
+        "data-science-agent",
+        "administrative-services-agent",
+        "legal-agent", // Civil service law
+        "financial-agent", // Benefits admin
+        "cybersecurity-agent.ts" // Protecting personnel data
+      ],
+      "requiredMCPTools": [
+        "MCP Tool: Federal Job Classification & Qualification Standard Tool",
+        "MCP Tool: Federal Employee Benefits Administration Support (FEHB, FERS)",
+        "MCP Tool: Workforce Planning & Analytics Dashboard",
+        "MCP Tool: Federal Hiring Process Management & Analysis (USAJOBS data)",
+        "MCP Tool: Performance Management System Guidance Tool",
+        "MCP Tool: Security Clearance Adjudication Support (Background Checks)",
+        "MCP Tool: Federal HR Policy Development & Dissemination",
+        "MCP Tool: Retirement Eligibility Calculation & Processing Aid"
+      ]
+    },
+    {
+      "agencyName": "Office of Special Counsel",
+      "agencyLabel": "OSC",
+      "agencyMission": "Investigates whistleblower disclosures and protects federal employees from prohibited personnel practices.",
+      "relevantAgents": [
+        "legal-agent",
+        "human-resources-agent",
+        "ethics-compliance-agent",
+        "investigation-agent.ts" // Assuming specialization
+      ],
+      "requiredMCPTools": [
+        "MCP Tool: Whistleblower Disclosure Intake & Assessment",
+        "MCP Tool: Prohibited Personnel Practice (PPP) Investigation Management",
+        "MCP Tool: Hatch Act Compliance Investigation Tool",
+        "MCP Tool: Retaliation Claim Analysis Support",
+        "MCP Tool: Corrective Action & Disciplinary Action Recommendation Aid",
+        "MCP Tool: Case Litigation Support (MSPB/Courts)",
+        "MCP Tool: Safe Channel Communication Platform",
+        "MCP Tool: USERRA Compliance Investigation Tool"
+      ]
+    },
+    {
+      "agencyName": "Peace Corps",
+      "agencyLabel": "PeaceCorps",
+      "agencyMission": "Uses data-driven strategies to match volunteers to global development projects, fostering cross-cultural exchange and support.",
+      "relevantAgents": [
+        "international-relations-agent", // Assuming specialization
+        "project-management-agent",
+        "education-agent",
+        "health-services-agent", // Assuming specialization
+        "agriculture-agent",
+        "community-development-agent",
+        "administrative-services-agent", // Volunteer management
+        "security-services-agent.ts" // Volunteer safety
+      ],
+      "requiredMCPTools": [
+        "MCP Tool: Volunteer Application Processing & Skill Matching",
+        "MCP Tool: Host Country Project Needs Assessment",
+        "MCP Tool: Volunteer Training Curriculum Management",
+        "MCP Tool: In-Country Project Monitoring & Support Tool",
+        "MCP Tool: Volunteer Health & Safety Incident Management",
+        "MCP Tool: Cross-Cultural Adaptation Resource Library",
+        "MCP Tool: Program Evaluation & Impact Assessment",
+        "MCP Tool: Emergency Evacuation Planning & Coordination Aid"
+      ]
+    },
+    {
+      "agencyName": "Pension Benefit Guaranty Corporation",
+      "agencyLabel": "PBGC",
+      "agencyMission": "Protects the retirement incomes of American workers by insuring defined-benefit pension plans nationwide.",
+      "relevantAgents": [
+        "financial-agent", // Actuarial, investment
+        "insurance-agent", // Conceptually
+        "legal-agent", // ERISA, bankruptcy
+        "regulatory-compliance-agent",
+        "data-science-agent.ts"
+      ],
+      "requiredMCPTools": [
+        "MCP Tool: Pension Plan Funding Level Monitoring & Analysis",
+        "MCP Tool: Premium Calculation & Collection Tool",
+        "MCP Tool: Plan Termination Processing & Trusteeship Management",
+        "MCP Tool: Benefit Calculation & Payment System (Insured Plans)",
+        "MCP Tool: Actuarial Valuation & Liability Estimation",
+        "MCP Tool: Investment Portfolio Management Support (Trust Funds)",
+        "MCP Tool: Early Warning Program Risk Identification",
+        "MCP Tool: ERISA Compliance Audit Aid"
+      ]
+    },
+    {
+      "agencyName": "Railroad Retirement Board",
+      "agencyLabel": "RRB",
+      "agencyMission": "Administers retirement, survivor, and unemployment-sickness benefit programs for railroad workers and their families.",
+      "relevantAgents": [
+        "financial-agent", // Benefits admin
+        "insurance-agent", // Social insurance concept
+        "human-resources-agent", // Benefits focus
+        "legal-agent", // Specific RRA/RUIA laws
+        "administrative-services-agent.ts"
+      ],
+      "requiredMCPTools": [
+        "MCP Tool: Railroad Retirement Benefit Eligibility & Calculation",
+        "MCP Tool: Survivor Benefit Application Processing",
+        "MCP Tool: Railroad Unemployment & Sickness Insurance Claims Processing",
+        "MCP Tool: Earnings Record Management (Railroad Service)",
+        "MCP Tool: Trust Fund Financial Status Monitoring",
+        "MCP Tool: Coordination with Social Security Administration Tool",
+        "MCP Tool: Fraud Detection (Benefit Claims)",
+        "MCP Tool: Customer Service & Inquiry Response Support"
+      ]
+    },
+    {
+      "agencyName": "Securities and Exchange Commission",
+      "agencyLabel": "SEC",
+      "agencyMission": "Deploys sophisticated data analysis to monitor financial markets and combat fraud, ensuring transparency and protecting investors.",
+      "relevantAgents": [
+        "financial-agent",
+        "legal-agent", // Securities law
+        "regulatory-compliance-agent",
+        "data-science-agent",
+        "auditing-agent",
+        "cybersecurity-agent", // Market infrastructure, data breaches
+        "economics-agent.ts" // Market structure analysis
+      ],
+      "requiredMCPTools": [
+        "MCP Tool: Corporate Filing Analysis (EDGAR Database Query/Analytics)",
+        "MCP Tool: Insider Trading Detection Algorithm",
+        "MCP Tool: Market Manipulation Surveillance Tool",
+        "MCP Tool: Broker-Dealer & Investment Adviser Examination Support",
+        "MCP Tool: Securities Offering Registration Review Aid",
+        "MCP Tool: Enforcement Investigation & Litigation Support",
+        "MCP Tool: Whistleblower Tip Processing & Analysis",
+        "MCP Tool: Market Structure Data Analysis (e.g., NBBO, Order Flow)"
+      ]
+    },
+    {
+      "agencyName": "Selective Service Board",
+      "agencyLabel": "SSB",
+      "agencyMission": "Manages draft registration to ensure preparedness for national defense, leveraging advanced data to maintain readiness.",
+      "relevantAgents": [
+        "administrative-services-agent",
+        "data-science-agent", // Database management
+        "regulatory-compliance-agent",
+        "legal-agent", // Related laws
+        "military-defense-agent.ts" // Coordination if activated
+      ],
+      "requiredMCPTools": [
+        "MCP Tool: Draft Registration Database Management & Verification",
+        "MCP Tool: Compliance Monitoring & Enforcement Support",
+        "MCP Tool: Mobilization Readiness Simulation Tool",
+        "MCP Tool: Conscientious Objector Claim Processing Aid",
+        "MCP Tool: Lottery System Generation & Execution (if needed)",
+        "MCP Tool: Public Awareness Campaign Support Tool",
+        "MCP Tool: Interagency Coordination Protocol (DOD, DOJ)",
+        "MCP Tool: Data Security & Privacy Compliance Check"
+      ]
+    },
+    {
+      "agencyName": "Small Business Administration",
+      "agencyLabel": "SBA",
+      "agencyMission": "Supports America's small businesses through loans, counseling, and contracting assistance, fueling entrepreneurial growth.",
+      "relevantAgents": [
+        "financial-agent",
+        "business-services-agent",
+        "legal-agent", // Contracts, regulations
+        "marketing-agent", // Counseling aspect
+        "regulatory-compliance-agent",
+        "disaster-recovery-agent", // Assuming specialization for loans
+        "non-profit-organizations-agent.ts" // Partnering with SBDCs etc.
+      ],
+      "requiredMCPTools": [
+        "MCP Tool: SBA Loan Program Eligibility & Underwriting Tool (7a, 504)",
+        "MCP Tool: Disaster Loan Application Processing",
+        "MCP Tool: Small Business Counseling Resource Matching (SCORE, SBDC)",
+        "MCP Tool: Government Contracting Certification Support (8a, WOSB, SDVOSB)",
+        "MCP Tool: Surety Bond Guarantee Application Review",
+        "MCP Tool: Small Business Innovation Research (SBIR/STTR) Grant Support",
+        "MCP Tool: Lender Oversight & Performance Monitoring",
+        "MCP Tool: Entrepreneurship Training Module Access"
+      ]
+    },
+    {
+      "agencyName": "Social Security Administration",
+      "agencyLabel": "SSA",
+      "agencyMission": "Utilizes data-driven insights and advanced automation to efficiently administer retirement, disability, and survivors' benefits.",
+      "relevantAgents": [
+        "administrative-services-agent",
+        "financial-agent", // Benefit calculation
+        "legal-agent", // Appeals, regulations
+        "healthcare-agent", // Disability determination
+        "data-science-agent",
+        "customer-service-agent",
+        "cybersecurity-agent.ts" // Protecting PII
+      ],
+      "requiredMCPTools": [
+        "MCP Tool: Social Security Benefit Eligibility Determination & Calculation",
+        "MCP Tool: Disability Claim Processing & Medical Evidence Review Aid (SSDI/SSI)",
+        "MCP Tool: Earnings Record Management & Correction Tool",
+        "MCP Tool: Overpayment Detection & Recovery Support",
+        "MCP Tool: Appeals Process Case Management",
+        "MCP Tool: Fraud Prevention & Detection Analytics",
+        "MCP Tool: Customer Service Inquiry Resolution Support (mySSA)",
+        "MCP Tool: Actuarial Analysis Support (Trust Fund Projections)"
+      ]
+    },
+    {
+      "agencyName": "Social Security Advisory Board",
+      "agencyLabel": "SSAB",
+      "agencyMission": "Advises the President and Congress on Social Security policy, providing data-driven insights for program improvements.",
+      "relevantAgents": [
+        "economics-agent",
+        "financial-agent", // Actuarial focus
+        "public-policy-agent", // Assuming specialization
+        "research-services-agent",
+        "data-science-agent",
+        "legal-agent.ts" // Understanding SSA law
+      ],
+      "requiredMCPTools": [
+        "MCP Tool: Social Security Policy Simulation & Impact Modeling",
+        "MCP Tool: Demographic & Economic Trend Analysis (Impact on SSA)",
+        "MCP Tool: Long-Range Solvency Projection Analysis",
+        "MCP Tool: Comparative Analysis of International Social Insurance Systems",
+        "MCP Tool: Public Opinion & Stakeholder Feedback Analysis",
+        "MCP Tool: SSA Program Performance Evaluation Tool",
+        "MCP Tool: Legislative Proposal Analysis & Recommendation Drafting",
+        "MCP Tool: Research Synthesis & Report Generation"
+      ]
+    },
+    {
+      "agencyName": "Tennessee Valley Authority",
+      "agencyLabel": "TVA",
+      "agencyMission": "Provides electricity for business customers and local power distributors, leveraging data analytics to optimize power generation.",
+      "relevantAgents": [
+        "energy-services-agent",
+        "engineering-services-agent", // Power generation, transmission
+        "environmental-agent",
+        "hydrology-agent", // Dam management
+        "financial-agent", // Corporate finance aspects
+        "project-management-agent",
+        "regulatory-compliance-agent",
+        "economics-agent.ts" // Regional development
+      ],
+      "requiredMCPTools": [
+        "MCP Tool: Power Generation Optimization & Dispatch Scheduling",
+        "MCP Tool: Transmission Grid Load Flow Analysis & Monitoring",
+        "MCP Tool: Reservoir System Management & Flood Control Simulation",
+        "MCP Tool: Environmental Compliance Monitoring (Air, Water)",
+        "MCP Tool: Energy Demand Forecasting Tool",
+        "MCP Tool: Infrastructure Maintenance Planning & Prioritization",
+        "MCP Tool: Regional Economic Development Impact Analysis",
+        "MCP Tool: Rate Setting Analysis Support"
+      ]
+    },
+    {
+      "agencyName": "U.S. Agency for International Development",
+      "agencyLabel": "USAID",
+      "agencyMission": "Drives global development efforts, using analytics to target humanitarian aid, economic growth, and democracy initiatives.",
+      "relevantAgents": [
+        "international-relations-agent",
+        "sustainable-development-agent",
+        "project-management-agent",
+        "financial-agent", // Grant/contract management
+        "public-health-agent",
+        "education-agent",
+        "agriculture-agent",
+        "democracy-governance-agent", // Assuming specialization
+        "logistics-agent", // Humanitarian aid delivery
+        "research-services-agent.ts"
+      ],
+      "requiredMCPTools": [
+        "MCP Tool: Development Project Design & Appraisal",
+        "MCP Tool: Foreign Assistance Budget Allocation & Tracking",
+        "MCP Tool: Monitoring & Evaluation Framework Tool (Development Results)",
+        "MCP Tool: Humanitarian Aid Needs Assessment & Logistics Planning",
+        "MCP Tool: Democracy & Governance Program Assessment",
+        "MCP Tool: Global Health Intervention Analysis",
+        "MCP Tool: Economic Growth Strategy Simulation",
+        "MCP Tool: Grant & Contract Management System"
+      ]
+    },
+    {
+      "agencyName": "United States Commission on Civil Rights",
+      "agencyLabel": "CCR",
+      "agencyMission": "Utilizes advanced analytics to investigate discrimination complaints and promote equal protection under the law.",
+      "relevantAgents": [
+        "legal-agent",
+        "regulatory-compliance-agent",
+        "data-science-agent",
+        "social-science-research-agent", // Assuming specialization
+        "human-resources-agent", // Context
+        "education-agent.ts" // Context
+      ],
+      "requiredMCPTools": [
+        "MCP Tool: Civil Rights Complaint Investigation Support",
+        "MCP Tool: Statistical Analysis of Discrimination Data",
+        "MCP Tool: Federal Civil Rights Enforcement Monitoring Tool",
+        "MCP Tool: Public Hearing Planning & Testimony Analysis",
+        "MCP Tool: Civil Rights Policy Analysis & Report Generation",
+        "MCP Tool: Legal Research (Civil Rights Law & Precedent)",
+        "MCP Tool: State Advisory Committee Coordination Tool",
+        "MCP Tool: Information Dissemination & Outreach Support"
+      ]
+    },
+    {
+      "agencyName": "United States International Trade Commission",
+      "agencyLabel": "USITC",
+      "agencyMission": "Investigates the impact of dumped and subsidized imports on domestic industries, informing U.S. trade policy.",
+      "relevantAgents": [
+        "international-trade-agent",
+        "economics-agent",
+        "legal-agent", // Trade law
+        "regulatory-compliance-agent",
+        "data-science-agent",
+        "research-services-agent.ts"
+      ],
+      "requiredMCPTools": [
+        "MCP Tool: Antidumping & Countervailing Duty Investigation Support",
+        "MCP Tool: Domestic Industry Injury Analysis (Economic Modeling)",
+        "MCP Tool: Global Safeguards Investigation Aid",
+        "MCP Tool: Harmonized Tariff Schedule (HTS) Analysis Tool",
+        "MCP Tool: Intellectual Property Infringement Investigation (Section 337)",
+        "MCP Tool: Trade Data Analysis & Visualization",
+        "MCP Tool: Economic Impact Assessment of Trade Agreements",
+        "MCP Tool: Adjudicative Decision Support (Trade Remedies)"
+      ]
+    },
+    {
+      "agencyName": "United States Postal Service",
+      "agencyLabel": "USPS",
+      "agencyMission": "Leverages data analytics to improve mail delivery, optimize logistics, and enhance customer service nationwide.",
+      "relevantAgents": [
+        "logistics-agent",
+        "supply-chain-agent",
+        "transportation-agent",
+        "data-science-agent",
+        "operations-management-agent", // Assuming specialization
+        "customer-service-agent",
+        "financial-agent", // Self-funding aspect
+        "administrative-services-agent.ts"
+      ],
+      "requiredMCPTools": [
+        "MCP Tool: Mail Processing & Sorting Optimization",
+        "MCP Tool: Delivery Route Planning & Optimization",
+        "MCP Tool: Network Logistics Simulation & Analysis",
+        "MCP Tool: Real-Time Package Tracking & Analytics",
+        "MCP Tool: Customer Service Channel Performance Analysis",
+        "MCP Tool: Retail Operations Efficiency Tool",
+        "MCP Tool: Predictive Maintenance Scheduling (Vehicles, Equipment)",
+        "MCP Tool: Universal Service Obligation Cost Analysis"
+      ]
+    },
+    {
+      "agencyName": "United States Trade and Development Agency",
+      "agencyLabel": "USTDA",
+      "agencyMission": "Advances economic growth in developing countries through project preparation and partnerships that create U.S. jobs and export opportunities.",
+      "relevantAgents": [
+        "international-trade-agent",
+        "engineering-services-agent",
+        "financial-agent",
+        "project-management-agent",
+        "sustainable-development-agent",
+        "energy-services-agent", // Common infrastructure focus
+        "telecommunications-agent.ts" // Common infrastructure focus
+      ],
+      "requiredMCPTools": [
+        "MCP Tool: Project Feasibility Study Grant Evaluation",
+        "MCP Tool: Technical Assistance Program Design Tool",
+        "MCP Tool: Reverse Trade Mission Planning & Management",
+        "MCP Tool: U.S. Export Opportunity Identification (linked to projects)",
+        "MCP Tool: Infrastructure Project Risk Assessment (Developing Markets)",
+        "MCP Tool: Partnership Matching (US Firms & Foreign Projects)",
+        "MCP Tool: Project Development Lifecycle Tracking",
+        "MCP Tool: Economic Impact Analysis (US Exports & Jobs)"
+      ]
+    },
+    {
+      "description": "REVISED Mapping of US Federal Agencies to relevant A2A Agent types and conceptual MCP Tools, INTEGRATING 'Moneyball for Trade' principles (Micro-Deals, Dynamic Tariffs/ICs, Smart Contracts, Dual-Level Balancing) into missions and tool requirements.",
+      "agencyAgentToolMapping": [
+        {
+          "agencyName": "United States African Development Foundation (USADF)",
+          "agencyLabel": "ADF",
+          "agencyMission": "Supports African-led development by providing targeted seed capital and technical support, utilizing AI to identify 'undervalued' community enterprises and aligning projects with dynamic US-Africa micro-trade deal metrics for mutual Gov/Civ benefit.",
+          "relevantAgents": [
+            "financial-agent",
+            "international-trade-agent",
+            "sustainable-development-agent",
+            "non-profit-organizations-agent",
+            "project-management-agent",
+            "research-services-agent",
+            "data-science-agent" // Added for metric analysis
+          ],
+          "requiredMCPTools": [
+            // Existing relevant tools adapted
+            "MCP Tool: Grant Application Review & Scoring (Aligned w/ Trade Metrics)",
+            "MCP Tool: Project Viability Assessment (Financial, Social, Trade Impact)",
+            "MCP Tool: Fund Disbursement & Tracking (Compliant w/ Smart Contracts)",
+            "MCP Tool: Technical Assistance Resource Matching (for Micro-Deal Support)",
+            "MCP Tool: Development Project Monitoring & Evaluation (Trade WAR Input)",
+            "MCP Tool: Community Enterprise Needs Analysis (for Undervalued Opps)",
+            "MCP Tool: Risk Assessment (Geopolitical & Financial Stability)",
+            // New Moneyball-related tools
+            "MCP Tool: Micro-Deal Opportunity Identifier (Grassroots Africa)",
+            "MCP Tool: Dual-Level Impact Assessor (ADF Projects)"
+          ]
+        },
+        {
+          "agencyName": "Central Intelligence Agency",
+          "agencyLabel": "CIA",
+          "agencyMission": "Employs advanced analytics and machine learning to gather intelligence, safeguard national security interests, and potentially provide data inputs for assessing geopolitical risks associated with dynamic trade deals and partner compliance.",
+          "relevantAgents": [
+            "data-science-agent",
+            "cybersecurity-agent",
+            "cybersecurity-governance-agent",
+            "linguistic-analysis-agent",
+            "geospatial-sciences-agent",
+            "artificial-intelligence-agent",
+            "research-services-agent",
+            "ethics-compliance-agent",
+            "military-defense-agent",
+            "economics-agent" // Added for economic intelligence
+          ],
+          "requiredMCPTools": [
+            // Primarily existing intelligence tools
+            "MCP Tool: Intelligence Data Fusion & Analysis",
+            "MCP Tool: Predictive Threat Modeling (ML-based)",
+            "MCP Tool: Geospatial Intelligence Analysis",
+            "MCP Tool: Natural Language Processing for Threat Detection",
+            "MCP Tool: Cybersecurity Threat Assessment & Response",
+            "MCP Tool: Secure Information Dissemination Protocol",
+            "MCP Tool: Counterintelligence Risk Analysis",
+            "MCP Tool: Ethical & Legal Compliance Check (Intelligence Ops)",
+            // Potential contribution to trade context
+            "MCP Tool: Geopolitical Risk Feed for Trade Models",
+            "MCP Tool: Foreign Compliance Verification Support (Data Gathering)"
+          ]
+        },
+        {
+          "agencyName": "Commodity Futures Trading Commission",
+          "agencyLabel": "CFTC",
+          "agencyMission": "Regulates commodity futures and options markets, potentially overseeing markets for tradable Import Certificates or related trade derivatives, using AI to ensure market integrity, transparency, and prevent manipulation.",
+          "relevantAgents": [
+            "financial-agent",
+            "regulatory-compliance-agent",
+            "legal-agent",
+            "data-science-agent",
+            "cryptocurrency-defi-agent", // If certificates are tokenized
+            "economics-agent", // Added for market design
+            "ethics-compliance-agent"
+          ],
+          "requiredMCPTools": [
+            // Existing tools focused on derivatives
+            "MCP Tool: Derivatives Market Surveillance & Anomaly Detection",
+            "MCP Tool: Derivatives Contract Compliance Review",
+            "MCP Tool: Fraud Detection Algorithm (Trading Patterns)",
+            "MCP Tool: Regulatory Filing Analysis (CFTC Rules)",
+            // New/Adapted tools for potential IC Market oversight
+            "MCP Tool: Import Certificate Market Surveillance Engine",
+            "MCP Tool: Trade Derivative Compliance Monitor",
+            "MCP Tool: Clearinghouse Risk Assessment (incl. Trade Instruments)",
+            "MCP Tool: Rulemaking Support for Trade-Related Financial Instruments"
+          ]
+        },
+        {
+          "agencyName": "Consumer Financial Protection Bureau",
+          "agencyLabel": "CFPB",
+          "agencyMission": "Promotes fairness and transparency in consumer financial markets, potentially analyzing impacts of dynamic trade policies and import certificate costs on consumer finance products (e.g., import costs affecting consumer prices).",
+          "relevantAgents": [
+            "financial-agent",
+            "personal-finance-agent",
+            "regulatory-compliance-agent",
+            "legal-agent",
+            "data-science-agent",
+            "customer-service-agent",
+            "economics-agent", // Added for price impact analysis
+            "ethics-compliance-agent"
+          ],
+          "requiredMCPTools": [
+            // Primarily existing consumer finance tools
+            "MCP Tool: Consumer Complaint Analysis & Pattern Recognition",
+            "MCP Tool: Financial Product Disclosure Compliance Check",
+            "MCP Tool: Unfair/Deceptive Practices Identification (UDAAP)",
+            "MCP Tool: Mortgage & Loan Servicing Audit",
+            "MCP Tool: Credit Reporting Accuracy Verification",
+            // Potential analysis related to trade impacts
+            "MCP Tool: Consumer Price Impact Modeler (Trade Policy Effects)",
+            "MCP Tool: Financial Literacy Resource Generation (incl. Trade Impacts)"
+          ]
+        },
+        {
+          "agencyName": "Consumer Product Safety Commission",
+          "agencyLabel": "CPSC",
+          "agencyMission": "Ensures consumer product safety, potentially using AI and smart contract data from dynamic trade deals to track compliance of imported goods with US safety standards in near real-time.",
+          "relevantAgents": [
+            "regulatory-compliance-agent",
+            "engineering-services-agent",
+            "materials-science-agent",
+            "data-science-agent",
+            "legal-agent",
+            "public-health-agent",
+            "research-services-agent",
+            "toxicology-agent",
+            "supply-chain-agent" // Added for import tracking
+          ],
+          "requiredMCPTools": [
+            // Existing tools enhanced by trade data
+            "MCP Tool: Product Hazard Analysis & Risk Assessment (Informed by Import Data)",
+            "MCP Tool: Injury Data Analysis (Correlated w/ Import Sources)",
+            "MCP Tool: Safety Standard Compliance Verification (Via Smart Contracts)",
+            "MCP Tool: Recall Effectiveness Monitoring (Targeted by Import Batches)",
+            "MCP Tool: Chemical/Material Safety Evaluation (Tracked via Supply Chain)",
+            "MCP Tool: Import Surveillance Risk Scoring (Dynamic based on Compliance)",
+            // New Trade-related tool
+            "MCP Tool: Smart Contract Safety Compliance Monitor (Imports)"
+          ]
+        },
+        // ... (DNFSB mission likely less impacted by trade model) ...
+        {
+          "agencyName": "Defense Nuclear Facilities Safety Board",
+          "agencyLabel": "DNFSB",
+          "agencyMission": "Provides independent oversight of public health and safety at defense nuclear facilities, employing advanced analytics to mitigate risks. (Mission largely independent of trade model).",
+          "relevantAgents": [
+            "nuclear-energy-agent", "engineering-services-agent", "regulatory-compliance-agent", "public-health-agent", "materials-science-agent", "data-science-agent", "project-management-agent", "environmental-agent"
+          ],
+          "requiredMCPTools": [
+            "MCP Tool: Nuclear Facility Safety System Audit", "MCP Tool: Probabilistic Risk Assessment (PRA) Analysis", "MCP Tool: Radiation Safety Compliance Check", "MCP Tool: Structural Integrity Analysis (Nuclear Facilities)", "MCP Tool: Operational Procedure Safety Review", "MCP Tool: Safety Culture Assessment Data Analysis", "MCP Tool: Technical Safety Requirement Verification", "MCP Tool: Independent Safety Recommendation Generation"
+          ] // No new trade-specific tools added
+        },
+        // ... (EEOC mission likely less impacted by trade model) ...
+        {
+          "agencyName": "Equal Employment Opportunity Commission",
+          "agencyLabel": "EEOC",
+          "agencyMission": "Uses data-driven tools to investigate and prevent workplace discrimination, advancing equal opportunities for all employees. (Mission may interact with labor clauses in trade deals but core function remains domestic).",
+          "relevantAgents": [
+            "legal-agent", "human-resources-agent", "regulatory-compliance-agent", "data-science-agent", "social-work-agent", "ethics-compliance-agent", "research-services-agent"
+          ],
+          "requiredMCPTools": [
+            "MCP Tool: Discrimination Complaint Intake & Triage", "MCP Tool: Workplace Demographics Statistical Analysis (EEO-1)", "MCP Tool: Investigation Case Management Support", "MCP Tool: Mediation & Conciliation Facilitation Aid", "MCP Tool: Legal Precedent Research (Employment Law)", "MCP Tool: Systemic Discrimination Pattern Identification", "MCP Tool: Reasonable Accommodation Assessment Aid", "MCP Tool: Compliance Training Material Generation"
+          ] // No new trade-specific tools added
+        },
+        {
+          "agencyName": "Export-Import Bank of the United States",
+          "agencyLabel": "EXIM",
+          "agencyMission": "Expands U.S. exports by providing financing solutions, adapting to use AI-driven 'Moneyball' metrics to prioritize deals with high 'Trade WAR' scores, support undervalued export sectors, and manage risk within dynamic trade frameworks.",
+          "relevantAgents": [
+            "financial-agent",
+            "international-trade-agent",
+            "regulatory-compliance-agent",
+            "legal-agent",
+            "data-science-agent",
+            "economics-agent", // Added for WAR score analysis
+            "risk-management-agent" // Added for dynamic risk
+          ],
+          "requiredMCPTools": [
+            // Existing tools adapted for Moneyball
+            "MCP Tool: Export Finance Underwriting (Prioritized by Trade WAR Score)",
+            "MCP Tool: Political & Credit Risk Assessment (Dynamic Model Input)",
+            "MCP Tool: Loan Guarantee Structuring (Aligned w/ Micro-Deals)",
+            "MCP Tool: U.S. Content Verification (Standard Requirement)",
+            "MCP Tool: Portfolio Risk Analysis (Integrating Dynamic Trade Risks)",
+            "MCP Tool: Competitor Financing Analysis (Input for Undervalued Opps)",
+            "MCP Tool: Economic Impact Assessment (Calculating WAR Score Components)",
+            "MCP Tool: Trade Finance Documentation Review (Smart Contract Compatible)",
+            // New Moneyball-related tools
+            "MCP Tool: Undervalued Export Sector Identifier",
+            "MCP Tool: Trade WAR Score Contribution Forecaster (EXIM Deals)"
+          ]
+        },
+        // ... (FCA mission likely less impacted by international trade model) ...
+        {
+          "agencyName": "Farm Credit Administration",
+          "agencyLabel": "FCA",
+          "agencyMission": "Oversees the Farm Credit System, ensuring reliable credit for agriculture and rural communities. (Mission largely domestic, less impacted by int'l trade model).",
+          "relevantAgents": [
+            "financial-agent", "agriculture-agent", "regulatory-compliance-agent", "legal-agent", "data-science-agent"
+          ],
+          "requiredMCPTools": [
+            "MCP Tool: Farm Credit Institution Examination & Rating", "MCP Tool: Agricultural Loan Portfolio Risk Analysis", "MCP Tool: Regulatory Capital Adequacy Check", "MCP Tool: Compliance Audit (FCA Regulations)", "MCP Tool: Rural Credit Market Condition Analysis", "MCP Tool: Farm Credit System Stress Testing", "MCP Tool: Cooperative Governance Review Aid", "MCP Tool: Collateral Valuation Analysis (Agricultural Assets)"
+          ] // No new trade-specific tools added
+        },
+        {
+          "agencyName": "Federal Communications Commission",
+          "agencyLabel": "FCC",
+          "agencyMission": "Regulates interstate and international communications, potentially incorporating dynamic trade deal parameters (e.g., data flow rules, equipment standards) into its regulatory framework using AI-driven compliance tools.",
+          "relevantAgents": [
+            "telecommunications-agent",
+            "regulatory-compliance-agent",
+            "legal-agent",
+            "engineering-services-agent",
+            "data-science-agent",
+            "economics-agent",
+            "cybersecurity-agent" // Added for data flows
+          ],
+          "requiredMCPTools": [
+            // Existing tools potentially adapted
+            "MCP Tool: Spectrum Allocation Analysis (Considering Int'l Harmonization Deals)",
+            "MCP Tool: Broadcast License Application Review",
+            "MCP Tool: Network Management Compliance Monitoring (incl. Data Flow Rules)",
+            "MCP Tool: Universal Service Fund Allocation Analysis",
+            "MCP Tool: Telecom Merger Competitive Impact Assessment",
+            "MCP Tool: Equipment Authorization Compliance Check (Aligned w/ Trade Stds)",
+            // New Trade-related tool
+            "MCP Tool: Cross-Border Data Flow Compliance Monitor (Telecom)",
+            "MCP Tool: International Telecom Standard Harmonization Tracker"
+          ]
+        },
+        {
+          "agencyName": "Federal Deposit Insurance Corporation",
+          "agencyLabel": "FDIC",
+          "agencyMission": "Insures bank deposits, supervises financial institutions, and safeguards banking system stability, potentially monitoring systemic risks arising from dynamic international trade finance or Import Certificate markets.",
+          "relevantAgents": [
+            "financial-agent",
+            "regulatory-compliance-agent",
+            "legal-agent",
+            "data-science-agent",
+            "risk-management-agent",
+            "economics-agent" // Added for systemic risk
+          ],
+          "requiredMCPTools": [
+            // Existing tools potentially adapted
+            "MCP Tool: Bank Examination & Risk Rating (Including Trade Finance Exposure)",
+            "MCP Tool: Deposit Insurance Assessment Calculation",
+            "MCP Tool: Bank Failure Resolution Planning & Simulation",
+            "MCP Tool: Regulatory Capital Compliance Monitoring",
+            "MCP Tool: Financial Stability Risk Indicator Analysis (Incl. Trade/IC Markets)",
+            "MCP Tool: Anti-Money Laundering (AML) Compliance Audit Aid",
+            // New Trade-related tool (monitoring focus)
+            "MCP Tool: Systemic Risk Monitor (Trade Finance & IC Market Linkages)"
+          ]
+        },
+        // ... (FEC mission likely less impacted by trade model, unless foreign influence via trade is analyzed) ...
+        {
+          "agencyName": "Federal Election Commission",
+          "agencyLabel": "FEC",
+          "agencyMission": "Oversees campaign finance laws, using analytics to detect violations and maintain transparency in federal elections. (Mission largely domestic).",
+          "relevantAgents": [
+            "legal-agent", "regulatory-compliance-agent", "data-science-agent", "political-services-agent", "auditing-agent"
+          ],
+          "requiredMCPTools": [
+            "MCP Tool: Campaign Finance Report Analysis & Validation", "MCP Tool: Contribution Limit Compliance Check", "MCP Tool: Independent Expenditure Disclosure Review", "MCP Tool: Audit Selection & Support Tool", "MCP Tool: Enforcement Case Management & Prioritization", "MCP Tool: Foreign Influence Detection Analysis", // Could indirectly link to trade issues
+            "MCP Tool: Advisory Opinion Research & Drafting Aid", "MCP Tool: Public Disclosure Database Query & Reporting"
+          ] // No major new trade-specific tools added
+        },
+        // ... (FHFA mission less directly impacted, similar to FDIC) ...
+        {
+          "agencyName": "Federal Housing Finance Agency",
+          "agencyLabel": "FHFA",
+          "agencyMission": "Regulates housing finance GSEs (Fannie Mae, Freddie Mac) and FHLBanks, potentially monitoring indirect impacts of trade balance shifts or import costs on housing affordability and market stability.",
+          "relevantAgents": [
+            "financial-agent", "real-estate-agent", "regulatory-compliance-agent", "legal-agent", "data-science-agent", "risk-management-agent", "economics-agent"
+          ],
+          "requiredMCPTools": [
+            "MCP Tool: GSE Examination & Capital Adequacy Monitoring", "MCP Tool: Mortgage-Backed Security (MBS) Risk Analysis", "MCP Tool: FHLBank System Oversight & Compliance Check", "MCP Tool: Housing Market Condition Analysis (incl. Trade-related Inflation)", "MCP Tool: Underwriting Standards Review & Impact Assessment", "MCP Tool: Affordable Housing Goal Compliance Tracking", "MCP Tool: Counterparty Risk Assessment (Mortgage Originators)"
+          ] // No major new trade-specific tools added
+        },
+        // ... (FLRA mission is domestic federal labor relations) ...
+        {
+          "agencyName": "Federal Labor Relations Authority",
+          "agencyLabel": "FLRA",
+          "agencyMission": "Oversees federal labor-management relations, resolving disputes and ensuring collective bargaining rights. (Mission domestic).",
+          "relevantAgents": [
+            "legal-agent", "human-resources-agent", "regulatory-compliance-agent", "mediation-arbitration-agent"
+          ],
+          "requiredMCPTools": [
+            "MCP Tool: Unfair Labor Practice (ULP) Case Adjudication Support", "MCP Tool: Bargaining Unit Determination Analysis", "MCP Tool: Representation Election Management Aid", "MCP Tool: Negotiability Appeal Resolution Support", "MCP Tool: Collective Bargaining Agreement Compliance Check", "MCP Tool: Arbitration Award Review Aid", "MCP Tool: Federal Labor Law Precedent Research", "MCP Tool: Impasse Resolution Facilitation Tool"
+          ] // No new trade-specific tools added
+        },
+        // ... (FMC mission relevant, but less about dynamic tariffs, more about fair practices) ...
+        {
+          "agencyName": "Federal Maritime Commission",
+          "agencyLabel": "FMC",
+          "agencyMission": "Regulates international ocean transportation, potentially using AI to monitor carrier compliance with fair practice rules within dynamic trade agreements and analyzing impacts of fluctuating trade flows on port congestion.",
+          "relevantAgents": [
+            "logistics-agent", "supply-chain-agent", "international-trade-agent", "regulatory-compliance-agent", "legal-agent", "economics-agent"
+          ],
+          "requiredMCPTools": [
+            "MCP Tool: Ocean Carrier Agreement Review (Antitrust Analysis)", "MCP Tool: Ocean Transportation Intermediary (OTI) Licensing Check", "MCP Tool: Shipping Act Violation Investigation Support", "MCP Tool: Detention & Demurrage Complaint Analysis (In Dynamic Context)", "MCP Tool: Tariff Filing Compliance Verification", "MCP Tool: Port Congestion Data Analysis (Linked to Trade Flows)", "MCP Tool: Controlled Carrier Monitoring", "MCP Tool: Alternative Dispute Resolution Support (Shipping)"
+          ] // Minor adaptations needed
+        },
+        // ... (FMCS mission is domestic labor mediation) ...
+        {
+          "agencyName": "Federal Mediation & Conciliation Service",
+          "agencyLabel": "FMCS",
+          "agencyMission": "Mediates labor disputes across federal agencies and private sectors, fostering cooperative labor-management relationships. (Mission domestic).",
+          "relevantAgents": [
+            "mediation-arbitration-agent", "human-resources-agent", "legal-agent", "negotiation-support-agent"
+          ],
+          "requiredMCPTools": [
+            "MCP Tool: Mediation Case Scheduling & Management", "MCP Tool: Collective Bargaining Agreement Analysis (for disputes)", "MCP Tool: Interest-Based Bargaining Facilitation Aid", "MCP Tool: Relationship Development Initiative Planning Tool", "MCP Tool: Arbitration Panel Selection Support", "MCP Tool: Labor-Management Training Material Generation", "MCP Tool: Dispute Trend Analysis", "MCP Tool: Confidential Communication Channel for Mediation"
+          ] // No new trade-specific tools added
+        },
+        // ... (FMSHRC mission is domestic mine safety) ...
+        {
+          "agencyName": "Federal Mine Safety and Health Review Commission",
+          "agencyLabel": "FMSHRC",
+          "agencyMission": "Adjudicates disputes under the Mine Act, ensuring safe working conditions in the nation's mines. (Mission domestic).",
+          "relevantAgents": [
+            "legal-agent", "mining-agent", "regulatory-compliance-agent", "health-safety-agent"
+          ],
+          "requiredMCPTools": [
+            "MCP Tool: Mine Safety Case Docketing & Management", "MCP Tool: Adjudication Decision Drafting Support (based on precedent)", "MCP Tool: Mine Act Regulation & Precedent Research", "MCP Tool: Penalty Assessment Calculation Review", "MCP Tool: Evidence Management System (Hearings)", "MCP Tool: Discrimination Complaint Review (Mine Safety Context)", "MCP Tool: Hearing Scheduling & Logistics Tool", "MCP Tool: Settlement Agreement Compliance Check"
+          ] // No new trade-specific tools added
+        },
+        {
+          "agencyName": "The Federal Reserve System",
+          "agencyLabel": "FED",
+          "agencyMission": "Oversees monetary policy, regulates banks, and maintains financial stability, potentially incorporating analysis of the dynamic trade system's impact on inflation, exchange rates, capital flows, and overseeing related financial market infrastructure (like IC clearing).",
+          "relevantAgents": [
+            "economics-agent",
+            "financial-agent",
+            "regulatory-compliance-agent",
+            "data-science-agent",
+            "risk-management-agent",
+            "legal-agent",
+            "international-relations-agent" // Added for global context
+          ],
+          "requiredMCPTools": [
+            // Existing tools adapted
+            "MCP Tool: Monetary Policy Analysis & Simulation (Incl. Trade Balance Effects)",
+            "MCP Tool: Economic Indicator Forecasting (Incl. IC Market Data, Tariff Impacts)",
+            "MCP Tool: Bank Supervision & Stress Testing (Incl. Trade Finance Risk)",
+            "MCP Tool: Financial Stability Monitoring Dashboard (Incl. Trade System Risks)",
+            "MCP Tool: Payment System Risk Analysis (Incl. IC Clearing)",
+            // New Moneyball-related tools
+            "MCP Tool: Exchange Rate Impact Modeler (Dynamic Trade Effects)",
+            "MCP Tool: Capital Flow Analyzer (Linked to Trade/IC Balances)",
+            "MCP Tool: Import Certificate Market Stability Monitor"
+          ]
+        },
+        {
+          "agencyName": "Federal Trade Commission",
+          "agencyLabel": "FTC",
+          "agencyMission": "Upholds consumer protection and competitive markets, potentially analyzing how dynamic trade deals and import certificate costs affect market concentration, competition, and consumer prices, and enforcing related fair practice standards.",
+          "relevantAgents": [
+            "legal-agent",
+            "regulatory-compliance-agent",
+            "economics-agent",
+            "data-science-agent",
+            "advertising-agent",
+            "cybersecurity-agent",
+            "international-trade-agent", // Added for cross-border competition
+            "ethics-compliance-agent"
+          ],
+          "requiredMCPTools": [
+            // Existing tools adapted
+            "MCP Tool: Antitrust Merger Review (Considering Int'l Trade Dynamics)",
+            "MCP Tool: Consumer Fraud & Deceptive Advertising Detection",
+            "MCP Tool: Data Privacy & Security Compliance Audit (Incl. Cross-Border Data Rules)",
+            "MCP Tool: Rulemaking Support",
+            "MCP Tool: Investigation & Litigation Support System",
+            "MCP Tool: Economic Analysis of Competitive Effects (Incl. Import Competition)",
+            "MCP Tool: Consumer Complaint Data Analysis & Reporting",
+            // New Moneyball-related tool
+            "MCP Tool: Trade Policy Impact Analyzer (Competition & Consumer Prices)"
+          ]
+        },
+        // ... (GSA mission primarily domestic procurement/property) ...
+        {
+          "agencyName": "General Services Administration",
+          "agencyLabel": "GSA",
+          "agencyMission": "Applies advanced analytics and automation to streamline federal procurement and property management. (Mission largely domestic, but procurement could be affected by import costs/availability).",
+          "relevantAgents": [
+            "procurement-agent", "property-services-agent", "logistics-agent", "financial-agent", "project-management-agent", "data-science-agent", "administrative-services-agent", "sustainability-agent"
+          ],
+          "requiredMCPTools": [
+            "MCP Tool: Federal Procurement Contract Management", "MCP Tool: Government-Wide Acquisition Contract (GWAC) Utilization Analysis", "MCP Tool: Federal Building Operations & Maintenance Optimization", "MCP Tool: Real Property Portfolio Analysis & Space Utilization", "MCP Tool: Federal Fleet Management & Optimization", "MCP Tool: Sustainable Procurement Compliance Tracking (Incl. Import Considerations)", "MCP Tool: Shared Services Catalog & Pricing Analysis", "MCP Tool: Vendor Performance & Risk Assessment (Incl. Supply Chain Risk)"
+          ] // Minor adaptations possible
+        },
+        {
+          "agencyName": "Inter-American Foundation",
+          "agencyLabel": "IAF",
+          "agencyMission": "Supports grassroots development in Latin America/Caribbean, potentially aligning projects with dynamic micro-trade deal goals and utilizing AI to identify high-impact, 'undervalued' community initiatives contributing to balanced regional trade.",
+          "relevantAgents": [
+            "international-trade-agent",
+            "sustainable-development-agent",
+            "non-profit-organizations-agent",
+            "financial-agent",
+            "project-management-agent",
+            "research-services-agent",
+            "community-development-agent"
+          ],
+          "requiredMCPTools": [
+            // Existing tools adapted
+            "MCP Tool: Grassroots Grant Proposal Evaluation (Aligned w/ Trade Metrics)",
+            "MCP Tool: Community Needs Assessment Data Aggregation",
+            "MCP Tool: Development Project Impact Monitoring (Trade WAR Input)",
+            "MCP Tool: Grant Financial Management & Reporting Tool",
+            "MCP Tool: Local Partner Capacity Building Resource Finder",
+            "MCP Tool: Cross-Cultural Collaboration Support",
+            "MCP Tool: Project Risk Assessment (Local Context)",
+            // New Moneyball-related tools
+            "MCP Tool: Micro-Deal Opportunity Identifier (Grassroots LatAm/Carib)",
+            "MCP Tool: Dual-Level Impact Assessor (IAF Projects)"
+          ]
+        },
+        // ... (MSPB mission is domestic civil service) ...
+        {
+          "agencyName": "Merit Systems Protection Board",
+          "agencyLabel": "MSPB",
+          "agencyMission": "Safeguards federal merit systems, using analytics to adjudicate appeals and uphold fair employment practices. (Mission domestic).",
+          "relevantAgents": [
+            "legal-agent", "human-resources-agent", "regulatory-compliance-agent", "data-science-agent", "ethics-compliance-agent"
+          ],
+          "requiredMCPTools": [
+            "MCP Tool: Federal Personnel Action Appeal Adjudication Support", "MCP Tool: Whistleblower Retaliation Case Analysis", "MCP Tool: Prohibited Personnel Practice Investigation Aid", "MCP Tool: Merit System Principles Compliance Audit Tool", "MCP Tool: Federal HR Law & Precedent Research Database", "MCP Tool: Statistical Analysis of Personnel Actions (Disparity Detection)", "MCP Tool: Case Docketing & Management System", "MCP Tool: Decision Drafting Assistance (Based on Findings)"
+          ] // No new trade-specific tools added
+        },
+        // ... (NASA mission largely separate from trade model, except perhaps tech transfer/exports) ...
+        {
+          "agencyName": "National Aeronautics and Space Administration",
+          "agencyLabel": "NASA",
+          "agencyMission": "Explores space and aeronautics, leveraging machine learning to advance scientific discoveries and future human exploration. (Mission largely independent, but technology developed could become 'undervalued exports').",
+          "relevantAgents": [
+            "aerospace-engineering-agent", "astronomy-agent", "robotics-agent", "materials-science-agent", "data-science-agent", "artificial-intelligence-agent", "project-management-agent", "engineering-services-agent", "scientific-research-agent", "telecommunications-agent", "technology-transfer-agent" // Added
+          ],
+          "requiredMCPTools": [
+            "MCP Tool: Mission Trajectory Optimization & Simulation", "MCP Tool: Scientific Data Analysis (Telemetry, Imagery)", "MCP Tool: Autonomous Rover Operation & Path Planning", "MCP Tool: Spacecraft Systems Health Monitoring & Diagnostics", "MCP Tool: Aeronautical Design & CFD Simulation", "MCP Tool: Materials Science Analysis for Extreme Environments", "MCP Tool: Grant Proposal Review Support (Scientific Merit)", "MCP Tool: Deep Space Network Scheduling & Communication", "MCP Tool: Risk Assessment for Space Missions",
+            "MCP Tool: Space Technology Commercialization Assessor" // Potential trade link
+          ]
+        },
+        // ... (NARA mission is domestic records) ...
+        {
+          "agencyName": "National Archives and Records Administration",
+          "agencyLabel": "NARA",
+          "agencyMission": "Leverages digitization and data analytics to preserve and provide access to the nation's historical records. (Mission domestic).",
+          "relevantAgents": [
+            "library-science-agent", "information-architecture-agent", "data-science-agent", "digital-preservation-agent", "legal-agent", "administrative-services-agent", "cybersecurity-agent"
+          ],
+          "requiredMCPTools": [
+            "MCP Tool: Records Appraisal & Scheduling Guidance", "MCP Tool: Digital Object Preservation & Format Migration", "MCP Tool: Archival Description & Metadata Generation (EAD, Dublin Core)", "MCP Tool: Optical Character Recognition (OCR) & Indexing Pipeline", "MCP Tool: Declassification Review Support Tool", "MCP Tool: Finding Aid Generation & Online Access Portal", "MCP Tool: Digital Archive Security & Integrity Check", "MCP Tool: FOIA Request Processing Support"
+          ] // No new trade-specific tools added
+        },
+        // ... (NCD mission primarily domestic disability policy) ...
+        {
+          "agencyName": "National Council on Disability",
+          "agencyLabel": "NCD",
+          "agencyMission": "Advises the government on disability policies, employing advanced data analytics to promote inclusive practices nationwide. (Mission domestic).",
+          "relevantAgents": [
+            "accessibility-services-agent", "regulatory-compliance-agent", "legal-agent", "public-health-agent", "social-work-agent", "data-science-agent", "research-services-agent"
+          ],
+          "requiredMCPTools": [
+            "MCP Tool: Disability Policy Impact Analysis", "MCP Tool: Accessibility Compliance Audit Tool (ADA, 508)", "MCP Tool: Analysis of Disability Statistics & Trends", "MCP Tool: Legislative Recommendation Drafting Support", "MCP Tool: Public Comment Analysis on Disability Issues", "MCP Tool: Best Practices Research (Inclusion & Accessibility)", "MCP Tool: Interagency Collaboration Facilitator (Disability Policy)", "MCP Tool: Report Generation on State of Disability"
+          ] // No new trade-specific tools added
+        },
+        // ... (NCUA mission primarily domestic credit unions) ...
+        {
+          "agencyName": "National Credit Union Administration",
+          "agencyLabel": "NCUA",
+          "agencyMission": "Insures deposits and regulates federal credit unions, safeguarding the stability of the credit union system. (Mission domestic).",
+          "relevantAgents": [
+            "financial-agent", "regulatory-compliance-agent", "legal-agent", "data-science-agent", "risk-management-agent"
+          ],
+          "requiredMCPTools": [
+            "MCP Tool: Credit Union Examination & Risk Rating (CAMEL)", "MCP Tool: Share Insurance Fund Assessment Calculation", "MCP Tool: Credit Union Failure Prediction Modeling", "MCP Tool: Regulatory Compliance Monitoring (NCUA Rules)", "MCP Tool: Field of Membership Application Review Aid", "MCP Tool: Liquidity & Interest Rate Risk Analysis (Credit Unions)", "MCP Tool: Troubled Credit Union Supervision Support", "MCP Tool: Consumer Protection Compliance Check (Credit Unions)"
+          ] // No new trade-specific tools added
+        },
+        // ... (NEA mission primarily domestic arts funding) ...
+        {
+          "agencyName": "National Endowment for the Arts",
+          "agencyLabel": "NEA",
+          "agencyMission": "Fosters creativity and cultural enrichment by providing grants and partnerships supporting arts across the nation. (Mission domestic).",
+          "relevantAgents": [
+            "arts-management-agent", "non-profit-organizations-agent", "financial-agent", "project-management-agent", "research-services-agent", "education-agent", "community-development-agent"
+          ],
+          "requiredMCPTools": [
+            "MCP Tool: Arts Grant Application Review & Panel Support", "MCP Tool: Peer Reviewer Matching & Management", "MCP Tool: Grant Award Processing & Financial Tracking", "MCP Tool: Arts Program Impact Assessment Tool", "MCP Tool: National Arts Participation Data Analysis", "MCP Tool: Cultural Asset Mapping Tool", "MCP Tool: Partnership Development Support (Arts Orgs)", "MCP Tool: Accessibility Compliance Check (Arts Funding)"
+          ] // No new trade-specific tools added
+        },
+        // ... (NLRB mission primarily domestic labor relations) ...
+        {
+          "agencyName": "National Labor Relations Board",
+          "agencyLabel": "NLRB",
+          "agencyMission": "Protects employees' rights, investigates unfair labor practices, and oversees union elections. (Mission domestic, but labor standards can be part of trade deals).",
+          "relevantAgents": [
+            "legal-agent", "human-resources-agent", "regulatory-compliance-agent", "mediation-arbitration-agent"
+          ],
+          "requiredMCPTools": [
+            "MCP Tool: Unfair Labor Practice (ULP) Charge Investigation Support", "MCP Tool: Representation Petition Processing & Election Management", "MCP Tool: Administrative Law Judge Decision Support", "MCP Tool: NLRA Case Law & Precedent Research", "MCP Tool: Collective Bargaining Data Analysis", "MCP Tool: Compliance Monitoring (Settlements, Board Orders)", "MCP Tool: Case Docketing & Workflow Management",
+            "MCP Tool: International Labor Standards Compliance Monitor (Trade Deals)" // Potential adaptation
+          ]
+        },
+        // ... (NMB mission is domestic rail/air labor) ...
+        {
+          "agencyName": "National Mediation Board",
+          "agencyLabel": "NMB",
+          "agencyMission": "Facilitates labor-management relations in the railroad and airline industries, promoting peaceful dispute resolution. (Mission domestic).",
+          "relevantAgents": [
+            "mediation-arbitration-agent", "legal-agent", "transportation-agent", "human-resources-agent"
+          ],
+          "requiredMCPTools": [
+            "MCP Tool: Rail & Airline Mediation Case Management", "MCP Tool: Representation Investigation & Election Tool (RLA)", "MCP Tool: Arbitration Scheduling & Panel Management (RLA)", "MCP Tool: Collective Bargaining Agreement Database (Rail/Airline)", "MCP Tool: Impasse Determination Analysis Aid", "MCP Tool: Mediator Assignment & Support Tools", "MCP Tool: RLA Precedent & Procedure Research", "MCP Tool: Emergency Board Creation Support (Presidential)"
+          ] // No new trade-specific tools added
+        },
+        // ... (NSF mission primarily basic science funding) ...
+        {
+          "agencyName": "National Science Foundation",
+          "agencyLabel": "NSF",
+          "agencyMission": "Accelerates research breakthroughs and fosters innovation across scientific disciplines. (Mission largely domestic basic research).",
+          "relevantAgents": [
+            "scientific-research-agent", "data-science-agent", "project-management-agent", "education-agent", "engineering-services-agent", "various-science-domain-agents"
+          ],
+          "requiredMCPTools": [
+            "MCP Tool: Grant Proposal Peer Review Management", "MCP Tool: Research Portfolio Analysis & Gap Identification", "MCP Tool: Scientific Merit & Broader Impacts Assessment Aid", "MCP Tool: Grant Award Financial Management & Reporting", "MCP Tool: Research Infrastructure Needs Assessment", "MCP Tool: STEM Education Program Evaluation", "MCP Tool: Cross-Disciplinary Collaboration Opportunity Finder", "MCP Tool: Intellectual Property & Data Management Plan Review"
+          ] // No new trade-specific tools added
+        },
+        // ... (NTSB mission is accident investigation) ...
+        {
+          "agencyName": "National Transportation Safety Board",
+          "agencyLabel": "NTSB",
+          "agencyMission": "Investigates transportation accidents to improve safety standards across aviation, highways, railroads, marine, and pipelines. (Mission focuses on safety, indirectly related to trade via import safety).",
+          "relevantAgents": [
+            "transportation-agent", "aviation-agent", "railway-engineering-agent", "marine-services-agent", "pipeline-safety-agent", "engineering-services-agent", "materials-science-agent", "human-factors-agent", "data-science-agent"
+          ],
+          "requiredMCPTools": [
+            "MCP Tool: Accident Investigation Data Collection & Management", "MCP Tool: Causal Factor Analysis (Root Cause Analysis)", "MCP Tool: Vehicle/Vessel Performance Data Recorder Analysis (Black Box)", "MCP Tool: Materials Failure Analysis Support", "MCP Tool: Human Performance & Error Analysis Tool", "MCP Tool: Safety Recommendation Tracking & Effectiveness Analysis", "MCP Tool: Accident Simulation & Reconstruction Aid", "MCP Tool: Public Docket Management System"
+          ] // No major new trade-specific tools added
+        },
+        // ... (NRC mission primarily domestic nuclear safety) ...
+        {
+          "agencyName": "Nuclear Regulatory Commission",
+          "agencyLabel": "NRC",
+          "agencyMission": "Enforces safety standards for nuclear power plants and materials, using real-time data and predictive analytics to prevent accidents. (Mission domestic safety).",
+          "relevantAgents": [
+            "nuclear-energy-agent", "regulatory-compliance-agent", "engineering-services-agent", "materials-science-agent", "public-health-agent", "data-science-agent", "security-services-agent", "environmental-agent"
+          ],
+          "requiredMCPTools": [
+            "MCP Tool: Nuclear Reactor Licensing Application Review", "MCP Tool: Plant Inspection & Performance Indicator Analysis", "MCP Tool: Radiation Protection Program Compliance Audit", "MCP Tool: Nuclear Material Security Assessment", "MCP Tool: Safety Culture Assessment Tool", "MCP Tool: Probabilistic Risk Assessment (PRA) Review", "MCP Tool: Enforcement Action Tracking & Management", "MCP Tool: Emergency Preparedness Drill Evaluation Aid"
+          ] // No new trade-specific tools added
+        },
+        // ... (NWTRB mission is domestic nuclear waste) ...
+        {
+          "agencyName": "Nuclear Waste Technical Review Board",
+          "agencyLabel": "NWTRB",
+          "agencyMission": "Evaluates the technical soundness of nuclear waste disposal programs, ensuring public health and safety. (Mission domestic).",
+          "relevantAgents": [
+            "nuclear-energy-agent", "geology-agent", "materials-science-agent", "engineering-services-agent", "hydrology-agent", "environmental-agent", "scientific-research-agent"
+          ],
+          "requiredMCPTools": [
+            "MCP Tool: Nuclear Waste Repository Site Suitability Analysis", "MCP Tool: Waste Form & Container Performance Modeling", "MCP Tool: Geological Disposal System Design Review", "MCP Tool: Long-Term Performance Assessment Analysis", "MCP Tool: Transportation Safety Assessment (Nuclear Waste)", "MCP Tool: Independent Technical Review Report Generation", "MCP Tool: DOE Program Document Evaluation Tool", "MCP Tool: International Nuclear Waste Program Comparison"
+          ] // No new trade-specific tools added
+        },
+        // ... (OSHRC mission is domestic workplace safety adjudication) ...
+        {
+          "agencyName": "Occupational Safety and Health Review Commission",
+          "agencyLabel": "OSHRC",
+          "agencyMission": "Adjudicates disputes arising from OSHA enforcement, promoting safer workplaces nationwide. (Mission domestic).",
+          "relevantAgents": [
+            "legal-agent", "health-safety-agent", "regulatory-compliance-agent", "ergonomics-agent", "industrial-hygiene-agent"
+          ],
+          "requiredMCPTools": [
+            "MCP Tool: OSHA Citation Contest Adjudication Support", "MCP Tool: Workplace Safety & Health Regulation Research", "MCP Tool: Case Docketing & Management System (OSHRC)", "MCP Tool: Evidence Review Tool (Inspection Reports, Witness Testimony)", "MCP Tool: Penalty Calculation Review & Adjustment Aid", "MCP Tool: Decision Drafting Assistance (OSHRC Precedent)", "MCP Tool: Settlement Agreement Review & Approval Aid", "MCP Tool: Hearing Scheduling & Management Tool"
+          ] // No new trade-specific tools added
+        },
+        // ... (OGE mission is domestic government ethics) ...
+        {
+          "agencyName": "Office of Government Ethics",
+          "agencyLabel": "OGE",
+          "agencyMission": "Promotes ethical standards across the executive branch, using advanced tools to track disclosures and prevent conflicts of interest. (Mission domestic).",
+          "relevantAgents": [
+            "ethics-compliance-agent", "legal-agent", "regulatory-compliance-agent", "data-science-agent", "auditing-agent"
+          ],
+          "requiredMCPTools": [
+            "MCP Tool: Financial Disclosure Review & Conflict Identification (OGE Forms)", "MCP Tool: Ethics Agreement Compliance Monitoring", "MCP Tool: Government Ethics Regulation Database & Advisory Tool", "MCP Tool: Recusal Determination Support Tool", "MCP Tool: Ethics Training Content Generation & Tracking", "MCP Tool: Agency Ethics Program Audit Tool", "MCP Tool: Conflict of Interest Analysis (Statutes & Regs)", "MCP Tool: Public Disclosure Portal Management"
+          ] // No new trade-specific tools added
+        },
+        // ... (OPM mission is domestic federal workforce) ...
+        {
+          "agencyName": "Office of Personnel Management",
+          "agencyLabel": "OPM",
+          "agencyMission": "Employs predictive analytics and automation to optimize federal workforce management and enhance recruitment, retention, and human capital strategies. (Mission domestic).",
+          "relevantAgents": [
+            "human-resources-agent", "data-science-agent", "administrative-services-agent", "legal-agent", "financial-agent", "cybersecurity-agent"
+          ],
+          "requiredMCPTools": [
+            "MCP Tool: Federal Job Classification & Qualification Standard Tool", "MCP Tool: Federal Employee Benefits Administration Support (FEHB, FERS)", "MCP Tool: Workforce Planning & Analytics Dashboard", "MCP Tool: Federal Hiring Process Management & Analysis (USAJOBS data)", "MCP Tool: Performance Management System Guidance Tool", "MCP Tool: Security Clearance Adjudication Support (Background Checks)", "MCP Tool: Federal HR Policy Development & Dissemination", "MCP Tool: Retirement Eligibility Calculation & Processing Aid"
+          ] // No new trade-specific tools added
+        },
+        // ... (OSC mission is domestic federal employee protection) ...
+        {
+          "agencyName": "Office of Special Counsel",
+          "agencyLabel": "OSC",
+          "agencyMission": "Investigates whistleblower disclosures and protects federal employees from prohibited personnel practices. (Mission domestic).",
+          "relevantAgents": [
+            "legal-agent", "human-resources-agent", "ethics-compliance-agent", "investigation-agent"
+          ],
+          "requiredMCPTools": [
+            "MCP Tool: Whistleblower Disclosure Intake & Assessment", "MCP Tool: Prohibited Personnel Practice (PPP) Investigation Management", "MCP Tool: Hatch Act Compliance Investigation Tool", "MCP Tool: Retaliation Claim Analysis Support", "MCP Tool: Corrective Action & Disciplinary Action Recommendation Aid", "MCP Tool: Case Litigation Support (MSPB/Courts)", "MCP Tool: Safe Channel Communication Platform", "MCP Tool: USERRA Compliance Investigation Tool"
+          ] // No new trade-specific tools added
+        },
+        // ... (Peace Corps mission involves international placement but less focus on dynamic trade deals) ...
+        {
+          "agencyName": "Peace Corps",
+          "agencyLabel": "PeaceCorps",
+          "agencyMission": "Uses data-driven strategies to match volunteers to global development projects, fostering cross-cultural exchange and support. (Focus on development/exchange, not dynamic trade deals).",
+          "relevantAgents": [
+            "international-relations-agent", "project-management-agent", "education-agent", "health-services-agent", "agriculture-agent", "community-development-agent", "administrative-services-agent", "security-services-agent"
+          ],
+          "requiredMCPTools": [
+            "MCP Tool: Volunteer Application Processing & Skill Matching", "MCP Tool: Host Country Project Needs Assessment", "MCP Tool: Volunteer Training Curriculum Management", "MCP Tool: In-Country Project Monitoring & Support Tool", "MCP Tool: Volunteer Health & Safety Incident Management", "MCP Tool: Cross-Cultural Adaptation Resource Library", "MCP Tool: Program Evaluation & Impact Assessment", "MCP Tool: Emergency Evacuation Planning & Coordination Aid"
+          ] // No major new trade-specific tools added
+        },
+        // ... (PBGC mission is domestic pension insurance) ...
+        {
+          "agencyName": "Pension Benefit Guaranty Corporation",
+          "agencyLabel": "PBGC",
+          "agencyMission": "Protects the retirement incomes of American workers by insuring defined-benefit pension plans nationwide. (Mission domestic).",
+          "relevantAgents": [
+            "financial-agent", "insurance-agent", "legal-agent", "regulatory-compliance-agent", "data-science-agent"
+          ],
+          "requiredMCPTools": [
+            "MCP Tool: Pension Plan Funding Level Monitoring & Analysis", "MCP Tool: Premium Calculation & Collection Tool", "MCP Tool: Plan Termination Processing & Trusteeship Management", "MCP Tool: Benefit Calculation & Payment System (Insured Plans)", "MCP Tool: Actuarial Valuation & Liability Estimation", "MCP Tool: Investment Portfolio Management Support (Trust Funds)", "MCP Tool: Early Warning Program Risk Identification", "MCP Tool: ERISA Compliance Audit Aid"
+          ] // No new trade-specific tools added
+        },
+        // ... (RRB mission is domestic railroad benefits) ...
+        {
+          "agencyName": "Railroad Retirement Board",
+          "agencyLabel": "RRB",
+          "agencyMission": "Administers retirement, survivor, and unemployment-sickness benefit programs for railroad workers and their families. (Mission domestic).",
+          "relevantAgents": [
+            "financial-agent", "insurance-agent", "human-resources-agent", "legal-agent", "administrative-services-agent"
+          ],
+          "requiredMCPTools": [
+            "MCP Tool: Railroad Retirement Benefit Eligibility & Calculation", "MCP Tool: Survivor Benefit Application Processing", "MCP Tool: Railroad Unemployment & Sickness Insurance Claims Processing", "MCP Tool: Earnings Record Management (Railroad Service)", "MCP Tool: Trust Fund Financial Status Monitoring", "MCP Tool: Coordination with Social Security Administration Tool", "MCP Tool: Fraud Detection (Benefit Claims)", "MCP Tool: Customer Service & Inquiry Response Support"
+          ] // No new trade-specific tools added
+        },
+        {
+          "agencyName": "Securities and Exchange Commission",
+          "agencyLabel": "SEC",
+          "agencyMission": "Monitors financial markets, combats fraud, ensures transparency, protects investors, and potentially regulates markets for tradable Import Certificates or related trade derivatives using AI-driven surveillance.",
+          "relevantAgents": [
+            "financial-agent",
+            "legal-agent",
+            "regulatory-compliance-agent",
+            "data-science-agent",
+            "auditing-agent",
+            "cybersecurity-agent",
+            "economics-agent",
+            "international-trade-agent" // Added for potential IC market context
+          ],
+          "requiredMCPTools": [
+            // Existing tools
+            "MCP Tool: Corporate Filing Analysis (EDGAR Database Query/Analytics)",
+            "MCP Tool: Insider Trading Detection Algorithm",
+            "MCP Tool: Market Manipulation Surveillance Tool",
+            "MCP Tool: Broker-Dealer & Investment Adviser Examination Support",
+            "MCP Tool: Securities Offering Registration Review Aid",
+            "MCP Tool: Enforcement Investigation & Litigation Support",
+            "MCP Tool: Whistleblower Tip Processing & Analysis",
+            "MCP Tool: Market Structure Data Analysis (e.g., NBBO, Order Flow)",
+            // New Moneyball-related tool
+            "MCP Tool: Import Certificate Market Oversight Engine" // Potential new role
+          ]
+        },
+        // ... (SSB mission is domestic draft readiness) ...
+        {
+          "agencyName": "Selective Service Board",
+          "agencyLabel": "SSB",
+          "agencyMission": "Manages draft registration to ensure preparedness for national defense, leveraging advanced data to maintain readiness. (Mission domestic).",
+          "relevantAgents": [
+            "administrative-services-agent", "data-science-agent", "regulatory-compliance-agent", "legal-agent", "military-defense-agent"
+          ],
+          "requiredMCPTools": [
+            "MCP Tool: Draft Registration Database Management & Verification", "MCP Tool: Compliance Monitoring & Enforcement Support", "MCP Tool: Mobilization Readiness Simulation Tool", "MCP Tool: Conscientious Objector Claim Processing Aid", "MCP Tool: Lottery System Generation & Execution (if needed)", "MCP Tool: Public Awareness Campaign Support Tool", "MCP Tool: Interagency Coordination Protocol (DOD, DOJ)", "MCP Tool: Data Security & Privacy Compliance Check"
+          ] // No new trade-specific tools added
+        },
+        {
+          "agencyName": "Small Business Administration",
+          "agencyLabel": "SBA",
+          "agencyMission": "Supports small businesses through loans, counseling, and contracting assistance, potentially using AI to help businesses navigate dynamic trade rules, access export financing aligned with 'Trade WAR' metrics, and leverage Import Certificates.",
+          "relevantAgents": [
+            "financial-agent",
+            "business-services-agent",
+            "legal-agent",
+            "marketing-agent",
+            "regulatory-compliance-agent",
+            "disaster-recovery-agent",
+            "non-profit-organizations-agent",
+            "international-trade-agent" // Enhanced role
+          ],
+          "requiredMCPTools": [
+            // Existing tools adapted
+            "MCP Tool: SBA Loan Program Eligibility & Underwriting Tool (Incl. Export Focus)",
+            "MCP Tool: Disaster Loan Application Processing",
+            "MCP Tool: Small Business Counseling Resource Matching (Incl. Trade Nav.)",
+            "MCP Tool: Government Contracting Certification Support",
+            "MCP Tool: Surety Bond Guarantee Application Review",
+            "MCP Tool: Small Business Innovation Research (SBIR/STTR) Grant Support",
+            // New Moneyball-related tools
+            "MCP Tool: Small Business Export Opportunity Finder (Undervalued Markets)",
+            "MCP Tool: Import Certificate Guidance Tool for SMEs"
+          ]
+        },
+        // ... (SSA mission is domestic social insurance) ...
+        {
+          "agencyName": "Social Security Administration",
+          "agencyLabel": "SSA",
+          "agencyMission": "Utilizes data-driven insights and advanced automation to efficiently administer retirement, disability, and survivors' benefits. (Mission domestic).",
+          "relevantAgents": [
+            "administrative-services-agent", "financial-agent", "legal-agent", "healthcare-agent", "data-science-agent", "customer-service-agent", "cybersecurity-agent"
+          ],
+          "requiredMCPTools": [
+            "MCP Tool: Social Security Benefit Eligibility Determination & Calculation", "MCP Tool: Disability Claim Processing & Medical Evidence Review Aid (SSDI/SSI)", "MCP Tool: Earnings Record Management & Correction Tool", "MCP Tool: Overpayment Detection & Recovery Support", "MCP Tool: Appeals Process Case Management", "MCP Tool: Fraud Prevention & Detection Analytics", "MCP Tool: Customer Service Inquiry Resolution Support (mySSA)", "MCP Tool: Actuarial Analysis Support (Trust Fund Projections)"
+          ] // No new trade-specific tools added
+        },
+        // ... (SSAB mission is domestic SSA policy advice) ...
+        {
+          "agencyName": "Social Security Advisory Board",
+          "agencyLabel": "SSAB",
+          "agencyMission": "Advises the President and Congress on Social Security policy, providing data-driven insights for program improvements. (Mission domestic policy).",
+          "relevantAgents": [
+            "economics-agent", "financial-agent", "public-policy-agent", "research-services-agent", "data-science-agent", "legal-agent"
+          ],
+          "requiredMCPTools": [
+            "MCP Tool: Social Security Policy Simulation & Impact Modeling", "MCP Tool: Demographic & Economic Trend Analysis (Impact on SSA)", "MCP Tool: Long-Range Solvency Projection Analysis", "MCP Tool: Comparative Analysis of International Social Insurance Systems", "MCP Tool: Public Opinion & Stakeholder Feedback Analysis", "MCP Tool: SSA Program Performance Evaluation Tool", "MCP Tool: Legislative Proposal Analysis & Recommendation Drafting", "MCP Tool: Research Synthesis & Report Generation"
+          ] // No new trade-specific tools added
+        },
+        // ... (TVA mission is regional power/environment) ...
+        {
+          "agencyName": "Tennessee Valley Authority",
+          "agencyLabel": "TVA",
+          "agencyMission": "Provides electricity, manages river system, and promotes economic development in the Tennessee Valley. (Mission regional, indirect trade impact via energy costs).",
+          "relevantAgents": [
+            "energy-services-agent", "engineering-services-agent", "environmental-agent", "hydrology-agent", "financial-agent", "project-management-agent", "regulatory-compliance-agent", "economics-agent"
+          ],
+          "requiredMCPTools": [
+            "MCP Tool: Power Generation Optimization & Dispatch Scheduling", "MCP Tool: Transmission Grid Load Flow Analysis & Monitoring", "MCP Tool: Reservoir System Management & Flood Control Simulation", "MCP Tool: Environmental Compliance Monitoring (Air, Water)", "MCP Tool: Energy Demand Forecasting Tool", "MCP Tool: Infrastructure Maintenance Planning & Prioritization", "MCP Tool: Regional Economic Development Impact Analysis", "MCP Tool: Rate Setting Analysis Support"
+          ] // No major new trade-specific tools added
+        },
+        {
+          "agencyName": "U.S. Agency for International Development",
+          "agencyLabel": "USAID",
+          "agencyMission": "Drives global development efforts, potentially aligning programs with dynamic micro-trade deal objectives, using AI to measure contributions to 'Trade WAR' scores, and fostering conditions for balanced trade partnerships.",
+          "relevantAgents": [
+            "international-relations-agent",
+            "sustainable-development-agent",
+            "project-management-agent",
+            "financial-agent",
+            "public-health-agent",
+            "education-agent",
+            "agriculture-agent",
+            "democracy-governance-agent",
+            "logistics-agent",
+            "research-services-agent",
+            "international-trade-agent", // Enhanced role
+            "data-science-agent" // Added for metrics
+          ],
+          "requiredMCPTools": [
+            // Existing tools adapted
+            "MCP Tool: Development Project Design & Appraisal (Aligned w/ Trade Goals)",
+            "MCP Tool: Foreign Assistance Budget Allocation & Tracking (By Trade Impact)",
+            "MCP Tool: Monitoring & Evaluation Framework Tool (Incl. Trade WAR Metrics)",
+            "MCP Tool: Humanitarian Aid Needs Assessment & Logistics Planning",
+            "MCP Tool: Democracy & Governance Program Assessment (Stability for Trade)",
+            "MCP Tool: Global Health Intervention Analysis",
+            "MCP Tool: Economic Growth Strategy Simulation (Balanced Trade Focus)",
+            "MCP Tool: Grant & Contract Management System (Smart Contract Ready)",
+            // New Moneyball-related tool
+            "MCP Tool: Development Aid Trade Impact Analyzer"
+          ]
+        },
+        // ... (CCR mission primarily domestic civil rights) ...
+        {
+          "agencyName": "United States Commission on Civil Rights",
+          "agencyLabel": "CCR",
+          "agencyMission": "Utilizes advanced analytics to investigate discrimination complaints and promote equal protection under the law. (Mission domestic).",
+          "relevantAgents": [
+            "legal-agent", "regulatory-compliance-agent", "data-science-agent", "social-science-research-agent", "human-resources-agent", "education-agent"
+          ],
+          "requiredMCPTools": [
+            "MCP Tool: Civil Rights Complaint Investigation Support", "MCP Tool: Statistical Analysis of Discrimination Data", "MCP Tool: Federal Civil Rights Enforcement Monitoring Tool", "MCP Tool: Public Hearing Planning & Testimony Analysis", "MCP Tool: Civil Rights Policy Analysis & Report Generation", "MCP Tool: Legal Research (Civil Rights Law & Precedent)", "MCP Tool: State Advisory Committee Coordination Tool", "MCP Tool: Information Dissemination & Outreach Support"
+          ] // No new trade-specific tools added
+        },
+        {
+          "agencyName": "United States International Trade Commission",
+          "agencyLabel": "USITC",
+          "agencyMission": "Provides objective trade expertise, potentially shifting from static injury analysis to monitoring real-time micro-deal performance, analyzing NTBs, calculating inputs for dynamic adjustments, and adjudicating disputes within the new framework.",
+          "relevantAgents": [
+            "international-trade-agent",
+            "economics-agent",
+            "legal-agent",
+            "regulatory-compliance-agent",
+            "data-science-agent",
+            "research-services-agent",
+            "supply-chain-agent" // Added for NTB analysis
+          ],
+          "requiredMCPTools": [
+            // Existing tools adapted for dynamic context
+            "MCP Tool: Real-Time Trade Flow & Impact Monitor (Micro-Deals)",
+            "MCP Tool: Dynamic Injury & Compliance Analyzer (AD/CVD Context)",
+            "MCP Tool: Non-Tariff Barrier (NTB) Quantification Engine",
+            "MCP Tool: Harmonized Tariff Schedule (HTS) Dynamic Rate Linker",
+            "MCP Tool: Intellectual Property Rights Compliance Monitor (Trade Deals)",
+            "MCP Tool: Trade Data Analysis & Visualization (Real-Time Dashboard Feed)",
+            "MCP Tool: Economic Impact Assessment (Input to Trade WAR Score)",
+            "MCP Tool: Trade Dispute Adjudication Support (Smart Contract Context)"
+          ]
+        },
+        // ... (USPS mission primarily domestic mail, indirect trade impact) ...
+        {
+          "agencyName": "United States Postal Service",
+          "agencyLabel": "USPS",
+          "agencyMission": "Leverages data analytics to improve mail delivery, optimize logistics, and enhance customer service nationwide. (Mission domestic, affected by international mail volume/costs from trade).",
+          "relevantAgents": [
+            "logistics-agent", "supply-chain-agent", "transportation-agent", "data-science-agent", "operations-management-agent", "customer-service-agent", "financial-agent", "administrative-services-agent"
+          ],
+          "requiredMCPTools": [
+            "MCP Tool: Mail Processing & Sorting Optimization", "MCP Tool: Delivery Route Planning & Optimization", "MCP Tool: Network Logistics Simulation & Analysis (Incl. Int'l Mail)", "MCP Tool: Real-Time Package Tracking & Analytics", "MCP Tool: Customer Service Channel Performance Analysis", "MCP Tool: Retail Operations Efficiency Tool", "MCP Tool: Predictive Maintenance Scheduling (Vehicles, Equipment)", "MCP Tool: International Mail Cost & Revenue Analyzer"
+          ] // Minor adaptation possible
+        },
+        {
+          "agencyName": "United States Trade and Development Agency",
+          "agencyLabel": "USTDA",
+          "agencyMission": "Advances economic growth in developing countries by funding project preparation aligned with US 'Moneyball' trade strategy, using AI to identify high 'Trade WAR' potential infrastructure projects and fostering partnerships that create strategic U.S. export opportunities.",
+          "relevantAgents": [
+            "international-trade-agent",
+            "engineering-services-agent",
+            "financial-agent",
+            "project-management-agent",
+            "sustainable-development-agent",
+            "energy-services-agent",
+            "telecommunications-agent",
+            "economics-agent" // Added for WAR score linkage
+          ],
+          "requiredMCPTools": [
+            // Existing tools adapted
+            "MCP Tool: Project Feasibility Grant Evaluator (Prioritized by Trade WAR)",
+            "MCP Tool: Technical Assistance Program Design Tool (Strategic Alignment)",
+            "MCP Tool: Reverse Trade Mission Planning & Management (Targeted Opps)",
+            "MCP Tool: U.S. Export Opportunity Identification (Undervalued Sectors)",
+            "MCP Tool: Infrastructure Project Risk Assessment (Dynamic Context)",
+            "MCP Tool: Partnership Matching (US Firms & Strategic Foreign Projects)",
+            "MCP Tool: Project Development Lifecycle Tracking (Trade Impact Focus)",
+            // New Moneyball-related tool
+            "MCP Tool: Trade WAR Score Potential Estimator (USTDA Projects)"
+          ]
+        }
+      ]
+    }
+  ]
+}

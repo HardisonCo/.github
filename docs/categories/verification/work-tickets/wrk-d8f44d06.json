@@ -1,0 +1,42 @@
+{
+  "id": "WRK-d8f44d06",
+  "component": "HMS-MCP",
+  "issue_id": "a70f844b-d047-48e8-87a7-b9fa57a6588b",
+  "issue_type": "test_failure",
+  "created_at": "2025-05-01T12:24:06.716613",
+  "updated_at": "2025-05-01T12:24:06.716613",
+  "assigned_to": "HMS-AGT-MCP",
+  "status": "open",
+  "priority": "medium",
+  "details": {
+    "component": "HMS-MCP",
+    "issue": {
+      "id": "a70f844b-d047-48e8-87a7-b9fa57a6588b",
+      "type": "test_failure",
+      "component": "HMS-MCP",
+      "timestamp": "2025-05-01T12:24:06.716589",
+      "details": {
+        "results": {
+          "passed": 49,
+          "failed": 3,
+          "skipped": 4,
+          "duration": 3.999619280446257,
+          "failure_details": [
+            "Test failure in hms-mcp/tests/test_api.py",
+            "Test failure in hms-mcp/tests/test_api.py",
+            "Test failure in hms-mcp/tests/test_core.py"
+          ]
+        }
+      },
+      "status": "open"
+    },
+    "description": "Tests for HMS-MCP are failing (3/56 tests failed). This may indicate issues with recent changes or integration problems.",
+    "suggested_actions": [
+      "Review failing tests for HMS-MCP",
+      "Check for recent code changes that might have broken tests",
+      "Verify test environment and fixtures",
+      "Check for integration issues with dependent components",
+      "Run tests with verbose output to diagnose specific failures"
+    ]
+  }
+}

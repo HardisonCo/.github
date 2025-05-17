@@ -1,0 +1,9 @@
+# HMS-SME for NASA
+
+## Description
+
+Subject Matter Expertise
+
+## Integration Points
+
+This document outlines how HMS-SME is integrated with NASA systems.
